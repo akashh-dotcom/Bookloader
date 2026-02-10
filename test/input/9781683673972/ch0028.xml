@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0028" label="28">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor3">CASE 25</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0028s0004"><title>CASE 25</title><para>The patient was a female in her 80s residing in a long-term care facility (LTCF) with pulmonary hypertension requiring chronic oxygen by nasal cannula. She was admitted to the hospital with worsening shortness of breath, dyspnea on exertion, and chest pain. A chest radiograph was consistent with a right middle lobe pneumonia. A Gram stain of an expectorated sputum is seen in <link linkend="ch0028s0004fg01">Fig. 25.1</link>. Because her vital signs were normal and her pulmonary findings and oxygenation were improving, she was discharged from the hospital after 48 hours to complete a 14-day course of oral levofloxacin, 500 mg daily, at her LTCF.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0028s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  Based on her chest radiograph and Gram stain of expectorated sputum, what is the most likely etiology of her infection?</para>
+        </listitem>
+        <listitem id="ch0028s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  Were the choice and length of her antimicrobial therapy appropriate from an antimicrobial stewardship perspective?</para>
+        </listitem>
+        <listitem id="ch0028s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  Because this person was admitted from a LTCF, for what viral pathogen(s) should she have been tested? Explain your answer.</para>
+        </listitem>
+      </itemizedlist>
+      <para>Three weeks later, the patient had the onset of loose, watery stools, which increased in frequency to &gt;10 times/day. She developed fecal incontinence and had to wear an adult diaper. She also had generalized weakness, diffuse abdominal pain, inability to walk, and inability to eat, with several episodes of nausea and vomiting. On readmission to the hospital, approximately 3 weeks into her diarrheal disease course, she exhibited fever, chills, malaise, myalgias, and dizziness. She had a 5-lb weight loss since her prior admission. She continued to have shortness of breath but no cough. Physical examination was significant for a pulse of 120 beats/minute, respiratory rate of 24/minute, and blood pressure of 82/45 mm Hg. On examination, her abdomen was soft, diffusely tender, and mildly distended with no rebound or guarding. She had decreased bowel sounds. Her stool was negative for occult blood. Laboratory data were significant for a white blood cell (WBC) count of 29,000/μl. A stool specimen was sent to the microbiology laboratory for <emphasis>Clostridioides difficile</emphasis> testing.</para>
+      <figure id="ch0028s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 25.1</emphasis></emphasis> Sputum Gram stain. Magnification, ×1,000. Courtesy of Sixto M. Leal. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0028f05.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A microscopic photograph showing clusters of pink-stained cells with numerous small black bacterial or cell granules scattered throughout a light background.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0028s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  What risk factors did this patient have for <emphasis>C. difficile</emphasis> infection? Briefly describe how they contributed to the disease process in this patient.</para>
+        </listitem>
+      </itemizedlist>
+      <para>The result of the patient’s <emphasis>C. difficile</emphasis> test is seen in <link linkend="ch0028s0004fg02">Fig. 25.2</link>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0028s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  How do you interpret the <emphasis>C. difficile</emphasis> test result?</para>
+        </listitem>
+        <listitem id="ch0028s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  If the patient’s test result is positive for antigen (Ag) but negative for toxin (Tox), what additional testing should be done?</para>
+        </listitem>
+        <listitem id="ch0028s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  What therapeutic intervention would you recommend?</para>
+        </listitem>
+        <listitem id="ch0028s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  Approximately what percentage of patients have a recurrence of <emphasis>C. difficile</emphasis> infection at the conclusion of appropriate antimicrobial therapy? Why is recurrence more common in patients over 65 years of age? What alternative therapy has been found to be effective in treating these recurrences?</para>
+        </listitem>
+        <listitem id="ch0028s0004x09" role="qus1">
+          <para><phrase><emphasis role="strong">9</emphasis></phrase>.  Outbreaks of <emphasis>C. difficile</emphasis> infections are well described in both hospitals and LTCFs. What characteristic does this organism have that allows it to be easily spread in these settings? What can be done to prevent its spread?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Over the next 4 hospital days the patient’s peripheral WBC count progressively increased from 29,000/μl to 127,000/μl. An abdominal radiograph showed grossly dilated loops of bowel. Abdominal computed tomography revealed colonic wall thickening consistent with pancolitis. She had increasing abdominal girth and decreased bowel sounds. She was judged to be a poor surgical candidate. On the 4th hospital day the patient expired. Although an autopsy was not done on this patient,<link linkend="ch0028s0004fg04">Fig. 25.3</link> and <link linkend="ch0028s0004fg04">Fig. 25.4</link> would be consistent with the patient’s disease course. </para>
+      <figure id="ch0028s0004fg02"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 25.2</emphasis></emphasis> A <emphasis>C. difficile</emphasis> combination test that detects both glutamate dehydrogenase antigen and toxin. From author’s personal collection. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0028f06.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A rectangular chemical test device labeled C. DIFF COMPLETE with a circular control window and the words Ag and Tox indicating testing parameters, featuring a central vertical blue stripe and a small round window in the top right corner.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0028s0004fg03"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 25.3</emphasis></emphasis> Gross pathology of colon. From author’s personal collection. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0028f07.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A closer view of a section of a bacon strip with visible fat and meat.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0028s0004x10" role="qus2">
+          <para><phrase><emphasis role="strong">10</emphasis></phrase>.  Based on the clinical history and radiographic and pathologic findings, what disease process was ongoing in this patient? Describe the lesions that you see in <link linkend="ch0028s0004fg04">Fig. 25.3</link> and <link linkend="ch0028s0004fg04">Fig. 25.4</link> especially microscopically. What are the lesions called?</para>
+        </listitem>
+        <listitem id="ch0028s0004x11" role="qus2">
+          <para><phrase><emphasis role="strong">11</emphasis></phrase>.  Why do you think the surgical team judged her to be a poor candidate?</para>
+        </listitem>
+        <listitem id="ch0028s0004x12" role="qus2">
+          <para><phrase><emphasis role="strong">12</emphasis></phrase>.  Was the ultimate outcome surprising? Explain.</para>
+        </listitem>
+      </itemizedlist>
+      <figure id="ch0028s0004fg04"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 25.4</emphasis></emphasis> Microscopic view of colonic tissue pathology. Image courtesy of Ed Uthman, under license CC BY 2.0 DEED. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0028f04.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A histological section of tissue stained with hematoxylin and eosin showing layered structures, glandular formations, and varying cell densities in shades of pink and purple.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      </sect1><sect1 id="ch0028s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  The Gram stain shows polymorphonuclear WBCs consistent with acute inflammation and Gram-positive cocci in pairs with clear areas surrounding many of the cocci. Those clear areas are consistent with polysaccharide capsule, which does not take up either stain used in the Gram stain. The most common encapsulated Gram-positive coccus causing pneumonia is <emphasis>Streptococcus pneumoniae</emphasis>. The typical radiographic finding in patients with <emphasis>S. pneumoniae</emphasis> pneumonia is the presence of infiltrates in a single lobe or lobar pneumonia. Given the Gram stain and chest radiograph finding, the patient is likely to have pneumococcal pneumonia.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  The 2019 American Thoracic Society clinical practice guidelines recommend oral levofloxacin in mild cases of community-acquired pneumonia (CAP) in people with chronic lung disease <link linkend="ch0028s0002bib01">(1)</link>. Patients with comorbidities should receive broader-spectrum treatment due to an increased risk of being infected with drug-resistant organisms due to previous contact with the health care system including hospitals and LTCFs, and antibiotic exposure. In this particular care, levofloxacin is recommended because of concern that people with chronic lung disease are more likely to have been treated with antimicrobial agents previously and thus are more likely to be infected with organisms resistant to more narrow-spectrum orally administered antimicrobials such as amoxicillin and azithromycin, so the choice of antimicrobial agent, levofloxacin, was appropriate. The current length of therapy recommended for CAP is 5 days using a daily dose of 750 mg. There are caveats to the duration of therapy based on the patient’s clinical response, but the patient’s extended course of 14 days was not consistent with current recommendations. The goal of antimicrobial stewardship programs is to make sure that the patient is getting the right antimicrobial at the right dose for the right amount of time <link linkend="ch0028s0002bib02">(2)</link>. The desired outcomes of these programs are better clinical outcomes; better use of resources (antimicrobial expense is a significant portion of any health care system’s pharmaceutical budget); reduction of antimicrobial resistance; and reduction of adverse events associated with antimicrobial administration, especially <emphasis>C. difficile</emphasis> infection.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  During a traditional “respiratory” season (roughly November through March in the industrialized Northern Hemisphere), testing for influenza viruses is recommended, especially in those with chronic lung disease <link linkend="ch0028s0002bib01">(1)</link>. Because outbreaks of severe acute respiratory syndrome coronavirus 2 have been associated with LTCFs and the virus is associated with high morbidity and mortality, testing for it may also be important, depending on current epidemiology <link linkend="ch0028s0002bib03">(3)</link>.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>   The patient had the following risk factors:</para>
+        <orderedlist id="ch0028s0001l01" role="lower-roman">
+          <listitem id="ch0028s0001x13">
+            <para><emphasis role="strong">Antimicrobials either currently or in the past 4 to 8 weeks.</emphasis> <emphasis>C. difficile</emphasis> infection has a strong association with prior antimicrobial therapy. There is abundant evidence that alterations in the colonic microbiome caused by antimicrobial therapy allow a permissive environment for <emphasis>C. difficile</emphasis> growth and toxin production <link linkend="ch0028s0002bib04">(4)</link>. <emphasis>C. difficile</emphasis> produces two toxins, A and B, which are responsible for the pathology produced by this organism. Antimicrobials that have good activity against anaerobic bacteria, such as clindamycin, third- and fourth-generation cephalosporins, and fluoroquinolones, are more likely to be associated with <emphasis>C. difficile</emphasis> infections. The prolonged 14-day levofloxacin course rather than the American Thoracic Society-recommended 5-day course for CAP may have contributed to her development of C. difficile infection <link linkend="ch0028s0002bib01">(1)</link>.</para>
+          </listitem>
+          <listitem id="ch0028s0001x14">
+            <para><emphasis role="strong">Age &gt;65 years.</emphasis> Waning immunity, greater likelihood of antimicrobial exposure, hospital admission, and changes in the gut microbiome all may contribute to people over 65 being at increased risk for <emphasis>C. difficile</emphasis> infection.</para>
+          </listitem>
+          <listitem id="ch0028s0001x15">
+            <para><emphasis role="strong">Recent hospitalization.</emphasis> <emphasis>C. difficile</emphasis> is the most commonly reported health care-associated pathogen in the United States <link linkend="ch0028s0002bib05">(5)</link>.</para>
+          </listitem>
+          <listitem id="ch0028s0001x16">
+            <para><emphasis role="strong">Living in a LTCF.</emphasis> A recent study showed that individuals living in a LTCF were seven times more likely to have a <emphasis>C. difficile</emphasis> infection than those living in the community <link linkend="ch0028s0002bib06">(6)</link>. The LTCF patients who developed <emphasis>C. difficile</emphasis> infection lived in the facility for a longer period of time than those who were not infected.</para>
+          </listitem>
+        </orderedlist>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  The patient’s stool was positive for toxigenic <emphasis>C. difficile</emphasis>. The presence of the organism was detected by a rapid immunochromatographic test, which uses antibodies specific for the two analytes, Ag and Tox. The Ag analyte is glutamate dehydrogenase (GDH), a cell wall antigen that is produced abundantly by the organism. The Tox analyte is <emphasis>C. difficile</emphasis> toxins A and B. The test may detect the presence of both or one of the toxins. When both analytes are positive, the patient is considered to have <emphasis>C. difficile</emphasis> infection. Most strains of <emphasis>C. difficile</emphasis> produce both toxins; however, mutations in the area of the genome that encodes the two toxin genes may result in strains that produce only toxin A or neither toxin. Strains that do not produce either toxin are not pathogenic, since toxin activity is central to the pathogenicity of the organism. Then why are both analytes used; why not only test for toxin? The reason is that small amounts of toxins can cause disease but may be too low to detect using this method. Inclusion of the GDH antigen increases sensitivity for the presence of the organism, enabling the performance of molecular testing to determine if toxin genes are in the sample.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  The Infectious Diseases Society of America (IDSA) recommends that a nucleic acid amplification test (NAAT) for <emphasis>C. difficile</emphasis> toxin gene(s) be done in the setting of a positive GDH but negative toxin test <link linkend="ch0028s0002bib07">(7)</link>. Why not use the <emphasis>C. difficile</emphasis> NAAT as a stand-alone test? In fact, some laboratories do a stand-alone <emphasis><emphasis><emphasis><emphasis><emphasis><emphasis>C. difficile</emphasis></emphasis></emphasis></emphasis></emphasis></emphasis> NAAT <link linkend="ch0028s0002bib08">(8)</link>. There is little disagreement that <emphasis>C. difficile</emphasis> NAATs are highly sensitive <link linkend="ch0028s0002bib09">(9)</link>. The area of disagreement is that false positives may occur with <emphasis>C. difficile</emphasis> NAATs because actively growing organisms, although necessary for disease, are not necessary for a positive NAAT. In addition, it is known that patients can carry <emphasis>C. difficile</emphasis> asymptomatically and these asymptomatic patients can have a positive <emphasis>C. difficile</emphasis> NAAT. The combination of GDH and <emphasis>C. difficile</emphasis> NAAT tests supports the idea that an actively growing organism is present (GDH-positive component) and that the organism is a toxin producer [NAAT detection of toxin gene(s)]. The algorithmic approach of a GDH toxin antigen test with a toxin gene NAAT to resolve the GDH-positive/toxin-negative results is used because it is significantly cheaper than a NAAT-only approach <link linkend="ch0028s0002bib10">(10)</link>. However, if preanalytical approaches are used to ensure that testing is being performed on patients who have clinical course consistent with <emphasis>C. difficile</emphasis> (diarrhea, no laxative use, fever, and increased WBC count), the use of NAAT as a stand-alone diagnostic tool is sufficient and possibly more practical than an algorithmic approach <link linkend="ch0028s0002bib08">(8)</link>.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  Based on the 2021 IDSA Focused Update Guidelines on management for <emphasis><emphasis><emphasis><emphasis><emphasis><emphasis>C. difficile</emphasis></emphasis></emphasis></emphasis></emphasis></emphasis> infection in adults, oral vancomycin is an acceptable treatment for this infection, having very low systemic absorption and acting primarily within the gastrointestinal lumen <link linkend="ch0028s0002bib07">(7)</link>. However, fidaxomicin is now the recommended treatment of choice for <emphasis>C. difficile</emphasis> infection. The major reason is that <emphasis>C. difficile</emphasis> recurrences are less likely with fidaxocmicin.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  <emphasis>C. difficile</emphasis> recurs in approximately 20% of hospitalized patients <link linkend="ch0028s0002bib11">(11)</link>. Recurrences are most common in patients over 65 because they are less likely to make neutralizing antibodies to <emphasis><emphasis><emphasis><emphasis><emphasis><emphasis>C. difficile</emphasis></emphasis></emphasis></emphasis></emphasis></emphasis> toxins postinfection, have microbiota that are more susceptible to C. difficile, and tend to be hospitalized or in congregant living settings where acquisition of <emphasis>C. difficile</emphasis> infection is more common <link linkend="ch0028s0002bib12">(12)</link>.</para>
+        <para>Beyond antimicrobial therapy, including antimicrobial tapers, a monoclonal antibody against <emphasis>C. difficile</emphasis> toxin B, bezlotoxumab, is recommended as a co-intervention for treating recurrent <emphasis>C. difficile</emphasis> infections <link linkend="ch0028s0002bib07">(7)</link>. Bezlotoxumab acts by blocking the activity of <emphasis>C. difficile</emphasis> toxin B, a key virulence factor in the pathogenesis of this disease. It has a prolonged half-life of 18 days, with measurable levels up to 3 months postinfusion <link linkend="ch0028s0002bib07">(7)</link>.</para>
+        <para>One of the challenges in treating <emphasis>C. difficile</emphasis> recurrences is that both fidaxomicin and vancomycin, the treatments of choice for <emphasis>C. difficile</emphasis> recurrences, are active against the vegetative cells but not the spores of <emphasis>C. difficile</emphasis>. At the conclusion of antimicrobial therapy, C. difficile spores may still be present in the colon of the patient. The colonic microbiota may lack organisms that protect from <emphasis>C. difficile</emphasis> infection by metabolizing primary bile salts to secondary ones. These secondary bile salts inhibit the growth of <emphasis>C. difficile</emphasis>. Eliminating microbes that metabolize the primary bile salts from the colonic microbiota results in a condition known as dysbiosis. Recurrence of <emphasis>C. difficile</emphasis> infection is likely due to presence of <emphasis>C. difficile</emphasis> spores either in the gut or obtained from the individual’s environment. An idea that has found favor is to reconstitute the protective colonic flora as a means of preventing further recurrence of <emphasis>C. difficile</emphasis>.</para>
+        <para>The initial approach to do so involved fecal microbiota transplants using donor stools introduced into the gut either by nasogastric tubes or colonoscopy<link linkend="ch0028s0002bib13">(13)</link>. This approach, although successful, was not standardized, and the safety of the technique was questioned. Because of these concerns, it remained an investigational tool not widely available. The development of a novel FDA-approved therapeutic that delivers a variety of bacteria by oral capsule able to repopulate the gut is highly effective in treating <emphasis>C. difficile</emphasis> recurrences <link linkend="ch0028s0002bib13">(13, 14</link>).</para>
+        <para role="ans1"><emphasis role="strong">9.</emphasis>  <emphasis>C. difficile</emphasis> is a spore-forming bacterium. Spores are structures that do not actively reproduce but remain dormant and viable for months to years. Under proper environmental conditions, spores can “vegetate” into bacterial forms that can reproduce, multiply, and synthesize toxins. Key strategies for containing the spread of the bacteria are wearing disposable gowns and gloves when entering the room of infected individuals and removing them on departing, as well as handwashing with soap and water since spores are resistant to alcohol, the antimicrobial component of most hand disinfectants <link linkend="ch0028s0002bib15">(15)</link>. In addition, spores are frequently found in “high-touch” areas in infected patients’ rooms, especially on bedrails, over-bed tables, sinks, and commodes <link linkend="ch0028s0002bib11">(11)</link>. Terminal cleaning of rooms on discharge of infected patients should be done with a 10% bleach solution. A recent study showed that the combination of terminal cleaning with a 10% bleach solution with a UV light device used to inactivate spores improved the effectiveness of room decontamination of <emphasis>C. difficile</emphasis> <link linkend="ch0028s0002bib15">(15)</link>.</para>
+        <para role="ans1"><emphasis role="strong">10.</emphasis>  The patient had the most severe manifestation of <emphasis>C. difficile</emphasis> infection, pseudomembranous colitis with toxic megacolon. <emphasis>C. difficile</emphasis> toxins A/B induce cytotoxicity in intestinal epithelial cells, resulting in loss of barrier function, ulceration, and severe inflammation (<link linkend="ch0028s0004fg04">Fig. 25.4</link>). The yellowish plaque-like lesions seen grossly on the colon (<link linkend="ch0028s0004fg04">Fig. 25.3</link>) are called pseudomembranes. Microscopically, they resemble mushroom-like lesions composed of fibrinous clot-like material, necrotic debris, polymorphonuclear leukocytes, and bacteria overlying ulcerated mucosa.</para>
+        <para role="ans1"><emphasis role="strong">11.</emphasis>  Her advanced age, leukemoid reaction, and poor overall health made it unlikely that she could have survived the surgery.</para>
+        <para role="ans1"><emphasis role="strong">12.</emphasis>  Patients over 80 years of age have a 20% mortality when infected with toxigenic C. difficile. Given the severity of her disease process (pseudomembranous colitis, toxic mega-colon) and her leukemoid reaction, her outcome was not surprising.</para>
+      </sect1>
+      <sect1 id="ch0028s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0028s0003l02" role="decimal">
+          <listitem id="ch0028s0003x32">
+            <para><emphasis>C. difficile</emphasis> is a toxigenic, anaerobic, spore-forming Gram-positive bacillus. It is the leading cause of health-care associated diarrheal disease.</para>
+          </listitem>
+          <listitem id="ch0028s0003x33">
+            <para>Its ability to cause disease is due to its ability to produce two toxins, A and B, that are both cytotoxic and can induce intense inflammatory reactions coupled with tissue destruction. Strains that do not produce toxins do not cause disease.</para>
+          </listitem>
+          <listitem id="ch0028s0003x34">
+            <para>The major risk factor for the development of <emphasis>C. difficile</emphasis> infection is current or recent (within the past 8 weeks) treatment with antimicrobials, especially those with anti-anaerobe activity such as fluoroquinolones and third- or fourth-generation cephalosporins.</para>
+          </listitem>
+          <listitem id="ch0028s0003x35">
+            <para>The risks associated with antimicrobial use is due to the alteration of the colonic microbiota (called dysbiosis). Organisms within the unaltered colonic microbiota metabolize primary bile salts to secondary bile salts, which inhibit the growth of C. difficile vegetative cells.</para>
+          </listitem>
+          <listitem id="ch0028s0003x36">
+            <para>Treatment, paradoxically, is oral antimicrobials, with fidaxomicin or vancomycin being current recommended drugs. Recurrent infections due to either reinfection or relapse from the treated original infection occurs in 20% of cases. The monoclonal antibody, bezlotoxumab, and fecal microbiota repopulation are adjunct therapy for recurrent infection.</para>
+          </listitem>
+          <listitem id="ch0028s0003x37">
+            <para><emphasis>C. difficile</emphasis> spores play an important role in both nosocomial and recurrent infection. They can survive in the environment for months and may be found in abundance in a room occupied by an infected individual, enabling their spread in the health care setting. Spores can also survive in the gut of individuals treated with antimicrobials and may result in recurrent infection after antimicrobial therapy.</para>
+          </listitem>
+          <listitem id="ch0028s0003x38">
+            <para>Diagnosis of <emphasis>C. difficile</emphasis> infection is dependent on the detection of either toxin protein or toxin genes in the stools of infected individuals. Culture is not done for this bacterium for diagnostic purposes. An algorithmic approach of antigen and NAAT testing is often used. When NAATs are used as stand-alone tests, strict preanalytic criteria should be met to avoid false-positive results, leading to unnecessary treatment and patient isolation.</para>
+          </listitem>
+          <listitem id="ch0028s0003x39">
+            <para><emphasis>C. difficile</emphasis> infection has a wide spectrum of disease activity, from asymptomatic carriage, mild to more severe diarrhea, pseudomembranous colitis, toxic megacolon, and death. Death is most common in those over 75 years of age.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0028s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0028s0002bib01">Metlay JP, Waterer GW, Long AC, Anzueto A, Brozek J, Crothers K, Cooley LA, Dean NC, Fine MJ, Flanders SA, Griffin MR, Metersky ML, Musher DM, Restrepo MI, Whitney CG. 2019. Diagnosis and treatment of adults with community-acquired pneumonia. an official clinical practice guideline of the American Thoracic Society and Infectious Diseases Society of America. <citetitle>Am J Respir Crit Care Med</citetitle>200: e 45–e 67.</bibliomixed>
+        <bibliomixed id="ch0028s0002bib02">Barlam TF, Cosgrove SE, Abbo LM, Mac Dougall C, Schuetz AN, Septimus EJ, Srinivasan A, Dellit TH, Falck-Ytter YT, Fishman NO, Hamilton CW, Jenkins TC, Lipsett PA, Malani PN, May LS, Moran GJ, Neuhauser MM, Newland JG, Ohl CA, Samore MH, Seo SK, Trivedi KK. 2016. Implementing an antibiotic stewardship program: guidelines by the Infectious Diseases Society of America and the Society for Healthcare Epidemiology of America.<citetitle>Clin Infect Dis</citetitle>62: e 51–77.</bibliomixed>
+        <bibliomixed id="ch0028s0002bib03">Mc Michael TM, Currie DW, Clark S, Pogosjans S, Kay M, Schwartz NG, Lewis J, Baer A, Kawakami V, Lukoff MD, Ferro J, Brostrom-Smith C, Rea TD, Sayre MR, Riedo FX, Russell D, Hiatt B, Montgomery P, Rao AK, Chow EJ, Tobolowsky F, Hughes MJ, Bardossy AC, Oakley LP, Jacobs JR, Stone ND, Reddy SC, Jernigan JA, Honein MA, Clark TA, Duchin JS; Public Health–Seattle and King County, Evergreen Health, and CDC COVID-19 Investigation Team. 2020. Epidemiology of Covid-19 in a long-term care facility in King County,<citetitle>Washington. N Engl J Med</citetitle> 382:2005–2011.</bibliomixed>
+        <bibliomixed id="ch0028s0002bib04">Taur Y, Pamer EG. 2014. Harnessing microbiota to kill a pathogen: fixing the microbiota to treat Clostridium difficile infections. <citetitle>Nat Med</citetitle> 20:246–247.</bibliomixed>
+        <bibliomixed id="ch0028s0002bib05">Magill SS, O'Leary E, Janelle SJ, Thompson DL, Dumyati G, Nadle J, Wilson LE, Kainer MA, Lynfield R, Greissman S, Ray SM, Beldavs Z, Gross C, Bamberg W, Sievers M, Concannon C, Buhr N, Warnke L, Maloney M, Ocampo V, Brooks J, Oyewumi T, Sharmin S, Richards K, Rainbow J, Samper M, Hancock EB, Leaptrot D, Scalise E, Badrun F, Phelps R, Edwards JR; Emerging Infections Program Hospital Prevalence Survey Team. Changes in prevalence of health care-associated infections in U. S. hospitals.<citetitle>N Engl J Med</citetitle> 379:1732–1744.</bibliomixed>
+        <bibliomixed id="ch0028s0002bib06">Karanika S, Grigoras C, Flokas ME, Alevizakos M, Kinamon T, Kojic EM, Mylonakis E. 2017. The attributable burden of Clostridium difficile infection to long-term care facilities stay: a clinical study. <citetitle>J Am Geriatr Soc</citetitle> 65:1733–1740.</bibliomixed>
+        <bibliomixed id="ch0028s0002bib07">Johnson S, Lavergne V, Skinner AM, Gonzales-Luna AJ, Garey KW, Kelly CP, Wilcox MH. 2021. Clinical practice guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 focused update guidelines on management of Clostridioides difficile infection in adults. <citetitle>Clin Infect Dis</citetitle> 73:755–757.</bibliomixed>
+        <bibliomixed id="ch0028s0002bib08">Fang FC, Polage CR, Wilcox MH. 2017. Point-counterpoint: what is the optimal approach for detection of Clostridium difficile infection? <citetitle>J Clin Microbiol</citetitle> 55:670–680.</bibliomixed>
+        <bibliomixed id="ch0028s0002bib09">Kraft CS, Parrott JS, Cornish NE, Rubinstein ML, Weissfeld AS, Mc Nult P, Nachamkin I, Humphries RM, Kirn TJ, Dien Bard J, Lutgring JD, Gullett JC, Bittencourt CE, Benson S, Bobenchik AM, Sautter RL, Baselski V, Atlas MC, Marlowe EM, Miller NS, Fischer M, Richter SS, Gilligan P, Snyder JW. 2019. A laboratory medicine best practices systematic review and meta-analysis of nucleic acid amplification tests (NAATs) and algorithms including NAATs for the diagnosis of Clostridioides (Clostridium) difficile in adults.<citetitle>Clin Microbiol Rev</citetitle>32: e 00032-18.</bibliomixed>
+        <bibliomixed id="ch0028s0002bib10">Culbreath K, Ager E, Nemeyer RJ, Kerr A, Gilligan PH. 2012. Evolution of testing algorithms at a university hospital for detection of Clostridium difficile infections. <citetitle>J Clin Microbiol</citetitle>50:3073–3076.</bibliomixed>
+        <bibliomixed id="ch0028s0002bib11">Crobach MJT, Vernon JJ, Loo VG, Kong LY, Péchiné S, Wilcox MH, Kuijper EJ. 2018. Understanding Clostridium difficile colonization. <citetitle>Clin Microbiol Rev</citetitle>31: e 00021-17.</bibliomixed>
+        <bibliomixed id="ch0028s0002bib12">Cole LE, Li L, Jetley U, Zhang J, Pacheco K, Ma F, Zhang J, Mundle S, Yan Y, Barone L, Rogers C, Beltraminelli N, Quemeneur L, Kleanthous H, Anderson SF, Anosova NG. 2019. Deciphering the domain specificity of C. difficile toxin neutralizing antibodies. <citetitle>Vaccine</citetitle> 37:3892–3901.</bibliomixed>
+        <bibliomixed id="ch0028s0002bib13">Jain N, Umar TP, Fahner AF, Gibietis V. 2023. Advancing therapeutics for recurrent Clostridioides difficile infections: an overview of vowst's FDA approval and implications. <citetitle>Gut Microbes</citetitle> 15:2232137.</bibliomixed>
+        <bibliomixed id="ch0028s0002bib14">Food and Drug Administration. 26 April 2023. FDA approves first orally administered fecal microbiota product for the prevention of recurrence of Clostridioides difficile infection. https://www. fda. gov/news-events/press-announcements/fda-approves-first-orally-administered-fecal-microbiota-product-prevention-recurrence-clostridioides. Accessed 3 January 2024.</bibliomixed>
+        <bibliomixed id="ch0028s0002bib15">Anderson DJ, Moehring RW, Weber DJ, Lewis SS, Chen LF, Schwab JC, Becherer P, Blocker M, Triplett PF, Knelson LP, Lokhnygina Y, Rutala WA, Sexton DJ; CDC Prevention Epicenters Program. 2018. Effectiveness of targeted enhanced terminal room disinfection on hospital-wide acquisition and infection with multidrug-resistant organisms and Clostridium difficile: a secondary analysis of a multicentre cluster randomised controlled trial with crossover design (BETR Disinfection). <citetitle>Lancet Infect Dis</citetitle> 18:845–853.</bibliomixed>
+      </bibliography>
+    </chapter>

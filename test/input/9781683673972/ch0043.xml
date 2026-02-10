@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0043" label="43">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor4">CASE 40</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0043s0004"><title>CASE 40</title><para>A 55-year-old North Carolina man presented with a skin infection on his leg, possibly from a tick bite (<link linkend="ch0043s0004fg01">Fig. 40.1</link>). The patient also endorsed fever, chills, fatigue, headache, diarrhea, generalized body aches, and cough. He reported running outside, including previously running in the woods and “being bitten by ticks multiple times.”</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0043s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  Which infectious agents are spread by ticks? What tick-borne diseases should be considered given the man was from North Carolina? What if he had extensive travel throughout the United States?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient denied chest pain, shortness of breath, and neurological symptoms. Despite being on cephalexin for almost 48 hours, the wound had worsened. Examination revealed erythema, warmth, and swelling on the left anterior leg, with normal neurological findings and no cervical lymphadenopathy. The patient reported that he had similar symptoms when he had mononucleosis 2 years ago. He took a COVID-19 test at home, which was negative. The clinician ordered the following tests: molecular multiplex respiratory panel, Monospot test, and acute serologies for Lyme,<emphasis>Ehrlichia,</emphasis> and spotted fever rickettsiosis (SFR). The patient was advised to discontinue cephalexin and start doxycycline.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0043s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  Since 2010, data on the epidemiology of SFR demonstrate that the incidence has increased sharply, while the case fatality rate had decreased. What could be responsible for these trends?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient’s respiratory pathogen and mononucleosis (Monospot) tests were negative. The patient’s acute serological tests were negative for Lyme and Rocky Mountain spotted fever (RMSF) but the <emphasis>Ehrlichia</emphasis> titer was positive at 1:128.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0043s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  Are you able to diagnose the patient with these results? What is the value of a single serologic test at the time of presentation for bacterial causes of tickborne infections?</para>
+        </listitem>
+      </itemizedlist>
+      <figure id="ch0043s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 40.1</emphasis></emphasis> Tick bite with associated erythema. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0043f01.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A photograph shows a small, dark, slightly raised mole or lesion on reddish skin, with a quarter coin placed beside it for size reference.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <para>The patient returned 6 weeks later to have convalescent serologic tests performed. A summary of his acute and convalescent serologic tests is shown in the chart below.</para>
+      <table id="ch0043s0004ta01"><title>Table 1</title>
+        
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <colspec colname="c3" colnum="3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry><para>ACUTE TEST RESULT</para>
+              </entry>
+              <entry><para>CONVALESCENT TEST RESULT</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>SFR antibody (IgG)</para>
+              </entry>
+              <entry><para>&lt;1:64</para>
+              </entry>
+              <entry><para>&gt;=1:1024</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para><emphasis>Ehrlichia</emphasis> antibody (IgG)</para>
+              </entry>
+              <entry><para>1:128</para>
+              </entry>
+              <entry><para>1:256</para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <itemizedlist mark="none" role="notesList" id="ch0043s0004l01">
+        <listitem id="ch0043s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  How do you interpret the patient’s serologic test results? What is the etiologic agent of this infection? What physical and laboratory findings are consistent with this infection?</para>
+        </listitem>
+        <listitem id="ch0043s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  In what patient population does the disease tend to be most severe? What explains this severity?</para>
+        </listitem>
+        <listitem id="ch0043s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  Briefly describe the pathogenesis of the organism.</para>
+        </listitem>
+        <listitem id="ch0043s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  What other test(s) are available for diagnosis of this infection?</para>
+        </listitem>
+        <listitem id="ch0043s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  What is the recommended treatment for this disease?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient completed his course of doxycycline at home, and his infection resolved.</para>
+      </sect1><sect1 id="ch0043s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  Ticks are vectors for <emphasis>Borrelia burgdorferi</emphasis> (the agent of Lyme disease), other <emphasis>Borrelia</emphasis> species (which cause relapsing fever), <emphasis>Francisella tularensis</emphasis> (the agent of tularemia), <emphasis>Babesia microti</emphasis> (the agent of babesiosis), <emphasis>Rickettsia rickettsii</emphasis> (the etiologic agent of Rocky Mountain spotted fever [RMSF]), <emphasis>Ehrlichia chaffeensis</emphasis> (causing human monocytic ehrlichiosis), <emphasis>Anaplasma phagocytophilum</emphasis> (the agent of human granulocytic anaplasmosis), Colorado tick fever virus, Powassan virus, and other rickettsiae and viruses not found in the United States. <emphasis>R. rickettsii</emphasis> is endemic in North Carolina, with Oklahoma or North Carolina reporting the largest number of RMSF cases on a yearly basis. Ninety percent of cases occur between the months of April and September, a period when adult ticks, the stage that spreads the organism, are most actively feeding. For <emphasis>R. rickettsii</emphasis> to be transmitted to humans, the infected tick must be attached for a minimum of 6 to 10 hours, and more than 24 hours may be required for transmission to occur. The incubation time after tick exposure ranges from 2 to 14 days, with a median of 7 days. The patient’s development of symptoms 8 days after tick exposure is consistent with <emphasis>R. rickettsii</emphasis> infection. The American dog tick (<emphasis>Dermacentor variabilis</emphasis>) transmits RMSF in North Carolina <link linkend="ch0043s0002bib01">(1)</link>. In addition to RMSF, ehrlichiosis and Lyme disease are the other two most common tickborne diseases in North Carolina. <link linkend="ch0043s0001ta02">Table 40.1</link> lists a summary of ticks and the diseases they transmit within the United States <link linkend="ch0043s0002bib02">(2)</link>.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  RMSF has been a reportable disease in the United States since 1920. However, commonly available serology tests used to diagnose <emphasis>Rickettsia</emphasis> are unable to differentiate between spotted fever group <emphasis>Rickettsia</emphasis> species. In 2010, the CDC modified reporting criteria so that cases of RMSF are now reported under a more general group, SFR <link linkend="ch0043s0002bib03">(3)</link>. This category captures various rickettsial diseases, including RMSF, <emphasis>Rickettsia parkeri</emphasis> rickettsiosis, Pacific Coast tick fever, and rickettsialpox. While this general group is more inclusive, it can be difficult to ascertain which cases are RMSF versus other spotted fevers. The inclusion of RMSF with other less severe spotted fevers is likely responsible for the increase in reported incidence but decrease in case fatality rates. Overall, the decrease in fatality since the 1940s is directly attributable to the discovery and widespread use of tetracycline antibiotics.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  Antibody titers for tickborne diseases are frequently negative within the first 7 to 10 days of illness <link linkend="ch0043s0002bib04">(4)</link>. One of the major problems with the serologic tests is that early in the disease course, the individual may not have mounted a sufficiently strong immune response to result in a positive serologic test result. Follow-up serologic tests 1 to 4 weeks later may prove to be positive. In patients in whom RMSF is a distinct possibility, a negative serologic test result should not preclude the use of antimicrobial therapy since a fulminant, fatal disease course with this organism may occur. An acute positive <emphasis>Ehrlichia</emphasis> IgG suggests exposure to the pathogen, but recent or current infection should be confirmed by convalescent serum testing, which should show a 4-fold increase in IgG titer if the infection is recent or current.</para>
+        <table id="ch0043s0001ta02"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 40.1</emphasis></emphasis> SUMMARY OF TICKS AND TICK-BORNE DISEASES IN THE UNITED STATES</emphasis> </title>
+          
+          <tgroup cols="3">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <tbody>
+              <row>
+                <entry>TICK</entry>
+                <entry>PATHOGEN(S)</entry>
+                <entry>ENDEMIC REGION(S) IN UNITED STATES</entry>
+              </row>
+              <row>
+                <entry>Lone star tick<emphasis>(Amblyomma Americanum)</emphasis></entry>
+                <entry><emphasis>E. chaffeensis, E. ewingii, F. tularensis,</emphasis> Heartland virus, (possibly Bourbon virus)</entry>
+                <entry>East and Southeast</entry>
+              </row>
+              <row>
+                <entry>Gulf coast tick<emphasis>(Amblyomma maculatum)</emphasis></entry>
+                <entry><emphasis>R. parkeri</emphasis>
+                </entry>
+                <entry>South and Southeast Coast</entry>
+              </row>
+              <row>
+                <entry>Rocky Mountain wood tick<emphasis>(Dermacentor andersoni)</emphasis></entry>
+                <entry><emphasis>R. rickettsii,</emphasis> Colorado tick fever virus<emphasis>, F. tularensis</emphasis></entry>
+                <entry>Rocky Mountains</entry>
+              </row>
+              <row>
+                <entry>American dog tick (Dermacentor variabilis)</entry>
+                <entry><emphasis>F. tularensis, R. rickettsii</emphasis>
+                </entry>
+                <entry>Central to East, California</entry>
+              </row>
+              <row>
+                <entry>Pacific coast tick<emphasis>(Dermacentor occidentalis)</emphasis></entry>
+                <entry><emphasis>Rickettsia</emphasis> 364D</entry>
+                <entry>Pacific Coast</entry>
+              </row>
+              <row>
+                <entry>Western blacklegged tick (Ixodes pacificus)</entry>
+                <entry><emphasis>B. burgdorferi, A. phagocytophilum</emphasis> (possibly <emphasis>B. miyamotoi</emphasis>)</entry>
+                <entry>Pacific Coast</entry>
+              </row>
+              <row>
+                <entry>Blacklegged tick/deer tick<emphasis>(Ixodes scapularis)</emphasis></entry>
+                <entry><emphasis>B. burgdorferi, B. mayonii, A. phagocytophilum, E. muris eauclairensis, B. miyamotoi, Babesia microti, Powassan virus</emphasis>
+                </entry>
+                <entry>Central to East</entry>
+              </row>
+              <row>
+                <entry>Brown dog tick (Rhipicephalus sanguineus)</entry>
+                <entry><emphasis>R. rickettsii</emphasis>
+                </entry>
+                <entry>Universal (Southwest)<phrase><superscript><emphasis>b</emphasis></superscript></phrase></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para role="table-footnote"><superscript><emphasis>a</emphasis></superscript> Modified from Rodino KG, Theel ES, Pritt BS. 2020. <emphasis>Clin Chem</emphasis> 66:537–548, with permission.</para>
+        <para role="table-footnote"><superscript><emphasis>b</emphasis></superscript> <emphasis>R. sanguineus</emphasis> is found throughout the United States, but has only been reported to transmit spotted fever rickettsiosis in the southwestern United States, and along the United States-Mexico border.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  The most likely etiology of the patient’s infection is <emphasis>R. rickettsii</emphasis>, which causes RMSF. The physical finding of erythema, in the presence of fever, myalgia, and diarrhea, with a history of a tick bite in a geographically compatible area, is highly suggestive of RMSF. Although this patient did not have it, hyponatremia (low Na<superscript>+</superscript> level) is commonly seen in RMSF, as are low platelet counts and increased coagulation times, both of which can be manifestations of disseminated intravascular coagulation, an often fatal complication of this infection. Mortality with RMSF is ~1 to 3% with timely, appropriate antimicrobial therapy with doxycycline but may reach as high as 25% in untreated individuals. While the patient did have a 2-fold increase in <emphasis>Ehrlichia</emphasis> antibody titers, this result is within normal assay variability and does not meet the 4-fold rise in titer criteria for an ehrlichiosis diagnosis. The <emphasis>Ehrlichia</emphasis> antibody test results suggest that he has been exposed to the pathogen, but it is likely not the cause of his current infection.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  If not treated within the first few days of infection, RMSF can be rapidly progressive and fatal <link linkend="ch0043s0002bib05">(5)</link>. Initial symptoms may be mild and may not alert clinicians to suspect RMSF. People who develop more advanced disease may experience altered mental status, coma, cerebral edema, respiratory compromise, necrosis, multiorgan system damage, and disseminated intravascular coagulation (DIC). In the United States, where RMSF epidemiology has been most closely scrutinized, the African American population experiences the greatest disease severity. The reasons for this appear to be 2-fold. First, in dark-skinned individuals, the rash, which is the key diagnostic feature of this infection, may be difficult to appreciate. This may delay the diagnosis and appropriate treatment, which can have grave clinical consequences, most importantly, increased mortality. Second, African Americans often have poorer access to medical care than do many other groups of Americans, which may delay the diagnosis and thus treatment of this rapidly progressive disease.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  <emphasis>R. rickettsii</emphasis> is an obligate intracellular pathogen that during the early stages of the 20th century was considered a virus. This is a highly evolved organism with a comparatively small genome due in part to its lack of genes for glucose metabolism and for lipid and nucleic acid synthesis. Thus, this organism must obtain ATP from the host, as well as lipids, purines, and pyrimidines. The organism has a tropism for endothelial cells and can infect this cell type throughout the body. This <emphasis>R. rickettsii</emphasis>tropism is due to the presence of a specific receptor on the endothelial cell surface called Ku 70. Once bound, the organism is taken into the cell by endocytosis and then lyses the endosome, allowing it to replicate in the cytoplasm. There it attaches host cell actin filaments that allow the organism to move through the cytoplasm to the cell membrane, where it can be taken up by adjacent cells by an endocytosis-like process. Over time (hours), this infectious process results in disruption of endothelial tight junctions, resulting in vascular leakage. Additionally, infection of the endothelial cells results in endothelial damage, which leads to platelet activation and consumption; and clotting due to thrombin formation, which can lead to hemorrhage and vascular occlusion.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  Other methods described in the literature include the direct detection of <emphasis>R. rickettsii</emphasis> in tissue biopsy specimens by using direct fluorescent-antibody assay or nucleic acid amplification testing (NAAT) <link linkend="ch0043s0002bib06">(6)</link>. The direct fluorescent-antibody assay has the advantage of being very rapid and, in skilled hands, very specific. However, its sensitivity is dependent on the quality of the tissue biopsy. A negative test does not rule out this diagnosis. This test is available in only a very limited number of laboratories. Immunohistochemical techniques can also be used to detect this organism in fixed tissues.</para>
+        <para>NAAT has also been applied to the detection of <emphasis>R. rickettsii</emphasis>, but it is not yet widely available. NAAT is more sensitive in biopsies of the skin rash than it is from samples of blood. This is not surprising, since the organism is an obligate intracellular pathogen that specifically infects endothelial cells, a cell type likely to be found in biopsy material but not in blood. The organism can also be isolated from blood by inoculation of guinea pigs, embryonated eggs, or tissue culture using the shell vial technique. However, cultivation of this organism is extremely dangerous and is attempted only in a few highly specialized laboratories.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  Doxycycline is the treatment of choice for RMSF and all other rickettsial diseases, and treatment should be started immediately. The CDC reports that due to the increased risk of death without treatment, the initiation of doxycycline should never be withheld while waiting for diagnostic test results <link linkend="ch0043s0002bib04">(4)</link>. In most patients, the fever will subside within 24 to 48 hours of receiving doxycycline. Patients with severe rickettsial disease should be hospitalized and managed with fluid management and close attention to electrolyte balance.</para>
+      </sect1>
+      <sect1 id="ch0043s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0043s0003l02" role="decimal">
+          <listitem id="ch0043s0003x15">
+            <para>Tick-borne diseases in the United States include Lyme disease, RMSF, human monocytic ehrlichiosis, human granulocytic anaplasmosis, babesiosis, tularemia, Colorado tick fever virus, Powassan virus, and others.</para>
+          </listitem>
+          <listitem id="ch0043s0003x16">
+            <para>RMSF, caused by <emphasis>R. rickettsii</emphasis>, is endemic in states like North Carolina and Oklahoma, with peak cases between April and September. Transmission to humans requires an infected tick attachment of 6 to 10 hours, with symptoms appearing within 2 to 14 days. The American dog tick (<emphasis>Dermacentor variabilis</emphasis>) commonly transmits RMSF.</para>
+          </listitem>
+          <listitem id="ch0043s0003x17">
+            <para>RMSF is a severe tick-borne illness characterized by fever, rash, myalgia, and potential complications like disseminated intravascular coagulation.</para>
+          </listitem>
+          <listitem id="ch0043s0003x18">
+            <para>RMSF tends to be most severe in African-American populations due to delayed diagnosis, poorer access to health care, and difficulty in recognizing the rash on darker skin tones.</para>
+          </listitem>
+          <listitem id="ch0043s0003x19">
+            <para><emphasis>R. rickettsii</emphasis> is an obligate intracellular pathogen that infects endothelial cells, causing vascular damage, platelet activation, and clotting.</para>
+          </listitem>
+          <listitem id="ch0043s0003x20">
+            <para>Serologic tests, such as indirect fluorescent-antibody assays, are commonly used for RMSF diagnosis.</para>
+          </listitem>
+          <listitem id="ch0043s0003x21">
+            <para>Antibody titers for tickborne diseases are frequently negative within the first 7 to 10 days of illness (acute illness). Follow-up serologic tests 1 to 4 weeks later (convalescent) should be performed to confirm the presence of RMSF disease.</para>
+          </listitem>
+          <listitem id="ch0043s0003x22">
+            <para>A negative SFR serologic test result should not preclude the use of antimicrobial therapy since a fulminant, fatal disease course with this organism may occur.</para>
+          </listitem>
+          <listitem id="ch0043s0003x23">
+            <para>Doxycycline is the recommended treatment for RMSF and other rickettsial diseases. Treatment should not be delayed pending test results.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0043s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0043s0002bib01">North Carolina Department of Environment and Natural Resources. 8 February 2010. Tick-transmitted disease in North Carolina. https://eh. alamancecountync. gov/wp-content/uploads/sites/27/2019/06/Ticks_Diseases. pdf. Accessed 6 July 2024.</bibliomixed>
+        <bibliomixed id="ch0043s0002bib02">Rodino KG, Theel ES, Pritt BS. 2020. Tick-borne diseases in the United States. <citetitle>Clin Chem</citetitle> 66:537–548.</bibliomixed>
+        <bibliomixed id="ch0043s0002bib03">Centers for Disease Control and Prevention. 15 May 2024. Data and statistics on spotted fever rickettsiosis. https://www. cdc. gov/rocky-mountain-spotted-fever/data-research/facts-stats/. Accessed 6 July 2024.</bibliomixed>
+        <bibliomixed id="ch0043s0002bib04">Biggs HM, Behravesh CB, Bradley KK, Dahlgren FS, Drexler NA, Dumler JS, Folk SM, Kato CY, Lash RR, Levin ML, Massung RF, Nadelman RB, Nicholson WL, Paddock CD, Pritt BS, Traeger MS. 2016. Diagnosis and management of tickborne rickettsial diseases: Rocky Mountain spotted fever and other spotted fever group rickettsioses, ehrlichioses, and anaplasmosis—United States. <citetitle>MMWR Recomm Rep</citetitle> 65:1–44.</bibliomixed>
+        <bibliomixed id="ch0043s0002bib05">Centers for Disease Control and Prevention. 8 December 2023. Severe and fatal confirmed Rocky Mountain spotted fever among people with recent travel to Tecate, Mexico. https://emergency. cdc. gov/han/2023/han 00502. asp#print. Accessed 6 July 2024.</bibliomixed>
+        <bibliomixed id="ch0043s0002bib06">Stewart AG, Stewart AGA. 2021. An update on the laboratory diagnosis of Rickettsia spp. infection. <citetitle>Pathogens</citetitle> 10:1319.</bibliomixed>
+      </bibliography>
+    </chapter>

@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0050" label="50">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor5">CASE 47</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0050s0004"><title>CASE 47</title><para>A 60-year-old male presented to the emergency department (ED) after 2 days of fever and progressive aphasia. The patient’s symptoms began with a headache and mild confusion, followed by fever, facial droop, and difficulty speaking. He was also noted to be leaning to one side. Two weeks prior, he had visited family in Minnesota, where they spent a lot of time outdoors enjoying the late summer. In the ED, his temperature was 39.6°C, but his other vital signs were within normal limits. A lumbar puncture was performed; then he was started on empiric therapy for bacterial meningitis (ampicillin, vancomycin, and ceftriaxone). His cerebrospinal fluid (CSF) had 91 white blood cells per microliter, which were predominantly lymphocytes; CSF glucose and protein were normal. Brain magnetic resonance imaging (MRI) was performed, which showed hyperintensity in the basal ganglia. A brain angiogram was unremarkable. Given his rapid progression, he was admitted to the intensive care unit for an extensive evaluation.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0050s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What infectious syndrome is most consistent with this patient’s clinical presentation and diagnostic results?</para>
+        </listitem>
+        <listitem id="ch0050s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  What laboratory tests are used to determine the cause of viral encephalitis?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Within 24 hours of admission, the patient became nonverbal and could not follow commands. On day 3 of admission, he was intubated for airway protection. A follow-up MRI showed new involvement of the bilateral thalami and midbrain. An electroencephalogram was grossly abnormal, so he was started on levetiracetam for seizure prophylaxis. CSF cultures for bacteria, fungi, and mycobacteria were negative. Immunologic tests for HIV, hepatitis B, hepatitis C, syphilis, and tuberculosis were negative. Cytomegalovirus (CMV) immunoglobulin G (IgG) was positive, but CMV immunoglobulin M (IgM) was negative. CSF nucleic acid amplification tests (NAATs) for enterovirus, herpes simplex virus (HSV), varicella-zoster virus (VZV), CMV, human herpesvirus 6, and JC virus were negative. After treatable infectious causes were ruled out (i. e., bacteria, fungi, mycobacteria, and herpesviruses), he was treated with methylprednisolone and an empiric trial of intravenous immunoglobulin (IVIG). Initial arbovirus serologic results from serum and CSF are shown in <link linkend="ch0050s0004ta01">Table 47.1</link>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0050s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  How do you interpret the serologic results in <link linkend="ch0050s0004ta01">Table 47.1</link>? What additional history should be obtained?</para>
+        </listitem>
+      </itemizedlist>
+      <para>After the results shown in <link linkend="ch0050s0004ta01">Table 47.1</link> returned, the patient’s family was asked for additional travel and vaccination history. The patient’s only recent travel was to Minnesota, but he had previously traveled internationally. He had not traveled outside the United States in the last year, but due to previous travel to South America, he had received the yellow fever vaccine.</para>
+      <table id="ch0050s0004ta01"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 47.1</emphasis></emphasis> RESULTS OF ARBOVIRUS SEROLOGIC TESTING<phrase><superscript><emphasis>a</emphasis></superscript></phrase></emphasis> </title>
+        
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <colspec colname="c3" colnum="3"/>
+          <tbody>
+            <row>
+              <entry>TEST</entry>
+              <entry>SPECIMEN TYPE</entry>
+              <entry>RESULT</entry>
+            </row>
+            <row>
+              <entry morerows="1">EEE IgG, IFA</entry>
+              <entry>Serum</entry>
+              <entry>Nonreactive, &lt;1:16</entry>
+            </row>
+            <row>
+              <entry>CSF</entry>
+              <entry>Nonreactive, &lt;1:4</entry>
+            </row>
+            <row>
+              <entry morerows="1">EEE IgM, IFA</entry>
+              <entry>Serum</entry>
+              <entry>Nonreactive, &lt;1:16</entry>
+            </row>
+            <row>
+              <entry>CSF</entry>
+              <entry>Nonreactive, &lt;1:4</entry>
+            </row>
+            <row>
+              <entry morerows="1">LAC IgG, IFA</entry>
+              <entry>Serum</entry>
+              <entry>Nonreactive, &lt;1:16</entry>
+            </row>
+            <row>
+              <entry>CSF</entry>
+              <entry>Nonreactive, &lt;1:4</entry>
+            </row>
+            <row>
+              <entry morerows="1">LAC IgM, IFA</entry>
+              <entry>Serum</entry>
+              <entry>Nonreactive, &lt;1:16</entry>
+            </row>
+            <row>
+              <entry>CSF</entry>
+              <entry>Nonreactive, &lt;1:4</entry>
+            </row>
+            <row>
+              <entry morerows="1">LAC IgM, ELISA</entry>
+              <entry>Serum</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry>CSF</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry morerows="1">SLE IgG, IFA</entry>
+              <entry>Serum</entry>
+              <entry>Reactive, 1:8,192</entry>
+            </row>
+            <row>
+              <entry>CSF</entry>
+              <entry>Reactive, ≥1:512</entry>
+            </row>
+            <row>
+              <entry morerows="1">SLE IgM, IFA</entry>
+              <entry>Serum</entry>
+              <entry>Nonreactive, &lt;1:16</entry>
+            </row>
+            <row>
+              <entry>CSF</entry>
+              <entry>Nonreactive, &lt;1:4</entry>
+            </row>
+            <row>
+              <entry morerows="1">WEE IgG, IFA</entry>
+              <entry>Serum</entry>
+              <entry>Nonreactive, &lt;1:16</entry>
+            </row>
+            <row>
+              <entry>CSF</entry>
+              <entry>Nonreactive, &lt;1:4</entry>
+            </row>
+            <row>
+              <entry morerows="1">WEE IgM, IFA</entry>
+              <entry>Serum</entry>
+              <entry>Nonreactive, &lt;1:16</entry>
+            </row>
+            <row>
+              <entry>CSF</entry>
+              <entry>Nonreactive, &lt;1:4</entry>
+            </row>
+            <row>
+              <entry>WNV IgG, IFA</entry>
+              <entry>CSF</entry>
+              <entry>Reactive, 1:512</entry>
+            </row>
+            <row>
+              <entry>WNV IgM, IFA</entry>
+              <entry>CSF</entry>
+              <entry>Nonreactive, &lt;1:4</entry>
+            </row>
+            <row>
+              <entry>WNV IgG, ELISA</entry>
+              <entry>Serum</entry>
+              <entry>Positive</entry>
+            </row>
+            <row>
+              <entry>WNV IgM, ELISA</entry>
+              <entry>Serum</entry>
+              <entry>Negative</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para role="table-footnote"><superscript><emphasis>a</emphasis></superscript> EEE, Eastern equine encephalitis virus; ELISA, enzyme-linked immunosorbent assay; IFA, indirect fluorescent assay; LAC, La Crosse virus; SLE, St. Louis encephalitis virus; WEE, Western equine encephalitis virus; WNV, West Nile virus.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0050s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  How does the yellow fever vaccine impact arboviral serology results?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Additional CSF was obtained on day 20 of admission for metagenomic sequencing and additional infectious disease testing. His CSF had 15 nucleated cells per microliter with 95% lymphocytes; CSF protein and glucose were slightly elevated. Tests were sent for rabies and additional arboviral serologies. The results from these tests are shown in <link linkend="ch0050s0004ta02">Table 47.2</link>.</para>
+      <table id="ch0050s0004ta02"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 47.2</emphasis></emphasis> RESULTS OF ADDITIONAL DIAGNOSTIC TESTS<phrase><emphasis><superscript>a</superscript></emphasis></phrase></emphasis> </title>
+        
+        <tgroup cols="4">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <colspec colname="c3" colnum="3"/>
+          <colspec colname="c4" colnum="4"/>
+          <tbody>
+            <row>
+              <entry>TEST</entry>
+              <entry>SPECIMEN TYPE</entry>
+              <entry>RESULT</entry>
+            </row>
+            <row>
+              <entry>Metagenomic sequencing</entry>
+              <entry>CSF</entry>
+              <entry>No organisms detected</entry>
+            </row>
+            <row>
+              <entry morerows="1">Rabies, IgM and IgG</entry>
+              <entry>Serum</entry>
+              <entry>Negative</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>CSF</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry>Rabies, DFA and NAAT</entry>
+              <entry>Neck biopsy</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry>Rabies, NAAT</entry>
+              <entry>Saliva</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry>Zika, IgM and NAAT</entry>
+              <entry>Serum</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>CSF</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry morerows="1">Chikungunya, IgM</entry>
+              <entry>Serum</entry>
+              <entry>Negative</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>CSF</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry>Chikungunya, NAAT</entry>
+              <entry>CSF</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry>Dengue, NAAT</entry>
+              <entry>CSF</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry>JC, IgM</entry>
+              <entry>CSF</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry>POW, IgM</entry>
+              <entry>CSF</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry>POW, PRNT</entry>
+              <entry>CSF</entry>
+              <entry>128</entry>
+            </row>
+            <row>
+              <entry>EEE, IgM</entry>
+              <entry>CSF</entry>
+              <entry>Positive</entry>
+            </row>
+            <row>
+              <entry>EEE, PRNT</entry>
+              <entry>CSF</entry>
+              <entry>&lt;2</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para role="table-footnote"><superscript><emphasis>a</emphasis></superscript> DFA, direct fluorescent antibody; EEE, Eastern equine encephalitis virus; JC, Jamestown Canyon virus; LAC, La Crosse virus; POW, Powassan virus; WNV/SLE, West Nile virus/St. Louis encephalitis virus.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0050s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  How do you interpret the results in <link linkend="ch0050s0004ta02">Table 47.2</link>? What was the likely etiology of his viral encephalitis?</para>
+        </listitem>
+        <listitem id="ch0050s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  How is metagenomic sequencing used in the diagnosis of infectious diseases? Discuss the benefits and challenges.</para>
+        </listitem>
+        <listitem id="ch0050s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  Describe the epidemiology of this virus and how it differs from other arboviruses in the United States.</para>
+        </listitem>
+      </itemizedlist>
+      <para>During the patient’s month-long hospital stay, he showed mild improvement in his mental status and was able to be weaned from the ventilator. He demonstrated occasional, yet inconsistent, signs of sensory perception to stimuli and acknowledgment of family members present. After showing signs of awareness and interaction, he was transferred to a rehabilitation facility, where he eventually succumbed to his illness.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0050s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  Was this patient’s outcome typical of this infection?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0050s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  This patient likely had encephalitis, or inflammation of the brain. Meningitis, on the other hand, is inflammation of the membranes and fluid surrounding the spinal cord. Although many symptoms of meningitis and encephalitis overlap (such as fever, headache, stiff neck, photophobia, fatigue, nausea, and vomiting), symptoms of encephalitis depend on the area of the brain affected and may also include cognitive dysfunction (confusion and impaired judgment), altered speech or gait, and even seizures. Often meningitis and encephalitis present concomitantly as meningoencephalitis, which can be clinically indistinguishable from encephalitis.</para>
+        <para>A variety of infectious agents can cause meningitis or encephalitis, including bacteria, fungi, parasites, and viruses. It is important that the lumbar puncture be performed prior to the administration of any antimicrobials, as was done in this case, so that the negative predictive value of the bacterial culture can be properly assessed. Acute bacterial meningitis (e. g.,<emphasis>Streptococcus pneumoniae</emphasis> [see <ulink url="ch0045.xml#ch0045">case 42</ulink>] or <emphasis>Neisseria meningitidis</emphasis> [see <ulink url="ch0064.xml#ch0064">case 61</ulink>]) is associated with a very high CSF white cell count that shows a neutrophilic predominance. The CSF glucose is very low while the CSF protein is usually high in acute bacterial meningitis. Although fungi can cause meningitis and encephalitis, this is more common in immunocompromised persons or individuals receiving steroidal injections for chronic back pain. Similarly, parasitic causes of meningitis and encephalitis are unusual. <emphasis>Naegleria fowleri</emphasis> causes primary amebic meningoencephalitis but is usually seen in children and adolescents who have been diving or swimming in warm freshwater. Parasitic encephalitis due to <emphasis>Taenia solium</emphasis> or <emphasis>Toxoplasma gondii</emphasis>occurs primarily in patients living with HIV or other immunocompromising conditions, and who have had relevant animal exposures (e. g., consumption of undercooked pork or exposure to cat feces). Viruses are the most diagnosed causes of meningitis and encephalitis. The most common causes of viral meningitis are herpes simplex viruses (HSV) and enteroviruses, while the most common causes of viral encephalitis are HSV and arthropod-borne viruses (arboviruses).</para>
+        <para>The patient’s fever, progressive neurologic decline, and MRI findings are consistent with acute encephalitis. Further, the results obtained from his CSF are consistent with acute viral encephalitis. The number of white blood cells observed in the CSF is much lower than that typically seen with bacterial meningitis and is more consistent with a viral etiology. The lymphocytic predominance also supports viral encephalitis. However, if there had been a neutrophilic predominance in the CSF cell count, it would not rule out viruses. This can be confusing in the early stages of central nervous system disease, as many viruses cause an initial neutrophilic predominance followed by lymphocytic predominance. Lastly, the CSF chemistries are consistent with viral meningitis or encephalitis, as the CSF protein and glucose are within normal limits.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  The patient should have an HSV NAAT performed on his CSF. HSV meningitis/encephalitis is treated with acyclovir. Untreated, HSV encephalitis has a high mortality, so the patient should be started on acyclovir while results are pending (see <ulink url="ch0007.xml#ch0007">case 4</ulink>). NAATs for additional viral etiologies such as VZV and enterovirus or a molecular multiplex meningitis/encephalitis panel should be considered <link linkend="ch0050s0002bib01">(1)</link>. Although NAATs for viral detection often provide rapid results with high sensitivity, the arboviruses are an exception. In most arboviral diseases there is a short-lived viremia (&lt;7 days). Therefore, the sensitivity of blood or CSF NAAT is low unless used very early in the disease course. However, the positive predictive value of a positive NAAT in this setting is nearly 100%. NAAT for arboviruses is the most sensitive from brain tissue and therefore is generally reserved for fatal cases where a combination of NAAT, histopathology with immunohistochemistry, and viral culture can be performed. NAATs can also be used to screen field-collected mosquito pools.</para>
+        <para>The laboratory diagnosis of most arboviral diseases is best achieved using serum and CSF for serologic testing<link linkend="ch0050s0002bib02">(2)</link>. Positive serologic results that indicate a confirmed arbovirus case are a 4-fold or greater rise in antibody titer in acute- and convalescent-phase sera obtained 3 to 4 weeks apart, a positive IgM test from serum with virus-specific neutralizing antibodies demonstrated in the same or later specimen, or detection of virus-specific IgM antibodies in CSF or serum (<link linkend="ch0050s0001fg01">Fig. 47.1</link>). IgM antibodies are usually detectable 3 to 8 days after onset of illness and persist for 1 to 3 months, although IgM has been detected in some patients months to years after acute infection. A presumptive diagnosis (i. e., probable case) may be possible with just one specimen in the appropriate clinical setting.</para>
+        <figure id="ch0050s0001fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 47.1</emphasis></emphasis> Testing algorithm for the diagnosis of arboviral infections. qRT-PCR, reverse transcription-quantitative PCR. Reprinted from Piantadosi A, Kanjilal S. 2020. <emphasis>J Clin Microbiol</emphasis>58: e 01926-19.</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0050f01.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A flowchart illustrating the diagnostic approach for suspected arboviral infections, starting with serology testing, followed by detection of neutralizing antibodies or other tests, and concluding with confirmation of case status based on laboratory results, including various immunoassays and cellular tests.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <para>Serologic cross-reactivity may occur between arboviruses in the same genus (i. e.,<emphasis>Flavivirus</emphasis>, <emphasis>Alphavirus</emphasis>, and <emphasis>Orthobunyavirus</emphasis>). For example, the California serogroup orthobunyaviruses (e. g., La Crosse, California encephalitis, Jamestown Canyon, Keystone, snowshoe hare, and trivittatus viruses) may cause a positive La Crosse virus serologic result (<link linkend="ch0050s0002bib03">3</link>, <link linkend="ch0050s0002bib03">4</link>). Similarly, flaviviruses like West Nile, St. Louis encephalitis, Powassan, dengue, yellow fever, and Japanese encephalitis viruses may produce cross-reacting antibodies, as may the <emphasis>Alphavirus</emphasis>genus (e. g., Eastern equine encephalitis [EEE], Western equine encephalitis [WEE], Venezuelan equine encephalitis [VEE], and chikungunya viruses). Due to these potential serologic cross-reactions, confirmatory testing should be performed by a public health laboratory using a plaque reduction neutralization test (PRNT) and/or a capture enzyme-linked immunosorbent assay (ELISA) to detect virus-specific neutralizing antibodies.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  The patient’s serologic results (IgM and IgG) for La Crosse virus (<emphasis>Orthobunyavirus</emphasis>) were negative in both serum and CSF, making an infection with the California group encephalitis viruses unlikely. Similarly, results for the two <emphasis>Alphavirus</emphasis> viruses (EEE and WEE) were also negative. The positive results were for St. Louis encephalitis virus IgG in serum and CSF and West Nile virus IgG in serum and CSF. Both St. Louis encephalitis virus and West Nile virus are members of the <emphasis>Flavivirus</emphasis> genus. The IgM results for St. Louis encephalitis virus and West Nile virus were negative, which could indicate a past infection or exposure. Since these serologic results were obtained within weeks of exposure and within a week of symptom onset, it seems unlikely that IgM would have waned so quickly. Given the IgG for these viruses is positive, the explanation cannot be that it is too early in the disease course for IgM to be detectable. Therefore, the patient’s viral encephalitis is probably not due to St. Louis encephalitis virus or West Nile virus, but further studies are needed for other flaviviruses given the potential for cross-reactions. Additional history should be obtained regarding travel and vaccination since other <emphasis>Flavivirus</emphasis> arboviruses include dengue, yellow fever, and Japanese encephalitis viruses, none of which is endemic in the United States. Another potential explanation would be false-positive IgG results due to the IVIG he received. However, this is less likely given other IgG results were not falsely positive.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  Yellow fever is a flavivirus, like St. Louis encephalitis virus and West Nile virus. Therefore, the patient’s previous yellow fever vaccination likely caused the positive IgG results for St. Louis encephalitis virus and West Nile virus <link linkend="ch0050s0002bib05">(5)</link>. This hypothesis could be investigated by performing virus-specific PRNTs for St. Louis encephalitis virus and West Nile virus to determine IgG specificity <link linkend="ch0050s0002bib06">(6)</link>. Serologic cross-reactivity among the <emphasis>Flavivirus</emphasis> members complicates the interpretation of diagnostic testing, which has most notably been described with dengue and Zika viruses (see <ulink url="ch0066.xml#ch0066">case 63</ulink>) <link linkend="ch0050s0002bib07">(7)</link>.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  All the molecular tests performed (metagenomic sequencing, rabies, Zika, chikungunya, dengue) were negative. This is not surprising given the patient was nearly 3 weeks into the disease course, when viral nucleic acid is unlikely to be found in the CSF. To diagnose rabies in humans, multiple tests are needed, including a NAAT performed on saliva and a skin biopsy from the nape of the neck <link linkend="ch0050s0002bib08">(8)</link>. The negative NAAT results, combined with the negative serum IgM and IgG for rabies, rule out this diagnosis. The negative CSF IgM results for Zika, chikungunya, and Jamestown Canyon viruses make these etiologies unlikely, though additional testing for IgG may have been needed if an alternative diagnosis was not made. The EEE virus IgM test, performed by the ELISA method, was positive. However, the patient’s previous EEE virus IgM test (IFA) was negative, and the confirmatory PRNT was negative (&lt;2), which rules out EEE virus in this patient. The EEE virus IgM by ELISA was a false-positive result, which highlights the importance of confirmatory testing. A CSF PRNT titer of &lt;2 is negative, while a titer of ≥2 is considered positive for the virus tested. Therefore, although the Powassan virus IgM test was negative, the PRNT performed was positive. Since PRNT is assessing the specificity of neutralizing antibodies in the specimen (IgM and IgG), it was likely positive due to Powassan virus IgG. This patient was diagnosed with acute encephalitis caused by Powassan virus.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  Metagenomic sequencing is unbiased sequencing using next-generation sequencing (NGS) methods to amplify all the RNA and DNA present in a sample, including host, commensal organism, pathogen, and contaminating nucleic acids <link linkend="ch0050s0002bib09">(9)</link>. To date, metagenomic sequencing (mNGS) is only diagnostically available on CSF and plasma, the latter of which is used for the detection of cell-free DNA associated with a variety of clinical syndromes <link linkend="ch0050s0002bib10">(10)</link>. Although there is no FDA-approved test currently available, mNGS is attractive for the detection and/or the discovery of pathogens that may not have diagnostic methods readily available, including viral causes of encephalitis <link linkend="ch0050s0002bib11">(11)</link>. The ability to simultaneously detect multiple organisms is a benefit of mNGS, especially compared to the piecemeal diagnostics that are generally performed when working up a patient with viral encephalitis. The use of mNGS also allows for the potential to detect resistance genes in the same test. Numerous challenges exist for the routine use of mNGS for clinical infectious disease diagnostics <link linkend="ch0050s0002bib12">(12)</link>. For example, as discussed for NAAT, CSF mNGS is most sensitive early in the disease course. However, it is expensive, which makes it unrealistic to send all CSF from suspected meningitis/encephalitis cases for mNGS, when most cases can be diagnosed with routine NAAT (e. g., HSV and enterovirus). The diagnostic yield of mNGS has been questioned, particularly given concerns for clinical specificity<link linkend="ch0050s0002bib13">(13)</link>. Nonetheless, mNGS is a powerful technology that may assist diagnostic efforts in difficult cases. Unfortunately, in this case mNGS was only performed on the CSF obtained 3 weeks after presentation, so it was not helpful.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  Powassan virus is a member of the larger group of viruses called the arboviruses. The arboviruses include multiple viral genera, but all are transmitted via blood feeding of arthropod vectors, including mosquitoes, biting midges, and ticks. Arboviruses are part of enzootic cycles in which birds and small mammals serve as reservoirs <link linkend="ch0050s0002bib14">(14)</link>. Vectors then transmit the arbovirus through saliva during a blood meal to amplification hosts (birds, nonhuman mammals) or dead-end hosts like humans. For dengue and Zika viruses, humans may also serve as amplification hosts, and human-mosquito-human transmission often leads to epidemics. Because arbovirus transmission relies on seasonal vectors, arboviral disease in humans is also seasonal, primarily occurring from spring to fall when mosquito and tick activity is the highest.</para>
+        <para>Arbovirus-associated disease has been increasing in frequency in part due to climate change and the associated expansion of the geographical distribution of the vectors. Improved diagnostic capability in public health laboratories has likely also contributed to more reportable cases. In 2021, more than 3,000 arboviral cases were reported in the United States, with West Nile virus accounting for 96% of cases<link linkend="ch0050s0002bib15">(15)</link>. Of the reported arboviral cases, 70% were neuroinvasive. In 2023, there were 44 cases of Powassan virus disease, and 43 of them were neuroinvasive. Global arboviruses like dengue, chikungunya, and Zika viruses are increasing in global incidence and have also been increasingly diagnosed in the United States after global travel and sporadic endemic cases in Hawaii, Florida, and Texas <link linkend="ch0050s0002bib16">(16)</link>.</para>
+        <para>Most arboviruses causing disease in the United States are mosquito-borne. Powassan virus is transmitted primarily by the <emphasis>Ixodes scapularis</emphasis> tick. Ticks become infected from small mammals like groundhogs, squirrels, and mice that have viremia <link linkend="ch0050s0002bib17">(17)</link>. Humans become infected after a tick bite, and symptoms may appear 1 to 4 weeks after tick exposure. This patient’s recent late summer outdoor activity in Minnesota is consistent with the epidemiology of Powassan virus. Most patients with tick-borne illness do not recall a tick bite.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  Like other arboviral diseases, Powassan virus infection may be asymptomatic or subclinical, though the incidence of this is unknown <link linkend="ch0050s0002bib18">(18)</link>. In patients who become symptomatic, &gt;95% have neuroinvasive disease. The median age for patients with neuroinvasive disease is 63 to 68 years old. In a published case series of 16 patients with neuroinvasive Powassan virus infection, 38% required intensive care, 19% died within 3 months, and 73% of patients had neurologic sequelae including cognitive impairment <link linkend="ch0050s0002bib19">(19)</link>. Of the 24 Powassan virus cases reported in 2021, 92% were hospitalized and 13% died <link linkend="ch0050s0002bib15">(15)</link>. Powassan virus neuroinvasive disease is associated with high morbidity and mortality. Unfortunately, the disease course and clinical outcome of this patient were consistent with severe neuroinvasive disease with Powassan virus.</para>
+      </sect1>
+      <sect1 id="ch0050s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0050s0003l01" role="decimal">
+          <listitem id="ch0050s0003x28">
+            <para>The CSF obtained from patients with viral meningitis/encephalitis shows a leukocytosis, but the white cell count is lower than the number seen with bacterial meningitis. There is usually a lymphocytic predominance, and CSF glucose and protein are typically normal or slightly elevated.</para>
+          </listitem>
+          <listitem id="ch0050s0003x29">
+            <para>For many viral etiologies of meningitis/encephalitis (e. g., herpes simplex virus, enterovirus), NAATs performed on CSF provide rapid results with high sensitivity. However, arboviral infections have a short viremia, and the sensitivity of CSF NAAT for most arboviruses is low unless used very early in the disease course.</para>
+          </listitem>
+          <listitem id="ch0050s0003x30">
+            <para>The laboratory diagnosis of arboviral encephalitis relies on serologic (IgM and IgG) testing of serum and CSF. Cross-reactivity is common between viruses in the same genus, so confirmatory testing by PRNT may be needed.</para>
+          </listitem>
+          <listitem id="ch0050s0003x31">
+            <para>Metagenomic sequencing of CSF may provide diagnostic value in difficult cases, but sensitivity is highest early in the disease course, and clinical specificity concerns exist.</para>
+          </listitem>
+          <listitem id="ch0050s0003x32">
+            <para>Unlike other arboviruses found in the United States that are mosquito-borne, Powassan virus is tick-borne. Most patients with tick-borne illnesses do not recall a tick bite.</para>
+          </listitem>
+          <listitem id="ch0050s0003x33">
+            <para>Arboviruses are part of an enzootic cycle involving birds and small mammals as reservoirs. Vectors transmit the virus through saliva during a blood meal to amplification hosts (birds, nonhuman mammals) or dead-end hosts like humans.</para>
+          </listitem>
+          <listitem id="ch0050s0003x34">
+            <para>Arbovirus-associated disease has been increasing in frequency worldwide. In the United States, 70% of reported cases are neuroinvasive, and 96% of cases are due to West Nile virus.</para>
+          </listitem>
+          <listitem id="ch0050s0003x35">
+            <para>Powassan virus encephalitis is associated with high morbidity and mortality. More than 95% of patients have neuroinvasive disease, &gt;90% are hospitalized, and 13 to 19% die. More than 70% of patients who survive have neurologic sequelae.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0050s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0050s0002bib01">Tansarli GS, Chapin KC. 2020. Diagnostic test accuracy of the Bio Fire<bibliomisc><superscript>®</superscript></bibliomisc>Film Array<bibliomisc><superscript>®</superscript></bibliomisc> meningitis/encephalitis panel: a systematic review and meta-analysis. <citetitle>Clin Microbiol Infect</citetitle> 26:281–290.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib02">Piantadosi A, Kanjilal S. 2020. Diagnostic approach for arboviral infections in the United States. <citetitle>J Clin Microbiol</citetitle>58: e 01926–19.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib03">Kasbergen LMR, Nieuwenhuijse DF, de Bruin E, Sikkema RS, Koopmans MPG. 2023. The increasing complexity of arbovirus serology: an in-depth systematic review on cross-reactivity. <citetitle>PLoS Negl Trop Dis</citetitle>17: e 0011651.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib04">Centers for Disease Control and Prevention. 8 August 2023. La Crosse encephalitis virus. https://www. cdc. gov/lac/index. html. Accessed 1 April 2024.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib05">Staples JE, Gershman M, Fischer M; Centers for Disease Control and Prevention. 2010. Yellow fever vaccine: recommendations of the Advisory Committee on Immunization Practices (ACIP). <citetitle>MMWR Recomm Rep</citetitle> 59:1–27.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib06">Maeda A, Maeda J. 2013. Review of diagnostic plaque reduction neutralization tests for flavivirus infection. <citetitle>Vet J</citetitle> 195:33–40.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib07">Gaspar-Castillo C, Rodríguez MH, Ortiz-Navarrete V, Alpuche-Aranda CM, Martinez-Barnetche J. 2023. Structural and immunological basis of cross-reactivity between dengue and Zika infections: implications in serosurveillance in endemic regions. <citetitle>Front Microbiol</citetitle> 14:1107496.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib08">Centers for Disease Control and Prevention. 17 May 2024. Rabies symptoms and specimen collection. https://www. cdc. gov/rabies/hcp/suspected-human-rabies. Accessed 13 April 2024.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib09">Miller S, Naccache SN, Samayoa E, Messacar K, Arevalo S, Federman S, Stryke D, Pham E, Fung B, Bolosky WJ, Ingebrigtsen D, Lorizio W, Paff SM, Leake JA, Pesano R, De Biasi R, Dominguez S, Chiu CY. 2019. Laboratory validation of a clinical metagenomic sequencing assay for pathogen detection in cerebrospinal fluid.<citetitle>Genome Res</citetitle> 29:831–842.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib10">Hogan CA, Yang S, Garner OB, Green DA, Gomez CA, Dien Bard J, Pinsky BA, Banaei N. 2021. Clinical impact of metagenomic next-generation sequencing of plasma cell-free DNA for the diagnosis of infectious diseases: a multicenter retrospective cohort study. <citetitle>Clin Infect Dis</citetitle> 72:239–245.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib11">Gu W, Miller S, Chiu CY. 2019. Clinical metagenomic next-generation sequencing for pathogen detection. <citetitle>Annu Rev Pathol</citetitle> 14:319–338.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib12">Miller S, Chiu C, Rodino KG, Miller MB. 2020. Point-Counterpoint: Should we be performing metagenomic next-generation sequencing for infectious disease diagnosis in the clinical laboratory? <citetitle>J Clin Microbiol</citetitle>58: e 01739–19.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib13">Rodino KG, Toledano M, Norgan AP, Pritt BS, Binnicker MJ, Yao JD, Aksamit AJ, Patel R. 2020. Retrospective review of clinical utility of shotgun metagenomic sequencing testing of cerebrospinal fluid from a U. S. tertiary care medical center.<citetitle>J Clin Microbiol</citetitle>58: e 01729–20.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib14">Campos RK, Rossi SL, Tesh RB, Weaver SC. 2023. Zoonotic mosquito-borne arboviruses: spillover, spillback, and realistic mitigation strategies. <citetitle>Sci Transl Med</citetitle>15: eadj 2166.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib15">Fagre AC, Lyons S, Staples JE, Lindsey N. 2023. West Nile virus and other nationally notifiable arboviral diseases—United States, 2021. <citetitle>MMWR Morb Mortal Wkly Rep</citetitle> 72:901–906.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib16">Soni S, Gill VJS, Anusheel, Singh J, Chhabra J, Gill GJS, Bakshi R. 2023. Dengue, chikungunya, and Zika: the causes and threats of emerging and re-emerging arboviral diseases. <citetitle>Cureus</citetitle>15: e 41717.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib17">Centers for Disease Control and Prevention. 15 May 2024. Transmission of Powassan virus. https://www. cdc. gov/powassan/php/transmission. Accessed 13 August 2024.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib18">Khan M, Beckham JD, Piquet AL, Tyler KL, Pastula DM. 2019. An overview of Powassan virus disease. <citetitle>Neurohospitalist</citetitle> 9:181–182.</bibliomixed>
+        <bibliomixed id="ch0050s0002bib19">Mendoza MA, Hass RM, Vaillant J, Johnson DR, Theel ES, Toledano M, Abu Saleh O. 2024. Powassan virus encephalitis: a tertiary center experience. <citetitle>Clin Infect Dis</citetitle> 78:80–89.</bibliomixed>
+      </bibliography>
+    </chapter>

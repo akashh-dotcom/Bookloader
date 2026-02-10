@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0004" label="4">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor1">CASE 1</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0004s0004"><title>CASE 1</title><para>The patient was a 20-year-old college student who presented to the student health center with complaints of urinary frequency, urgency, lower abdominal pain, and dysuria. She reported that she was in a monogamous sexual relationship and used oral contraceptives but that her partner did not use condoms. She denied any vaginal discharge, fever, or flank pain or tenderness. Her vital signs were within normal limits, with a temperature of 36.9°C. Her physical, including a cervical examination, was unremarkable, but because a cervical examination was done, a cervical swab was obtained to diagnose <emphasis>Chlamydia trachomatis</emphasis> and <emphasis>Neisseria gonorrhoeae</emphasis>. A urine specimen was obtained for urinalysis (<ulink url="ch0004.xml#ch0004s0004fg01">Fig. 1.1</ulink>).</para>
+      <itemizedlist mark="none" role="notesList" id="ch0004s0004l01">
+        <listitem id="ch0004s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What terms describe the findings in the microscopic examination of urine?</para>
+        </listitem>
+        <listitem id="ch0004s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  When these findings are observed, is the pretest probability for a positive urine culture high or low?</para>
+        </listitem>
+        <listitem id="ch0004s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  Should a urine culture be done based on the microscopic urine examination?</para>
+        </listitem>
+        <listitem id="ch0004s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  Although the patient reported that she was in a monogamous sexual relationship, the clinician chose to test her for the most common sexually transmitted infections, <emphasis>C. trachomatis</emphasis> and <emphasis>N. gonorrhoeae</emphasis>. Why was this done? For what other STI should this person be tested?</para>
+        </listitem>
+      </itemizedlist>
+      <figure id="ch0004s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 1.1</emphasis></emphasis> White blood cells (WBCs) and bacteria in urine as seen under a microscope. Courtesy of Steven Fruitsmaak, under license CC BY-SA 3.0. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0004f03.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A microscopic photograph showing white blood cells (WBCs) and bacteria. Labels indicate the presence of bacteria and WBCs in the sample.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0004s0004fg02"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 1.2</emphasis></emphasis>(Left) Sheep blood agar plate. (Right) Mac Conkey agar plate. (From author’s collection.)</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0004f02.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>Two bacterial cultures growing on agar plates, showing colonies of bacteria. Two different agar plates with visible bacterial growth patterns.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <para>A urine culture was performed.</para>
+      <para>The culture obtained from the patient is shown in <ulink url="ch0004.xml#ch0004s0004fg02">Figure 1.2</ulink>. The laboratory reported that the quantity of bacteria in this culture was &gt;100,000 CFU/ml.</para>
+      <itemizedlist mark="none" role="notesList" id="ch0004s0004l02">
+        <listitem id="ch0004s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  Why was a quantitative culture report given? How would you interpret that result?</para>
+        </listitem>
+        <listitem id="ch0004s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  Mac Conkey agar is a differential and selective medium. What does that mean? What can you tell about this organism from the growth on this medium?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Antimicrobial susceptibility testing shows the following results:</para>
+      <table id="ch0004s0004ta01"><title>Table 1</title>
+        
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <tbody>
+            <row>
+              <entry><para>Ampicillin</para>
+              </entry>
+              <entry><para>Resistant</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Cefazolin</para>
+              </entry>
+              <entry><para>Susceptible (predicts cephalexin susceptibility)</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Ceftriaxone</para>
+              </entry>
+              <entry><para>Susceptible</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Nitrofurantoin</para>
+              </entry>
+              <entry><para>Susceptible</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Trimethoprim-sulfamethoxazole</para>
+              </entry>
+              <entry><para>Susceptible</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Gentamicin</para>
+              </entry>
+              <entry><para>Susceptible</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Ciprofloxacin</para>
+              </entry>
+              <entry><para>Susceptible</para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <itemizedlist mark="none" role="notesList" id="ch0004s0004l03">
+        <listitem id="ch0004s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  Which drug would you choose to treat this patient? Explain your choice.</para>
+        </listitem>
+        <listitem id="ch0004s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  Do you think this patient had cystitis or pyelonephritis? Why is it important to distinguish between the two?</para>
+        </listitem>
+        <listitem id="ch0004s0004x09" role="qus1">
+          <para><phrase><emphasis role="strong">9</emphasis></phrase>.  Why are urinary tract infections (UTIs) much more common in young women than in young men? Why is the organism that infected this patient such a frequent cause of UTIs?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0004s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  The presence of white blood cells (WBCs) in urine is called pyuria; the presence of WBCs and bacteria (bacteriuria) in conjunction with the patient’s clinical symptom suggests a UTI <ulink url="ch0004.xml#ch0004s0002bib01">(1)</ulink>.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  The pretest probability of a positive urine culture is high when both WBCs and bacteria are found in urine. One caution, though: STIs can cause pyuria in both men and women. If the urine is not transported properly and is allowed to stay at room temperature for several hours, bacteria that are part of the urethral microflora could grow, causing a false-positive microscopic exam for bacteria and a culture only growing mixed urogenital microbiota. Urine cultures growing mixed normal microbiota can be found in up to 20% of females, so this is not an infrequent occurrence. The visualization of bacteria on microscopic examination in urine has high sensitivity but modest specificity. The important finding in detecting infection is the presence of WBCs.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  If this was the patient’s initial UTI, the physician might choose to treat empirically without even doing a culture, thinking it was unlikely that the patient had an organism with antimicrobial resistance. Other physicians might be more cautious and do a urine culture so they can determine the etiology and receive the results of antimicrobial susceptibility testing.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  The signs and symptoms of both <emphasis>C. trachomatis</emphasis> and <emphasis>N. gonorrhoeae</emphasis>—frequency, dysuria, pyuria, and lower abdominal pain—are similar to those of a UTI. Since she is younger than 25 years old, sexually active, and does not use condoms, the CDC recommends that she be screened for these two STIs <ulink url="ch0004.xml#ch0004s0002bib02">(2)</ulink>. Both can cause pelvic inflammatory disease (PID). PID can jeopardize her reproductive health due to fallopian tube scarring, resulting in ectopic pregnancy or sterility. In addition, the CDC recommends that all individuals between 16 and 64 know their human immunodeficiency virus status. There is no evidence that this testing was done.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  Precise quantification of bacteria by culture is used most frequently when culturing urine. Urine is not sterile, so the presence of low numbers of bacteria would have a low positive predictive value for infection. A count of a single type of bacteria of &gt;100,000 CFU/ml has a high positive predictive value for UTIs. Accurate colony counts are dependent upon two important preanalytical steps prior to culture. One is the collection of a midstream culture, such that resident urethral microbiota are “washed out” before collection of urine into the specimen transport device, and the other is appropriate transport and handling of the urine specimen after collection. Because bacteria can reproduce in urine at room temperature, two approaches can be used to ensure proper transport/handling.</para>
+        <orderedlist id="ch0004s0001l04" role="lower-roman">
+          <listitem id="ch0004s0001x10">
+            <para>The specimen can be sent directly to the laboratory and plated within 2 hours of collection.</para>
+          </listitem>
+          <listitem id="ch0004s0001x11">
+            <para>Specimens can be refrigerated at 4°C until cultured, since most common organisms that cause UTI will survive for 24 hours at that temperature<ulink url="ch0004.xml#ch0004s0002bib03">(3)</ulink>.</para>
+          </listitem>
+        </orderedlist>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  Specimens can be transported to the laboratory in tubes containing preservatives that do not allow the organisms to replicate but maintain the viability and quantity of the organisms <ulink url="ch0004.xml#ch0004s0002bib04">(4)</ulink>. Simply put, organism numbers remain essentially the same when stored in the tube containing preservatives. Mac Conkey agar is a selective (grows only Gram-negative organisms) and differential medium. A differential medium can separate organisms into different groups based on some phenotypic characteristic. Mac Conkey agar differentiates organisms that ferment lactose (pink colonies) and those that do not (clear colonies).</para>
+        <para>The pink colonies seen on the Mac Conkey plate (<ulink url="ch0004.xml#ch0004s0004fg02">Fig. 1.2</ulink>) indicate that the patient is infected with a lactose-fermenting organism. Three genera that are lactose fermenters are commonly recovered from the urine of patients with UTIs: <emphasis>Klebsiella</emphasis>, <emphasis>Escherichia</emphasis>, and <emphasis>Enterobacter</emphasis>. They are often referred to as “KEE” organisms. The one most frequently associated with UTIs is <emphasis>Escherichia coli</emphasis>. In young, sexually active women, such as this patient, it may be responsible for as many as 80% of community-acquired UTIs.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  Antimicrobial resistance is uncommon in an individual who does not have a history of a UTI. Since the patient is uncomfortable but not seriously ill, she should be treated on an outpatient basis. Specifically, she should be treated with an antimicrobial agent that can be given orally. There are four antimicrobials—cefazolin, nitrofurantoin, trimethoprim-sulfamethoxazole, and ciprofloxacin—to which the organism is reported to be susceptible and have an oral option. These antimicrobials will reach high concentrations in the bladder. Which agent the clinician chooses should be based on several factors <ulink url="ch0004.xml#ch0004s0002bib05">(5)</ulink>. First, will the patient tolerate the antimicrobial chosen? For example, patients are more likely to have allergies to β-lactams (e. g., cephalexin) and sulfa-containing drugs (e. g., trimethoprim-sulfamethoxazole). Second, how likely will the patient be compliant with the recommended antimicrobial course? The shorter the antimicrobial course and the less complicated the dosing regimen, the greater the compliance. In an uncomplicated UTI as seen in this case, the simplest course and dosing regimen is a single oral dose of fosfomycin. A 3-day course of nitrofurantoin, trimethoprim-sulfamethoxazole, or ciprofloxacin is recommended while a 5-day course is recommended for an oral cephalosporin. The third factor to consider is the impact of the agents on antimicrobial resistance. Resistance to common urinary pathogens is unusual with both fosfomycin and nitrofurantoin but can be problematic with both trimethoprim/sulfamethoxazole and ciprofloxacin. However, efficacy may be greater with a short course of trimethoprim/sulfamethoxazole compared to nitrofurantoin. Fosfomycin may not be active against some common UTI pathogens. Fourth, ciprofloxacin disrupts the gut microbiome more than nitrofurantoin, trimethoprim/sulfamethoxazole, or fosfomycin, placing the patient at risk for <emphasis>Clostridiodes difficile</emphasis> infection. Fifth, both ciprofloxacin and trimethoprim/sulfamethoxazole are broader spectrum than the other two agents. There is concern that the widespread use of ciprofloxacin and trimethoprim/sulfamethoxazole to treat UTIs, which are among the most frequently treated infections, contributes to an increased “resistome,” a term used to describe all antimicrobial resistance genes among both pathogenic and nonpathogenic organisms <ulink url="ch0004.xml#ch0004s0002bib06">(6)</ulink>. In addition, care providers may choose drugs based on their experience in treating specific patient populations in specific clinical scenarios.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  The lack of fever and flank pain or tenderness is strong evidence that this patient had a lower UTI or cystitis. Cystitis is generally treated with a short course of oral antimicrobial (see <phrase>answer to question 7</phrase>) on an outpatient basis <ulink url="ch0004.xml#ch0004s0002bib05">(5)</ulink>. Patients with pyelonephritis require more-prolonged antimicrobial therapy <ulink url="ch0004.xml#ch0004s0002bib07">(7)</ulink>. Oral ciprofloxacin (7 days) or trimethoprim-sulfamethoxazole (14 days) is commonly used. In more severe cases of pyelonephritis, intravenous antimicrobials may be used. The choice of antimicrobial should be based on the causative organism’s antimicrobial susceptibility and the pharmacokinetics of the active antimicrobials. Once the patient has improved clinically and if the organism is susceptible to an oral cephalosporin, fluoroquinolone, or trimethoprim-sulfamethoxazole, the patient can complete therapy using oral agents. Patients with pyelonephritis should not be treated with nitrofurantoin, because the drug penetrates poorly into the kidney, the site of infection.</para>
+        <para role="ans1"><emphasis role="strong">9.</emphasis>  Approximately 85% of UTIs occur in women, with young, sexually active women having the highest rate of UTIs. The proximity of the female urethra to the anus allows particular strains of uropathogenic <emphasis>E. coli</emphasis> found in the gut microbiota to colonize the periurethral epithelium <ulink url="ch0004.xml#ch0004s0002bib08">(8)</ulink>.</para>
+        <para>Uropathogenic <emphasis>E. coli</emphasis> are highly adapted for causing UTIs and produce specific adhesins called type 1 pili that mediate binding to the periurethral epithelium. Sexual activity is thought to enhance, although is not required for, binding to the urethra. Once bound to the urethra, the organism can ascend to the bladder, where it can bind to the umbrella cells, epithelial cells on the bladder lumen. Uropathogenic <emphasis>E. coli</emphasis> strains also produce two other important virulence factors, α-hemolysin, a cytotoxin that lyses epithelial cells, releasing nutrients to support the growth of the bacteria; and siderophores, molecules that scavenge iron, a key nutrient required for bacterial enzyme systems.</para>
+      </sect1>
+      <sect1 id="ch0004s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0004s0003l05" role="decimal">
+          <listitem id="ch0004s0003x20">
+            <para>Screening for the presence of white blood cells (pyuria) in urine is a sensitive test for UTIs. However, because STIs caused by <emphasis>C. trachomatis</emphasis> and <emphasis>N. gonorrhoeae</emphasis> may also cause pyuria, it is not highly specific. Patients with pyuria have an increased pretest probability for a UTI (and STIs).</para>
+          </listitem>
+          <listitem id="ch0004s0003x21">
+            <para>Because urine is cultured quantitatively to determine if the patient has a UTI, urine must be transported promptly for culture or preserved either chemically or by refrigeration if transport over distance is required, as in transport to a distant central laboratory, for example.</para>
+          </listitem>
+          <listitem id="ch0004s0003x22">
+            <para>Most UTIs are caused by a small group of organisms that normally reside in the gastrointestinal tract. These include <emphasis>E. coli</emphasis>, <emphasis>Klebsiella</emphasis>, <emphasis>Enterobacter</emphasis>, and <emphasis>Enterococcus</emphasis>. These four groups of organisms are responsible for ~90% of outpatient UTIs.</para>
+          </listitem>
+          <listitem id="ch0004s0003x23">
+            <para>The most common agents of UTIs are a specific group of <emphasis>E. coli</emphasis>strains that are adapted to cause these infections, referred to as uropathogenic strains. On a Mac Conkey agar plate, a standard medium used to culture urine, the vast majority of <emphasis>E. coli</emphasis> isolates are lactose fermenters (colonies have a pink color due to lactose fermentation).</para>
+          </listitem>
+          <listitem id="ch0004s0003x24">
+            <para>Antimicrobials that can be given orally and concentrate in the urine are typically prescribed for UTIs. Common antimicrobials used for cystitis (uncomplicated UTI) are trimethoprim-sulfamethoxazole, sulfonamides, ampicillin/amoxicillin, fluoroquinolones, cephalexin, and nitrofurantoin. The drug chosen for treatment should be based on the organism’s susceptibility, whether the patient has a history of allergies or other intolerance to the drug, its impact on the microbiome and selection of antimicrobial resistance, and the drug’s cost and availability.</para>
+          </listitem>
+          <listitem id="ch0004s0003x25">
+            <para>UTIs are most common in sexually active women under 30 years of age. It is estimated that up to 80% of all UTIs are seen in this demographic group.</para>
+          </listitem>
+          <listitem id="ch0004s0003x26">
+            <para>Uropathogenic <emphasis>E. coli</emphasis> strains produce adhesins that bind specifically to periurethral, urethral, and bladder epithelial cells. These organisms also produce two other virulence factors important in nutrient acquisition: α-hemolysin, a cytotoxic protein that lyses epithelial cells; and siderophores, which scavenge iron, needed for bacterial enzyme systems.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0004s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0004s0002bib01">Claeys KC, Trautner BW, Leekha S, Coffey KC, Crnich CJ, Diekema DJ, Fakih MG, Bidwell Goetz M, Gupta K, Jones MM, Leykum L, Liang SY, Pineles L, Pleiss A, Spivak ES, Suda KJ, Taylor JM, Rhee C, Morgan DJ. 2022. Optimal urine culture diagnostic stewardship practice—results from an expert modified-delphi procedure. <citetitle>Clin Infect Dis</citetitle> 75:382–389.</bibliomixed>
+        <bibliomixed id="ch0004s0002bib02">Centers for Disease Control and Prevention. 18 June 2024. Clinical guidance for STIs. https://www. cdc. gov/sti/hcp/clinical-guidance.</bibliomixed>
+        <bibliomixed id="ch0004s0002bib03">La Rocco MT, Franek J, Leibach EK, Weissfeld AS, Kraft CS, Sautter RL, Baselski V, Rodahl D, Peterson EJ, Cornish NE. 2016. Effectiveness of preanalytic practices on contamination and diagnostic accuracy of urine cultures: a laboratory medicine best practices systematic review and meta-analysis.<citetitle>Clin Microbiol Rev</citetitle> 29:105–147.</bibliomixed>
+        <bibliomixed id="ch0004s0002bib04">Lauer BA, Reller LB, Mirrett S. 1979. Evaluation of preservative fluid for urine collected for culture. <citetitle>J Clin Microbiol</citetitle> 10:42–45.</bibliomixed>
+        <bibliomixed id="ch0004s0002bib05">Abbott IJ, Peel TN, Cairns KA, Stewardson AJ. 2023. Antibiotic management of urinary tract infections in the post-antibiotic era: a narrative review highlighting diagnostic and antimicrobial stewardship. <citetitle>Clin Microbiol Infect</citetitle> 29:1254–1266.</bibliomixed>
+        <bibliomixed id="ch0004s0002bib06">Kim DW, Cha CJ. 2021. Antibiotic resistome from the One-Health perspective: understanding and controlling antimicrobial resistance transmission. <citetitle>Exp Mol Med</citetitle> 53:301–309.</bibliomixed>
+        <bibliomixed id="ch0004s0002bib07">Johnson JR, Russo TA. 2018. Acute pyelonephritis in adults. <citetitle>N Engl J Med</citetitle> 378:48–59.</bibliomixed>
+        <bibliomixed id="ch0004s0002bib08">Flores-Mireles AL, Walker JN, Caparon M, Hultgren SJ. 2015. Urinary tract infections: epidemiology, mechanisms of infection and treatment options. <citetitle>Nat Rev Microbiol</citetitle> 13:269–284.</bibliomixed>
+      </bibliography>
+    </chapter>

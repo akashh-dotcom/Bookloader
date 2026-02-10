@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0035" label="35">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor3">CASE 32</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0035s0004"><title>CASE 32</title><para>A 56-year-old male presented with an opiate overdose. He was given naloxone (Narcan) by a bystander and brought to the emergency department (ED). Upon discharge from the ED, he was referred for treatment for polysubstance use disorder.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0035s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  The opioid epidemic has led to an increasing number of infectious complications. What infections are patients with intravenous drug use disorder at risk of acquiring?</para>
+        </listitem>
+      </itemizedlist>
+      <para>As part of his medical follow-up during his substance use disorder treatment, the patient was tested for human immunodeficiency virus (HIV), hepatitis B virus (HBV), and hepatitis C virus (HCV). His HIV antigen/antibody combination test and his HBV surface antigen test were negative. However, his HCV antibody test was positive.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0035s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  What is the incidence and natural history of HCV infection?</para>
+        </listitem>
+        <listitem id="ch0035s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  How is HCV transmitted? How did this patient likely get infected? Who should be tested for hepatitis C?</para>
+        </listitem>
+        <listitem id="ch0035s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  The patient’s HCV antibody test was positive. Does this mean he had active infection with HCV? What test is used to determine whether an HCV antibody-positive patient has active or resolved HCV infection? How is this test used in practice?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient’s quantitative HCV nucleic acid amplification test (NAAT) (i. e., viral load) was positive at &gt;10 million IU/ml, indicative of active HCV infection. The patient was treated with 8 weeks of glecaprevir/pibrentasvir (Mavyret) for his HCV infection.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0035s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What therapeutic options are available for HCV treatment? What is the success rate of HCV therapy?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient completed his treatment course and was in remission from his substance use disorder. His HCV viral load was checked at treatment week 4 and was not detected. However, additional viral loads to determine whether he achieved a sustained virologic response (SVR) were not performed. Three years later, he presented at an outside hospital with an alanine aminotransferase (ALT) of 103 U/liter and an aspartate aminotransferase (AST) of 182 U/liter. In addition to his elevated liver function tests, he was determined to have compensated cirrhosis. His HCV viral load was 2.8 million IU/ml.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0035s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What are the possible explanations of the recurrence of HCV infection in this patient? What tests may help in differentiating these possibilities?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient’s initial HCV infection was due to genotype 3. Genotyping and drug resistance testing were performed, and the results are shown in <link linkend="ch0035s0004ta01">Table 32.1</link>. Based on these results, the patient was treated with 12 weeks of sofosbuvir/velpatasvir/voxilaprevir (Vosevi), and his HCV viral load was not detected when assessed for SVR at 12 weeks (SVR12).</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0035s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  How do you interpret the HCV drug resistance testing? What is the likely explanation of his current HCV infection?</para>
+        </listitem>
+      </itemizedlist>
+      <table id="ch0035s0004ta01"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 32.1</emphasis></emphasis> RESULTS FROM HCV GENOTYPIC DRUG RESISTANCE TESTING</emphasis> </title>
+        
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <tbody>
+            <row>
+              <entry>HCV GENOTYPE</entry>
+              <entry>RESULTS</entry>
+            </row>
+            <row>
+              <entry><para>HCV NS3 RAS</para>
+                <para><phrase>
+                    <superscript>
+                      <emphasis>a</emphasis>
+                    </superscript>
+                  </phrase>
+                </para>
+                <itemizedlist id="ch0035s0004l01">
+                  <listitem id="ch0035s0004x08">
+                    <para>Glecaprevir resistance</para>
+                  </listitem>
+                  <listitem id="ch0035s0004x09">
+                    <para>Grazoprevir resistance</para>
+                  </listitem>
+                  <listitem id="ch0035s0004x10">
+                    <para>Voxilaprevir resistance</para>
+                  </listitem>
+                </itemizedlist>
+              </entry>
+              <entry><emphasis role="strong">None</emphasis> <?lb ?>  Not predicted<?lb ?>  Not applicable<?lb ?>  Not predicted</entry>
+            </row>
+            <row>
+              <entry><para>HCV NS5A RAS</para>
+                <itemizedlist id="ch0035s0004l02">
+                  <listitem id="ch0035s0004x11">
+                    <para>Daclatasvir resistance</para>
+                  </listitem>
+                  <listitem id="ch0035s0004x12">
+                    <para>Elbasvir resistance</para>
+                  </listitem>
+                  <listitem id="ch0035s0004x13">
+                    <para>Ledipasvir resistance</para>
+                  </listitem>
+                  <listitem id="ch0035s0004x14">
+                    <para>Pibrentasvir resistance</para>
+                  </listitem>
+                  <listitem id="ch0035s0004x15">
+                    <para>Velpatasvir resistance</para>
+                  </listitem>
+                </itemizedlist>
+              </entry>
+              <entry><emphasis role="strong">A30K</emphasis> <?lb ?>  Predicted<?lb ?>  Not applicable<?lb ?>  Not applicable<?lb ?>  Possible<?lb ?>  Possible</entry>
+            </row>
+            <row>
+              <entry><para>HCV NS5B RAS</para>
+                <itemizedlist id="ch0035s0004l03">
+                  <listitem id="ch0035s0004x16">
+                    <para>Sofosbuvir resistance</para>
+                  </listitem>
+                </itemizedlist>
+              </entry>
+              <entry><emphasis role="strong">None</emphasis> <?lb ?>  Not predicted</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para role="table-footnote"><superscript><emphasis>a</emphasis></superscript>RAS, resistance-associated substitutions (i. e., mutations).</para>
+      </sect1><sect1 id="ch0035s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  Persons who inject drugs (PWIDs) are at risk for several bacterial, fungal, and viral infections <link linkend="ch0035s0002bib01">(1)</link>. Infectious complications range from localized wound infections to systemic disease. Localized skin and soft tissue infections due to organisms on the skin or from the environment are common. These infections are commonly due to staphylococci, streptococci, and environmental Gram-negative bacilli (including <emphasis>Pseudomonas aeruginosa</emphasis> and <emphasis>Serratia marcescens</emphasis>). Further, injectable drugs may be contaminated with organisms that when introduced intravenously cause more severe infections. The contaminating organism may be in the drug supply or introduced through drug emulsion with tap water or lemon juice or by licking needles. These organisms include oral microbiota, fungi, and spore-forming bacteria like <emphasis>Bacillus</emphasis> species and <emphasis>Clostridium</emphasis> species (botulism and tetanus). If bacteria or fungi spread systemically, this may lead to endocarditis due to existing heart valve damage caused by particulate matter from injection drug use. PWIDs are also at risk for acquisition of blood-borne pathogens due to needle sharing, including HIV, HBV, and HCV <link linkend="ch0035s0002bib02">(2)</link>. Outbreaks of HIV and HCV have been described among PWIDs (<link linkend="ch0035s0002bib03">3</link>, <link linkend="ch0035s0002bib04">4</link>).</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>It is estimated that 2 million to 3 million people in the United States are infected with HCV, with ~70% of them chronically infected (i. e., HCV RNA detected in blood)<link linkend="ch0035s0002bib05">(5)</link>. Globally, the incidence of HCV is higher in parts of Asia, Africa, and South America <link linkend="ch0035s0002bib06">(6)</link>. More than 58 million people worldwide are chronically infected with HCV, and 1.5 million new infections occur annually. The number of HCV infections has increased 364% in four states greatly impacted by the opioid epidemic (Kentucky, Tennessee, Virginia, and West Virginia) <link linkend="ch0035s0002bib07">(7)</link>. Beginning in 2018, adults in their 20s and 30s comprised &gt;36% of the newly reported chronic HCV infections, largely due to injection drug use. HCV infection is the leading indication for liver transplantation in the United States.</para>
+        <para>Approximately 15 to 30% of patients with HCV have an asymptomatic or mild infection that resolves spontaneously<link linkend="ch0035s0002bib08">(8)</link>. Rarely, fulminant acute hepatitis with liver failure and death occurs with primary HCV infection, and chronic HBV carriage has been shown to be a risk factor. Acute infection occurs most often in the 20- to 39-year age group. Most individuals (70 to 85%) progress to develop chronic infection that, if left untreated, may evolve over decades from persistent chronic hepatitis to hepatic fibrosis, leading to cirrhosis and potentially to liver failure and/or hepatocellular carcinoma. Both chronic alcohol use and HIV infection may accelerate the natural history of liver disease.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  There are five major modes of transmission recognized for HCV: (i) sharing needles, syringes, or drug-preparing utensils during the injection of drugs; (ii) transfusions of unscreened blood products; (iii) needlestick injuries or mucous membrane exposure of blood from an HCV-infected individual; (iv) sexually; and (v) vertical transmission from mother to baby <link linkend="ch0035s0002bib09">(9)</link>. In addition, HCV has been transmitted by tattooing and body piercing performed in unregulated settings <link linkend="ch0035s0002bib10">(10)</link>. The major mode of HCV transmission in the United States and other industrialized countries is injection drug use. Up to 75% of PWIDs are HCV seropositive <link linkend="ch0035s0002bib11">(11)</link>. Given that this patient was a PWID, he was mostly likely infected by sharing drug paraphernalia with an HCV-infected individual. Prior to 1992 and the development of serologic screening tests for HCV, blood transfusion was a major mode of transmission. With the introduction of nucleic acid testing of blood products in 1999, the incidence of HCV transmission by blood transfusion in the United States has dropped to ~1 in 2 million. Another at-risk group are patients with hemophilia who received clotting factor preparations prior to 1987 (when heat treatment of clotting factor preparations began). Although HCV can be spread sexually, its transmission is inefficient compared with HIV and other sexually transmitted infections, including HBV. As with HIV, sexual transmission is more efficient from males to females, and individuals with multiple partners are at greater risk of infection. Exposure of health care personnel to the blood of HCV-infected individuals via needlestick or sharps injuries or mucous membrane exposures carries a 3% risk of infection, which is 10-fold less than the risk for acquiring HBV infection but 10-fold greater than the risk for acquiring HIV infection. Vertical transmission of HCV from an infected mother occurs infrequently and is more likely from mothers who are concurrently infected with HIV. About 4% of babies born to HCV-positive mothers become infected. The virus does not appear to be transmitted via breast milk.</para>
+        <para>Since many chronically infected individuals are viremic and asymptomatic for years, screening for HCV infection in at-risk populations has become an important tool to prevent transmission. Many HCV-infected persons are not aware of their infection, and 45% do not recall a potential exposure. In 2012, the CDC recommended that all adults born from 1945 to 1965 be tested for HCV independent of risk factors. This population has a disproportionately high prevalence of HCV infection and related disease. Currently, CDC recommends universal hepatitis C screening; all adults ≥18 years old should be screened at least once in their lifetime<link linkend="ch0035s0002bib12">(12)</link>. Further, periodic testing should be performed for at-risk populations. This includes PWIDs, any individual who has been on long-term hemodialysis, and anyone with persistently abnormal AST levels. Further, individuals whose blood was the source in a needlestick or sharps or mucosal exposure should be tested for HCV. If the source person is HCV positive, the exposed health care or public safety worker should be tested and should have follow-up testing at 4 to 6 months. Children born to HCV-positive women should be tested for HCV RNA until 6 months of age. HCV testing can be considered for the following persons, though the need to do so is uncertain: recipients of transplanted tissue, non-injecting illegal drug users, persons with tattoos or body piercings, persons with a history of multiple sexual partners or sexually transmitted infections, and long-term steady sexual partners of HCV-positive persons.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>   The strategy for diagnosing HCV is to detect HCV-specific antibodies by enzyme immunoassay (EIA) followed by a confirmatory test (<link linkend="ch0035s0001fg01">Fig. 32.1</link>). Newer-generation EIA tests are highly sensitive, detecting about 97% of HCV-infected patients and becoming positive by 8 weeks postinfection. Since serologic tests detect total anti-HCV (immunoglobulin M [IgM] and IgG), they cannot distinguish between acute, chronic, or resolved infections. Specificities for serologic tests range from 94 to 100%; therefore, confirmatory testing is recommended. The CDC recommends that EIA-positive specimens be tested for HCV RNA to determine the status of infection (<link linkend="ch0035s0001fg01">Fig. 32.1</link>) <link linkend="ch0035s0002bib13">(13)</link>. Further, RNA testing can be useful in acute infections before the patient develops an antibody response. However, since most patients present for medical care in the chronic phase of HCV infection, when they are seropositive, detection of HCV RNA is rarely used as a primary diagnostic tool.</para>
+        <para>Quantitative RNA NAATs, or viral loads, are also used to monitor response to therapy. Historically, both qualitative and quantitative tests have been used because the qualitative tests had lower limits of detection than the quantitative tests. However, with real-time PCR, quantitative tests are as sensitive as, or more sensitive than, qualitative tests, detecting as few as 12 IU/ml. Therefore, most laboratories use highly sensitive quantitative real-time NAAT for viral load monitoring. HCV viral load testing is performed at baseline prior to starting therapy and at 12 weeks or more after completion of therapy to determine SVR<link linkend="ch0035s0002bib14">(14)</link>. A “not detected” (i. e., negative) HCV viral load at least 12 weeks after therapy completion (SVR12) is consistent with cure of chronic HCV infection.</para>
+        <figure id="ch0035s0001fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 32.1</emphasis></emphasis> Testing algorithm for the diagnosis of hepatitis C infection. <superscript>1</superscript>If acute HCV infection is suspected, HCV RNA or follow-up serologic testing is recommended. Consider HCV RNA for immunocompromised patients. <superscript>2</superscript>To differentiate past, resolved HCV infection from a false-positive result, consider testing with another serologic assay. Repeat HCV RNA testing if person has been exposed in the past 6 months or has clinical evidence of hepatitis. Adapted from reference 13. </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0035f01.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A flowchart depicting the antibody response to hepatitis C virus (HCV), showing the transition from nonreactive to reactive stages, detection of HCV RNA, and subsequent steps including no further workup, no current infection, or ongoing infection requiring treatment consideration.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  The standard therapy for HCV for many years was combination therapy with pegylated interferon (IFN) α-2a or -2b (PegIFN) and ribavirin. However, in 2011, direct-acting antivirals (DAAs) were first approved by the FDA <link linkend="ch0035s0002bib15">(15)</link>. Multiple classes of DAAs are now available, which have replaced PegIFN/ribavirin therapy. Currently, there are six FDA-approved DAAs for the treatment of HCV, five of which are combination therapies <link linkend="ch0035s0002bib16">(16)</link>. Drug classes include NS5B polymerase inhibitors, NS5A (nonstructural protein) inhibitors, and NS3/4A (protease) inhibitors <link linkend="ch0035s0002bib17">(17)</link>. The therapy this patient received was a combination of two drugs. Glecaprevir is an NS3/4A protease inhibitor, and pibrentasvir is an NS5A inhibitor. It is approved for treatment of all HCV genotypes and for patients without cirrhosis or with compensated cirrhosis. In clinical trials, 95 to 99.7% of patients with genotype 1 or 3 achieved SVR12 with glecaprevir/pibrentasvir <link linkend="ch0035s0002bib18">(18)</link>. In general, the combination DAAs cure &gt;95% of HCV chronic infections <link linkend="ch0035s0002bib19">(19)</link>. Unfortunately, the cost of DAAs is a barrier to equitable access to HCV therapy. The list price for 1 month of glecaprevir/pibrentasvir is $13,200, and it is generally prescribed for 2 months <link linkend="ch0035s0002bib20">(20)</link>.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>The two main possibilities are that (i) his initial HCV infection was not adequately treated or (ii) he was reinfected with HCV. The patient was compliant and completed the full 8 weeks of therapy, but a viral load at least 12 weeks after therapy completion to assess SVR was not performed. Even though his viral load after 4 weeks of therapy was not detected (i. e., rapid virologic response), resistance could have developed during therapy. The most clinically relevant resistance-associated mutations are in NS5A<link linkend="ch0035s0002bib21">(21)</link>. Viruses with mutations in NS5B and NS3/4A exist, but these viruses seem to be less fit. A sequencing-based assay to look for known resistance-associated mutations should be performed on his current HCV RNA-positive specimen. Detection of resistance will not definitively prove his initial HCV infection was inadequately treated, as he could have acquired a new HCV infection with resistance mutations. However, resistance testing is important because it will inform appropriate therapy for his current HCV infection.</para>
+        <para>HCV reinfection (and infection with multiple HCV strains/genotypes) is common in PWIDs<link linkend="ch0035s0002bib22">(22)</link>. Although the patient is said to be in remission from his substance abuse disorder, we cannot rule out that he injected drugs, or had a different exposure, since his last HCV infection. HCV genotyping should be performed with either a NAAT- or sequencing-based assay. Prior to DAA-based therapy, routine HCV genotyping was important for disease prognosis and to predict response to therapy. Although many of the DAAs are approved for all HCV genotypes now, some insurers still require genotyping results. In the United States and Europe, genotype 1 is most common, followed by types 2 and 3. Genotype 4 is found in the Middle East and North Africa, genotype 5 is found in South Africa, and genotype 6 is found in Asia with a high prevalence in Hong Kong. If the patient’s genotype differs between his initial and current HCV infection, then reinfection is likely. However, if they are the same genotype, it still does not rule out reinfection.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  The patient’s current HCV infection, like his initial infection, is due to genotype 3. A resistance mutation was detected in NS5A, which possibly results in a resistant phenotype for pibrentasvir, which was one the drugs in his initial combination therapy. Given that resistance to pibrentasvir is a possibility, he was treated with a triple combination drug that is often used for patients who have failed initial DAA therapy. Two of the three drugs in the combination therapy (sofosbuvir and voxilaprevir) do not have resistance mutations, while one (velpatasvir) might be affected by the NS5A mutation detected. These results do not clarify whether his HCV developed resistance during his initial treatment or if he was reinfected. However, he was tested for HIV and HBV again after his HCV-positive result and was HBV surface antigen positive. His acquisition of HBV since his initial HCV diagnosis and treatment 3 years ago suggests that he likely injected drugs in the interim, which puts him at risk for reinfection with HCV.</para>
+      </sect1>
+      <sect1 id="ch0035s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0035s0003l04" role="decimal">
+          <listitem id="ch0035s0003x39">
+            <para>The opioid epidemic has led to a resurgence of infections associated with persons who inject drugs, including localized skin infections, disseminated infections from contaminated water or drug supply, endocarditis, and infections due to blood-borne pathogens (HIV, HBV, and HCV).</para>
+          </listitem>
+          <listitem id="ch0035s0003x40">
+            <para>HCV leads to chronic infection in ~70% of people who are infected and is the leading cause of liver transplantation in the United States. Untreated, HCV may lead to hepatic fibrosis, cirrhosis, and liver failure and/or hepatocellular carcinoma.</para>
+          </listitem>
+          <listitem id="ch0035s0003x41">
+            <para>HCV may be transmitted by shared drug paraphernalia, transfusion of unscreened blood products, needlestick injuries, sexual, or vertical transmission.</para>
+          </listitem>
+          <listitem>
+            <para>The CDC recommends that all adults ≥18 years old be screened for HCV infection at least once in their lifetime. Additional periodic testing should be performed for at-risk populations.</para>
+          </listitem>
+          <listitem id="ch0035s0003x42">
+            <para>Serologic tests for HCV detect total anti-HCV (IgM and IgG), so additional testing like nucleic acid amplification is needed to differentiate between acute, chronic, and resolved infections.</para>
+          </listitem>
+          <listitem id="ch0035s0003x43">
+            <para>HCV quantitative real-time nucleic acid amplification (viral load) is performed at baseline prior to starting therapy and at 12 weeks or more after completion of therapy to determine whether a patient achieved a sustained virologic response, or cure.</para>
+          </listitem>
+          <listitem id="ch0035s0003x44">
+            <para>Multiple classes of direct-acting antivirals are available for the treatment of HCV, which include NS5B polymerase inhibitors, NS5A (nonstructural protein) inhibitors, and NS3/4A (protease) inhibitors. Combination therapy is preferred to prevent the development of resistance.</para>
+          </listitem>
+          <listitem id="ch0035s0003x45">
+            <para>A sequencing-based assay to detect resistance mutations should be performed if a patient does not respond to antiviral therapy. The most clinically relevant resistance-associated mutations are in NS5A.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0035s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0035s0002bib01">Marks LR, Nolan NS, Liang SY, Durkin MJ, Weimer MB. 2022. Infectious complications of injection drug use. <citetitle>Med Clin North Am</citetitle> 106:187–200.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib02">Degenhardt L, Peacock A, Colledge S, Leung J, Grebely J, Vickerman P, Stone J, Cunningham EB, Trickey A, Dumchev K, Lynskey M, Griffiths P, Mattick RP, Hickman M, Larney S. 2017. Global prevalence of injecting drug use and sociodemographic characteristics and prevalence of HIV, HBV, and HCV in people who inject drugs: a multistage systematic review. <citetitle>Lancet Glob Health</citetitle>5: e 1192–e 1207.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib03">Lyss SB, Buchacz K, Mc Clung RP, Asher A, Oster AM. 2020. Responding to outbreaks of human immunodeficiency virus among persons who inject drugs—United States, 2016-2019: perspectives on recent experience and lessons learned.<citetitle>J Infect Dis</citetitle>222(Suppl 5): S239–S249.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib04">Gonsalves GS, Paltiel AD, Thornhill T, De Maria A, Cranston K, Klevens RM, Warren JL. 2023. Patterns of infectious disease associated with injection drug use in Massachusetts.<citetitle>Clin Infect Dis</citetitle> 76:2134–2139.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib05">US Department of Health &amp; Human Services. 7 June 2016. Viral hepatitis in the United States: data and trends. https://www. hhs. gov/hepatitis/learn-about-viral-hepatitis/data-and-trends/index. html. Accessed 5 April 2024.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib06">World Health Organization. 18 July 2023. Hepatitis C. https://www. who. int/news-room/fact-sheets/detail/hepatitis-c. Accessed 5 April 2024.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib07">Zibbell JE, Iqbal K, Patel RC, Suryaprasad A, Sanders KJ, Moore-Moravian L, Serrecchia J, Blankenship S, Ward JW, Holtzman D; Centers for Disease Control and Prevention (CDC). 2015. Increases in hepatitis C virus infection related to injection drug use among persons aged ≤30 years—Kentucky, Tennessee, Virginia, and West Virginia, 2006-2012. <citetitle>MMWR Morb Mortal Wkly Rep</citetitle> 64:453–458.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib08">Hajarizadeh B, Grebely J, Dore GJ. 2013. Epidemiology and natural history of HCV infection. <citetitle>Nat Rev Gastroenterol Hepatol</citetitle> 10:553–562.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib09">Tibbs CJ. 1995. Methods of transmission of hepatitis C. <citetitle>J Viral Hepat</citetitle> 2:113–119.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib10">Shimokura GH, Gully PR. 1995. Risk of hepatitis C virus infection from tattooing and other skin piercing services. <citetitle>Can J Infect Dis</citetitle> 6:235–238.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib11">Harder J, Walter E, Riecken B, Ihling C, Bauer TM. 2004. Hepatitis C virus infection in intravenous drug users. <citetitle>Clin Microbiol Infect</citetitle> 10:768–770.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib12">Schillie S, Wester C, Osborne M, Wesolowski L, Ryerson AB. 2020. CDC recommendations for hepatitis C screening among adults—United States, 2020. <citetitle>MMWR Recomm Rep</citetitle> 69:1–17.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib13">Centers for Disease Control and Prevention. 2013. Recommended testing sequence for identifying current hepatitis C virus (HCV) infection. https://www. cdc. gov/hepatitis/hcv/pdfs/hcv_flow. pdf. Accessed 5 April 2024.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib14">American Association for the Study of Liver Diseases, Infectious Diseases Society of America. 19 December 2023. Monitoring patients who are starting HCV treatment, are on treatment, or have completed therapy. https://www. hcvguidelines. org/evaluate/monitoring. Accessed 5 April 2024.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib15">Martinello M, Solomon SS, Terrault NA, Dore GJ. 2023. Hepatitis C. <citetitle>Lancet</citetitle> 402:1085–1096.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib16">Hepatitis C Online. 2024. HCV medications. https://www. hepatitisc. uw. edu/page/treatment/drugs. Accessed 5 April 2024.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib17">Santander Ballestín S, Gómez Martín D, Lorente Pérez S, Luesma Bartolomé MJ. 2021. Hepatitis C: a pharmacological therapeutic update. <citetitle>J Clin Med</citetitle> 10:1568.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib18">Zeuzem S, Foster GR, Wang S, Asatryan A, Gane E, Feld JJ, Asselah T, Bourlière M, Ruane PJ, Wedemeyer H, Pol S, Flisiak R, Poordad F, Chuang WL, Stedman CA, Flamm S, Kwo P, Dore GJ, Sepulveda-Arzola G, Roberts SK, Soto-Malave R, Kaita K, Puoti M, Vierling J, Tam E, Vargas HE, Bruck R, Fuster F, Paik SW, Felizarta F, Kort J, Fu B, Liu R, Ng TI, Pilot-Matias T, Lin CW, Trinh R, Mensa FJ. 2018. Glecaprevir-pibrentasvir for 8 or 12 weeks in HCV genotype 1 or 3 infection. <citetitle>N Engl J Med</citetitle> 378:354-369.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib19">Asselah T, Marcellin P, Schinazi RF. 2018. Treatment of hepatitis C virus infection with direct-acting antiviral agents: 100% cure? <citetitle>Liver Int</citetitle> 38(Suppl 1):7–13.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib20">Abbvie. 2023. https://www. mavyret. com/cost. Accessed 5 April 2024.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib21">American Association for the Study of Liver Diseases, Infectious Diseases Society of America. 24 October 2022. HCV resistance primer. https://www. hcvguidelines. org/evaluate/resistance. Accessed 5 April 2024.</bibliomixed>
+        <bibliomixed id="ch0035s0002bib22">Cunningham EB, Applegate TL, Lloyd AR, Dore GJ, Grebely J. 2015. Mixed HCV infection and reinfection in people who inject drugs—impact on therapy. <citetitle>Nat Rev Gastroenterol Hepatol</citetitle> 12:218–230.</bibliomixed>
+      </bibliography>
+    </chapter>

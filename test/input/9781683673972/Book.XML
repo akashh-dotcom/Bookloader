@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//RIS Dev//DTD DocBook V4.3 -Based Variant V1.1//EN" "http://LOCALHOST/dtd/V1.1/RittDocBook.dtd" [
+	<!ENTITY pr0001 SYSTEM "pr0001.xml">
+	<!ENTITY pr0002 SYSTEM "pr0002.xml">
+	<!ENTITY pr0003 SYSTEM "pr0003.xml">
+	<!ENTITY pr0004 SYSTEM "pr0004.xml">
+	<!ENTITY dd0001 SYSTEM "dd0001.xml">
+	<!ENTITY pr0005 SYSTEM "pr0005.xml">
+	<!ENTITY ch0001 SYSTEM "ch0001.xml">
+	<!ENTITY ch0002 SYSTEM "ch0002.xml">
+	<!ENTITY ch0003 SYSTEM "ch0003.xml">
+	<!ENTITY ch0004 SYSTEM "ch0004.xml">
+	<!ENTITY ch0005 SYSTEM "ch0005.xml">
+	<!ENTITY ch0006 SYSTEM "ch0006.xml">
+	<!ENTITY ch0007 SYSTEM "ch0007.xml">
+	<!ENTITY ch0008 SYSTEM "ch0008.xml">
+	<!ENTITY ch0009 SYSTEM "ch0009.xml">
+	<!ENTITY ch0010 SYSTEM "ch0010.xml">
+	<!ENTITY ch0011 SYSTEM "ch0011.xml">
+	<!ENTITY ch0012 SYSTEM "ch0012.xml">
+	<!ENTITY ch0013 SYSTEM "ch0013.xml">
+	<!ENTITY ch0014 SYSTEM "ch0014.xml">
+	<!ENTITY ch0015 SYSTEM "ch0015.xml">
+	<!ENTITY ch0016 SYSTEM "ch0016.xml">
+	<!ENTITY ch0017 SYSTEM "ch0017.xml">
+	<!ENTITY ch0018 SYSTEM "ch0018.xml">
+	<!ENTITY ch0019 SYSTEM "ch0019.xml">
+	<!ENTITY ch0020 SYSTEM "ch0020.xml">
+	<!ENTITY ch0021 SYSTEM "ch0021.xml">
+	<!ENTITY ch0022 SYSTEM "ch0022.xml">
+	<!ENTITY ch0023 SYSTEM "ch0023.xml">
+	<!ENTITY ch0024 SYSTEM "ch0024.xml">
+	<!ENTITY ch0025 SYSTEM "ch0025.xml">
+	<!ENTITY ch0026 SYSTEM "ch0026.xml">
+	<!ENTITY ch0027 SYSTEM "ch0027.xml">
+	<!ENTITY ch0028 SYSTEM "ch0028.xml">
+	<!ENTITY ch0029 SYSTEM "ch0029.xml">
+	<!ENTITY ch0030 SYSTEM "ch0030.xml">
+	<!ENTITY ch0031 SYSTEM "ch0031.xml">
+	<!ENTITY ch0032 SYSTEM "ch0032.xml">
+	<!ENTITY ch0033 SYSTEM "ch0033.xml">
+	<!ENTITY ch0034 SYSTEM "ch0034.xml">
+	<!ENTITY ch0035 SYSTEM "ch0035.xml">
+	<!ENTITY ch0036 SYSTEM "ch0036.xml">
+	<!ENTITY ch0037 SYSTEM "ch0037.xml">
+	<!ENTITY ch0038 SYSTEM "ch0038.xml">
+	<!ENTITY ch0039 SYSTEM "ch0039.xml">
+	<!ENTITY ch0040 SYSTEM "ch0040.xml">
+	<!ENTITY ch0041 SYSTEM "ch0041.xml">
+	<!ENTITY ch0042 SYSTEM "ch0042.xml">
+	<!ENTITY ch0043 SYSTEM "ch0043.xml">
+	<!ENTITY ch0044 SYSTEM "ch0044.xml">
+	<!ENTITY ch0045 SYSTEM "ch0045.xml">
+	<!ENTITY ch0046 SYSTEM "ch0046.xml">
+	<!ENTITY ch0047 SYSTEM "ch0047.xml">
+	<!ENTITY ch0048 SYSTEM "ch0048.xml">
+	<!ENTITY ch0049 SYSTEM "ch0049.xml">
+	<!ENTITY ch0050 SYSTEM "ch0050.xml">
+	<!ENTITY ch0051 SYSTEM "ch0051.xml">
+	<!ENTITY ch0052 SYSTEM "ch0052.xml">
+	<!ENTITY ch0053 SYSTEM "ch0053.xml">
+	<!ENTITY ch0054 SYSTEM "ch0054.xml">
+	<!ENTITY ch0055 SYSTEM "ch0055.xml">
+	<!ENTITY ch0056 SYSTEM "ch0056.xml">
+	<!ENTITY ch0057 SYSTEM "ch0057.xml">
+	<!ENTITY ch0058 SYSTEM "ch0058.xml">
+	<!ENTITY ch0059 SYSTEM "ch0059.xml">
+	<!ENTITY ch0060 SYSTEM "ch0060.xml">
+	<!ENTITY ch0061 SYSTEM "ch0061.xml">
+	<!ENTITY ch0062 SYSTEM "ch0062.xml">
+	<!ENTITY ch0063 SYSTEM "ch0063.xml">
+	<!ENTITY ch0064 SYSTEM "ch0064.xml">
+	<!ENTITY ch0065 SYSTEM "ch0065.xml">
+	<!ENTITY ch0066 SYSTEM "ch0066.xml">
+	<!ENTITY ch0067 SYSTEM "ch0067.xml">
+	<!ENTITY ch0068 SYSTEM "ch0068.xml">
+	<!ENTITY ch0069 SYSTEM "ch0069.xml">
+	<!ENTITY ch0070 SYSTEM "ch0070.xml">
+	<!ENTITY ch0071 SYSTEM "ch0071.xml">
+	<!ENTITY ch0072 SYSTEM "ch0072.xml">
+	<!ENTITY ch0073 SYSTEM "ch0073.xml">
+	<!ENTITY gl0001 SYSTEM "gl0001.xml">
+]>
+
+<book id="b001">
+  <bookinfo><isbn>9781683673972</isbn><title>Cases in Medical Microbiology and Infectious Diseases</title><authorgroup><author><personname><firstname>Melissa B.</firstname><surname>Miller</surname></personname></author><author><personname><firstname>Andrea M.</firstname><surname>Prinzi</surname></personname></author><author><personname><firstname>Kyle G.</firstname><surname>Rodino</surname></personname></author><author><personname><firstname>Peter H.</firstname><surname>Gilligan</surname></personname></author></authorgroup><publisher><publishername>American Society for Microbiology and John Wiley &amp; Sons</publishername></publisher><pubdate>2025</pubdate><edition>1st Edition</edition><copyright><year>2024</year><holder>Copyright Holder</holder></copyright></bookinfo>&pr0001;
+  &pr0002;
+  &pr0003;
+  &pr0004;
+  &dd0001;
+  &pr0005;
+  &ch0001;
+  &ch0002;
+  &ch0003;
+  <part id="pt0001">
+    <title><emphasis role="partNumber"><emphasis role="seccolor1">SECTION ONE</emphasis></emphasis><?lb ?> <emphasis role="partTitle"><emphasis role="seccolor1">UROGENITAL TRACT INFECTIONS</emphasis></emphasis></title>
+    &ch0004;
+    &ch0005;
+    &ch0006;
+    &ch0007;
+    &ch0008;
+    &ch0009;
+  </part>
+  <part id="pt0002">
+    <title><emphasis role="partNumber"><emphasis role="seccolor2">SECTION TWO</emphasis></emphasis><?lb ?> <emphasis role="partTitle"><emphasis role="seccolor2">RESPIRATORY TRACT INFECTIONS</emphasis></emphasis></title>
+    &ch0010;
+    &ch0011;
+    &ch0012;
+    &ch0013;
+    &ch0014;
+    &ch0015;
+    &ch0016;
+    &ch0017;
+    &ch0018;
+    &ch0019;
+    &ch0020;
+    &ch0021;
+    &ch0022;
+    &ch0023;
+  </part>
+  <part id="pt0003">
+    <title><emphasis role="partNumber"><emphasis role="seccolor3">SECTION THREE</emphasis></emphasis><?lb ?> <emphasis role="partTitle"><emphasis role="seccolor3">GASTROINTESTINAL TRACT INFECTIONS</emphasis></emphasis></title>
+    &ch0024;
+    &ch0025;
+    &ch0026;
+    &ch0027;
+    &ch0028;
+    &ch0029;
+    &ch0030;
+    &ch0031;
+    &ch0032;
+    &ch0033;
+    &ch0034;
+    &ch0035;
+    &ch0036;
+  </part>
+  <part id="pt0004">
+    <title><emphasis role="partNumber"><emphasis role="seccolor4">SECTION FOUR</emphasis></emphasis><?lb ?> <emphasis role="partTitle"><emphasis role="seccolor4">SKIN AND SOFT TISSUE INFECTIONS</emphasis></emphasis></title>
+    &ch0037;
+    &ch0038;
+    &ch0039;
+    &ch0040;
+    &ch0041;
+    &ch0042;
+    &ch0043;
+    &ch0044;
+  </part>
+  <part id="pt0005">
+    <title><emphasis role="partNumber"><emphasis role="seccolor5">SECTION FIVE</emphasis></emphasis><?lb ?> <emphasis role="partTitle"><emphasis role="seccolor5">CENTRAL NERVOUS SYSTEM INFECTIONS</emphasis></emphasis></title>
+    &ch0045;
+    &ch0046;
+    &ch0047;
+    &ch0048;
+    &ch0049;
+    &ch0050;
+    &ch0051;
+    &ch0052;
+    &ch0053;
+  </part>
+  <part id="pt0006">
+    <title><emphasis role="partNumber"><emphasis role="seccolor6">SECTION SIX</emphasis></emphasis><?lb ?> <emphasis role="partTitle"><emphasis role="seccolor6">SYSTEMIC INFECTIONS</emphasis></emphasis></title>
+    &ch0054;
+    &ch0055;
+    &ch0056;
+    &ch0057;
+    &ch0058;
+    &ch0059;
+    &ch0060;
+    &ch0061;
+    &ch0062;
+  </part>
+  <part id="pt0007">
+    <title><emphasis role="partNumber"><emphasis role="seccolor7">SECTION SEVEN</emphasis></emphasis><?lb ?> <emphasis role="partTitle"><emphasis role="seccolor7">ADVANCED CASES</emphasis></emphasis></title>
+    &ch0063;
+    &ch0064;
+    &ch0065;
+    &ch0066;
+    &ch0067;
+    &ch0068;
+    &ch0069;
+    &ch0070;
+    &ch0071;
+    &ch0072;
+    &ch0073;
+    &gl0001;
+    </part>
+</book>

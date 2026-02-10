@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0051" label="51">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor5">CASE 48</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0051s0004"><title>CASE 48</title><para>The patient was a 29-year-old man, originally from Mozambique, presenting to the emergency department with altered mental status, difficulty communicating, and weakness on the right side of his body. His family reported that over the past couple of weeks he complained of worsening headaches and expressed to them that he was “hearing voices.” The day of presentation, he was found in his home, confused and speaking incoherently. A head computed tomogram (CT) scan was performed; it was remarkable for the presence of a 1-cm ring-enhancing lesion with focal edema in the left temporal lobe (<link linkend="ch0051s0004fg01">Fig. 48.1</link>) and multiple small, thin-walled lesions less than 5 mm in diameter.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0051s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What is the differential diagnosis of this patient’s intracranial process?</para>
+        </listitem>
+        <listitem id="ch0051s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  What diagnostic testing should be performed to investigate the infectious causes on the differential?</para>
+        </listitem>
+      </itemizedlist>
+      <para>A fourth-generation HIV antigen/antibody screen was negative. Testing for <emphasis>Toxoplasma gondii</emphasis> was deferred as the patient had no risk factors for infection. A lumbar puncture was performed that showed normal opening pressure, normal glucose, slightly elevated protein (65 mg/dl), and no white blood cells. Aerobic bacterial and mycobacterial cultures were negative. <emphasis>Taenia solium</emphasis> immunoglobulin G (IgG) antibodies were detected from both cerebrospinal fluid (CSF) and serum. Radiography also showed “rice-grain” calcifications in skeletal muscle (<link linkend="ch0051s0004fg01">Fig. 48.2</link>).</para>
+      <figure id="ch0051s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 48.1</emphasis></emphasis> Head CT. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0051f05.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A scan showing an axial view with areas of abnormal signal intensity, possibly indicating brain pathology or injury.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0051s0004fg02"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 48.2</emphasis></emphasis> Radiograph showing “rice-grain” calcification in soft tissue. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0051f06.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>An X-ray image of a human lower leg showing the tibia and fibula bones clearly visible, with no apparent fractures or abnormalities.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0051s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  What is your interpretation of these results?</para>
+        </listitem>
+        <listitem id="ch0051s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  What is cysticercosis, and how do humans acquire infection?</para>
+        </listitem>
+        <listitem id="ch0051s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  Describe the epidemiology of <emphasis>T. solium</emphasis> infection.</para>
+        </listitem>
+        <listitem id="ch0051s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What is the treatment for neurocysticercosis?</para>
+        </listitem>
+      </itemizedlist>
+      <para>This patient was treated with 14 days of albendazole and corticosteroids. Repeat imaging at the end of therapy showed resolution of all lesions in the brain, and he returned to baseline.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0051s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  How does the infectious cycle of cysticercosis differ from taeniasis (tapeworm infection)?</para>
+        </listitem>
+        <listitem id="ch0051s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  How is taeniasis diagnosed, and how can <emphasis>T. solium</emphasis> be differentiated from <emphasis>Taenia saginata</emphasis>?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0051s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  This patient’s signs and symptoms are consistent with a seizure and postictal neurologic abnormalities. Hearing voices can be explained by the temporal lobe location of the lesion. The presence of multiple intracranial lesions is consistent with a noninfectious process, such as cancer with metastases to the brain, as well as with several infectious processes. Multiple brain lesions would be consistent with central nervous system toxoplasmosis in an immunocompromised host, particularly patients with advanced HIV disease. Central nervous system (CNS) tuberculosis occasionally presents with tuberculomas in the brain. Multiple brain abscesses are another possibility, but none of these possibilities would adequately explain the calcifications seen on radiologic examination. Cysticercosis, a parasitic infection due to the larval form of the cestode <emphasis>T. solium</emphasis>, would be compatible with the findings on imaging and present in this fashion.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  An HIV antigen/antibody screen should be performed to assess the patient’s HIV status and determine the risk of toxoplasmosis, as this patient had no other clear immunosuppressive conditions that would point to such an infection. CSF should be obtained. The fluid should be cultured for aerobic bacteria, and a high-volume (&gt;5 ml) culture should be performed for mycobacteria. While culture is the gold standard diagnostic test for tuberculous meningitis, it is time-consuming and may take weeks before a diagnosis is made. A nucleic acid amplification test (NAAT) for <emphasis>Mycobacterium tuberculosis</emphasis> may provide a more rapid detection, but is less sensitive than culture and should, therefore, not be used as a single test to rule out CNS tuberculosis <link linkend="ch0051s0002bib01">(1)</link>. NAAT can also be performed from CSF for detection of <emphasis>Toxoplasma gondii</emphasis>. Alternatively, serology is available from both CSF and serum, but it should be noted that absence of IgG or IgM antibodies does not rule out toxoplasmosis. Particularly in patients with advanced HIV disease, a population at highest risk for toxoplasmosis, serologic testing can be negative in a quarter of cases <link linkend="ch0051s0002bib02">(2)</link>. Serology is also the diagnostic modality of choice for detecting IgG antibodies in cases of cysticercosis. Both CSF and serum should be sent for <emphasis>T. solium</emphasis> serology in the setting of suspected neurocysticercosis. <emphasis>T. solium</emphasis>antigen detection and molecular testing are available at select esoteric testing laboratories, e. g., NIH, and such testing may be beneficial in monitoring response to therapy<link linkend="ch0051s0002bib03">(3)</link>.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  The imaging is consistent with cysticerci in the brain parenchyma, and the detection of <emphasis>T. solium</emphasis> IgG antibodies is highly supportive in diagnosing neurocysticercosis. These two findings alone would qualify as a definitive diagnosis using the revised diagnostic criteria Del Brutto and colleagues outlined in 2017 <link linkend="ch0051s0002bib04">(4)</link>. Neurocysticercosis is subcategorized as parenchymal, as in this case, and extraparenchymal, where cysticerci are found in the ventricles and other locations. In the parenchymal form of disease, cysticerci lodge in small vessels and form cysts. When these larval forms eventually die, calcification occurs around the degenerating larval form. In most infected patients, the natural history of disease is believed to be the development of parenchymal cysts, death of the larvae, and resolution of the cysts without clinical symptoms. Seizures may occur in a subset of patients, probably &lt;10%. These seizures are thought to be triggered by an inflammatory reaction that occurs in response to the release of antigens from the dying larvae. Seizures are more common in patients who have multiple cysts. They may also occur in patients with larval-associated calcifications, although the exact reason for these seizures is unknown. Extraparenchymal infections are the much less common form of the disease <link linkend="ch0051s0002bib05">(5)</link>. In this form of the disease, cysts are most frequently found in the brain ventricles and may cause mechanical obstruction of CSF flow, resulting in hydrocephalus and inflammation with the potential for brain herniation. Patients with this form of the disease typically do not have seizures but rather symptoms associated with hydrocephalus, such as headache, nausea, dizziness, and vomiting. Surgical intervention is needed to relieve the hydrocephalus and surgically remove any cysts. This form of the disease carries higher mortality and complications with therapy. “Rice-grain” calcifications in skeletal muscle are a feature that is pathognomonic for cysticercosis. The other CSF findings for this patient, while mild, are not inconsistent with neurocysticercosis. Patients often have elevated protein levels and mononuclear pleocytosis <link linkend="ch0051s0002bib06">(6)</link>. Increased presence of eosinophils in the CSF can be a clue for this infection, but it was not seen in this patient as no nucleated cells were detected in the CSF.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  Cysticercosis is an infection with <emphasis>T. solium</emphasis>, a cestode, in which the human serves as the intermediate host. To become infected at this stage, the human must consume <emphasis>T. solium</emphasis> embryonated eggs (<link linkend="ch0051s0001fg03">Fig. 48.3</link>). Exposure most commonly occurs by ingesting water or food contaminated with fecal material of an individual infected with the adult <emphasis>T. solium</emphasis> tapeworm, or by autoinfection, where an individual with taeniasis is ingesting eggs from contamination with their own fecal material. The oncospheres hatch in the intestines, enter circulation, and can form cysticerci in a variety of tissues, including the brain, eyes, and skeletal muscles.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  Distribution of <emphasis>T. solium</emphasis> is worldwide, with the densest concentration of infections occurring in Latin and South America, sub-Saharan Africa, and Southeast Asia <link linkend="ch0051s0002bib05">(5)</link>. Risk of infection is associated with contact with pigs and poor sanitation. The World Health Organization estimates that 2 million to 8 million people are living with neurocysticercosis worldwide <link linkend="ch0051s0002bib07">(7)</link>.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  Infectious Diseases Society of America and American Society of Tropical Medicine and Hygiene guidelines for the treatment of neurocysticercosis vary slightly depending on the form of the disease, number and viability of cysts, and symptoms <link linkend="ch0051s0002bib08">(8)</link>. Albendazole as monotherapy or in combination with praziquantel for 10 to 14 days are the two most common antiparasitic regimens. Corticosteroids should be given in conjunction with antiparasitic therapy to reduce the likelihood of inflammatory-driven complications in response to the degeneration of cysticerci. In patients presenting with seizures, antiepileptics can be given as well.</para>
+        <figure id="ch0051s0001fg03"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 48.3</emphasis></emphasis> <emphasis>T. solium</emphasis> life cycle. Cysticercosis (blue arrow). Taeniasis (red arrows). Source: CDC DPDx (<ulink url="https://www.cdc.gov/dpdx/cysticercosis/modules/Cysticercosis_LifeCycle_lg.jpg">https://www. cdc. gov/dpdx/cysticercosis/modules/Cysticercosis_Life Cycle_lg. jpg</ulink>). </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0051f07.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A diagram illustrating the life cycle of Taenia solium, showing stages from eggs or gravid proglottids in feces to infection in humans and pigs, including ingestion of eggs, development of cysticerci in tissues, and human cysticercosis and taeniasis, with indicators for infective and diagnostic stages.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  <emphasis>T. solium</emphasis> is the only <emphasis>Taenia</emphasis> species that can result in cysticercosis. However, all human-infecting <emphasis>Taenia</emphasis> species can cause taeniasis. <emphasis>T. solium</emphasis>, <emphasis>T. saginata</emphasis> (the beef tapeworm), and <emphasis>T. asiatica</emphasis> can all be acquired through the consumption of undercooked meat from an infected intermediate host (<link linkend="ch0051s0001fg03">Fig. 48.3</link>), most commonly pigs for <emphasis>T. solium</emphasis> and <emphasis>T. asiatica</emphasis> or cattle for <emphasis>T. saginata</emphasis>. In this infectious cycle, the human serves as a definitive host. Undercooked meat containing <emphasis>Taenia</emphasis> cysticerci excyst in the small intestine. The scolex (head) of the immature tapeworm embeds in the lumen of the small intestine, where it grows through the addition of individual body segments (proglottids). The proglottids mature into independent sexually mature body segments containing thousands of eggs each. The host infected with the tapeworm can excrete eggs or entire proglottids into the environment, which can continue the life cycle.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  Diagnosis of taeniasis relies upon ova and parasite examination of stool <link linkend="ch0051s0002bib09">(9)</link>. Individuals harboring a tapeworm excrete eggs, and sometimes entire proglottid segments, in their feces. <emphasis>Taenia</emphasis> eggs are 30 to 35 μm in diameter, radially striated, and identical among species (<link linkend="ch0051s0001fg04">Fig. 48.4</link>). For species differentiation, two approaches are possible. The first is microscopic examination of the scolex <link linkend="ch0051s0002bib09">(9)</link>. The scolex of <emphasis>T. solium</emphasis> includes an armed rostellum (crown of hooklets) and four suckers, while the scolex of <emphasis>T. saginata</emphasis> lacks a rostellum and only includes four suckers. However, finding the scolex to examine is uncommon. The more common option for species differentiation is examination of a mature proglottid to count uterine branches originating from the uterine stem <link linkend="ch0051s0002bib09">(9)</link>. Branches are counted on one side and only count if emanating directly from the stem; secondary branches are not counted. <emphasis>T. solium</emphasis> proglottids have 7 to 13 uterine branches, while <emphasis>T. saginata/asiatica</emphasis> proglottids have 12 to 30 uterine branches. Therefore, &lt;12 branches is consistent with <emphasis>T. solium</emphasis> and &gt;14 branches with <emphasis>T. saginata</emphasis>/<emphasis>asiatica</emphasis>.</para>
+        <figure id="ch0051s0001fg04"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 48.4</emphasis></emphasis> <emphasis>Taenia</emphasis> sp. eggs. Image courtesy of Heather Morris, MT(ASCP). </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0051f04.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A microscopic photograph showing two oval-shaped cysts or eggs with dark centers, possibly indicating parasitic organisms or stages of development.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+      </sect1>
+      <sect1 id="ch0051s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0051s0003l01" role="decimal">
+          <listitem id="ch0051s0003x18">
+            <para><emphasis>T. solium</emphasis> is a cestode (tapeworm), and the only <emphasis>Taenia</emphasis> species that can infect humans as an intermediate host, causing cysticercosis.</para>
+          </listitem>
+          <listitem id="ch0051s0003x19">
+            <para>Cysticercosis refers to the encysting of <emphasis>T. solium</emphasis> larvae in tissues, which can include the brain, eyes, and skeletal muscles. Cysticerci in the brain is referred to as neurocysticercosis.</para>
+          </listitem>
+          <listitem id="ch0051s0003x20">
+            <para>Diagnosis of neurocysticercosis relies on imaging consistent with cysticerci in the brain and compatible exposure history. Detection of <emphasis>T. solium</emphasis> IgG antibodies in the serum or CSF supports the diagnosis in patients with other findings consistent with the disease.</para>
+          </listitem>
+          <listitem id="ch0051s0003x21">
+            <para>Cysticercosis is found worldwide where humans are exposed to pigs in areas with poor sanitation, with most infections occurring in Latin and South America, sub-Saharan Africa, and Southeast Asia.</para>
+          </listitem>
+          <listitem id="ch0051s0003x22">
+            <para>Treatment of cysticercosis includes an antiparasitic: albendazole as monotherapy or in combination with praziquantel. Antiparasitics should be given in conjunction with corticosteroids to reduce the likelihood of inflammatory response-induced complications. If the patient presents with seizures, antiepileptics should be given.</para>
+          </listitem>
+          <listitem id="ch0051s0003x23">
+            <para>Intestinal taeniasis occurs when humans serve as the definitive host. This form, resulting in an intestinal tapeworm, can occur with all <emphasis>Taenia</emphasis> species and is acquired through ingesting undercooked meat containing cysticerci.</para>
+          </listitem>
+          <listitem id="ch0051s0003x24">
+            <para>Diagnosis of taeniasis is made through detecting eggs or proglottids shed in stool. Eggs of all <emphasis>Taenia</emphasis> species appear identical, so species differentiation can only be accomplished by examining the scolex or mature proglottid.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0051s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0051s0002bib01">Ssebambulidde K, Gakuru J, Ellis J, Cresswell FV, Bahr NC. 2022. Improving technology to diagnose tuberculous meningitis: are we there yet? <citetitle>Front Neurol</citetitle> 13:892224.</bibliomixed>
+        <bibliomixed id="ch0051s0002bib02">Miller JM, Binnicker MJ, Campbell S, Carroll KC, Chapin KC, Gonzalez MD, Harrington A, Jerris RC, Kehl SC, Leal SM Jr, Patel R, Pritt BS, Richter SS, Robinson-Dunn B, Snyder JW, Telford S 3rd, Theel ES, Thomson RB Jr, Weinstein MP, Yao JD. 2024. Guide to utilization of the microbiology laboratory for diagnosis of infectious diseases: 2024 update by the Infectious Diseases Society of America (IDSA) and the American Society for Microbiology (ASM). <citetitle>Clin Infect Dis</citetitle>Mar 5: ciae 104.</bibliomixed>
+        <bibliomixed id="ch0051s0002bib03">American Society of Tropical Medicine and Hygiene. 16 April 2024. Non-CDC options for molecular and serologic testing for parasitic diseases. https://www. astmh. org/blog/april-2022/non-cdc-options-for-molecular-and-serologic-testin.</bibliomixed>
+        <bibliomixed id="ch0051s0002bib04">Del Brutto OH, Nash TE, White AC Jr, Rajshekhar V, Wilkins PP, Singh G, Vasquez CM, Salgado P, Gilman RH, Garcia HH. 2017. Revised diagnostic criteria for neurocysticercosis. <citetitle>J Neurol Sci</citetitle> 372:202–210.</bibliomixed>
+        <bibliomixed id="ch0051s0002bib05">Nash TE, Garcia HH. 2011. Diagnosis and treatment of neurocysticercosis. <citetitle>Nat Rev Neurol</citetitle> 7:584–594.</bibliomixed>
+        <bibliomixed id="ch0051s0002bib06">Sotelo J, Del Brutto OH. 2002. Review of neurocysticercosis. <citetitle>Neurosurg Focus</citetitle>12: e 1.</bibliomixed>
+        <bibliomixed id="ch0051s0002bib07">World Health Organization. 11 January 2022. Taeniasis/cysticercosis. https://www. who. int/news-room/fact-sheets/detail/taeniasis-cysticercosis. Accessed 5 November 2024.</bibliomixed>
+        <bibliomixed id="ch0051s0002bib08">White AC Jr, Coyle CM, Rajshekhar V, Singh G, Hauser WA, Mohanty A, Garcia HH, Nash TE. 2018. Diagnosis and treatment of neurocysticercosis: 2017 clinical practice guidelines by the Infectious Diseases Society of America (IDSA) and the American Society of Tropical Medicine and Hygiene (ASTMH). <citetitle>Clin Infect Dis</citetitle>66: e 49–e 75.</bibliomixed>
+        <bibliomixed id="ch0051s0002bib09">Centers for Disease Control and Prevention. 7 June 2024. Taeniasis. https://www. cdc. gov/dpdx/taeniasis/index. html. Accessed 5 November 2024.</bibliomixed>
+      </bibliography>
+    </chapter>

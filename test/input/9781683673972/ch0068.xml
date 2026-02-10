@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0068" label="68">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor7">CASE 65</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0068s0004"><title>CASE 65</title><para>A 21-year-old female was referred to a dermatologist by her primary care physician for evaluation of bilateral leg lesions like those depicted in <link linkend="ch0068s0004fg01">Fig. 65.1</link>. The lesions first appeared 4 months ago, and they came and went, leaving a red mark that persisted for about a month. The lesions did not itch, burn, or bleed. She denied fever and had had no other symptoms. No one else in her family had similar lesions.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0068s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What are the common pathogens that cause skin and soft tissue infections (SSTIs)?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Upon physical examination, the lesions were noted to be erythematous to violaceous and firm with no purulent drainage. The lesions were isolated to her lower legs, and there were eight lesions in various stages of development. The patient refused a biopsy and preferred empiric treatment for what was presumed to be arthropod bites. She returned to the dermatologist 6 weeks later because the lesions had become considerably larger. During this visit, she denied owning an aquarium but recalled having a pedicure 2 weeks before the onset of lesions. An 8-mm punch biopsy was obtained and sent for histopathologic and microbiologic analysis. The Gram stain of the biopsy is shown in <link linkend="ch0068s0004fg02">Fig. 65.2</link>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0068s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  How does the Gram stain result help narrow the list of organisms that might be the cause of her infection? What additional stains or tests are needed?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The punch biopsy was cultured for routine bacteria, mycobacteria, and fungi. An organism grew aerobically after 5 days of incubation from both bacterial and mycobacterial cultures.<link linkend="ch0068s0004fg01">Figure 65.3</link> shows the organism after subculture to Middlebrook 7H11 agar. A Kinyoun stain was performed from the colonies, which is shown in <link linkend="ch0068s0004fg01">Fig. 65.4</link>. </para>
+      <figure id="ch0068s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 65.1</emphasis></emphasis> Bilateral leg lesions. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0068f01.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A photograph shows two legs with multiple red, raised skin lesions and bumps, likely indicating a skin infection or an allergic reaction.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0068s0004fg02"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 65.2</emphasis></emphasis> Gram stain (magnification, ×1,000). </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0068f05.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A microscopic photograph showing skin tissue with embedded purple bacterial cells or structures within a pink and red extracellular matrix.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0068s0004fg03"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 65.3</emphasis></emphasis> Organism growth on Middlebrook 7H11 agar. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0068f03.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A photograph shows a liquid containing white, fluffy mold colonies growing on the surface.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0068s0004fg04"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 65.4</emphasis></emphasis> Kinyoun stain (magnification, ×1,000). </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0068f04.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A microscopic slide showing numerous small, pink, filamentous bacteria or fungal hyphae dispersed across a light background.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0068s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  To what group does this organism belong? Briefly describe the epidemiology of this group of organisms. What is the significance of the patient’s having received a pedicure but not having an aquarium?</para>
+        </listitem>
+        <listitem id="ch0068s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  Several species make up this group of organisms. Does knowing the species help inform therapeutic choices?</para>
+        </listitem>
+        <listitem id="ch0068s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What other types of infections does this organism cause?</para>
+        </listitem>
+        <listitem id="ch0068s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  Because the organism that caused the patient’s infection is an environmental organism, it can be difficult to distinguish colonization from infection, particularly for pulmonary disease. What guidelines exist to aid in this interpretation?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0068s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  The most common causes of SSTIs are <emphasis>Staphylococcus aureus</emphasis> and <emphasis>Streptococcus pyogenes</emphasis>, which can cause a wide spectrum of clinical presentations from uncomplicated folliculitis, furunculosis, and cellulitis to necrotizing infections <link linkend="ch0068s0002bib01">(1)</link>. Though less common, <emphasis>Clostridium</emphasis> spp. (namely, <emphasis>C. perfringens</emphasis> and <emphasis>C. septicum</emphasis>) can also cause SSTIs, including necrotizing infections. If the patient had a history of an animal bite or an animal licking her wounds, organisms such as <emphasis>Pasteurella</emphasis> spp. and <emphasis>Capnocytophaga</emphasis> spp. would need to be considered. Patients who have exposure to fresh, brackish, or salt water can have SSTIs due to <emphasis>Vibrio vulnificus</emphasis>, <emphasis>Aeromonas hydrophila</emphasis>, or <emphasis>Mycobacterium marinum</emphasis>. Her clinical course was chronic in nature, as these lesions had been present and progressing for weeks to months. Except for <emphasis>M. marinum</emphasis>, all the organisms listed above would have caused more rapidly progressing infections. Her chronic infection was most likely due to an aerobic actinomycete (e. g.,<emphasis>Nocardia</emphasis>), nontuberculous <emphasis>Mycobacterium</emphasis>, or fungus.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  The Gram stain shows poorly staining, or beaded, Gram-positive bacilli. Therefore, a fungal infection can be ruled out. The poor staining usually indicates an organism that has higher mycolic acid content in the cell wall, which is consistent with mycobacteria. <emphasis>Nocardia</emphasis> spp. can also have a similar Gram stain, so culture is needed for definitive identification. An acid-fast stain, like Kinyoun, can be performed to differentiate between mycobacteria (positive, pink) and <emphasis>Nocardia</emphasis> (negative, blue). If the Kinyoun is negative, a modified Kinyoun could be performed to differentiate between <emphasis>Nocardia</emphasis> (positive) and other aerobic actinomycetes, like <emphasis>Streptomyces</emphasis> (negative).</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  Both mycobacteria and <emphasis>Nocardia</emphasis> spp. can be cultured from mycobacterial cultures, but the waxy appearance of colonies in <link linkend="ch0068s0004fg01">Fig. 65.3</link> is consistent with mycobacteria. <emphasis>Nocardia</emphasis> spp. typically have a very white, chalky appearance. Both may also grow from routine bacterial cultures, depending on the specimen’s organism burden and how long the cultures are held. The positive Kinyoun stain confirms that this was a <emphasis>Mycobacterium</emphasis> species. Nontuberculous mycobacteria can be separated into two large groups: slowly growing mycobacteria and rapidly growing mycobacteria (RGM). RGM generally grow within 7 days; therefore, this patient’s infection was likely due to RGM.</para>
+        <para>There are ≥75 species of RGM, which represent ~50% of all mycobacterial species<link linkend="ch0068s0002bib02">(2)</link>. RGM are ubiquitous environmental organisms typically found in municipal tap water. RGM have also been isolated from 30 to 78% of U. S. soil samples. Many species can survive in hostile environments, including increased temperatures (45°C). RGM form biofilms and have readily been recovered from pipes supplying water to dialysis centers and hospitals, which have led to local outbreaks. Health care-associated outbreaks have been linked to tap water, ice machines, and water-based solutions, as well as heater-cooler devices (<link linkend="ch0068s0002bib03">3</link>, <link linkend="ch0068s0002bib04">4</link>). In addition, pseudo-outbreaks have been described due to contaminated bronchoscopes and endoscopes causing positive cultures that were not due to true clinical infections <link linkend="ch0068s0002bib05">(5)</link>.</para>
+        <para>During the time period when this patient presented with furunculosis, several other local cases of bilateral lower extremity furunculosis were confirmed to be due to RGM<link linkend="ch0068s0002bib06">(6)</link>. All patients had a history of getting pedicures, but at different nail salons; thus, eliciting the history of pedicures was important in narrowing her differential diagnosis. The species of RGM isolated from the cases were not identical, and further investigation found 40 local pedicure-associated RGM infections over a 4-year period. Environmental sampling demonstrated that multiple species of RGM could be recovered from tap water, footbath water, and pipe biofilms from both case and control nail salons. Therefore, it appears that RGM are endemic in this setting and additional factors, such as host susceptibility, play a role in the development of infection. It is known that recent skin trauma such as shaving is a predisposing factor.</para>
+        <para>Because infections due to <emphasis>M. marinum</emphasis> can present similarly, the patient was asked if she had an aquarium. <emphasis>M. marinum</emphasis> is found in fresh- and salt water, and infections caused by it are usually associated with aquarium or fish exposure. However, these infections more commonly occur on the hands and arms than the lower extremities. <emphasis>M. marinum</emphasis> is a slowly growing nontuberculous mycobacterial species.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  The most common species of RGM associated with human infections are <emphasis>Mycobacterium abscessus</emphasis> complex, <emphasis>Mycobacterium chelonae</emphasis>, and <emphasis>Mycobacterium fortuitum</emphasis>. Historically, these species have been difficult to identify in the laboratory, but the use of sequencing and mass spectrometry has greatly improved the accuracy of species-level identification. Species-level identification can be helpful in predicting certain antimicrobial susceptibility patterns <link linkend="ch0068s0002bib07">(7)</link>. For example, <emphasis>M. fortuitum</emphasis> is usually susceptible to trimethoprim-sulfamethoxazole and fluoroquinolones, whereas <emphasis>M. abscessus</emphasis> complex and <emphasis>M. chelonae</emphasis> are often resistant to both. Macrolide resistance is of concern since this antimicrobial is often used empirically, and resistance can be inducible. With <emphasis>M. abscessus</emphasis> complex, subspecies-level identification is important for predicting clinical response to macrolide therapy <link linkend="ch0068s0002bib08">(8)</link>. Most <emphasis>M. abscessus</emphasis> subsp. <emphasis>abscessus</emphasis> and <emphasis>M. abscessus</emphasis> subsp. <emphasis>bolletii</emphasis> have an inducible <emphasis>erm</emphasis>(41) gene (encoding a ribosomal methylase), whereas <emphasis>M. abscessus</emphasis> subsp. <emphasis>massiliense</emphasis> does not. Extending the incubation time for susceptibility tests to 14 days is needed to detect inducible macrolide resistance, so there is often a delay in final susceptibility results. Molecular analysis of the <emphasis>erm</emphasis>(41) gene may be used to provide more rapid results for clarithromycin susceptibility <link linkend="ch0068s0002bib09">(9)</link>. Although subspecies identification can predict the utility of macrolide therapy, this level of identification is challenging. Most laboratories report these organisms as “<emphasis>M. abscessus</emphasis> complex” with no further differentiation, which necessitates antimicrobial susceptibility testing. While species- and subspecies-level identification can help guide empiric therapeutic choices, susceptibility testing should still be performed since many of these infections get treated with combination therapy for 6 months to 1 year. This patient’s isolate was identified as <emphasis>M. abscessus</emphasis> subsp. <emphasis>massiliense</emphasis>, which was confirmed to be susceptible to clarithromycin as predicted by its identification. A recent study described a new <emphasis>erm</emphasis> gene, <emphasis>erm</emphasis>(55), associated with inducible clindamycin resistance in <emphasis>M. chelonae</emphasis> <link linkend="ch0068s0002bib10">(10)</link>. It was also found in isolates of <emphasis>Mycobacterium iranicum</emphasis> and <emphasis>Mycobacterium obuense</emphasis> and was found chromosomally and on a plasmid. This finding raises a concern for more widespread, previously unrecognized, inducible clindamycin resistance in RGM.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  RGM have been associated with a wide variety of infections, with pulmonary infections and cutaneous infections being the most common <link linkend="ch0068s0002bib02">(2)</link>. Cosmetic procedures, often associated with medical tourism, have been associated with postprocedural RGM infections <link linkend="ch0068s0002bib11">(11)</link>. RGM can also cause line-related sepsis (e. g., central line, peripherally inserted central catheter), particularly in immunocompromised patients. RGM readily form biofilms on indwelling catheters, creating a nidus for continued infection until the catheter is removed.<emphasis>M. abscessus</emphasis> complex is associated with chronic pulmonary infections, particularly in patients with cystic fibrosis, as well as posttraumatic and surgical wound infections. It has also been associated with chronic otitis media following tympanostomy. <emphasis>M. chelonae</emphasis> can cause posttraumatic wound infections and posttraumatic or postsurgical corneal infections <link linkend="ch0068s0002bib12">(12)</link>. There has been a particular association of RGM infections with LASIK procedures and punctal plugs used for dry eye syndrome. Like other RGM, <emphasis>M. fortuitum</emphasis> can be recovered from cases of posttraumatic and surgical wound infections but has been more frequently recovered following breast and cardiac surgeries. In addition to causing sporadic infections as described above, RGM have been responsible for several outbreaks. Tattooing, plastic surgery, and acupuncture are some procedures associated with repeated outbreaks.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  The American Thoracic Society and the Infectious Diseases Society of America have published guidelines to assist with the diagnosis of nontuberculous mycobacterial disease <link linkend="ch0068s0002bib13">(13)</link>. The clinical criteria to establish the diagnosis of lung disease due to nontuberculous mycobacteria, including RGM, are (i) pulmonary symptoms or systemic symptoms, nodular or cavitary opacities on chest radiograph, or a high-resolution computed tomography scan showing multifocal bronchiectasis with multiple small nodules; and (ii) appropriate exclusion of other diagnoses. Microbiologic criteria can also be assessed, particularly when a patient does not have clear disease based on the clinical criteria above. One of the following microbiologic criteria should be met to consider lung disease attributable to RGM (and other nontuberculous mycobacteria): (i) positive cultures from ≥2 sputa, (ii) positive culture from ≥1 bronchial wash or lavage, or (iii) lung biopsy with histopathologic features consistent with mycobacterial infection (e. g., granulomatous inflammation or the presence of acid-fast bacilli in tissue) and a positive culture from at least one pulmonary specimen. If these criteria are not met in a person suspected of having nontuberculous mycobacterial lung disease, continued clinical and microbiologic monitoring may be needed to establish a diagnosis.</para>
+      </sect1>
+      <sect1 id="ch0068s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0068s0003l01" role="decimal">
+          <listitem id="ch0068s0003x20">
+            <para>The etiology of chronic SSTIs in an immunocompetent patient varies based on environmental exposure, but could include <emphasis>Nocardia</emphasis>, nontuberculous <emphasis>Mycobacterium</emphasis> spp. (rapidly growing mycobacteria and <emphasis>M. marinum</emphasis>), and fungi.</para>
+          </listitem>
+          <listitem id="ch0068s0003x21">
+            <para>Mycobacteria are often faintly staining, or beaded, by Gram stain. They are Kinyoun positive, which helps different them from <emphasis>Nocardia</emphasis> and other aerobic actinomycetes.</para>
+          </listitem>
+          <listitem id="ch0068s0003x22">
+            <para>RGM may cause chronic skin lesions in individuals with exposure to nail salons (pedicures), cosmetic procedures associated with medical tourism, and environmental or surgical trauma. RGM also cause pulmonary infections in patients with cystic fibrosis or other chronic lung diseases and are associated with line-related sepsis in immunocompromised patients.</para>
+          </listitem>
+          <listitem id="ch0068s0003x23">
+            <para>Species-level identification of RGM and subspecies-level identification of <emphasis>Mycobacterium abscessus</emphasis> complex are important for informing empiric antibiotics while antimicrobial susceptibility testing is being performed.</para>
+          </listitem>
+          <listitem id="ch0068s0003x24">
+            <para>Extending the incubation time for antimicrobial susceptibility tests to 14 days or molecular analysis of the<emphasis>erm</emphasis>(41) gene is needed to detect inducible macrolide resistance in <emphasis>M. abscessus</emphasis> complex.</para>
+          </listitem>
+          <listitem id="ch0068s0003x25">
+            <para>Since RGM are both environmental organisms and potential pathogens, guidelines exist to help with clinical diagnosis. The criteria for establishing a diagnosis of lung disease due to nontuberculous mycobacteria rely on symptoms, radiology results, and microbiology results.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0068s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0068s0002bib01">Watkins RR, David MZ. 2021. Approach to the patient with a skin and soft tissue infection. <citetitle>Infect Dis Clin North Am</citetitle> 35:1–48.</bibliomixed>
+        <bibliomixed id="ch0068s0002bib02">Brown-Elliott BA, Philley JV. 2017. Rapidly growing mycobacteria. <citetitle>Microbiol Spectr</citetitle>5: TNMI7-0027–2016.</bibliomixed>
+        <bibliomixed id="ch0068s0002bib03">Wallace RJ Jr, Brown BA, Griffith DE. 1998. Nosocomial outbreaks/pseudo-outbreaks caused by nontuberculous mycobacteria. <citetitle>Annu Rev Microbiol</citetitle> 52:453–490.</bibliomixed>
+        <bibliomixed id="ch0068s0002bib04">Baker AW, Maziarz EK, Lewis SS, Stout JE, Anderson DJ, Smith PK, Schroder JN, Daneshmand MA, Alexander BD, Wallace RJ, Sexton DJ, Wolfe CR. 2021. Invasive Mycobacterium abscessus complex infection after cardiac surgery: epidemiology, management, and clinical outcomes. <citetitle>Clin Infect Dis</citetitle> 72:1232–1240.</bibliomixed>
+        <bibliomixed id="ch0068s0002bib05">Kaul CM, Chan J, Phillips MS. 2022. Mitigation of nontuberculous mycobacteria in hospital water: challenges for infection prevention. <citetitle>Curr Opin Infect Dis</citetitle> 35:330–338.</bibliomixed>
+        <bibliomixed id="ch0068s0002bib06">Stout JE, Gadkowski LB, Rath S, Alspaugh JA, Miller MB, Cox GM. 2011. Pedicure-associated rapidly growing mycobacterial infection: an endemic disease. <citetitle>Clin Infect Dis</citetitle> 53:787–792.</bibliomixed>
+        <bibliomixed id="ch0068s0002bib07">Aono A, Morimoto K, Chikamatsu K, Yamada H, Igarashi Y, Murase Y, Takaki A, Mitarai S. 2019. Antimicrobial susceptibility testing of Mycobacteroides (Mycobacterium) abscessus complex, Mycolicibacterium (Mycobacterium) fortuitum, and Mycobacteroides (Mycobacterium) chelonae. <citetitle>J Infect Chemother</citetitle> 25:117–123.</bibliomixed>
+        <bibliomixed id="ch0068s0002bib08">Hunkins JJ, de-Moura VC, Eddy JJ, Daley CL, Khare R. 2023. In vitro susceptibility patterns for rapidly growing nontuberculous mycobacteria in the United States. <citetitle>Diagn Microbiol Infect Dis</citetitle> 105:115882.</bibliomixed>
+        <bibliomixed id="ch0068s0002bib09">Mase A, Yamaguchi F, Funaki T, Yamazaki Y, Shikama Y, Fukuchi K. 2020. PCR amplification of the erm(41) gene can be used to predict the sensitivity of Mycobacterium abscessus complex strains to clarithromycin. <citetitle>Exp Ther Med</citetitle> 19:945–955.</bibliomixed>
+        <bibliomixed id="ch0068s0002bib10">Brown-Elliott BA, Wallace RJ Jr, Wengenack NL, Workman SD, Cameron ADS, Bush G, Hughes MD, Melton S, Gonzalez-Ramirez B, Rodriguez E, Somayaji K, Klapperich C, Viers M, Bolaji AJ, Rempel E, Alexander DC. 2023. Emergence of inducible macrolide resistance in Mycobacterium chelonae due to broad-host-range plasmid and chromosomal variants of the novel 23S rRNA methylase gene, erm(55). <citetitle>J Clin Microbiol</citetitle>61: e 0042823.</bibliomixed>
+        <bibliomixed id="ch0068s0002bib11">Sood G, Parrish N. 2017. Outbreaks of nontuberculous mycobacteria. <citetitle>Curr Opin Infect Dis</citetitle> 30:404–409.</bibliomixed>
+        <bibliomixed id="ch0068s0002bib12">Kheir WJ, Sheheitli H, Abdul Fattah M, Hamam RN. 2015. Nontuberculous mycobacterial ocular infections: a systematic review of the literature. <citetitle>Biomed Res Int</citetitle> 2015:164989.</bibliomixed>
+        <bibliomixed id="ch0068s0002bib13">Daley CL, Iaccarino JM, Lange C, Cambau E, Wallace RJ Jr, Andrejak C, Böttger EC, Brozek J, Griffith DE, Guglielmetti L, Huitt GA, Knight SL, Leitman P, Marras TK, Olivier KN, Santin M, Stout JE, Tortoli E, van Ingen J, Wagner D, Winthrop KL. 2020. Treatment of nontuberculous mycobacterial pulmonary disease: an official ATS/ERS/ESCMID/IDSA clinical practice guideline. <citetitle>Eur Respir J</citetitle> 56:2000535.</bibliomixed>
+      </bibliography>
+    </chapter>

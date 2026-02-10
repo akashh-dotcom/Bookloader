@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0023" label="23">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor2">CASE 20</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0023s0004"><title>CASE 20</title><para>The patient was a 58-year-old female who presented to the emergency department (ED) with complaints of abdominal pain, fever, headache, shortness of breath, and chest pain. She noted that she recently had upper respiratory symptoms that included a headache, body aches, and fatigue, but the abdominal and chest pains were new and accompanied by nausea and vomiting. Her medical history included coronary artery disease, for which she was recently treated using a percutaneous coronary intervention procedure and placement of multiple stents. Her medical history also included pulmonary hypertension, depression, and iron deficiency. She was a smoker and was experiencing housing insecurity.</para>
+      <para>On arrival to the ED, her temperature was 97.8°F, and she was tachycardic with a heart rate of 141 beats/minute, respiratory rate of 22 breaths/minute, and blood pressure of 155/86 mm Hg. She was given oxygen in the ED due to hypoxia and had an oxygen saturation of 98% on 3 liters of oxygen via nasal cannula. Her admission lab results were notable for hemoglobin of 7.8 g/dl, lactate of 5.1 mmol/liter (reference, &lt;2 mmol/liter), urea nitrogen of 23 mmol/liter (reference, 2.1 to 8.5 mmol/liter), and elevated troponin, alanine aminotransferase, prothrombin time, and international normalized ratio values. On exam, she had diffuse abdominal tenderness and chills. An electrocardiogram (ECG) in the ED demonstrated atrial fibrillation (Afib) with rapid ventricular response.</para>
+      <para>Blood cultures were collected and sent to the lab for testing. She was started on empiric vancomycin and cefepime and admitted to the intensive care unit for further management.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0023s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  Based on her presentation, what should be included in the differential?</para>
+        </listitem>
+      </itemizedlist>
+      <para>To investigate cardiac causes of disease, the patient was intubated for a cardiac catheter lab procedure. A computed tomography (CT) angiogram was negative for mesenteric ischemia. A repeat ECG was positive for Afib but negative for myocardial infarction. A chest CT revealed no sign of pulmonary embolism. After the procedure, the patient was extubated but developed agitation and hypoxemic respiratory failure, so was reintubated. After continued decline and increased respiratory requirements, a tracheal aspirate was collected and sent to the microbiology lab for culture.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0023s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  What is the utility of tracheal aspirate cultures? When are they recommended? Are other testing methodologies available for detecting pathogens from tracheal aspirate specimens?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The results from the tracheal aspirate culture are seen in <link linkend="ch0023s0004ta01">Table 20.1</link>. </para>
+      <table id="ch0023s0004ta01"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 20.1</emphasis></emphasis> TRACHEAL ASPIRATE CULTURE RESULTS</emphasis> </title>
+        
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <tbody>
+            <row>
+              <entry>GRAM STAIN</entry>
+              <entry>CULTURE</entry>
+            </row>
+            <row>
+              <entry>Rare white blood cells<?lb ?>  Few Gram-negative rods</entry>
+              <entry>Moderate <emphasis>Acinetobacter baumannii</emphasis> complex isolated</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0023s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  Based on these results and her clinical condition, what did this patient likely have? What makes this diagnosis complex? What is the prognosis for this condition?</para>
+        </listitem>
+        <listitem id="ch0023s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  What is the epidemiology of this organism?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Antimicrobial susceptibility testing results from this organism are seen in <link linkend="ch0023s0004ta02">Table 20.2</link>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0023s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  Based on the antimicrobial susceptibility test results, what kind of organism is this? What mechanisms are responsible for this pattern in this organism?</para>
+        </listitem>
+        <listitem id="ch0023s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What additional factor makes management of patients with carbapenem-resistant <emphasis>Acinetobacter baumannii</emphasis> challenging?</para>
+        </listitem>
+      </itemizedlist>
+      <table id="ch0023s0004ta02"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 20.2</emphasis></emphasis> ACINETOBACTER BAUMANNII ISOLATE ANTIMICROBIAL SUSCEPTIBILITY TESTING RESULTS</emphasis> </title>
+        
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <tbody>
+            <row>
+              <entry>ANTIBIOTIC</entry>
+              <entry>INTERPRETATION</entry>
+            </row>
+            <row>
+              <entry>Amikacin</entry>
+              <entry>Resistant</entry>
+            </row>
+            <row>
+              <entry>Ampicillin-sulbactam</entry>
+              <entry>Resistant</entry>
+            </row>
+            <row>
+              <entry>Cefiderocol</entry>
+              <entry>Susceptible</entry>
+            </row>
+            <row>
+              <entry>Ceftriaxone</entry>
+              <entry>Resistant</entry>
+            </row>
+            <row>
+              <entry>Gentamicin</entry>
+              <entry>Resistant</entry>
+            </row>
+            <row>
+              <entry>Levofloxacin</entry>
+              <entry>Resistant</entry>
+            </row>
+            <row>
+              <entry>Meropenem</entry>
+              <entry>Resistant</entry>
+            </row>
+            <row>
+              <entry>Minocycline</entry>
+              <entry>Resistant</entry>
+            </row>
+            <row>
+              <entry>Piperacillin-tazobactam</entry>
+              <entry>Resistant</entry>
+            </row>
+            <row>
+              <entry>Sulbactam-durlobactam</entry>
+              <entry>Susceptible</entry>
+            </row>
+            <row>
+              <entry>Trimethoprim-sulfamethoxazole</entry>
+              <entry>Resistant</entry>
+            </row>
+            <row>
+              <entry>Tobramycin</entry>
+              <entry>Resistant</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para>The patient was started on high-dose ampicillin-sulbactam and cefiderocol.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0023s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  Were these antibiotic choices appropriate? What challenges exist with obtaining cefiderocol MICs?</para>
+        </listitem>
+        <listitem id="ch0023s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  How is carbapenemase gene-positive carbapenem-resistant <emphasis>A. baumannii</emphasis> (CP-CRAB) confirmed in the laboratory?</para>
+        </listitem>
+        <listitem id="ch0023s0004x09" role="qus1">
+          <para><phrase><emphasis role="strong">9</emphasis></phrase>.  There is a new antibiotic agent that was recently FDA cleared and was optimized for use against <emphasis>Acinetobacter</emphasis>. Which antibiotic is this, and how does it work?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Despite the medical team’s best efforts, the patient continued to require pressors and experienced multiorgan failure. She was taken off ventilator support and passed away.</para>
+      </sect1><sect1 id="ch0023s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  Significant abdominal pain in patients with a history of cardiac disease may suggest a life-threatening condition called mesenteric ischemia, where blood flow through the mesenteric vessels in the abdomen suddenly declines <link linkend="ch0023s0002bib01">(1)</link>. The cause of this is often blood clots, for which patients with Afib are at a high risk since blood pools and clots before being released to the rest of the body due to the irregular heart rhythm seen in Afib. Other emergent conditions involving the heart should be considered, including myocardial infarction and myocarditis, which can present with chest pain, shortness of breath, nausea, and irregular heartbeat. This patient’s lactate was significantly elevated, and she was experiencing severe lactic acidosis <link linkend="ch0023s0002bib02">(2)</link>. There are various causes of lactic acidosis, including alcoholic ketoacidosis, anemia, bacterial sepsis, distributive shock, hemorrhagic shock, inborn errors of metabolism, metabolic acidosis, respiratory failure, septic shock, and cardiogenic shock. Given this patient’s acute presentation, underlying heart disease, and irregular ECG, septic and cardiogenic shock were high on the differential.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>Laboratory testing should be used to inform a final diagnosis and guide antimicrobial use, but a standalone tracheal aspirate culture (i. e., endotracheal suctioning) is not sufficient to make a diagnosis of ventilator-associated pneumonia (VAP). In adults and children, organisms colonize the endotracheal tube quickly after the patient is intubated, and suctioning from the endotracheal tube collects potential pathogens and commensal bacteria. Differentiating between colonization and infection using a tracheal aspirate culture is exceptionally difficult, and data suggest that both the use of tracheal aspirate cultures in patients who do not meet clinical criteria for VAP and the overreporting of organisms from culture that do not cause VAP contribute to excessive antibiotic use and increased diagnoses in patients who may not truly have pneumonia (<link linkend="ch0023s0002bib03">3</link>–<link linkend="ch0023s0002bib05">5</link>).</para>
+        <para>Current Infectious Diseases Society of America (IDSA) and American Thoracic Society guidelines endorse the use of noninvasive sampling (endotracheal tube suctioning) versus invasive sampling (bronchoalveolar lavage [BAL] or mini-BAL) to diagnose pneumonia in ventilated patients<link linkend="ch0023s0002bib06">(6)</link>. Data from several trials have not demonstrated a difference in outcomes between collection methods, and ventilated patients are typically clinically unstable to the point that invasive sampling techniques could introduce significant risks. Commercial multiplex nucleic acid amplification tests (NAATs) are available and rapidly detect multiple pathogens from various respiratory sources (e. g., tracheal aspirate, BAL, and sputum)<link linkend="ch0023s0002bib07">(7)</link>. Data demonstrate that the increased sensitivity of these assays and rapid turnaround time may support antibiotic deescalation for some organisms and life-saving antibiotic escalation for drug-resistant organisms or Gram-negative bacilli that may be fastidious or hard to grow in culture. Furthermore, NAAT performs significantly better in detecting organisms from samples that have been pretreated with antibiotics. As is true with traditional culture methods, diagnostic stewardship efforts are required (e. g., testing patients with a high pretest probability of disease, appropriate sample collection, and optimal interpretation and reporting of results) to help make sense of diagnostic test results from nonsterile specimens in critically ill patients<link linkend="ch0023s0002bib08">(8)</link>.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  Due to the patient’s respiratory failure, increased respiratory support requirements, and tracheal aspirate culture results, she was diagnosed with VAP. VAP is a hospital-acquired infection that is associated with high mortality rates and significant use of health care resources <link linkend="ch0023s0002bib06">(6)</link>. Due to variability in definitions, diagnostics, and reporting, the estimates of mortality are broad but are between 13 and 50%. The diagnosis of VAP should be based on a combination of clinical signs and symptoms, imaging, and diagnostic test results <link linkend="ch0023s0002bib09">(9)</link>. The accurate diagnosis of VAP is complicated by various factors. First, patients at risk of VAP are critically ill and often experiencing a myriad of symptoms that may be difficult to confirm as caused by VAP. For a case to be considered VAP, the patient must have been receiving mechanical ventilation for at least 2 days prior to the “event” or onset of symptoms or tests that suggest VAP. The patient must have two or more serial chest imaging test results with at least one of the following findings: new and persistent or progressive and persistent infiltrate, consolidation, or cavitation. For adults, the patient must also have at least one of the following: (i) fever (&gt;38.0°C or &gt;100.4°F), (ii) leukopenia (≤4,000 white blood cells/mm<superscript>3</superscript>) or leukocytosis (≥12,000 white blood cells/mm<superscript>3</superscript>), or (iii) for adults ≥70 years old, altered mental status with no other recognized cause; <emphasis role="strong">and</emphasis> at least two of the following criteria: (i) new onset of purulent sputum/change in character of sputum/increased respiratory secretions/increased suctioning requirements, (ii) dyspnea, or tachypnea, or new-onset or worsening cough, (iii) rales, or (iv) worsening gas exchange, increased oxygen requirements, or increased ventilator demand. Second, data from several studies demonstrate that clinicians consistently overestimate the diagnostic probability of VAP <link linkend="ch0023s0002bib10">(10)</link>. Patients receiving mechanical ventilation are critically ill, and often have several comorbidities. The fear of a missed VAP diagnosis is a pervasive challenge for critical care clinicians, particularly given the high mortality rates. The prognosis for patients with VAP largely depends on existing risk factors. The independent risk factors for mortality in VAP are high Acute Physiology and Chronic Health Evaluation II (APACHE II) and Sequential Organ Failure Assessment (SOFA) scores; inappropriate antibiotic therapy; diabetes mellitus; tracheostomy; confusion, urea, respiratory rate, and blood pressure (CURB) score ≥3; high C-reactive protein levels; high creatinine levels; VAP-related septic shock; and chronic respiratory disease <link linkend="ch0023s0002bib11">(11)</link>.</para>
+        <para>Based on the culture results, the patient likely had VAP caused by <emphasis>A. baumannii</emphasis>. <emphasis>A. baumannii</emphasis>is aerobic, nonfermentative, oxidase-negative, and nonmotile. The organism can be easily cultured and identified in the laboratory using routine culture methods and matrix-assisted laser desorption ionization–time of flight mass spectrometry (MALDI-TOF MS). Notable culture characteristics include coccobacillus morphology on Gram stain, which can be so short that the bacilli are identified as cocci. Additionally, although the organism is a non-lactose-fermenter, it can appear slightly pink on Mac Conkey agar (<link linkend="ch0023s0001fg01">Fig. 20.1</link>). <emphasis>A. baumannii</emphasis> exhibits a high tolerance to antiseptic products, which allows it to persist in hospital environments.</para>
+        <figure id="ch0023s0001fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 20.1</emphasis></emphasis> Colonies of <emphasis>A. baumannii</emphasis>on Mac Conkey agar. Image courtesy of Ajay Kumar Chaurasiya, under license CC BY 4.0.</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0023f01.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A photograph showing a reddish-brown culture medium with numerous small, round, pinkish colonies and a visible coiled parasite, possibly a worm or helminth, immersed in the medium.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  <emphasis>A. baumannii</emphasis> complex is an opportunistic Gram-negative bacillus that is found ubiquitously in the environment. Most clinical cases of <emphasis>A. baumannii</emphasis> infection originate in the hospital setting, and they are most prevalent in patients at the highest risk of nosocomial infection, including immunocompromised patients and patients receiving mechanical ventilation <link linkend="ch0023s0002bib12">(12)</link>. VAP, central line-associated bloodstream infections, urinary tract infections, and meningitis are the most common clinical manifestations. This organism can be found globally, and its intrinsic and acquired resistance to antibiotics has made it a World Health Organization critical priority organism <link linkend="ch0023s0002bib13">(13)</link>. Although the attributable mortality varies by infection type, the mortality rate associated with <emphasis>A. baumannii</emphasis> infection is estimated to be as high as 50%.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  Based on the resistance pattern of this organism, it is a multidrug-resistant <emphasis>A. baumannii</emphasis> <link linkend="ch0023s0002bib14">(14)</link>. An <emphasis>A. baumannii</emphasis> isolate is considered multidrug resistant (MDR) when it is resistant to two of the five following drug classes: antipseudomonal cephalosporins (ceftazidime or cefepime), carbapenems (imipenem or meropenem), ampicillin-sulbactam, fluoroquinolones (ciprofloxacin or levofloxacin), and aminoglycosides (gentamicin, tobramycin, or amikacin). Since carbapenems are considered the most effective treatment against MDR <emphasis>A. baumannii</emphasis>, carbapenem-resistant <emphasis>A. baumannii</emphasis> (CRAB) is classified as such and reported for public health surveillance.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  The primary mechanisms of resistance in MDR <emphasis>A. baumannii</emphasis>are the production of beta-lactamase enzymes (i. e., class D, OXA-type inactivating enzymes and class B metallo-beta-lactamases), reduced entry into the bacterial cell (e. g., small porin channel size or efflux pumps), and binding site mutations<link linkend="ch0023s0002bib15">(15)</link>. Most, but not all, CRAB isolates carry antibiotic resistance genes that allow them to produce carbapenemase enzymes <link linkend="ch0023s0002bib16">(16)</link>. These enzymes degrade most beta-lactam antibiotics. Additionally, these genes are often encoded on mobile genetic elements and transferred to other bacteria via horizontal gene transfer, which can contribute to the spread of MDR organisms in settings where critically ill patients are exposed to each other, such as the hospital. Molecular testing performed by the Antibiotic Resistance Laboratory Network in 2019 found that carbapenemase genes were detected in 83% of CRAB isolates. These CP-CRABs represented two primary categories: those with more common genes that have been identified among <emphasis>Acinetobacter</emphasis>species (i. e., OXA-23-like, OXA-24/40-like, and OXA-58-like oxacillinases) and a smaller proportion of organisms that produce carbapenemases found in other Gram-negative bacteria like the <emphasis>Enterobacterales</emphasis> (KPC, IMP, NDM, VIM, and OXA-48-like). CRAB is most frequently isolated from respiratory and wound specimens, which are often contaminated with colonizing organisms <link linkend="ch0023s0002bib17">(17)</link>. Patients who have been exposed to health care repeatedly or for extended periods of time may become colonized with the organism without having clinical disease caused by it. Administering broad and potentially toxic therapy to critically ill patients is a decision clinicians must weigh in the context of the patient’s medical history and clinical presentation.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  IDSA treatment guidelines for MDR Gram-negative organisms recommend combination therapy with at least two agents <link linkend="ch0023s0002bib17">(17)</link>. There is a paucity of clinical data demonstrating the effectiveness of therapy for CRAB, and currently IDSA recommends that combination therapy be continued until an appropriate clinical response is observed in the patient. High-dose ampicillin-sulbactam is recommended as one of the combination agents based on recent meta-analysis data suggesting that this drug in combination with a second agent was the most effective regimen in treating CRAB and tended to be less nephrotoxic. The method of action of ampicillin-sulbactam primarily relies on sulbactam for <emphasis>Acinetobacter</emphasis> treatment. Sulbactam has intrinsic antibacterial activity against <emphasis>A. baumannii</emphasis> and inhibits cell wall synthesis by binding penicillin-binding proteins (PBPs). Given this, the clinical team’s choice of ampicillin-sulbactam as one of the therapeutic agents was appropriate. While international surveillance studies indicate that ~95% of CRAB isolates are susceptible to cefiderocol using the CLSI susceptibility criteria, ≤4 μg/ml, guidelines recommend that its use should be limited to situations when other therapeutic options have been exhausted. Cefiderocol is effective against CRAB because it mimics a siderophore, which is a molecule bacteria use to acquire iron. This allows the drug to bind to iron and be actively transported across the bacterial cell membrane through the bacterial cell’s iron uptake mechanisms. As the antibiotic is actively transported, it can bypass resistance mechanisms like beta-lactamases, allowing it to get inside the cell and bind to PBPs.</para>
+        <para>Performing antimicrobial susceptibility testing for cefiderocol in the laboratory is challenging for several reasons<link linkend="ch0023s0002bib18">(18)</link>. First, broth dilution testing of cefiderocol requires the use of iron-depleted, cation-adjusted Mueller-Hinton broth, and cefiderocol is not currently available on any automated antimicrobial susceptibility testing systems. Disk and gradient diffusion methods are testing options, but significant variability between results has been noted. These differences have occurred between disk and strip manufacturers, inoculum densities, and iron concentration in test media. Depending on the type of variance observed, false-resistant or false-susceptible results may occur. The CLSI recommends performing subsequent testing to confirm results.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  There are several commercial phenotypic and genotypic tests available that rapidly detect carbapenemase production <link linkend="ch0023s0002bib19">(19)</link>. NAATs are available for positive blood cultures, respiratory secretions, and rectal swabs. Rapid turnaround time and the ability to test directly from patient samples are significant advantages, but NAATs are limited by the fact that carbapenem resistance may not be conferred by a carbapenemase, or an organism may express low levels of carbapenemase genes but then display <emphasis>in vitro</emphasis> susceptibility when cultured. There are several commercially available phenotypic carbapenemase tests available. The most commonly used is the Carba NP test, which requires an isolate grown from culture. The test is based on <emphasis>in vitro</emphasis> hydrolysis of imipenem by a bacterial lysate, which is detected by changes in pH values using the indicator phenol red. MALDI-TOF MS may also be used to detect carbapenemases by incubating the test organism with a carbapenem for 2 to 4 hours and then examining spectrum output for a measurable mass increase that represents beta-lactam ring degradation. If the beta-lactam ring has been broken down by a carbapenemase, the resulting mass increase can be differentiated from the native carbapenem mass. The sensitivity of this method depends on the type of carbapenemase present, and incubation times may differ.</para>
+        <para role="ans1"><emphasis role="strong">9.</emphasis>  The newest FDA-cleared antibiotic for the treatment of <emphasis>Acinetobacter</emphasis> is sulbactam-durlobactam. This drug is a beta-lactam–beta-lactamase inhibitor combination with activity against <emphasis>Acinetobacter</emphasis>, including MDR strains. Ampicillin-sulbactam is currently given to patients with CRAB due to sulbactam’s ability to inhibit PBPs, but the use of this drug requires high doses over extended periods of time. Additionally, sulbactam is degraded by some common beta-lactamases. Durlobactam is a unique beta-lactamase inhibitor because it has broad activity against the Ambler class A, C, and D beta-lactamases. The ATTACK trial, published in 2023, was a multicenter, randomized, active-controlled, phase 3, noninferiority clinical trial <link linkend="ch0023s0002bib20">(20)</link>. The study included adults with confirmed hospital-acquired pneumonia, VAP, or bloodstream infection caused by CRAB and compared the use of sulbactam-durlobactam and imipenem versus colistin and imipenem. The investigators found that 28-day all-cause mortality was 13% lower in the sulbactam-durlobactam group, which met criteria for noninferiority. Overall, the investigators found that patients treated with sulbactam-durlobactam had higher clinical cure rates and microbiologically favorable outcomes at test of cure and a lower incidence of nephrotoxicity than those treated with colistin.</para>
+      </sect1>
+      <sect1 id="ch0023s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0023s0003l01" role="decimal">
+          <listitem id="ch0023s0003x30">
+            <para>VAP is a hospital-acquired infection that is associated with high mortality rates and significant use of health care resources. The attributable mortality is estimated to be between 13 and 50%.</para>
+          </listitem>
+          <listitem id="ch0023s0003x31">
+            <para>Organisms colonize the endotracheal tube quickly after the patient is intubated, and suctioning from the endotracheal tube collects potential pathogens and commensal bacteria. Differentiating between colonization and infection is difficult, and diagnostic stewardship for culture and NAATs should be employed to prevent excessive antibiotic use.</para>
+          </listitem>
+          <listitem id="ch0023s0003x32">
+            <para><emphasis>A. baumannii</emphasis> is an opportunistic Gram-negative bacillus that is found ubiquitously in the environment.</para>
+          </listitem>
+          <listitem id="ch0023s0003x33">
+            <para>Most clinical cases of <emphasis>A. baumannii</emphasis> infection originate in the hospital setting, and they are most prevalent in patients at the highest risk of nosocomial infection, including immunocompromised patients and patients receiving mechanical ventilation. VAP, central line-associated bloodstream infections, urinary tract infections, and meningitis are the most common clinical manifestations.</para>
+          </listitem>
+          <listitem id="ch0023s0003x34">
+            <para>CRAB can be found globally, and its intrinsic and acquired resistance to antibiotics has made it a World Health Organization critical priority organism.</para>
+          </listitem>
+          <listitem id="ch0023s0003x35">
+            <para>An <emphasis>A. baumannii</emphasis> isolate is considered MDR when it is resistant to two of the five following drug classes: antipseudomonal cephalosporins, carbapenems, ampicillin-sulbactam, fluoroquinolones, and aminoglycosides.</para>
+          </listitem>
+          <listitem id="ch0023s0003x36">
+            <para>The primary mechanisms of resistance in MDR <emphasis>A. baumannii</emphasis>are the production of beta-lactamase enzymes, reduced entry into the bacterial cell (e. g., small porin channel size or efflux pumps), and binding site mutations.</para>
+          </listitem>
+          <listitem id="ch0023s0003x37">
+            <para>Most, but not all, CRAB isolates carry antibiotic resistance genes that allow them to produce carbapenemase enzymes.</para>
+          </listitem>
+          <listitem id="ch0023s0003x38">
+            <para>IDSA treatment guidelines for MDR Gram-negative organisms recommend combination therapy with at least two agents. Ampicillin-sulbactam should be used as one of the agents.</para>
+          </listitem>
+          <listitem id="ch0023s0003x39">
+            <para>Performing antimicrobial susceptibility testing for cefiderocol in the laboratory is challenging for several reasons, including the requirement of iron-depleted, cation-adjusted Mueller-Hinton broth; limited availability on automated systems; and variability in performance between disks and gradient diffusion strips.</para>
+          </listitem>
+          <listitem id="ch0023s0003x40">
+            <para>NAATs that detect carbapenemases are available for positive blood cultures, respiratory secretions, and rectal swabs.</para>
+          </listitem>
+          <listitem id="ch0023s0003x41">
+            <para>The benefits of NAATs for carbapenemase detection include rapid turnaround time and the ability to test directly from patient samples, but NAATs are limited by the fact that carbapenem resistance may not be conferred by a carbapenemase, or an organism may express low levels of carbapenemase genes but then display<emphasis>in vitro</emphasis> susceptibility when cultured.</para>
+          </listitem>
+          <listitem id="ch0023s0003x42">
+            <para>The most common phenotypic test for carbapenemase production is the Carba NP test. This test is based on<emphasis>in vitro</emphasis> hydrolysis of imipenem by a bacterial lysate, which is detected by changes in pH values using the indicator phenol red.</para>
+          </listitem>
+          <listitem id="ch0023s0003x43">
+            <para>The newest FDA-cleared antibiotic for the treatment of <emphasis>Acinetobacter</emphasis> (including MDR strains) is sulbactam-durlobactam, which is a beta-lactam–beta-lactamase inhibitor.</para>
+          </listitem>
+          <listitem id="ch0023s0003x44">
+            <para>Durlobactam is a unique beta-lactamase inhibitor because it has broad activity against the Ambler class A, C, and D beta-lactamases.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0023s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0023s0002bib01">Monita MM, Gonzalez L. 2023. Acute mesenteric ischemia. In <citetitle>Stat Pearls [Internet]</citetitle>. Stat Pearls Publishing, Treasure Island, FL. https://www. ncbi. nlm. nih. gov/books/NBK431068/</bibliomixed>
+        <bibliomixed id="ch0023s0002bib02">Foucher CD, Tubben RE. 2023. Lactic acidosis. <citetitle>In Stat Pearls [Internet]</citetitle>. Stat Pearls Publishing, Treasure Island, FL. https://www. ncbi. nlm. nih. gov/books/NBK470202/</bibliomixed>
+        <bibliomixed id="ch0023s0002bib03">Willson DF, Conaway M, Kelly R, Hendley JO. 2014. The lack of specificity of tracheal aspirates in the diagnosis of pulmonary infection in intubated children. <citetitle>Pediatr Crit Care Med</citetitle> 15:299–305.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib04">Prinzi AM, Wattier RL, Curtis DJ, Ziniel SI, Fitzgerald A, Pearce K, Parker SK. 2022. Impact of organism reporting from endotracheal aspirate cultures on antimicrobial prescribing practices in mechanically ventilated pediatric patients. <citetitle>J Clin Microbiol</citetitle>60: e 0093022.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib05">Albin OR, Saravolatz L, Petrie J, Henig O, Kaye KS. 2022. Rethinking the “pan-culture”: clinical impact of respiratory culturing in patients with low pretest probability of ventilator-associated pneumonia. Open Forum <citetitle>Infect Dis</citetitle>9: ofac 183.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib06">Kalil AC, Metersky ML, Klompas M, Muscedere J, Sweeney DA, Palmer LB, Napolitano LM, O’Grady NP, Bartlett JG, Carratalà J, El Solh AA, Ewig S, Fey PD, File TM Jr, Restrepo MI, Roberts JA, Waterer GW, Cruse P, Knight SL, Brozek JL. 2016. Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society. <citetitle>Clin Infect Dis</citetitle>63: e 61–e 111.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib07">Walker AM, Timbrook TT, Hommel B, Prinzi AM. 2024. Breaking boundaries in pneumonia diagnostics: transitioning from tradition to molecular frontiers with multiplex PCR. <citetitle>Diagnostics (Basel)</citetitle> 14:752.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib08">Hueth KD, Prinzi AM, Timbrook TT. 2022. Diagnostic stewardship as a team sport: interdisciplinary perspectives on improved implementation of interventions and effect measurement. <citetitle>Antibiotics (Basel)</citetitle> 11:250.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib09">National Health Safety Network. January 2024. Pneumonia (ventilator-associated [VAP] and non-ventilator associated pneumonia [PNEU]) event. https://www. cdc. gov/nhsn/pdfs/pscmanual/6pscvapcurrent. pdf. Accessed 7 July 2024.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib10">Soper NS, Albin OR. 2023. Healthcare providers consistently overestimate the diagnostic probability of ventilator-associated pneumonia. <citetitle>Infect Control Hosp Epidemiol</citetitle> 44:1927–1931.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib11">Karakuzu Z, Iscimen R, Akalin H, Kelebek Girgin N, Kahveci F, Sinirtas M. 2018. Prognostic risk factors in ventilator-associated pneumonia. <citetitle>Med Sci Monit</citetitle> 24:1321–1328.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib12">Ma C, Mc Clean S. 2021. Mapping global prevalence of Acinetobacter baumannii and recent vaccine development to tackle it.<citetitle>Vaccines (Basel)</citetitle> 9:570.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib13">World Health Organization. 17 May 2024. WHO updates list of drug-resistant bacteria most threatening to human health. https://www. who. int/news/item/17-05-2024-who-updates-list-of-drug-resistant-bacteria-most-threatening-to-human-health. Accessed 23 December 2024.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib14">Singh H, Thangaraj P, Chakrabarti A. 2013. Acinetobacter baumannii: a brief account of mechanisms of multidrug resistance and current and future therapeutic management. <citetitle>J Clin Diagn Res</citetitle> 7:2602–2605.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib15">Castanheira M, Mendes RE, Gales AC. 2023. Global epidemiology and mechanisms of resistance of Acinetobacter baumannii-calcoaceticus complex. <citetitle>Clin Infect Dis</citetitle>76(Suppl 2): S166–S178.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib16">Centers for Disease Control and Prevention. August 2021. Carbapenem-resistant Acinetobacter baumannii (CRAB): an urgent public health threat in United States healthcare facilities. https://arpsp. cdc. gov/story/cra-urgent-public-health-threat. Accessed 8 July 2024.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib17">Tamma PD, Heil EL, Justo JA, Mathers AJ, Satlin MJ, Bonomo RA. 2024. Infectious Diseases Society of America 2024 guidance on the treatment of antimicrobial-resistant gram-negative infections. <citetitle>Clin Infect Dis</citetitle>7: ciae 403.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib18">CLSI. 16 June 2023. AST news update June 2023: The latest on testing cefiderocol. https://clsi. org/about/blog/ast-news-update-june-2023-the-latest-on-testing-cefiderocol/. Accessed 8 July 2024.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib19">Banerjee R, Humphries R. 2017. Clinical and laboratory considerations for the rapid detection of carbapenem-resistant Enterobacteriaceae. <citetitle>Virulence</citetitle> 8:427–439.</bibliomixed>
+        <bibliomixed id="ch0023s0002bib20">Kaye KS, Shorr AF, Wunderink RG, Du B, Poirier GE, Rana K, Miller A, Lewis D, O’Donnell J, Chen L, Reinhart H, Srinivasan S, Isaacs R, Altarac D. 2023. Efficacy and safety of sulbactam-durlobactam versus colistin for the treatment of patients with serious infections caused by Acinetobacter baumannii-calcoaceticus complex: a multicentre, randomised, active-controlled, phase 3, non-inferiority clinical trial (ATTACK). <citetitle>Lancet Infect Dis</citetitle> 23:1072–1084.</bibliomixed>
+      </bibliography>
+    </chapter>

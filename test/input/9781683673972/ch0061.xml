@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0061" label="61">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor6">CASE 58</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0061s0004"><title>CASE 58</title><para>The patient was an 18-year-old female who presented to the ear, nose, and throat clinic complaining of hoarseness and difficulty swallowing. She had a 1-week history of sore throat, fever, fatigue, and myalgia. Her examination was significant for enlarged tonsils touching at the midline with exudate present. Bilateral tender anterior and posterior cervical lymphadenopathy, as well as splenomegaly, was present.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0061s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What clinical syndrome is most likely in this patient? What other infections should be considered?</para>
+        </listitem>
+        <listitem id="ch0061s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  Which laboratory tests should be ordered?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient’s complete blood count (CBC) showed a white blood cell count of 7,000/μl with 40% neutrophils, 28% lymphocytes, 12% atypical lymphocytes, and 20% monocytes. Liver function tests showed an aspartate transaminase level of 155 U/liter, an alanine aminotransferase level of 208 U/liter, and an alkaline phosphatase level of 189 U/liter.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0061s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  Were her laboratory results consistent with her clinical diagnosis?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient’s lateral neck radiographs showed a clear airway; her chest radiograph was negative. She was admitted to the hospital and treated with intravenous hydration, clindamycin, and corticosteroids. A throat swab was collected to rule out streptococcal and gonococcal infections. Viral serologic tests were ordered, including a Monospot test.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0061s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  Why was this patient given clindamycin and corticosteroids?</para>
+        </listitem>
+        <listitem id="ch0061s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  In addition to the Monospot test, which viral serologic tests should be performed?</para>
+        </listitem>
+      </itemizedlist>
+      <para>On hospital day 2, a Monospot test result was positive. The clindamycin therapy was stopped, and oral prednisone was continued. Her condition showed improvement, with decreased tonsillar size evident on examination by hospital day 5.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0061s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What was the etiology of her illness? How was her diagnosis confirmed?</para>
+        </listitem>
+        <listitem id="ch0061s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  Briefly describe the epidemiology of infections with this etiologic agent.</para>
+        </listitem>
+        <listitem id="ch0061s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  What complications can the agent causing her infection produce in immunosuppressed hosts? What is our current understanding of how this occurs? How are these complications detected in the laboratory?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0061s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  Her clinical presentation of fever, pharyngitis, cervical lymphadenopathy, and splenomegaly is consistent with infectious mononucleosis. Infectious mononucleosis is typically due to Epstein-Barr virus (EBV), but cytomegalovirus (CMV), hepatitis viruses, adenovirus, and rubella can present similarly <link linkend="ch0061s0002bib01">(1)</link>. Acute HIV infection can also present as an infectious mononucleosis-like syndrome (see <ulink url="ch0065.xml#ch0065">case 62</ulink>). Given her significant pharyngitis, her physician also considered group A streptococcal infection and, because she was sexually active, gonococcal pharyngitis. Her enlarged tonsils raised the possibility of retropharyngeal abscess, often a surgical emergency. Given her significant lymphadenopathy, acute toxoplasmosis (<emphasis>Toxoplasma gondii</emphasis>) should be included in the differential diagnosis.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  Minimally, blood should be drawn for a CBC including differential and liver function, Monospot, and HIV antigen/antibody tests. A throat swab should be obtained for a rapid strep test and either gonorrhea culture or nucleic acid amplification test (NAAT).</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  An increase in atypical, or reactive, lymphocytes is consistent with EBV-associated mononucleosis. Atypical lymphocytes generally peak 2 to 3 weeks after infection and may persist for up to 2 months <link linkend="ch0061s0002bib02">(2)</link>. Hepatitis, as was seen in this patient, is seen in ~80% of cases. Elevated liver enzymes in a patient with pharyngitis should prompt diagnostic testing for EBV-associated mononucleosis. CMV-associated mononucleosis may also cause elevated liver enzymes, but pharyngitis is typically mild.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  The patient was given clindamycin for empiric treatment of bacterial pharyngitis, namely beta-hemolytic <emphasis>Streptococcus</emphasis>(i. e., groups A and C/G) and <emphasis>Arcanobacterium haemolyticum</emphasis>. Although penicillin could have been used, the patient had a penicillin allergy, prompting the use of clindamycin. The use of steroids in uncomplicated cases of mononucleosis is controversial. However, in patients with significant tonsillar enlargement where concern exists that airway obstruction may occur, patients should be hospitalized and corticosteroid use is indicated, as it has been shown to quickly reduce this enlargement. Steroid use is also indicated to treat EBV-induced hemolytic anemia and thrombocytopenia. Several antiviral agents, including acyclovir and ganciclovir, have <emphasis>in vitro</emphasis> activity against EBV, but there is a paucity of clinical data regarding their <emphasis>in vivo</emphasis> efficacy, particularly in the setting of acute infectious mononucleosis.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  Although rapid, the Monospot test suffers from sensitivity and specificity issues depending on the clinical scenario (see <phrase>answer to question 6</phrase> for further details). Therefore, EBV-specific antibodies should be ordered along with CMV immunoglobulin M (IgM) antibodies and a fourth-generation HIV antibody/antigen combination enzyme immunoassay. IgM antibodies for hepatitis A, surface antigen and antibodies to core antigen of hepatitis B virus, and hepatitis C virus antibodies might also be considered, although their diagnostic value in this clinical setting likely would be minimal.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  This patient had infectious mononucleosis due to EBV <link linkend="ch0061s0002bib03">(3)</link>. This diagnosis was based on her clinical presentation, physical findings, a white blood cell count and differential count consistent with infectious mononucleosis, and a positive Monospot test result. The positive Monospot test result indicated that the patient had heterophile antibodies. Heterophile antibodies, detected by an agglutination reaction to antigens of sheep or horse erythrocytes coated on latex beads, represent a nonspecific activation of B cells. These antibodies are present in 90% of EBV-infected patients at some time during acute illness. The heterophile antibody test is helpful when positive. The test is highly sensitive in adolescents and adults, although less so in children younger than 4 years. The CDC does not recommend general use of the Monospot test due to its lack of specificity for EBV and its false-negative rate in children <link linkend="ch0061s0002bib04">(4)</link>. False-positive heterophile tests can occur in patients with lymphoma or hepatitis.</para>
+        <para>This patient’s diagnosis was confirmed by EBV-specific serologic tests<link linkend="ch0061s0002bib04">(4)</link>. There are a variety of serologic patterns that could be consistent with acute infection, including viral capsid antigen (VCA) IgM, VCA IgG, and early antigen-diffuse (EA-D) IgG positivity <link linkend="ch0061s0002bib05">(5)</link>. However, Epstein-Barr nuclear antigen-1 (EBNA-1) IgG should be negative in primary infection. Detection of VCA IgM antibodies is the most accurate serologic test for diagnosis of acute EBV infection. The typical course of antibody development and DNA detection after primary EBV infection is shown in <link linkend="ch0061s0001fg01">Fig. 58.1</link>. A quantitative EBV NAAT performed on blood may be helpful in cases of indeterminate serologic results.</para>
+        <para>In patients with a negative Monospot, EBV-associated mononucleosis cannot be completely ruled out until results of EBV-specific serologies are known. CMV can also cause a heterophile-negative acute mononucleosis syndrome, so CMV serologic tests should also be done in heterophile-negative individuals.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  Primary EBV infection is often referred to as the “kissing disease” because it is typically acquired by intimate oral contact such as kissing <link linkend="ch0061s0002bib06">(6)</link>. EBV replicates in oropharyngeal epithelial cells and B cells. The virus is shed continuously in saliva for months after acute infection and intermittently thereafter. Following acute infection, B cells become latently infected, and the viral genome forms a circular episome in the nucleus. The virus persists primarily in B cells and possibly also epithelial cells.</para>
+        <para>In patients &lt;10 years of age, EBV infections are typically either asymptomatic or subclinical. Disease incidence is highest in adolescents and young adults (15 to 24 years), such as the patient discussed in this case. In the small subset of individuals who are not infected early in life, EBV infections can be more severe. These individuals may have significant morbidity, with a typical illness lasting 2 to 3 weeks. Acute EBV infection is a frequent reason for hospitalizations among college students and an important cause of lost training days in military recruits. Deaths from acute EBV infections are rare and are typically due to airway obstruction caused by swelling of lymphoid tissue, splenic rupture, or encephalitis.</para>
+        <figure id="ch0061s0001fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 58.1</emphasis></emphasis> Quantification of EBV antibodies and DNA after primary infection. Image reprinted from Odumade OA, et al. 2011. <emphasis>Clin Microbiol Rev</emphasis> 24:193–209. </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0061f01.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A graph illustrating the levels of various antibodies and virus in blood, saliva, and oral cells over time (days after primary EBV infection), showing the dynamics of EBV in different bodily fluids and the appearance of specific IgG antibodies.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <para>EBV has been associated with an unusual form of lymphoma found primarily in equatorial Africa, Burkitt’s lymphoma. It has also been associated with nasopharyngeal carcinoma, particularly in Southeast Asia. In both malignancies, EBV DNA can be found in the tumor cells. EBV has been associated with malignancy in HIV-infected patients and a lymphoproliferative disorder (LPD) in transplant recipients (see<link linkend="ch0061s0004x08">question 8</link>).</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  EBV infection (either primary or reactivation) can result in more severe outcomes in immunosuppressed patient populations with defects in cell-mediated immunity, especially in patients living with HIV with low CD4<superscript>+</superscript> counts and in patients receiving a solid-organ transplant or allogeneic hematopoietic stem cell transplant. In both individuals with advanced HIV and transplant recipients, LPD can occur. The spectrum of disease associated with EBV infections in immunosuppressed individuals ranges from asymptomatic viremia to a mononucleosis-type illness to LPD.</para>
+        <para>In individuals with advanced HIV, LPD can result in an oral hairy leukoplakia that causes a white corrugated oral lesion typically seen on the side of the tongue<link linkend="ch0061s0002bib07">(7)</link>. This is a nonmalignant condition where replicating virus can be detected. EBV-associated non-Hodgkin’s lymphoma is a common malignancy found in individuals living with HIV; they are 60 to 200 times more likely to develop non-Hodgkin’s lymphoma than individuals not infected with HIV. Other EBV-associated lymphomas seen in people living with HIV include Burkitt’s lymphoma, Hodgkin’s lymphoma (~15 times increased risk), primary effusion lymphoma (nearly exclusive to HIV), primary central nervous system lymphoma (~1,000 times increased risk), and diffuse large B-cell lymphoma <link linkend="ch0061s0002bib08">(8)</link>. HIV-associated lymphomas are a result of diminished immune surveillance against viruses and virally infected tumor cells. Therefore, an important aspect of therapy is improvement in immune status in individuals living with HIV.</para>
+        <para>The LPD seen in transplant recipients specifically is called posttransplant lymphoproliferative disorder (PTLD)<link linkend="ch0061s0002bib09">(9)</link>. PTLD generally occurs during the first year posttransplant, with a median onset of 2 months after hematopoietic stem cell transplant and 6 months after solid-organ transplant. EBV-seronegative transplant recipients are at much greater risk for PTLD than seropositive individuals. PTLD presents with nonspecific symptoms such as fever, malaise, and anorexia, along with a rapidly developing mass typically in the engrafted organ or nearby. Transplants of lymphoid-rich organs, such as the lung or intestine, result in a higher risk of PTLD, presumably due to an increase in EBV-positive donor B cells. Transplant recipients of these organs are also more intensely immunosuppressed, which may also contribute to the increased risk. Although PTLD occurs in only 3 to 10% of adult solid-organ transplant recipients, its mortality is 40 to 60%. Since children are more likely to be EBV seronegative, the rate of PTLD is higher in pediatric solid-organ transplant recipients. PTLD can result from either reactivation or primary infection, which can be from the transplanted organ or from exposure in the community. PTLD will often resolve with reduction of immunosuppressive therapy, but this may not always be possible. Other therapies used for established PTLD include rituximab (anti-CD20 monoclonal antibody) and traditional chemotherapy.</para>
+        <para>EBV latently infects B cells<link linkend="ch0061s0002bib10">(10)</link>. A transmembrane protein called latent membrane protein 1 (LMP1) can be expressed by latently infected cells. LMP1 is found on the surface of lymphoma cells from patients with PTLD and HIV-associated lymphomas. LMP1 has been shown to bind a cytoplasmic signal-transducing molecule called tumor necrosis factor receptor-associated factor (TRAF). TRAF activates another protein, NF-кB transcription factor, which enters the nucleus and causes B cells to proliferate.</para>
+        <para>Although serologic tests can be used to determine pretransplant serostatus, they are generally not helpful in diagnosing LPD in immunosuppressed patients; serologic results in the setting of immunosuppression may not be accurate. Quantitative EBV DNA detection by NAAT (viral load) from whole blood or plasma is the preferred method of monitoring for EBV-associated LPD in immunocompromised individuals. A positive viral load is not necessarily indicative of LPD but can be an early indicator for additional testing, such as imaging and histopathology. Patients with PTLD nearly always have a high EBV viral load. Detection of a high EBV viral load prior to the onset of symptoms may indicate impending PTLD and suggests that preemptive therapy (i. e., reduction in immunosuppression) may be needed<link linkend="ch0061s0002bib11">(11)</link>. The definition of a “high” viral load is controversial, in part due to lack of standardization between quantitative EBV tests. Therefore, each institution must establish its own clinical thresholds for predicting LPD. Further, EBV viral loads correlate with tumor burden and can, therefore, be used to monitor therapeutic efficacy.</para>
+      </sect1>
+      <sect1 id="ch0061s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0061s0003l01" role="decimal">
+          <listitem id="ch0061s0003x20">
+            <para>The most common etiologic agent of infectious mononucleosis is EBV, but CMV, acute HIV, adenovirus, rubella, hepatitis viruses, and acute <emphasis>T. gondii</emphasis> infections may present similarly.</para>
+          </listitem>
+          <listitem id="ch0061s0003x21">
+            <para>Patients, particularly adolescents and young adults, with pharyngitis and elevated liver enzymes and/or splenomegaly should be tested for EBV-associated mononucleosis.</para>
+          </listitem>
+          <listitem id="ch0061s0003x22">
+            <para>A classic finding on CBC in patients with EBV-associated mononucleosis is an increase in atypical, or reactive, lymphocytes that peaks 2 to 3 weeks into illness and may persist up to 2 months.</para>
+          </listitem>
+          <listitem id="ch0061s0003x23">
+            <para>Patients with significant tonsillar enlargement at risk for airway obstruction should be hospitalized and receive corticosteroids.</para>
+          </listitem>
+          <listitem id="ch0061s0003x24">
+            <para>The Monospot test, which detects heterophile antibodies, is not recommended by the CDC for routine use due to its lack of specificity for EBV and false-negative rate in children. EBV-specific serologic tests should be used to confirm a diagnosis of infectious mononucleosis.</para>
+          </listitem>
+          <listitem id="ch0061s0003x25">
+            <para>For heterophile- or EBV-negative cases, CMV serologies and an antigen/antibody combination test for HIV should be ordered.</para>
+          </listitem>
+          <listitem id="ch0061s0003x26">
+            <para>EBV is oncogenic and is associated with Burkitt’s lymphoma in equatorial Africa, nasopharyngeal carcinoma in Southeast Asia, and lymphoproliferative disorders in immunocompromised patients.</para>
+          </listitem>
+          <listitem id="ch0061s0003x27">
+            <para>Persons living with HIV and posttransplant recipients are at risk for EBV-associated lymphoproliferative disorders when cell-mediated immunity is compromised.</para>
+          </listitem>
+          <listitem id="ch0061s0003x28">
+            <para>Quantitative EBV DNA detection from whole blood or plasma is the preferred method of monitoring for lymphoproliferative disorders in immunocompromised individuals. Detection of EBV DNA should prompt additional testing, such as imaging and histopathology, and consideration of preemptive therapy depending on established clinical thresholds.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0061s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0061s0002bib01">Centers for Disease Control and Prevention. 9 May 2024. About infectious mononucleosis (mono). https://www. cdc. gov/epstein-barr/about/mononucleosis. html. Accessed 26 January 2025.</bibliomixed>
+        <bibliomixed id="ch0061s0002bib02">Vetsika EK, Callan M. 2004. Infectious mononucleosis and Epstein-Barr virus. <citetitle>Expert Rev Mol Med</citetitle> 6:1–16. </bibliomixed>
+        <bibliomixed id="ch0061s0002bib03">Luzuriaga K, Sullivan JL. 2010. Infectious mononucleosis. <citetitle>N Engl J Med</citetitle> 362:1993–2000. </bibliomixed>
+        <bibliomixed id="ch0061s0002bib04">Centers for Disease Control and Prevention. 2020. Epstein-Barr Virus and Infectious Mononucleosis: Laboratory Testing for Epstein-Barr Virus (EBV). https://www. cdc. gov/epstein-barr/php/laboratories/. Accessed 4 April 2024.</bibliomixed>
+        <bibliomixed id="ch0061s0002bib05">Klutts JS, Ford BA, Perez NR, Gronowski AM. 2009. Evidence-based approach for interpretation of Epstein-Barr virus serological patterns. <citetitle>J Clin Microbiol</citetitle> 47:3204–3210. </bibliomixed>
+        <bibliomixed id="ch0061s0002bib06">Odumade OA, Hogquist KA, Balfour HH Jr. 2011. Progress and problems in understanding and managing primary Epstein-Barr virus infections. <citetitle>Clin Microbiol Rev</citetitle> 24:193–209. </bibliomixed>
+        <bibliomixed id="ch0061s0002bib07">Verdu-Bou M, Tapia G, Hernandez-Rodriguez A, Navarro JT. 2021. Clinical and therapeutic implications of Epstein-Barr virus in HIV-related lymphomas. <citetitle>Cancers (Basel)</citetitle> 13:5534. </bibliomixed>
+        <bibliomixed id="ch0061s0002bib08">Carbone A, Cesarman E, Spina M, Gloghini A, Schulz TF. 2009. HIV-associated lymphomas and gamma-herpesviruses. <citetitle>Blood</citetitle> 113:1213–1224. </bibliomixed>
+        <bibliomixed id="ch0061s0002bib09">Dierickx D, Habermann TM. 2018. Post-transplantation lymphoproliferative disorders in adults. <citetitle>N Engl J Med</citetitle> 378:549–562. </bibliomixed>
+        <bibliomixed id="ch0061s0002bib10">Thorley-Lawson DA, Gross A. 2004. Persistence of the Epstein-Barr virus and the origins of associated lymphomas. <citetitle>N Engl J Med</citetitle> 350:1328–1337. </bibliomixed>
+        <bibliomixed id="ch0061s0002bib11">Green M, Michaels MG. 2013. Epstein-Barr virus infection and posttransplant lymphoproliferative disorder. <citetitle>Am J Transplant</citetitle>13 Suppl 3:41–54; quiz 54. </bibliomixed>
+      </bibliography>
+    </chapter>

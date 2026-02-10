@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0036" label="36">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor3">CASE 33</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0036s0004"><title>CASE 33</title><para>A 37-year-old female presented to her primary care physician with symptoms of gastroesophageal reflux disease, including heartburn and mild chest pain, that had been present for multiple months. Symptoms were persistent even when taking an over-the-counter proton pump inhibitor (PPI), omeprazole. She recounted that the symptoms were exacerbated by certain foods, including garlic and green vegetables. She was referred to a gastroenterologist for additional workup, including esophagogastroduodenoscopy (EGD). The EGD showed gastritis.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0036s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What is gastritis and what are the most common infectious causes?</para>
+        </listitem>
+      </itemizedlist>
+      <para>A biopsy of the inflamed area was taken during the EGD and sent for surgical pathology.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0036s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  A representative image of the hematoxylin and eosin (H&amp;E) stain and <emphasis>Helicobacter pylori</emphasis> immunohistochemical staining from the surgical pathology are shown in <link linkend="ch0036s0004fg01">Fig. 33.1</link>. What is the interpretation of these stains?</para>
+        </listitem>
+        <listitem id="ch0036s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  EGD with biopsy is an invasive method for detection of <emphasis>H. pylori</emphasis>. What noninvasive diagnostic methods are there for this organism?</para>
+        </listitem>
+        <listitem id="ch0036s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  What are the recommended first-line therapy options for <emphasis>H. pylori</emphasis>?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient started triple therapy consisting of omeprazole, clarithromycin, and amoxicillin for 14 days. She was instructed to complete a follow-up <emphasis>H. pylori</emphasis> stool antigen test at least 4 weeks following completion of this treatment plan.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0036s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  Why was an <emphasis>H. pylori</emphasis> stool antigen test recommended after completion of therapy?</para>
+        </listitem>
+        <listitem id="ch0036s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What are the regional macrolide resistance rates in the United States?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient showed no improvement of symptoms with her 14-day triple therapy. Her follow-up stool antigen test (SAT) was positive. She was started on the American College of Gastroenterology (ACG)-recommended bismuth quadruple therapy for 14 days. Roughly 5 months later, symptoms were persistent and repeat urea breath test (UBT) was positive. The patient underwent repeat EGD, and biopsies were taken for surgical pathology and culture with susceptibility testing. Surgical pathology showed gastritis, and <emphasis>H. pylori</emphasis> immunohistochemistry was positive.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0036s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  The patient has now failed two rounds of therapy. What is a possible explanation for this and what would be the next steps to investigate?</para>
+        </listitem>
+      </itemizedlist>
+      <figure id="ch0036s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 33.1</emphasis></emphasis> (A) H&amp;E-stained gastric biopsy. (Magnification, ×100). (B) <emphasis>H. pylori</emphasis> immunohistochemical-stained gastric biopsy. (Magnification, ×100). Images courtesy of Laurel Glaser, MD, PhD, D(ABMM). </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0036f01.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>Two panels. (A) A histological tissue section stained with purple hues showing cellular and structural details; (B) A microscopic image with blue and brown stained elements, likely indicating specific cellular or microbial components.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis>H. pylori</emphasis> was recovered by culture from the patient’s stomach biopsy. Antimicrobial susceptibility testing was performed using a MIC method and interpreted using Clinical and Laboratory Standards Institute (CLSI) breakpoints for clarithromycin and European Committee on Antimicrobial Testing (EUCAST) epidemiologic cutoff (ECOFF) values for amoxicillin, levofloxacin, metronidazole, and tetracycline. Levofloxacin and metronidazole were resistant, while the other antimicrobials tested as susceptible.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0036s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  What is an epidemiologic cutoff value (ECV/ECOFF)?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient was started on a combination of clarithromycin and amoxicillin with vonoprazan for 14 days. Vonoprazan is a newly approved potassium-competitive acid blocker and has been studied as an alternative to PPI use in <emphasis>H. pylori</emphasis> treatment regimens. She was again advised to return after completion of therapy for a test of eradication. Her UBT at that time was negative and her symptoms had resolved.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0036s0004x09" role="qus1">
+          <para><phrase><emphasis role="strong">9</emphasis></phrase>.  Why are treatment and eradication so important? What complications can occur from untreated <emphasis>H. pylori</emphasis> infection?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0036s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  Gastritis is inflammation of the stomach lining. The most common infectious cause of gastritis, particularly chronic gastritis, is <emphasis>H. pylori</emphasis>. Other infectious causes of gastritis include hemolytic streptococci, staphylococci, enterococci, <emphasis>Mycobacterium tuberculosis</emphasis>, cytomegalovirus, enterovirus, and various parasitic and fungal infections <link linkend="ch0036s0002bib01">(1)</link>.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  The H&amp;E stain shows inflammation consistent with gastritis. The <emphasis>H. pylori</emphasis> immunohistochemical staining is positive, showing 2.5- to 5-μm length and curved bacilli staining. <emphasis>H. pylori</emphasis> is a microaerobic, curved, Gram-negative bacillus. Immunohistochemical stains can be used to detect <emphasis>H. pylori</emphasis> in tissue, as in this case. However, these stains can cross-react with non-<emphasis>H. pylori</emphasis> helicobacters (NHPHs), such as <emphasis>Helicobacter heilmannii</emphasis> and other closely related <emphasis>Helicobacter</emphasis> species. The Warthin-Starry stain, a silver stain, can also be used to visualize <emphasis>H. pylori</emphasis>, but is also nonspecific and can be complicated by background staining. Classic morphologic features of <emphasis>H. pylori</emphasis> (2.5- to 5-μm length and curved shape) can be used to differentiate it with these stains from NHPHs (5- to 10-μm length and tightly helical shape), but overlapping features and atypical morphology can make definitive diagnosis a challenge.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  There are three main methods for noninvasive diagnosis of <emphasis>H. pylori</emphasis> infection. The first is the SAT, which is an enzyme-linked immunosorbent assay that uses antibodies to detect <emphasis>H. pylori</emphasis> antigens <link linkend="ch0036s0002bib02">(2)</link>. This test is useful for diagnosing <emphasis>H. pylori</emphasis> infection and as an assessment of posttreatment eradication and shows an overall performance accuracy of 90% <link linkend="ch0036s0002bib03">(3)</link>. Another noninvasive testing option, applicable for both diagnostic and eradication testing, is the UBT, which shows high sensitivity and specificity for infection <link linkend="ch0036s0002bib03">(3</link>, <link linkend="ch0036s0002bib04">4</link>). This test takes advantage of urease production by <emphasis>H. pylori</emphasis>. In this test, the patient ingests a solution containing <superscript>13</superscript>C-labeled urea. If <emphasis>H. pylori</emphasis> is present, the urease enzyme produced by the bacteria hydrolyzes the urea into ammonia and <superscript>13</superscript>CO<subscript>2</subscript>. The <superscript>13</superscript>CO<subscript>2</subscript> can be detected in expired air. Urease plays a key role in <emphasis>H. pylori</emphasis> pathogenesis. The enzyme urease, which may represent as much as 6% of the protein synthesis of <emphasis>H. pylori</emphasis>, is active at the low pH of gastric juice. It has been established by studies with mutant <emphasis>H. pylori</emphasis> that lack urease that this enzyme is essential for gastric colonization. Urease hydrolysis of urea into ammonia raises the pH of the microenvironment, resulting in improved bacterial survival. The third method is <emphasis>H. pylori</emphasis> detection from stool by nucleic acid amplification testing (NAAT). Like SAT and UBT, these tests have been shown to be sensitive for the detection of <emphasis>H. pylori</emphasis> <link linkend="ch0036s0002bib05">(5)</link>. It can also provide the benefit of predicting clarithromycin resistance with cleverly designed primers and probes from a single assay. The use of NAAT for assessment of treatment success has not been studied but may be susceptible to false positives due to residual <emphasis>H. pylori</emphasis> DNA. </para>
+        <para>An indirect detection method for infection is serology to demonstrate the presence of immunoglobulin G antibody to <emphasis>H. pylori</emphasis> <link linkend="ch0036s0002bib02">(2)</link>. Serologic results must be interpreted cautiously, as both the sensitivity and the specificity are &lt;90%. Seropositivity increases with age, presumably because of increased exposure to the organism. Patients can be seropositive without clinical evidence of gastritis or peptic ulcer disease. In addition, the monitoring of patients who have received treatment for <emphasis>H. pylori</emphasis> cannot be done with the serologic assays, as these patients will remain seropositive even with successful eradication.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  The ACG has published guidelines on the treatment of <emphasis>H. pylori</emphasis> <link linkend="ch0036s0002bib06">(6)</link>. In regions with macrolide resistance to <emphasis>H. pylori</emphasis> &lt;15%, and when the patient is macrolide naïve, initial therapy should include a PPI in combination with clarithromycin and amoxicillin. If the patient has a penicillin allergy, amoxicillin can be replaced with metronidazole. If regional macrolide resistance rates exceed 15% or the patient has been recently exposed to a macrolide or metronidazole, bismuth quadruple therapy is recommended. This combination consists of a PPI, bismuth subsalicylate, metronidazole, and tetracycline for 14 days.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  ACG guidelines recommend confirmation of eradication of <emphasis>H. pylori</emphasis>. Upwards of 25% of patients may fail initial treatment and have relapse of infection, potentially driven by increasing macrolide resistance <link linkend="ch0036s0002bib07">(7)</link>. Posttreatment eradication testing can be performed by SAT or UBT as described above. Testing should be performed at least 4 weeks after therapy completion, and the PPI should be withheld for at least 2 weeks prior.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  Data on macrolide resistance in <emphasis>H. pylori</emphasis> are limited, as phenotypic susceptibility testing is not routinely performed on initial diagnosis. Culture and susceptibility testing is routinely reserved for refractory cases, introducing bias toward resistance in the available data. This gap in susceptibility data may be addressed by the adoption of NAAT detection methods that can simultaneously screen for macrolide resistance during initial diagnosis <link linkend="ch0036s0002bib05">(5)</link>. A recently published study suggests that clarithromycin resistance rates are increasing and exceed 15% in all regions of the United States, calling into question the appropriateness of the current triple therapy recommendation <link linkend="ch0036s0002bib08">(8)</link>.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  Failure of the two treatment regimens could be explained by antimicrobial resistance. <emphasis>H. pylori</emphasis> culture and subsequent antimicrobial susceptibility testing on the isolate should be performed.</para>
+        <para><emphasis>H. pylori</emphasis> cultures require incubation in microaerobic conditions at 35 to 37°C. A variety of nonselective and selective media will support the growth of <emphasis>H. pylori</emphasis>, such as <emphasis>Brucella </emphasis> blood agar. A major challenge for <emphasis>H. pylori</emphasis> culture begins in the preanalytical phase of testing. Gastric biopsies are prone to desiccation, and exposure to the aerobic environment can render <emphasis>H. pylori</emphasis>nonviable. Rapid transport to the laboratory for plating (&lt;4 hours) or appropriate stabilization of the sample for transport (e. g., refrigerated in saline) or a specialized transport medium is paramount<link linkend="ch0036s0002bib02">(2)</link>. Plating involves wiping the biopsy across the surface of the media or gently homogenizing the tissue and then inoculating and streaking the plate. Once in the microaerobic environment, plates should not be disturbed for 2 to 5 days, as exposure to atmospheric conditions during early growth can be detrimental to recovery. Plates should be incubated for a minimum of 10 days before finalizing the culture.</para>
+        <para>Methods of susceptibility testing and subsequent interpretive criteria for antimicrobial tests are limited. The CLSI outlines a recognized method for susceptibility testing via agar dilution, but only provides interpretive criteria for clarithromycin. The EUCAST recommends MIC-based testing and provides ECOFFs for amoxicillin, levofloxacin, tetracycline, metronidazole, and rifampin.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  EUCAST maintains a database of MIC values for bug-drug combinations that represent ECOFFs, which are distinct from clinical breakpoints. A similar concept is used by CLSI, but epidemiologic cutoff values are referred to as ECVs. ECV/ECOFF values are derived from <emphasis>in vitro</emphasis> testing and in aggregate can provide insight into the MIC distribution observed from testing. In doing so, disparate populations of organisms can sometimes be identified, namely populations that appear to have no phenotypic resistance to an antibiotic (wild type) and those that appear to have acquired resistance mechanisms (non-wild type). Using this distribution, ECVs/ECOFFs can be established as a threshold to separate wild type (MICs below the ECV/ECOFF) and non-wild type (MICs above the ECV/ECOFF) <link linkend="ch0036s0002bib09">(9)</link>. Importantly, ECVs/ECOFFs do not factor in clinical data and are not clinical breakpoints but serve as foundational observations for further studies to establish interpretive criteria.</para>
+        <para role="ans1"><emphasis role="strong">9.</emphasis>  In addition to the obvious benefit of eliminating the patient’s presenting symptoms, treatment of <emphasis>H. pylori</emphasis> infection reduces the risk of gastric cancer <link linkend="ch0036s0002bib10">(10)</link>. There is epidemiologic evidence that both adenocarcinoma of the stomach that is distal to the gastroesophageal junction and gastric mucosa-associated lymphoid tissue lymphoma are associated with <emphasis>H. pylori</emphasis> infection. The mechanism behind this association has been attributed to virulence factors produced by the bacterium, including VacA and CagA <link linkend="ch0036s0002bib11">(11)</link>. Introduction of these virulence factors into the gastric mucosa alters cell signaling pathways that can drive tumorigenesis. Other <emphasis>H. pylori</emphasis> cellular components can also trigger proinflammatory cytokines that over time can contribute to pathogenesis. Populations at risk for <emphasis>H. pylori</emphasis>-associated gastric adenocarcinoma have been identified, including individuals who smoke and those with diets containing processed meats and high salt intake <link linkend="ch0036s0002bib12">(12)</link>. Treatment of <emphasis>H. pylori</emphasis> lowers the risk of cancer progression.</para>
+      </sect1>
+      <sect1 id="ch0036s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0036s0003l01" role="decimal">
+          <listitem id="ch0036s0003x22">
+            <para><emphasis>H. pylori</emphasis> is a microaerobic, curved, Gram-negative bacillus.</para>
+          </listitem>
+          <listitem id="ch0036s0003x23">
+            <para>Infection can cause gastric ulcers and, if left untreated, lead to increased risk of gastric cancers.</para>
+          </listitem>
+          <listitem id="ch0036s0003x24">
+            <para>Reliable noninvasive testing methods for infection include the UBT, SAT, and stool NAAT. Invasive testing can include biopsy for surgical pathology, culture, and, when necessary, susceptibility testing.</para>
+          </listitem>
+          <listitem id="ch0036s0003x25">
+            <para>Surgical pathology can demonstrate evidence of inflammation consistent with chronic gastritis and immunohistochemical stains can detect <emphasis>H. pylori</emphasis> in tissue.</para>
+          </listitem>
+          <listitem id="ch0036s0003x26">
+            <para>Resistance rates to clarithromycin and metronidazole are rising throughout the United States, which may contribute to therapeutic failure in some patients.</para>
+          </listitem>
+          <listitem id="ch0036s0003x27">
+            <para>Interpretive criteria for susceptibility testing are only established for clarithromycin, but ECVs/ECOFFs can be used to guide interpretation of other antimicrobials.</para>
+          </listitem>
+          <listitem id="ch0036s0003x28">
+            <para>Testing for eradication after therapy is an important component of patient management.</para>
+          </listitem>
+          <listitem id="ch0036s0003x29">
+            <para>Left untreated,<emphasis>H. pylori</emphasis> virulence factors and resistant proinflammatory signaling can contribute to gastric adenocarcinoma.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0036s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0036s0002bib01">Azer SA, Awosika AO, Akhondi H. 2024. Gastritis. <citetitle>In Stat Pearls [Internet]</citetitle>. Stat Pearls Publishing, Treasure Island, FL. https://www. ncbi. nlm. nih. gov/books/NBK544250/.</bibliomixed>
+        <bibliomixed id="ch0036s0002bib02">Couturier MR. 2023. Helicobacter, p 1151–1166. In Carroll KC, Pfaller MA, Karlowsky JA, Landry ML, Mc Adam AJ, Patel R, Pritt BS (ed),<citetitle>Manual of Clinical Microbiology</citetitle>, 13th ed. ASM Press, Washington, DC.</bibliomixed>
+        <bibliomixed id="ch0036s0002bib03">Cardos AI, Maghiar A, Zaha DC, Pop O, Fritea L, Miere Groza F, Cavalu S. 2022. Evolution of diagnostic methods for Helicobacter pylori infections: from traditional tests to high technology, advanced sensitivity and discrimination tools. <citetitle>Diagnostics (Basel)</citetitle> 12:508.</bibliomixed>
+        <bibliomixed id="ch0036s0002bib04">Said ZNA, El-Nasser AM. 2024. Evaluation of urea breath test as a diagnostic tool for Helicobacter pylori infection in adult dyspeptic patients. <citetitle>World J Gastroenterol</citetitle> 30:2302–2307.</bibliomixed>
+        <bibliomixed id="ch0036s0002bib05">Marrero Rolon R, Cunningham SA, Mandrekar JN, Polo ET, Patel R. 2021. Clinical evaluation of a real-time PCR assay for simultaneous detection of Helicobacter pylori and genotypic markers of clarithromycin resistance directly from stool. <citetitle>J Clin Microbiol</citetitle>59: e 03040-20.</bibliomixed>
+        <bibliomixed id="ch0036s0002bib06">Chey WD, Leontiadis GI, Howden CW, Moss SF. 2017. ACG clinical guideline: treatment of Helicobacter pylori infection. <citetitle>Am J Gastroenterol</citetitle> 112:212–239.</bibliomixed>
+        <bibliomixed id="ch0036s0002bib07">Kearney DJ. 2001. Retreatment of Helicobacter pylori infection after initial treatment failure. <citetitle>Am J Gastroenterol</citetitle> 96:1335–1339.</bibliomixed>
+        <bibliomixed id="ch0036s0002bib08">Mégraud F, Graham DY, Howden CW, Trevino E, Weissfeld A, Hunt B, Smith N, Leifke E, Chey WD. 2023. Rates of antimicrobial resistance in Helicobacter pylori isolates from clinical trial patients across the US and Europe. <citetitle>Am J Gastroenterol</citetitle> 118:269–275.</bibliomixed>
+        <bibliomixed id="ch0036s0002bib09">Kahlmeter G, Turnidge J. 2022. How to: ECOFFs—the why, the how, and the don’ts of EUCAST epidemiological cutoff values. <citetitle>Clin Microbiol Infect</citetitle> 28:952–954.</bibliomixed>
+        <bibliomixed id="ch0036s0002bib10">Wroblewski LE, Peek RM Jr, Wilson KT. 2010. Helicobacter pylori and gastric cancer: factors that modulate disease risk. <citetitle>Clin Microbiol Rev</citetitle> 23:713–739.</bibliomixed>
+        <bibliomixed id="ch0036s0002bib11">Zavros Y, Merchant JL. 2022. The immune microenvironment in gastric adenocarcinoma. <citetitle>Nat Rev Gastroenterol Hepatol</citetitle> 19:451–467.</bibliomixed>
+        <bibliomixed id="ch0036s0002bib12">National Cancer Institute. 12 April 2023. Helicobacter pylori (H. pylori) and cancer. https://www. cancer. gov/about-cancer/causes-prevention/risk/infectious-agents/h-pylori-fact-sheet.</bibliomixed>
+      </bibliography>
+    </chapter>

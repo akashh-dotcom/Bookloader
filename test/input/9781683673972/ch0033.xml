@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0033" label="33">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor3">CASE 30</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0033s0004"><title>CASE 30</title><para>The patient was a 38-year-old man who presented at a primary care clinic for chronic fatigue and muscle pain. He had a 10-year history of alcohol use disorder but had been sober for 8 months. His serum alanine aminotransferase (ALT) level was 554 U/liter, and his aspartate transaminase (AST) level was 292 U/liter. He previously had normal liver function tests 2 years ago.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0033s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What viral causes of his elevated liver enzymes should be considered? What tests should be ordered?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient had blood drawn for hepatitis A virus (HAV), hepatitis B virus (HBV), and hepatitis C virus (HCV) serologic tests and was referred to the gastroenterology clinic for follow-up. At his follow-up appointment, the patient reported feeling tired with muscle aches in his calves and other areas and stated that he had had sharp right upper quadrant (RUQ) pain for the past month. This RUQ pain was intermittent with no association with food and only lasted for a few seconds. During the physical exam, his RUQ was tender to palpation.</para>
+      <para>The patient’s hepatitis virus serologic testing results were as follows.</para>
+      <itemizedlist id="ch0033s0004l01">
+        <listitem id="ch0033s0004x02">
+          <para>HAV immunoglobulin M (IgM) antibody: negative</para>
+        </listitem>
+        <listitem id="ch0033s0004x03">
+          <para>HBsAg (surface antigen): positive</para>
+        </listitem>
+        <listitem id="ch0033s0004x04">
+          <para>HBeAg (e antigen): positive</para>
+        </listitem>
+        <listitem id="ch0033s0004x05">
+          <para>HBs (surface) antibody: negative</para>
+        </listitem>
+        <listitem id="ch0033s0004x06">
+          <para>HBc (core) total antibody: positive</para>
+        </listitem>
+        <listitem id="ch0033s0004x07">
+          <para>HBc (core) IgM antibody: positive</para>
+        </listitem>
+        <listitem id="ch0033s0004x08">
+          <para>HCV antibody: negative</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0033s0004x09" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  How do you interpret the patient’s serologic tests? Are the test results consistent with his symptoms?</para>
+        </listitem>
+        <listitem id="ch0033s0004x10" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  What is the role of HBeAg testing, and how does it affect treatment and outcomes?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient had not traveled outside of North Carolina and did not use intravenous drugs. Review of his social history revealed that he had unprotected sex with a known HCV-positive partner but that the partner’s HCV RNA test was negative.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0033s0004x11" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  How did the patient likely acquire his infection? How does the epidemiology of the infection differ between patients from the United States and Asia?</para>
+        </listitem>
+        <listitem id="ch0033s0004x12" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What is the natural course of untreated infection with the organism causing his infection? What viral agent can, in the setting of coinfection, be associated with severe disease? What complications of this infection occur?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient’s HBV DNA viral load was &gt;28 million IU/ml, but antiviral therapy was not initiated.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0033s0004x13" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  When should therapy be started? What therapeutic options are available?</para>
+        </listitem>
+        <listitem id="ch0033s0004x14" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  An effective vaccine is available for preventing infection with this agent. Describe the nature of the vaccine, its efficacy, and who should receive the vaccine.</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0033s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  The patient’s elevated ALT and AST indicate hepatocellular injury. Although the patient was in recovery from alcohol use disorder, excessive alcohol consumption is associated with liver disease and cannot be ruled out as the source of his elevated liver enzymes. Given his nonspecific systemic symptoms that accompanied his abnormal laboratory tests, viral hepatitis is likely. The patient should be tested for antibodies to HAV, HBV, and HCV. If the patient had a travel history to Asia, Africa, the Middle East, or Central America, hepatitis E virus should be considered <link linkend="ch0033s0002bib01">(1)</link>. Other viruses that can cause an acute presentation with elevated liver enzymes include herpes simplex virus, Epstein-Barr virus, and cytomegalovirus <link linkend="ch0033s0002bib02">(2)</link>.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  The patient was not infected by HAV (indicated by negative HAV IgM) nor by HCV (negative HCV antibody). The interpretation of the serologic testing for HBV infection is of great clinical importance. Knowledge of the time course of the typical serologic patterns seen in acute infection (<link linkend="ch0033s0001fg01">Fig. 30.1</link>) and in patients who become chronic carriers of HBV after the initial infection (<link linkend="ch0033s0001fg01">Fig. 30.2</link>) is needed to interpret the serologic results. The positive HBsAg test, in combination with the positive HBc IgM antibody test, indicates that this patient had acute HBV infection (<link linkend="ch0033s0001ta01">Table 30.1</link>). The HBs antibody usually does not develop until at least 3 months postinfection, when there is a concomitant disappearance of HBsAg. The HBc total antibody test remains positive throughout the disease course because it detects both IgM and IgG antibodies. The presence of HBsAg indicates that the virus is actively replicating.</para>
+        <figure id="ch0033s0001fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 30.1</emphasis></emphasis> Serologic and clinical patterns observed during acute HBV infection. SGPT, serum glutamic pyruvic transaminase. Reprinted from Murray PR, Baron EJ, Pfaller MA, Tenover FC, Yolken RH (ed). 1999. <emphasis>Manual of Clinical Microbiology</emphasis>, 7th ed. ASM Press, Washington, DC. </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0033f03.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A graph illustrating the timeline of diagnostic markers (HBsAg, anti-HBc, anti-HBs, anti-HBe, HBV particles, DNA polymerase) after hepatitis B exposure, showing levels of detection, incubation period, prodrome, acute disease, convalescence phases, and months after exposure, with additional markings for symptoms and ALT levels.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <figure id="ch0033s0001fg02"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 30.2</emphasis></emphasis> Typical sequence of serologic markers in patients with acute hepatitis B who develop persistent infection after exposure to HBV. Reprinted from Tang YW, Horvat RT, Landry ML. Hepatitis B and D viruses. <emphasis>In</emphasis>Carroll KC, Pfaller MA, Landry ML, Patel R, Mc Adam AJ, Richter SS, Warnock DW (ed).<emphasis>Manual of Clinical Microbiology</emphasis>, 12th ed. ASM Press, Washington, DC. </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0033f02.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A line graph showing the progression of hepatitis B virus markers (HBV DNA, HBeAg, anti-HBe, HBsAg, total anti-HBc, IgM anti-HBc) over weeks, months, and years after exposure, illustrating antibody titer levels during acute and chronic phases.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <table id="ch0033s0001ta01"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 30.1</emphasis></emphasis> INTERPRETATION OF HEPATITIS B VIRUS SEROLOGIC STUDIES</emphasis> </title>
+          
+          <tgroup cols="3">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <tbody>
+              <row>
+                <entry>TEST</entry>
+                <entry>RESULT</entry>
+                <entry>INTERPRETATION</entry>
+              </row>
+              <row>
+                <entry>HBsAg<?lb ?>  Anti-HBc<?lb ?>  Anti-HBs</entry>
+                <entry>Negative<?lb ?>  Negative<?lb ?>  Negative</entry>
+                <entry>Susceptible</entry>
+              </row>
+              <row>
+                <entry>HBsAg<?lb ?>  Anti-HBc<?lb ?>  Anti-HBs</entry>
+                <entry>Negative<?lb ?>  Positive<?lb ?>  Positive</entry>
+                <entry>Immune due to natural infection</entry>
+              </row>
+              <row>
+                <entry>HBsAg<?lb ?>  Anti-HBc<?lb ?>  Anti-HBs</entry>
+                <entry>Negative<?lb ?>  Negative<?lb ?>  Positive</entry>
+                <entry>Immune due to hepatitis B vaccination</entry>
+              </row>
+              <row>
+                <entry>HBsAg<?lb ?>  Anti-HBc<?lb ?>  IgM anti-HBc<?lb ?>  Anti-HBs</entry>
+                <entry>Positive<?lb ?>  Positive<?lb ?>  Positive<?lb ?>  Negative</entry>
+                <entry>Acutely infected</entry>
+              </row>
+              <row>
+                <entry>HBsAg<?lb ?>  Anti-HBc<?lb ?>  IgM anti-HBc<?lb ?>  Anti-HBs</entry>
+                <entry>Positive<?lb ?>  Positive<?lb ?>  Negative<?lb ?>  Negative</entry>
+                <entry>Chronically infected</entry>
+              </row>
+              <row>
+                <entry>HBsAg<?lb ?>  Anti-HBc<?lb ?>  Anti-HBs</entry>
+                <entry>Negative<?lb ?>  Positive<?lb ?>  Negative</entry>
+                <entry>Four interpretations possible<phrase><superscript><emphasis>a</emphasis></superscript></phrase></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para role="table-footnote"><superscript><emphasis>a</emphasis></superscript> Possible interpretations: (i) the patient may be recovering from acute HBV infection; (ii) the patient may be distantly immune, and the test is not sensitive enough to detect very low levels of anti-HBs in serum; (iii) the patient may be susceptible with a false-positive anti-HBc; and (iv) there may be an undetectable level of HBsAg present in the serum, and the patient is actually a carrier.</para>
+        <para>The presentation of acute HBV infection ranges from subclinical to fulminant hepatitis. Approximately 70% of patients present with anicteric hepatitis, with the majority being asymptomatic<link linkend="ch0033s0002bib03">(3)</link>. However, ~30% of patients may have a variety of other symptoms including anorexia, nausea, vomiting, low-grade fever, myalgia, fatigue, aversion to food and cigarettes, and RUQ and epigastric pain. Acute HBV presentation may be more severe in patients with underlying immune dysfunction, coinfection with other hepatitis viruses, and underlying liver disease. This patient had several symptoms consistent with his diagnosis of acute HBV infection, including anicteric hepatitis, RUQ pain, and myalgia. Although this patient had a risk factor for severe acute disease (potential liver disease from alcohol use), his presentation was relatively mild.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>HBeAg is a protein that is secreted by HBV-infected cells and is a marker of active viral replication. HBeAg generally appears within a week of HBsAg. In the natural progression of HBV infection, HBeAg is present for 3 to 6 weeks and then disappears before HBsAg. The disappearance of HBeAg is followed by the appearance of anti-HBeAg (seroconversion), which is associated with greatly reduced viral replication. Persistence of HBeAg indicates chronic HBV infection with active viral replication. However, mutations occur in the precore region and core promoter that render HBeAg negative or reduce its expression. Core promoter mutations are associated with more severe liver disease, including hepatocellular carcinoma. Therefore, treatment guidelines recommend a lower viral load threshold for treating HBeAg-negative disease relative to HBeAg-positive disease (i. e., 2,000 IU/ml versus 20,000 IU/ml, respectively)<link linkend="ch0033s0002bib04">(4)</link>. HBeAg-negative patients with chronic hepatitis B are twice as likely to develop cirrhosis as HBeAg-positive patients. HBeAg seroconversion is associated with sustained reductions in HBV DNA and lower rates of cirrhosis and hepatocellular carcinoma in patients with HBeAg-positive chronic hepatitis B who are treated <link linkend="ch0033s0002bib05">(5)</link>.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  The patient presumably acquired his infection from an infected sexual partner <link linkend="ch0033s0002bib03">(3)</link>. Approximately 9 to 30% of individuals with chronic HBV are also infected with HCV. Thus, his HCV-positive partner could also have been coinfected with HBV, or perhaps the patient had additional risk factors that were not disclosed. HBV is more transmissible than HCV or HIV. Following percutaneous exposure to a known positive source, the risk of acquisition for HBV is approximately 1 in 3, while the risk for HCV is 1 in 30 and that for HIV-1 is 1 in 300. Of course, the risk depends on the viral load of the source and the type of body fluid exposure (e. g., mucocutaneous exposure carries a much lower risk of transmission than percutaneous exposure). HBV is found in the body fluids of infected individuals, including, most notably, blood and semen. In addition to sexual transmission, HBV can be acquired perinatally by an infant from an infected mother and via blood either directly (such as by transfusions of blood products prior to effective donor screening) or indirectly (such as by sharing contaminated needles). Needlestick injuries in health care workers are of particular concern, as HBV is transmitted more efficiently than HIV.</para>
+        <para>There are an estimated 300 million chronic carriers of HBV worldwide, many of whom live in Asia. In Asian-Pacific countries, HBV is usually acquired either perinatally or by horizontal transmission in early childhood. This contrasts with the United States and Western Europe, where most individuals are infected as adults. Perinatal infection is not typically associated with an acute hepatitis clinical syndrome, but rather chronic HBV infection.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>Approximately 30% of adult patients who are infected with HBV have an acute illness characterized by jaundice due to elevated bilirubin, fatigue, and abnormal liver function tests (i. e., icteric hepatitis). Clinically, liver function tests indicative of hepatocellular injury (AST and ALT) are elevated in patients with acute hepatitis. Other tests of hepatic function, such as coagulation times, are typically abnormal because of a decrease in the hepatic synthesis of clotting factors. However, as noted in the<phrase>answer to question 2</phrase>, many patients with acute hepatitis B are asymptomatic or have anicteric hepatitis with a variety of other symptoms. While most infected patients will have a self-limiting illness, a small subset of acutely infected patients will develop fulminant hepatitis, which can be fatal. This is more likely to occur in those patients who are coinfected with hepatitis D virus, an RNA virus that requires the presence of HBV to replicate and cause an infection <link linkend="ch0033s0002bib06">(6)</link>. HBV genotype and environmental factors (acetaminophen, alcohol, and methamphetamine use) may also play a role in the development of fulminant hepatitis.</para>
+        <para>The risk of developing chronic HBV infection is dependent on the age at initial infection<link linkend="ch0033s0002bib03">(3)</link>. Fewer than 5% of adults become chronically infected. This contrasts with infected neonates, 90% of whom will become chronic carriers, and children 1 to 5 years old, 20 to 50% of whom will become chronically infected. Chronic infection, associated with a significant rate of cirrhosis, may lead to end-stage liver disease and to the development of hepatocellular carcinoma. Other complications, due to immune complex formation, may result in extrahepatic manifestations, such as polyarteritis nodosa and other vasculitides. These can result in injury to the kidney, lung, and other organs. Coinfection with either HIV or HCV during chronic hepatitis B infection may lead to a more rapid disease progression (<link linkend="ch0033s0002bib07">7</link>, <link linkend="ch0033s0002bib08">8</link>).</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  Only supportive treatment is recommended for acute HBV infection, since &gt;95% of immunocompetent adults will clear the infection naturally <link linkend="ch0033s0002bib06">(6)</link>. Patients with a more severe initial presentation (severe jaundice, encephalopathy, or coagulopathy) may require hospitalization. Although there are not randomized, placebo-controlled trials to support the use of antivirals in acute HBV infection, many physicians choose to treat patients with prolonged severe initial infection, fulminant hepatitis, immunodeficiency, coinfection with HCV or hepatitis D, or preexisting liver disease. Nucleos(t)ide-based therapy is preferred to interferon and should be discontinued when the patient’s HBsAg test is negative.</para>
+        <para>HBV antiviral therapy is generally reserved for the treatment of chronic hepatitis B to reduce the risk of cirrhosis, liver failure, and hepatocellular carcinoma. Successful treatment is indicated by the loss of HBsAg from the serum, but this occurs in a minority of patients with chronic infection. Sequential liver biopsies are used to monitor the progression of chronic liver disease. Histologic improvement can occur in patients who remain HBV carriers (indicated by a positive HBsAg test). This is likely due to decreased viral replication associated with nucleos(t)ide antiviral therapy, which is supported by decreased levels of HBV DNA detected in the serum.</para>
+        <para>Drugs approved by the Food and Drug Administration for the treatment of chronic hepatitis B include pegylated alpha interferon and several nucleos(t)ide analogs (i. e., lamivudine, entacavir, telbivudine, adefovir, and tenofovir)<link linkend="ch0033s0002bib09">(9)</link>. HBV is unique in that its genome is composed of partially double-stranded DNA that is transcribed from covalently closed circular DNA to form pregenomic RNA. The nucleos(t)ide analogs are viral DNA polymerase inhibitors that act as chain terminators to prevent the reverse transcription of the HBV pregenomic RNA to DNA. Interferon therapy, which acts as an immunomodulator, is not known to be associated with the emergence of HBV mutations, whereas significant resistance rates have been observed with nucleos(t)ide therapy, particularly lamivudine monotherapy (16% at year 1, 61% at year 3). Therefore, combination therapy will likely become the most effective treatment for chronic HBV infection. Unfortunately, interferon therapy has a high rate of side effects and is more difficult to administer than the nucleos(t)ide drugs, which are administered orally.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  The most important method used to prevent HBV infection is immunization, which is given as a series of three intramuscular injections. Effective vaccines against HBV have been available since 1982 <link linkend="ch0033s0002bib10">(10)</link>. The initial vaccine was derived from individuals who were chronic carriers of HBV. The vaccine that is now in use is a recombinant vaccine. A subset of people do not respond to the vaccine (i. e., do not produce detectable antibodies to recombinant HBsAg). With repeat vaccinations, some of these individuals will respond, as demonstrated by the production of an adequate antibody level to HBsAg.</para>
+        <para>The neutralizing antibodies that are produced following vaccination are directed to a hydrophilic region of the HBsAg. One concern is the development of vaccine-escape mutants of HBV. HBV mutations in the S gene that confer amino acid substitutions within the hydrophilic region of the surface antigen can allow the replication of HBV in people who have been vaccinated. Fortunately, these events are rare to date, and there has been no evidence of epidemiologic spread of vaccine-escape mutants even among close contacts. Nonetheless, if the frequency of these mutations increases, there could be a decrease in the efficacy of the vaccine. Therefore, surveillance for vaccine-escape mutants is of great importance to assess the need for modification of the current vaccine.</para>
+        <para>An additional method of protection, which is used in the setting of a known exposure to HBV in a nonimmune individual, is the use of hepatitis B immunoglobulin (HBIG)<link linkend="ch0033s0002bib11">(11)</link>. For example, HBIG is given following a needlestick injury in a nonimmune individual (i. e., postexposure prophylaxis). Both vaccination and HBIG have been shown to decrease the rate of chronic infection due to HBV in infants born to mothers who are infected with HBV.</para>
+      </sect1>
+      <sect1 id="ch0033s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0033s0003l02" role="decimal">
+          <listitem id="ch0033s0003x26">
+            <para>Chronic HBV infection affects more than 300 million people globally and may lead to cirrhosis, liver failure, and hepatocellular carcinoma.</para>
+          </listitem>
+          <listitem id="ch0033s0003x27">
+            <para>Acute HBV infection is usually asymptomatic, but may present with nonspecific systemic symptoms, icteric or anicteric hepatitis, right upper quadrant or epigastric pain, and rarely fulminant hepatitis.</para>
+          </listitem>
+          <listitem id="ch0033s0003x28">
+            <para>Severe acute HBV infection is more likely in patients coinfected with hepatitis D virus or those with underlying liver disease.</para>
+          </listitem>
+          <listitem id="ch0033s0003x29">
+            <para>Careful interpretation of serologic results for HBV is needed to distinguish between acute HBV infection, chronic HBV infection, resolved HBV infection, and vaccination.</para>
+          </listitem>
+          <listitem id="ch0033s0003x30">
+            <para>The presence of HBsAg, HBeAg, and/or HBV DNA indicates active viral replication.</para>
+          </listitem>
+          <listitem id="ch0033s0003x31">
+            <para>Patients who are HBeAg negative due to mutations in the precore or core promoter regions of HBV have a lower viral load threshold for treatment and are at greater risk for developing cirrhosis.</para>
+          </listitem>
+          <listitem id="ch0033s0003x32">
+            <para>In the United States, HBV is primarily transmitted in adults by sexual contact, blood or mucocutaneous exposure, or exposure to a contaminated needle (needlestick or intravenous drug use). In Asian-Pacific countries, HBV is usually acquired perinatally, which typically leads to chronic HBV infection.</para>
+          </listitem>
+          <listitem id="ch0033s0003x33">
+            <para>Acute HBV infection in adults is usually not treated since &gt;95% of immunocompetent adults clear the infection naturally. Treatment might be considered for patients with prolonged severe infection, immunodeficiency, coinfection with other hepatitis viruses, or preexisting liver disease.</para>
+          </listitem>
+          <listitem id="ch0033s0003x34">
+            <para>Available therapies for chronic HBV infection include pegylated alpha interferon and nucleos(t)ide analogs. Although resistance is less common with interferon therapy, it has more side effects and is more difficult to administer than the nucleos(t)ide analogs.</para>
+          </listitem>
+          <listitem id="ch0033s0003x35">
+            <para>Prevention of HBV infection includes a highly effective recombinant vaccine and the use of HBIG in postexposure prophylaxis.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0033s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0033s0002bib01">Centers for Disease Control and Prevention. 22 June 2020. Hepatitis E. https://www. cdc. gov/hepatitis/hev/index. htm. Accessed 5 April 2024.</bibliomixed>
+        <bibliomixed id="ch0033s0002bib02">Tapper EB, Curry MP. 2018. Hepatitis caused by other viruses, p 78–83. In Friedman LS, Martin P (ed), <citetitle>Handbook of Liver Disease</citetitle>, 4th ed. Elsevier, Philadelphia, PA.</bibliomixed>
+        <bibliomixed id="ch0033s0002bib03">Jeng WJ, Papatheodoridis GV, Lok ASF. 2023. Hepatitis B. <citetitle>Lancet</citetitle> 401:1039–1052.</bibliomixed>
+        <bibliomixed id="ch0033s0002bib04">Nguyen MH, Wong G, Gane E, Kao JH, Dusheiko G. 2020. Hepatitis B virus: advances in prevention, diagnosis, and therapy. <citetitle>Clin Microbiol Rev</citetitle>33: e 00046-19.</bibliomixed>
+        <bibliomixed id="ch0033s0002bib05">Liaw YF. 2009. HBeAg seroconversion as an important end point in the treatment of chronic hepatitis B. <citetitle>Hepatol Int</citetitle> 3:425–433.</bibliomixed>
+        <bibliomixed id="ch0033s0002bib06">Asselah T, Rizzetto M. 2023. Hepatitis D virus infection. <citetitle>N Engl J Med</citetitle> 389:58–70.</bibliomixed>
+        <bibliomixed id="ch0033s0002bib07">Corcorran MA, Kim N. 2023. Chronic hepatitis B and HIV coinfection. <citetitle>Top Antivir Med</citetitle> 31:14–22.</bibliomixed>
+        <bibliomixed id="ch0033s0002bib08">Shih YF, Liu CJ. 2020. Hepatitis C virus and hepatitis B virus co-infection. <citetitle>Viruses</citetitle> 12:741.</bibliomixed>
+        <bibliomixed id="ch0033s0002bib09">Broquetas T, Carrión JA. 2022. Current perspectives on nucleos(t)ide analogue therapy for the long-term treatment of hepatitis B virus. <citetitle>Hepat Med</citetitle> 14:87–100.</bibliomixed>
+        <bibliomixed id="ch0033s0002bib10">Pattyn J, Hendrickx G, Vorsters A, Van Damme P. 2021. Hepatitis B vaccines. <citetitle>J Infect Dis</citetitle>224(12 Suppl 2): S343–S351.</bibliomixed>
+        <bibliomixed id="ch0033s0002bib11">Centers for Disease Control and Prevention. 21 January 2025. Clinical care of hepatitis B. https://www. cdc. gov/hepatitis-b/hcp/clinical-care/. Accessed 26 January 2025.</bibliomixed>
+      </bibliography>
+    </chapter>

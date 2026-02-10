@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0067" label="67">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor7">CASE 64</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0067s0004"><title>CASE 64</title><para>A 57-year-old female with a complex medical history presented to an academic medical center with complaints of rectal bleeding (softball-sized clots) and a 2-week history of a diffuse purpuric rash. This patient was diagnosed with invasive ductal carcinoma, which was managed with a lumpectomy, chemotherapy, and radiation. Two years later, she was diagnosed with glioblastoma, which was treated with radiotherapy, bevacizumab, and temozolomide. The patient had multiple adverse effects from treatment, including aplastic anemia, and was started on isotretinoin. In addition to adverse drug reactions, the patient developed <emphasis>Leptotrichia</emphasis> bacteremia.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0067s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What type of organism is <emphasis>Leptotrichia</emphasis>? What does the patient’s bacteremia with this organism tell you?</para>
+        </listitem>
+      </itemizedlist>
+      <para>For this infection, she was started on daptomycin, metronidazole, and cefepime and was switched to metronidazole and doxycycline for a total of 21 days. A few months later, the patient noticed the onset of lesions on her knees, which progressed to violaceous, hemorrhagic, tender plaques over the bilateral arms, legs, and anterior trunk, which 1 week later spread to her face and neck (<link linkend="ch0067s0004fg01">Fig. 64.1</link>). She was evaluated by Dermatology and underwent biopsies of the lesions, which were sent for laboratory testing, as well as blood cultures.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0067s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  Which infectious diseases should be considered in an immunocompromised patient with progressive lesions?</para>
+        </listitem>
+      </itemizedlist>
+      <figure id="ch0067s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 64.1</emphasis></emphasis> Diffuse hemorrhagic plaques presenting on the legs. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0067f05.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A photograph shows a pair of elderly legs with multiple dark, raised, and inflamed skin lesions and bruises, resting on a bed with blue socks on both feet.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <para>The patient’s punch biopsies and blood culture were positive for the organism seen in <link linkend="ch0067s0001fg03">Fig 64.2</link>. A day later, the patient developed a fever of 103.9°F, altered mental status, and tachypnea. She was intubated due to the inability to protect her airway and admitted to the medical intensive care unit for further monitoring and workup.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0067s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  Based on the results of the blood culture, what organism is likely infecting this patient?</para>
+        </listitem>
+        <listitem id="ch0067s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  What is the epidemiology and pathogenesis of the organism causing the patient’s infection?</para>
+        </listitem>
+        <listitem id="ch0067s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  How is a laboratory diagnosis of <emphasis>Fusarium</emphasis> infection obtained?</para>
+        </listitem>
+      </itemizedlist>
+      <figure id="ch0067s0004fg02"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 64.2</emphasis></emphasis> Fungal organism on microscopy from a culture tape prep displaying characteristic banana-shaped macroconidia and microconidia. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0067f06.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A microscopic photograph showing elongated, blue-stained bacteria intertwined with human skin cells or tissue.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <para>Further identification of the <emphasis>Fusarium</emphasis> isolate determined it to be <emphasis>F. fujikuroi</emphasis>. The isolate was sent for antifungal susceptibility testing. Results are shown in <link linkend="ch0067s0004ta01">Table 64.1</link>. The infectious diseases team was consulted, and the patient was started on intravenous amphotericin and voriconazole.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0067s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  Why aren’t there susceptibility breakpoints for this isolate? How should the minimum inhibitory values be interpreted? What is the recommended treatment for disseminated <emphasis>Fusarium</emphasis> infection?</para>
+        </listitem>
+      </itemizedlist>
+      <table id="ch0067s0004ta01"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 64.1</emphasis></emphasis> SUSCEPTIBILITY TESTING RESULTS</emphasis> </title>
+        
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <colspec colname="c3" colnum="3"/>
+          <tbody>
+            <row>
+              <entry>DRUG</entry>
+              <entry>RESULT</entry>
+              <entry>INTERPRETATION</entry>
+            </row>
+            <row>
+              <entry>Amphotericin B (AMB)</entry>
+              <entry>2</entry>
+              <entry>No Established Breakpoints</entry>
+            </row>
+            <row>
+              <entry>Fluconazole (FLU)</entry>
+              <entry>&gt;64</entry>
+              <entry>No Established Breakpoints</entry>
+            </row>
+            <row>
+              <entry>Itraconazole (ITRA)</entry>
+              <entry>&gt;16</entry>
+              <entry>No Established Breakpoints</entry>
+            </row>
+            <row>
+              <entry>Posaconazole (POS)</entry>
+              <entry>2</entry>
+              <entry>No Established Breakpoints</entry>
+            </row>
+            <row>
+              <entry>Voriconazole (VORI)</entry>
+              <entry>4</entry>
+              <entry>No Established Breakpoints</entry>
+            </row>
+            <row>
+              <entry>Isavuconazole (ISA)</entry>
+              <entry>8</entry>
+              <entry>No Established Breakpoints</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para>Since there were concerns for disseminated infection and the ophthalmology/ear, nose, and throat (ENT) evaluation determined the patient’s vision and sinus exams were concerning, a computed tomography (CT) scan of the sinus with contrast and magnetic resonance imaging (MRI) of the brain were ordered. The CT scan showed hyperdense secretions within the right and left maxillary sinuses greater than in the right bilateral ethmoid sinuses. The radiologists concluded that the findings could represent inspissated secretions versus fungal sinusitis. The brain MRI did not show any evidence of invasive fungal sinusitis. Due to the possibility of invasive fungal sinusitis, the patient underwent a sinus endoscopy. During the procedure, sinus necrosis was noted, and the tissue was debrided and sent for histopathology.</para>
+      <para>The fungal culture results and pathology from the specimens collected during the sinus endoscopy were also positive for <emphasis>Fusarium</emphasis>. The option of surgical debridement for source control was discussed with the ENT team. Due to the extent of the infection, her advanced glioblastoma, and limited treatment options, the team opted not to perform surgery and continued to treat her infection with amphotericin B and voriconazole. A CT scan showed a hyperattenuating lesion around the pons, suggesting possible bleeding. The patient continued to deteriorate and was discharged to inpatient hospice care where she subsequently passed away.</para>
+      </sect1><sect1 id="ch0067s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  <emphasis>Leptotrichia</emphasis> species are anaerobic Gram-negative bacilli that are commensal organisms in the human gastrointestinal, oropharyngeal, and female genital tracts <link linkend="ch0067s0002bib01">(1)</link>. This organism is primarily an opportunistic pathogen in patients with immunosuppression, including those with hematologic malignancy and associated neutropenia, patients who have had a stem cell transplant, and patients receiving chemotherapy. It is possible that the therapy this patient received for her malignancies led to significant neutropenia, putting her at risk of bacteremia caused by <emphasis>Leptotrichia</emphasis> species. This patient’s clinical team suspected that the bacteria translocated from her gastrointestinal tract into her bloodstream.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  Immunocompromised patients are at an increased risk of various types of infections. Given the patient’s history of severe neutropenia and immunosuppression, in addition to tender plaques disseminated across much of her body, the dermatologist suspected invasive fungal disease. While invasive fungal disease is relatively rare in immunocompetent hosts, it is more common in immunosuppressed patients, particularly those with prolonged neutropenia <link linkend="ch0067s0002bib02">(2)</link>. Low neutrophils increase a person’s risk of acquiring infections, particularly with opportunistic pathogens that can cause severe disease. Some species of fungi are intrinsically resistant to antifungal agents that are used as prophylaxis given to patients at high risk of fungal disease, such as stem cell transplant recipients or those receiving chemotherapy. For example, <emphasis>Fusarium</emphasis> is resistant to many classes of antifungals, including some of the azoles, echinocandins, and polyenes <link linkend="ch0067s0002bib03">(3)</link>. These factors, paired with the chronic nature of the patient’s presentation, suggest invasive fungal disease as a possible cause. Opportunistic fungal infections that can cause dermatologic manifestations include <emphasis>Candida</emphasis>, <emphasis>Aspergillus</emphasis>, <emphasis>Cryptococcus</emphasis>, the <emphasis>Mucorales</emphasis>, and <emphasis>Fusarium</emphasis> species <link linkend="ch0067s0002bib04">(4)</link>.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  The organism seen in the microscopy of the patient’s positive blood culture and culture tape prep is clearly fungal (<link linkend="ch0067s0001fg03">Fig. 64.2</link> and <link linkend="ch0067s0001fg03">64.3</link>). In <link linkend="ch0067s0001fg03">Fig. 64.2</link>, there are microconidia and macroconidia present, but the macroconidia have a characteristic banana or canoe-shaped appearance. These are highly suggestive of <emphasis>Fusarium</emphasis> species. The macroconidia of <emphasis>Fusarium</emphasis> are often two or more celled, thick-walled, and smooth. Additionally, the macroconidia each have a distinctive foot cell and pointed distal ends, lending to the canoe shape. Microconidia are smaller and typically one-celled. They are ovoid or cylindrical in shape and often arranged in balls. Positive blood cultures in patients with invasive fungal diseases are unusual in large part because most invasive fungal infections are caused by <emphasis>Aspergillus</emphasis>. Because <emphasis>Aspergillus</emphasis> invades endothelial cells, it rarely causes fungemia even in those patients who have <emphasis>Aspergillus</emphasis> endocarditis proven at autopsy (where this diagnosis is frequently made). On the other hand, positive blood cultures are found in ~50% of patients with disseminated <emphasis>Fusarium</emphasis> infections. The reason for this is that <emphasis>Fusarium</emphasis> produces a “yeast-like” cell when it invades tissue, which can enter the bloodstream and disseminate the organism. Because the sensitivity of blood cultures is only 50% in invasive <emphasis>Fusarium</emphasis> disease and blood cultures are rarely positive with invasive aspergillosis, the finding of a negative culture does not rule out disseminated fungal infections.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  <emphasis>Fusarium</emphasis> is an environmental pathogen that causes disease in plants and animals <link linkend="ch0067s0002bib05">(5)</link>. The extent of disease in humans varies based on immune status and host response but can span from superficial to fatal disseminated disease. The most implicated species in human disease is <emphasis>Fusarium solani</emphasis>, although 12 or more other species have been reported. In immunocompetent hosts, the most common types of infection are keratitis and onychomycosis (infection of the toe or fingernails), with larger outbreaks of <emphasis>Fusarium</emphasis> keratitis occurring in contact lens wearers. In immunosuppressed hosts, disseminated disease is much more common, especially in those who have received stem cell or solid organ transplants. <emphasis>Fusarium</emphasis> species are unique compared to other molds in that they produce yeastlike structures that help them grow and disseminate in the blood. The portal of entry for <emphasis>Fusarium</emphasis> is the airways, although entry can also occur at the site of tissue breakdown on the skin or mucosal surfaces. <emphasis>Fusarium</emphasis> is ubiquitous in the environment, so exposure may occur via inhalation of conidia in the air or contact with contaminated sources such as showers or faucets. Inhalation of conidia may lead to sinusitis, which is always considered invasive in immunosuppressed patients. Approximately 18% of patients with fusariosis have sinus involvement <link linkend="ch0067s0002bib05">(5)</link>. Skin lesions can indicate disseminated disease, particularly in immunocompromised patients. The lesions are typically papular or nodular and painful.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  <emphasis>Fusarium</emphasis> is a septated, hyaline mold. In tissue, it cannot be readily distinguished from <emphasis>Aspergillus</emphasis> or other hyaline molds, but it can be distinguished from <emphasis>Mucorales</emphasis>, whose hyphal elements in tissue tend to be broader, ribbon-like, and pauciseptate. <emphasis>Fusarium</emphasis> is identified in <link linkend="ch0067s0001fg03">Fig. 64.2</link> and <link linkend="ch0067s0001fg03">Fig. 64.3</link> by its very characteristic banana-shaped, multicellular macroconidia. Fusariosis diagnosis relies heavily on histopathology, recommended by the European Confederation of Medical Mycology/European Congress of Clinical Microbiology and Infectious Diseases (ECMM/ESCMID) guidelines <link linkend="ch0067s0002bib06">(6)</link>. Hyphae of <emphasis>Fusarium</emphasis> in tissue resemble those of <emphasis>Aspergillus</emphasis>, with septate filaments that dichotomize in acute angles. The macroscopic features of <emphasis>Fusarium</emphasis> include wooly or cottony spreading colonies (<link linkend="ch0067s0001fg03">Fig. 64.4</link>). The color of the colonies may vary between white cream, tan, salmon, cinnamon, yellow, red, pink, or purple. Immunohistochemistry and <emphasis>in situ</emphasis> hybridization offer alternate techniques, with immunohistochemistry providing rapid results but limited commercial antibodies for <emphasis>Fusarium</emphasis> detection. While morphology-based identification is still one of the most common identification methods used in clinical laboratories, it is challenged by a lack of specificity as <emphasis>Fusarium</emphasis> species often form complex colonies and share characteristics with other fungi like <emphasis>Acremonium</emphasis>. Although less common in clinical mycology, nucleic acid amplification-based tools are effective in identifying <emphasis>Fusarium</emphasis> species, requiring the isolation of sufficient pure fungal DNA. Various nucleic acid amplification tests (NAATs) targeting intergenic spacer regions distinguish different <emphasis>Fusarium</emphasis> species complexes. NAATs exhibit high sensitivity, particularly for <emphasis>F. solani</emphasis> species complex detection. Currently, multilocus sequence typing (MLST) is seen as the best method for identifying <emphasis>Fusarium</emphasis> isolates at the species level. Finally, matrix-assisted laser desorption ionization–time of flight mass spectrometry (MALDI-TOF MS) has been demonstrated as an efficient option for identifying invasive fungi, including <emphasis>Aspergillus</emphasis> and <emphasis>Fusarium</emphasis>, which can be identified to the species level with good performance (<link linkend="ch0067s0002bib07">7</link>, <link linkend="ch0067s0002bib08">8</link>).</para>
+        <figure id="ch0067s0001fg03"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 64.3</emphasis></emphasis> Macroconidia of organism infecting this patient seen in a positive blood culture. </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0067f07.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A microscopic photograph showing purple, oval-shaped bacteria with a striped pattern, likely streptococci, on a light pink background.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <figure id="ch0067s0001fg04"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 64.4</emphasis></emphasis> <emphasis>Fusarium</emphasis> growing in culture media displaying white, cottony, spreading colonies. </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0067f04.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A photograph shows a dark liquid medium containing several white, fuzzy mold colonies growing on the surface.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  Multiple factors, including an absence of interpretive breakpoints and species-specific resistance profiles, challenge susceptibility testing of <emphasis>Fusarium</emphasis>. <emphasis>Fusarium</emphasis> species do not have a normal MIC distribution or minimum effective concentration distribution, making it difficult to establish a breakpoint <link linkend="ch0067s0002bib09">(9)</link>. Furthermore, since many laboratories do not routinely perform susceptibility testing on <emphasis>Fusarium</emphasis> species, the epidemiology of resistant infections is largely unknown. This patient was being empirically treated with micafungin, but dissemination of this organism occurred despite the use of micafungin prophylaxis. This is not surprising, because <emphasis>Fusarium</emphasis> is intrinsically resistant to echinocandins such as micafungin. Micafungin is recommended as a prophylactic agent to prevent the two most common agents of invasive fungal infections in this patient population, <emphasis>Aspergillus</emphasis> and <emphasis>Candida</emphasis>spp. Susceptibility testing should be performed, particularly in high-risk immunosuppressed patients, to help guide therapy selection and clinical management. However, since the probabilities of clinical success are uncertain for many drug-species combinations, results should be interpreted with caution. As was used in this patient, combination therapy (e. g., voriconazole and amphotericin B) is commonly used in patients with disseminated disease<link linkend="ch0067s0002bib10">(10)</link>.</para>
+        <para>It is important to note that there are ESCMID/ECMM guidelines for the recommended management of disseminated fusariosis, but there is no optimal treatment regimen<link linkend="ch0067s0002bib11">(11)</link>. Voriconazole is considered first-line treatment and is often combined with another antifungal such as amphotericin B. Surgical debridement is strongly recommended in addition to antifungal therapy and the removal of venous catheters. Postponing any therapy that induced neutropenia should be considered, if feasible.</para>
+      </sect1>
+      <sect1 id="ch0067s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0067s0003l01" role="decimal">
+          <listitem id="ch0067s0003x18">
+            <para>Immunocompromised patients, especially those with severe neutropenia and immunosuppression, are at increased risk of invasive fungal infections, including fusariosis.</para>
+          </listitem>
+          <listitem id="ch0067s0003x19">
+            <para><emphasis>Fusarium</emphasis> species, ubiquitous in the environment, can cause a range of infections in humans, from superficial to fatal disseminated disease.</para>
+          </listitem>
+          <listitem id="ch0067s0003x20">
+            <para>The primary methods of laboratory identification of <emphasis>Fusarium</emphasis> include histopathology, microscopy, and culture. MALDI-TOF MS has been demonstrated as an efficient option for identifying <emphasis>Fusarium</emphasis> to the species level.</para>
+          </listitem>
+          <listitem id="ch0067s0003x21">
+            <para>Although less common, NAAT tools are effective in identifying <emphasis>Fusarium</emphasis> species. NAATs exhibit high sensitivity, particularly for <emphasis>F. solani</emphasis> species complex detection. Currently, MLST is seen as the best method for identifying <emphasis>Fusarium</emphasis> isolates at the species level.</para>
+          </listitem>
+          <listitem id="ch0067s0003x22">
+            <para><emphasis>Fusarium</emphasis> species display characteristic macroscopic and microscopic features, including banana-shaped macroconidia and wooly or cottony spreading colonies.</para>
+          </listitem>
+          <listitem id="ch0067s0003x23">
+            <para>Susceptibility testing of <emphasis>Fusarium</emphasis> species is challenging due to the absence of interpretive breakpoints and species-specific resistance profiles. <emphasis>Fusarium</emphasis> is intrinsically resistant to fluconazole and echinocandins, which are used prophylactically in immunocompromised patients.</para>
+          </listitem>
+          <listitem id="ch0067s0003x24">
+            <para>Combination therapy, such as voriconazole and amphotericin B, is commonly used in patients with disseminated <emphasis>Fusarium</emphasis> infection.</para>
+          </listitem>
+          <listitem id="ch0067s0003x25">
+            <para>Surgical debridement is recommended for source control in disseminated <emphasis>Fusarium</emphasis> infection, although the extent of surgery may vary based on the patient’s condition and infection severity.</para>
+          </listitem>
+          <listitem id="ch0067s0003x26">
+            <para>Despite aggressive treatment, disseminated <emphasis>Fusarium</emphasis> infection can lead to severe complications and poor outcomes, especially in critically ill patients with advanced underlying conditions like cancer.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0067s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0067s0002bib01">Ranganath N, Shirley JD, Challener DW, Stevens RW, Kind DR, Comba IY, Patel R, Schuetz AN, Shah AS. 2023. Leptotrichia bacteremia: 10-year retrospective clinical analysis and antimicrobial susceptibility profiles. <citetitle>J Clin Microbiol</citetitle>61: e 01733-22.</bibliomixed>
+        <bibliomixed id="ch0067s0002bib02">Seo SK, Liu C, Dadwal SS. 2021. Infectious disease complications in patients with cancer. Crit Care Clin 37:69–84.</bibliomixed>
+        <bibliomixed id="ch0067s0002bib03">Al-Hatmi AM, Meis JF, de Hoog GS. 2016. Fusarium: molecular diversity and intrinsic drug resistance. PLoS Pathog 12: e 1005464.</bibliomixed>
+        <bibliomixed id="ch0067s0002bib04">Miró EM, Sánchez NP. 2011. Cutaneous manifestations of infectious diseases. Atlas Dermatol Intern Med 28:77–119.</bibliomixed>
+        <bibliomixed id="ch0067s0002bib05">Nucci M, Anaissie E. 2007. Fusarium infections in immunocompromised patients. Clin Microbiol Rev 20:695–704.</bibliomixed>
+        <bibliomixed id="ch0067s0002bib06">van Diepeningen AD, Brankovics B, Iltes J, van der Lee TA, Waalwijk C. 2015. Diagnosis of Fusarium infections: approaches to identification by the clinical mycology laboratory. Curr Fungal Infect Rep 9:135–143.</bibliomixed>
+        <bibliomixed id="ch0067s0002bib07">Barker KR, Kus JV, Normand AC, Gharabaghi F, Mc Taggart L, Rotstein C, Richardson SE, Campigotto A, Tadros M. 2022. A practical workflow for the identification of Aspergillus, Fusarium, Mucorales by MALDI-TOF MS: database, medium, and incubation optimization.<citetitle>J Clin Microbiol</citetitle>60: e 0103222.</bibliomixed>
+        <bibliomixed id="ch0067s0002bib08">Zvezdánova ME, Escribano P, Guinea J, Muñoz P, Rodríguez-Temporal D, Rodríguez-Sánchez B. 2022. Evaluation of the Vitek MS system for the identification of filamentous fungi. Med Mycol 60: myac 027.</bibliomixed>
+        <bibliomixed id="ch0067s0002bib09">Al-Hatmi AMS, Curfs-Breuker I, de Hoog GS, Meis JF, Verweij PE. 2017. Antifungal susceptibility testing of Fusarium: a practical approach. <citetitle>J Fungi (Basel)</citetitle> 3:19.</bibliomixed>
+        <bibliomixed id="ch0067s0002bib10">Liu JY, Chen WT, Ko BS, Yao M, Hsueh PR, Hsiao CH, Kuo YM, Chen YC, 2011. Combination antifungal therapy for disseminated fusariosis in immunocompromised patients: a case report and literature review.<citetitle>Med Mycol</citetitle> 49:872–878.</bibliomixed>
+        <bibliomixed id="ch0067s0002bib11">Tortorano AM, Richardson M, Roilides E, van Diepeningen A, Caira M, Munoz P, Johnson E, Meletiadis J, Pana ZD, Lackner M, Verweij P, Freiberger T, Cornely OA, Arikan-Akdagli S, Dannaoui E, Groll AH, Lagrou K, Chakrabarti A, Lanternier F, Pagano L, Skiada A, Akova M, Arendrup MC, Boekhout T, Chowdhary A, Cuenca-Estrella M, Guinea J, Guarro J, de Hoog S, Hope W, Kathuria S, Lortholary O, Meis JF, Ullmann AJ, Petrikkos G, Lass-Flörl C; European Society of Clinical Microbiology and Infectious Diseases Fungal Infection Study Group; European Confederation of Medical Mycology. 2014. ESCMID and ECMM joint guidelines on diagnosis and management of hyalohyphomycosis: Fusarium spp., Scedosporium spp. and others. Clin Microbiol Infect 20(Suppl 3):27–46.</bibliomixed>
+      </bibliography>
+    </chapter>

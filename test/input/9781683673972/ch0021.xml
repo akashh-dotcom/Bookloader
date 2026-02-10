@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0021" label="21">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor2">CASE 18</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0021s0004"><title>CASE 18</title><para>The patient was a 71-year-old female who underwent a kidney transplant due to end-stage renal disease secondary to autosomal dominant polycystic kidney disease. The transplant was from a deceased donor, who was positive for hepatitis C virus (HCV) antibodies and RNA; seropositive for cytomegalovirus (CMV) and Epstein-Barr virus (EBV); and seronegative for hepatitis B virus (HBV) and human immunodeficiency virus (HIV). At the time of transplantation, the patient was seropositive for HBV (consistent with immunization) and EBV and seronegative for HIV, HCV, and CMV.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0021s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  Why was the patient transplanted with an organ from a donor known to be positive for HCV?</para>
+        </listitem>
+        <listitem id="ch0021s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  Based on the pretransplant serologic results, which infections is the patient most at risk for in the posttransplant period?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Patients who receive an organ from a donor positive for HCV RNA are carefully monitored by nucleic acid amplification test (NAAT) for HCV viremia (e. g., quantitative PCR [qPCR]). On the day prior to transplantation, the patient had a “not detected” result by HCV qPCR. Her HCV qPCR result was 360 IU/ml on the day after transplantation and &gt;3 million IU/ml 6 days after transplantation.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0021s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  What is the usual outcome for solid organ transplant recipients who become infected with HCV from the donor organ?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Because of the patient’s increased risk of CMV infection in the posttransplant period, the patient received prophylaxis with valganciclovir for 6 months posttransplant.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0021s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  How are patients monitored for the development of CMV infection posttransplant?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient had a CMV qPCR performed every 1 to 3 weeks posttransplant with “not detected” results until ~9 months posttransplant, when her result was 250 IU/ml. She simultaneously presented with nonspecific systemic symptoms including fever, malaise, and diarrhea and was clinically diagnosed with CMV syndrome (i. e., disease). Due to her positive CMV qPCR and presumed CMV disease, valganciclovir was prescribed, and weekly CMV qPCR was performed. Her results are shown in <link linkend="ch0021s0004fg01">Fig. 18.1</link>. The patient’s level of viremia began to decline after 10 days of valganciclovir, but remained detectable, but not quantifiable (i. e., &lt;200 IU/ml); her systemic symptoms resolved. After about 3 months on valganciclovir, her viral load began to rise again. She was admitted for treatment with intravenous ganciclovir.</para>
+      <figure id="ch0021s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 18.1</emphasis></emphasis>CMV qPCR results from the patient’s plasma over time. The red line indicates the test’s limit of quantification where the CMV DNA was detected but not quantifiable (i. e., &lt;200 IU/ml). The green arrows represent<link linkend="ch0021s0002bib01">(1)</link> the end of the patient’s prophylactic valganciclovir, <link linkend="ch0021s0002bib02">(2)</link> the patient’s presentation with CMV syndrome and treatment with valganciclovir, <link linkend="ch0021s0002bib03">(3)</link> performance of resistance testing, and <link linkend="ch0021s0002bib04">(4)</link> treatment with foscarnet. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0021f01.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A line graph showing qPCR results over time, with the y-axis representing log 10 results and the x-axis representing days post-transplant, highlighting periods of increased viral load marked by peaks around days 260, 330, and 410.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0021s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What was the most likely etiology of the patient’s infection? Had the recipient been seropositive for CMV, how might she have become infected?</para>
+        </listitem>
+        <listitem id="ch0021s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What other two patient populations are subject to serious infections with this organism?</para>
+        </listitem>
+        <listitem id="ch0021s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  What is the typical clinical presentation of this organism in patients who have received solid organ transplants?</para>
+        </listitem>
+        <listitem id="ch0021s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  What are the possible explanations for the patient’s increasing viral load?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Unfortunately, the patient’s viral load continued to rise after she was admitted and received intravenous ganciclovir (<link linkend="ch0021s0004fg01">Fig. 18.1</link>).</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0021s0004x09" role="qus1">
+          <para><phrase><emphasis role="strong">9</emphasis></phrase>.  What laboratory test might give insight into why the ganciclovir appeared not to work? How is this testing performed?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The results of the sequencing test performed directly on the patient’s blood are shown in <link linkend="ch0021s0004ta01">Table 18.1</link>.</para>
+      <table id="ch0021s0004ta01"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 18.1</emphasis></emphasis> RESULTS OF THE PATIENT’S CMV MOLECULAR GENOTYPING TEST</emphasis> </title>
+        
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <tbody>
+            <row>
+              <entry>TEST</entry>
+              <entry>RESULT</entry>
+            </row>
+            <row>
+              <entry>Maribavir UL97</entry>
+              <entry>No mutations detected</entry>
+            </row>
+            <row>
+              <entry>Ganciclovir UL97</entry>
+              <entry>Resistant at site A594V</entry>
+            </row>
+            <row>
+              <entry>Ganciclovir UL54</entry>
+              <entry>No mutations detected</entry>
+            </row>
+            <row>
+              <entry>Cidofovir UL54</entry>
+              <entry>No mutations detected</entry>
+            </row>
+            <row>
+              <entry>Foscarnet UL54</entry>
+              <entry>No mutations detected</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0021s0004x10" role="qus2">
+          <para><phrase><emphasis role="strong">10</emphasis></phrase>.  What do the results indicate? What other agents are available for the prevention and treatment of this infection? What drug resistance problems, if any, have been observed with these agents?</para>
+        </listitem>
+      </itemizedlist>
+      <para>After the genotyping results were returned, the patient’s therapy was changed to foscarnet while she was an inpatient but was subsequently changed to maribavir for outpatient therapy.</para>
+      </sect1><sect1 id="ch0021s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  Previously, it was considered too risky to transplant an organ from an HCV-positive donor given the high rate of viral transmission and the inability to cure hepatitis C, so these organs were only used in recipients who had chronic HCV or were discarded. However, there are many more patients waiting for a transplant than there are donors, alive or deceased. Further, wait times are long, leading to increased mortality for those waiting for an available and compatible organ <link linkend="ch0021s0002bib01">(1)</link>. While the opioid epidemic has unfortunately increased the number of deceased donors, this population is also at greater risk for HCV infection. There are more than 100,000 patients waiting for a transplant in the United States, and ~17 people die each day due to the lack of organ procurement. Advances in treating and curing hepatitis C have altered the risk-benefit ratio of transplanting organs from HCV-positive donors. (See <ulink url="ch0035.xml#ch0035">case 32</ulink> for more discussion on HCV.) The patient underwent a rigorous informed consent process and accepted the risks associated with receiving an HCV-positive organ.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  The patient was at greatest risk for HCV and CMV infections due to her negative serostatus and the donor’s positive status for both viruses, but she was also at risk for complications due to EBV. The donor was NAAT positive for HCV, meaning they were viremic, which increases the infection risk of the recipient. Had the donor been HCV seropositive but NAAT negative, the risk would be significantly lower, though infection would still be possible since HCV might be present in the transplanted organ (especially liver) but not detectable in the peripheral blood that is tested pretransplant. The mismatch in donor and recipient CMV serologies (donor positive/recipient negative [D+/R–]) carries the highest risk for CMV infection in the posttransplant period <link linkend="ch0021s0002bib02">(2)</link>. CMV serologies D+/R+ and D–/R+ carry an intermediate risk, while D–/R– has the lowest risk. Although she was seropositive for EBV, she was at risk for EBV-associated complications like posttransplant lymphoproliferative disorder due to reactivation of latent virus. (See <ulink url="ch0061.xml#ch0061">case 58</ulink> for more discussion on EBV.)</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  HCV-negative recipients of organs from HCV viremic donors are treated with HCV-specific antivirals (direct-acting agents [DAAs]). See <ulink url="ch0035.xml#ch0035">case 32</ulink> for further discussion of DAAs. For non-liver organ recipients, treatment should begin pretransplant or as soon as they are clinically stable within 1 week of transplant. Liver recipients should be treated within 2 weeks of the transplant, but ideally within 1 week. Based on limited studies, nearly all solid organ recipients are successfully treated after 12 weeks of DAA treatment, though some treatment interruptions have been reported <link linkend="ch0021s0002bib03">(3)</link>. Studies indicate no differences between HCV-positive and HCV-negative transplants in terms of graft function, rejection, or survival for most organs; heart transplants need additional studies to ascertain whether there is increased risk for graft rejection. Although initial outcomes support the practice of transplanting HCV-positive organs, more studies are needed, especially to assess optimal timing of DAA treatment and long-term graft and patient outcomes.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  NAAT, and particularly qpCR, performed on the patient’s blood is the standard for diagnosing CMV disease, assisting in making decisions regarding preemptive therapy, and monitoring response to therapy in posttransplant patients <link linkend="ch0021s0002bib04">(4)</link>. There are currently no guidelines detailing the level of viremia that should trigger therapeutic intervention, but data in the literature suggest it is ~2,000 IU/ml for solid organ transplants and 100 to 1,000 IU/ml for hematopoietic stem cell transplants (<link linkend="ch0021s0002bib05">5</link>, <link linkend="ch0021s0002bib06">6</link>). An international standard is available to normalize interlaboratory variability of CMV viral load results, which will be reflected in the quantified result being reported in IU per milliliter (as opposed to copies per milliliter). The adoption of the universal standard by commercial tests should allow the determination of clinically relevant quantitative thresholds, though interassay variability is still observed. For now, an absolute viral quantity may not be as important as the trend of a patient’s viral load over time. The presence of higher amounts of CMV DNA in the blood correlates with a higher likelihood of clinical disease. One of the concerns of using qPCR for detecting CMV in the peripheral blood is the inability to differentiate latent virus from actively replicating virus. Although qPCR can be performed on both whole blood and plasma, plasma is generally preferred to decrease the number of latently infected cells that are amplified. In theory, primarily “free,” and therefore actively replicating, virus would be present in plasma, as opposed to the cell-associated virus present latently in peripheral white cells. This theory is not absolute, so the need for clinically relevant viral thresholds for therapeutic decisions is critical.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>Given the pretransplant D+/R– serologies, the likely source of her CMV infection was the donor organ. CMV is an enveloped, double-stranded DNA virus and is the most common infectious agent complicating transplantation. In the absence of antiviral prophylaxis, CMV infections usually occur 1 to 3 months posttransplant. However, depending on the length of prophylactic therapy, the window for CMV infection can extend beyond a year. CMV, like other herpesviruses, causes lifelong latent infection. In patients who are CMV positive pretransplant (i. e., latently infected), infections posttransplant are usually the result of reactivation of latent viral infection. Another potential source of infection is blood transfusion, though most transplant centers use leukoreduced blood to lessen this risk because ~50 to 80% of blood donors are CMV positive.</para>
+        <para>CMV infections are common in immunocompetent individuals, but clinical disease is rare. The immunosuppression of cell-mediated immunity necessary in transplantation greatly increases the likelihood of developing clinical disease with CMV. This is an important point conceptually. Infection does not necessarily mean that an individual will be sick. One may become “infected” with an infectious agent, as measured by an immune response to that agent, without developing any clinical manifestations of that infection. If the organism can cause latent infection, immunosuppression of a latently infected patient may result in reactivation and the development of clinical disease.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>   In addition to transplant recipients, people with advanced HIV and newborns can develop severe CMV infections. Individuals with advanced HIV may develop CMV retinitis, which can result in blindness <link linkend="ch0021s0002bib07">(7)</link>. The incidence of this is low in patients receiving combination antiretroviral therapy. Retinitis is rarely seen in transplant recipients. Patients with advanced HIV may also present with CMV pneumonia, but it is typically less severe than that seen in posttransplant patients. CMV esophagitis and colitis are also observed in patients living with HIV. The reasons for the different patterns of CMV disease in these high-risk populations are unclear.</para>
+        <para>Neonatal CMV infection can occur either<emphasis>in utero</emphasis> (congenital infection) or after contact with CMV-positive maternal genital secretions during birth or via the consumption of CMV-positive breast milk. Seronegative women who get primary, but not necessarily symptomatic, CMV infection during pregnancy are at greatest risk for fetal transmission <link linkend="ch0021s0002bib08">(8)</link>. Approximately 30 to 50% of women of childbearing age are CMV seronegative, but only 1 to 4% will have primary CMV infection during pregnancy. Of these women with primary infections, approximately one-third will pass the virus to their fetus. A minority of neonates with congenital CMV infection have symptoms at birth (~10%). Signs and symptoms include microcephaly, chorioretinitis, pneumonia, hepatitis, and rash (petechiae). About 90% of those born with symptoms and 5 to 10% of those asymptomatically infected will have long-term sequelae of CMV infection such as deafness and psychomotor impairment. Routine screening of neonates for CMV includes testing urine, saliva, and/or blood (including dried blood spots) by NAAT <link linkend="ch0021s0002bib09">(9)</link>. Screening for congenital CMV is now required in some states. While saliva is a convenient sample and saliva NAAT is highly sensitive, urine should also be tested to improve clinical specificity.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  CMV infections following solid organ transplantation are common, occurring in 8 to 50% of recipients depending on the organ that was transplanted and the CMV serostatus of the recipient and donor. The spectrum of CMV disease in these individuals ranges from asymptomatic infections to life-threatening disease <link linkend="ch0021s0002bib02">(2)</link>. Most clinical CMV disease is classified as mild to moderate, with more severe disease being seen primarily in seronegative recipients of seropositive organs. Most commonly, CMV disease presents nonspecifically as fever in the setting of neutropenia. However, it can also manifest with lymphadenopathy, hepatitis, thrombocytopenia, as well as a variety of gastrointestinal and pulmonary symptoms. Rarely, severe CMV disease will present with meningitis. CMV infection has a predilection for the transplanted organ. For example, it causes hepatitis in liver transplant recipients, pneumonitis in heart-lung transplant recipients, and nephritis in kidney transplant recipients. CMV-associated myocarditis does occur in heart transplant recipients, but it is rare. In addition to its direct effects, CMV infection may also have indirect effects due to secondary immunologic phenomena leading to allograft injury and/or rejection, other opportunistic infections, and EBV-associated posttransplant lymphoproliferative disorder.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  It is possible that the patient was not compliant with taking her medication as an outpatient, or that the patient needed a higher treatment dose, which was, in part, why she was admitted. The most likely explanation is that the virus had developed resistance, particularly given her previous prophylactic therapy. Valganciclovir is an oral prodrug of ganciclovir that is converted to the parent compound by intestinal and hepatic esterases. It inhibits viral replication by inhibiting the activity of CMV DNA polymerase. Ganciclovir must be phosphorylated three times to be active. The first phosphorylation occurs by the CMV-derived serine/threonine protein kinase encoded by UL97, while the last two phosphorylations occur by host cellular enzymes. Mutations in the active site of the viral kinase confer resistance to ganciclovir.</para>
+        <para role="ans1"><emphasis role="strong">9.</emphasis>CMV genotyping (i. e., drug resistance testing) should be performed<link linkend="ch0021s0002bib10">(10)</link>. Molecular methods have replaced culture-based methods for detecting resistance in CMV due to the extended time CMV takes to grow in culture to perform traditional plaque reduction assays. Molecular detection of mutations associated with a resistance phenotype is performed by either Sanger sequencing (amplification followed by sequencing of the PCR products) or next-generation sequencing, which uses an unbiased approach. The genes that are interrogated for mutations are UL97 (kinase), UL54 (polymerase), and UL56 (terminase complex). There must be adequate viral DNA present in the sample (&gt;1,000 IU/ml) to genotype. Although it is more standardized, Sanger sequencing has the disadvantage of potentially missing subpopulations of resistant virus that represent &lt;20% of the total genomes present. For CMV genotyping, next-generation sequencing is more sensitive than Sanger sequencing, which may allow earlier detection of minor populations of resistant variants. There are no FDA-approved CMV genotyping tests, but some laboratories have developed laboratory-developed tests and validated them for clinical use.</para>
+        <para role="ans1"><emphasis role="strong">10.</emphasis>  A mutation (A594V) in the UL97 gene of CMV that confers resistance was detected, but no other resistance mutations were detected. This confirms that the patient’s increase in viral load during ganciclovir therapy was due to mutations in the viral kinase gene. Three additional drugs are available for the treatment of CMV infections: foscarnet, cidofovir, and maribavir <link linkend="ch0021s0002bib11">(11)</link>. Letermovir is approved for prophylaxis in hematopoietic stem cell transplant recipients <link linkend="ch0021s0002bib12">(12)</link>. Like ganciclovir, foscarnet and cidofovir inhibit viral replication by inhibiting the activity of CMV DNA polymerase. While ganciclovir must be phosphorylated three times to be active, cidofovir requires two phosphorylation steps, both performed by host cellular enzymes. Foscarnet is a noncompetitive inhibitor of CMV DNA polymerase that acts by blocking the cleavage of pyrophosphate from the deoxynucleotide triphosphates, preventing chain elongation. Mutations in the UL97 sequence that result in resistance to ganciclovir do not confer resistance to cidofovir, foscarnet, or maribavir. Maribavir also targets UL97, inhibiting viral replication encapsidation and nuclear egress; it is used for the treatment of posttransplant CMV disease refractory to other therapy <link linkend="ch0021s0002bib13">(13)</link>. Mutations in the CMV DNA polymerase (UL54) can result in resistance to ganciclovir, cidofovir, and/or foscarnet, including mutations that confer multidrug resistance. A few studies suggest that as with HIV and herpes simplex virus, CMV drug-resistant mutants may prove to be less fit and therefore less virulent than wild-type CMV. Patients who fail or cannot tolerate ganciclovir or valganciclovir therapy are usually treated with foscarnet <link linkend="ch0021s0002bib02">(2)</link>. Cidofovir is used primarily in CMV-infected patients with advanced HIV, especially those with retinitis who have failed alternative therapies. CMV drug resistance is rare in solid organ recipients, making ganciclovir and valganciclovir the drugs of choice in this patient population. However, with the routine use of prophylactic strategies (as opposed to relying solely on preemptive therapy), resistance is becoming more of a concern <link linkend="ch0021s0002bib14">(14)</link>.</para>
+      </sect1>
+      <sect1 id="ch0021s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0021s0003l01" role="decimal">
+          <listitem id="ch0021s0003x25">
+            <para>CMV is the most common infectious agent complicating transplantation.</para>
+          </listitem>
+          <listitem id="ch0021s0003x26">
+            <para>Patients at greatest risk of CMV infection in the posttransplant period are those who are seronegative pretransplant but receive an organ from a seropositive donor.</para>
+          </listitem>
+          <listitem id="ch0021s0003x27">
+            <para>Organs from patients with HCV are being transplanted due to the overwhelming need for more organs and the ability to effectively treat HCV in the transplant recipient with direct-acting agents.</para>
+          </listitem>
+          <listitem id="ch0021s0003x28">
+            <para>Patients at risk for developing CMV infection posttransplant are monitored using a quantitative NAAT. The threshold of positivity to initiate therapy is not standardized but is ~100 to 2,000 IU/ml, depending on the institution and type of transplant.</para>
+          </listitem>
+          <listitem id="ch0021s0003x29">
+            <para>Posttransplant CMV disease may present locally (usually associated with the transplanted organ) or as systemic disease, which generally presents as neutropenic fever.</para>
+          </listitem>
+          <listitem id="ch0021s0003x30">
+            <para>Other populations at risk for CMV disease include people with advanced HIV and neonates.</para>
+          </listitem>
+          <listitem id="ch0021s0003x31">
+            <para>Drug resistance is uncommon in transplant recipients but may occur when mutations arise in the viral kinase (UL97), DNA polymerase (UL54), or terminase complex (UL56) genes. Molecular detection of these mutations is performed by sequencing directly from the patient’s blood.</para>
+          </listitem>
+          <listitem id="ch0021s0003x32">
+            <para>Drugs available for the treatment of CMV include (val)ganciclovir, foscarnet, cidofovir, and maribavir. Letermovir is used in prophylaxis in hematopoietic stem cell transplant recipients.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0021s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0021s0002bib01">Zahid MN. 2022. Transplantation of organs from hepatitis C virus-positive donors under direct-acting antiviral regimens. <citetitle>J Clin Med</citetitle> 11:770.</bibliomixed>
+        <bibliomixed id="ch0021s0002bib02">Razonable RR, Humar A. 2019. Cytomegalovirus in solid organ transplant recipients—guidelines of the American Society of Transplantation Infectious Diseases Community of Practice. <citetitle>Clin Transplant</citetitle>33: e 13512.</bibliomixed>
+        <bibliomixed id="ch0021s0002bib03">American Association for the Study of Liver Diseases, Infectious Diseases Society of America. 19 December 2023. Treatment of HCV-uninfected transplant recipients receiving organs from HCV-viremic donors. https://www. hcvguidelines. org/unique-populations/organs-from-hcv-viremic-donors. Accessed 4 April 2024.</bibliomixed>
+        <bibliomixed id="ch0021s0002bib04">Kotton CN, Kumar D, Caliendo AM, Huprikar S, Chou S, Danziger-Isakov L, Humar A; The Transplantation Society International CMV Consensus Group. 2018. The Third International Consensus Guidelines on the management of cytomegalovirus in solid-organ transplantation. <citetitle>Transplantation</citetitle> 102:900–931.</bibliomixed>
+        <bibliomixed id="ch0021s0002bib05">Dioverti MV, Lahr BD, Germer JJ, Yao JD, Gartner ML, Razonable RR. 2017. Comparison of standardized cytomegalovirus (CMV) viral load thresholds in whole blood and plasma of solid organ and hematopoietic stem cell transplant recipients with CMV infection and disease. Open Forum <citetitle>Infect Dis</citetitle>4: ofx 143.</bibliomixed>
+        <bibliomixed id="ch0021s0002bib06">Sadowska-Klasa A, Leisenring WM, Limaye AP, Boeckh M. 2023. Cytomegalovirus viral load threshold to guide preemptive therapy in hematopoietic cell transplant recipients: correlation with CMV disease. <citetitle>J Infect Dis</citetitle>2023: jiad 386.</bibliomixed>
+        <bibliomixed id="ch0021s0002bib07">Cheung TW, Teich SA. 1999. Cytomegalovirus infection in patients with HIV infection. <citetitle>Mt Sinai J Med</citetitle> 66:113–124.</bibliomixed>
+        <bibliomixed id="ch0021s0002bib08">Centers for Disease Control and Prevention. 17 January 2025. CMV in newborns. https://www. cdc. gov/cytomegalovirus/congenital-infection/. Accessed 26 January 2025.</bibliomixed>
+        <bibliomixed id="ch0021s0002bib09">Huang Y, Wang H, Li T, Li C, Tang J, Yu H, Guo X, Song Q, Wei F, Wang J, Liang C, Zheng F, Li H, Li H, Wu H, Lu Z, Su Y, Wu T, Ge S, Fu TM, Zhang J, Xia N. 2021. Comparison of detection strategies for screening and confirming congenital cytomegalovirus infection in newborns in a highly seroprevalent population: a mother-child cohort study. <citetitle>Lancet Reg Health West Pac</citetitle> 12:100182.</bibliomixed>
+        <bibliomixed id="ch0021s0002bib10">Chou S. 2020. Advances in the genotypic diagnosis of cytomegalovirus antiviral drug resistance. <citetitle>Antiviral Res</citetitle> 176:104711.</bibliomixed>
+        <bibliomixed id="ch0021s0002bib11">Gourin C, Alain S, Hantz S. 2023. Anti-CMV therapy, what next? <citetitle>A systematic review. Front Microbiol</citetitle> 14:1321116.</bibliomixed>
+        <bibliomixed id="ch0021s0002bib12">Marty FM, Ljungman P, Chemaly RF, Maertens J, Dadwal SS, Duarte RF, Haider S, Ullmann AJ, Katayama Y, Brown J, Mullane KM, Boeckh M, Blumberg EA, Einsele H, Snydman DR, Kanda Y, Di Nubile MJ, Teal VL, Wan H, Murata Y, Kartsonis NA, Leavitt RY, Badshah C. 2017. Letermovir prophylaxis for cytomegalovirus in hematopoietic-cell transplantation.<citetitle>N Engl J Med</citetitle> 377:2433–2444.</bibliomixed>
+        <bibliomixed id="ch0021s0002bib13">Halpern-Cohen V, Blumberg EA. 2022. New perspectives on antimicrobial agents: maribavir. <citetitle>Antimicrob Agents Chemother</citetitle>66: e 0240521.</bibliomixed>
+        <bibliomixed id="ch0021s0002bib14">Limaye AP, Babu TM, Boeckh M. 2020. Progress and challenges in the prevention, diagnosis, and management of cytomegalovirus infection in transplantation. <citetitle>Clin Microbiol Rev</citetitle>34: e 00043-19.</bibliomixed>
+      </bibliography>
+    </chapter>

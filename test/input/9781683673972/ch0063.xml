@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0063" label="63">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor7">CASE 60</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0063s0004"><title>CASE 60</title><para>A 30-year-old male receiving monthly infusions of natalizumab for Crohn’s disease called his physician complaining of a lack of mental focus, especially when trying to understand even remotely complex issues. He also had heaviness and pain behind his right eye, making it hard to focus visually. He stated that he saw residual grainy images superimposed when his vision changed from one object to another. He denied blurry vision or double vision. He also noted that his equilibrium seemed off, stating that the floor did not look level when looking down a hallway, which caused him to misstep at times. His depth perception also seemed to be affected, as evidenced by his nearly hitting himself with a door when opening it. In addition, he occasionally could not find the right words (could not think of “stove” and kept calling the TV a “VCR”). These changes had subtly started during the previous week but seemed to be progressing.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0063s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What is the mechanism of action for the monoclonal antibody this patient was receiving? In which patient populations is this therapeutic used?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The physician sent the patient for magnetic resonance imaging (MRI), which showed a single area of increased FLAIR (fluid-attenuated inversion recovery) sequences and T2 signal in the left temporal-parietal region, predominantly adjacent to the occipital horn of the left lateral ventricle (<link linkend="ch0063s0004fg01">Fig. 60.1</link>). This area did not show postcontrast enhancement or a mass effect, which the radiologist determined to be consistent with a demyelinating lesion in the white matter. The patient was subsequently admitted for further evaluation.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0063s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  Based on the patient’s clinical history and presentation and the radiographic findings, what is the patient’s clinical diagnosis? Which infectious agent is likely responsible for his disease?</para>
+        </listitem>
+        <listitem id="ch0063s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  Describe what is known about the epidemiology and natural history of infection with this agent. What patient populations are at risk for the same disease?</para>
+        </listitem>
+      </itemizedlist>
+      <figure id="ch0063s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 60.1</emphasis></emphasis> MRI result. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0063f01.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A grayscale MRI scan of a human brain viewed axially, showing detailed brain structures and symmetry across the midline.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <para>At hospital admission, the patient’s complete blood count was within normal limits. A lumbar puncture was performed; the cerebrospinal fluid (CSF) had 1 total nucleated cell/μl with 91% lymphocytes and 9% monocytes. CSF protein was 50 mg/dl and glucose was 49 mg/dl. CSF was submitted for routine bacterial culture and herpes simplex virus, cytomegalovirus, and JC virus (JCV) nucleic acid amplification tests (NAATs). The Gram stain showed no leukocytes and no organisms, but the JCV NAAT was positive at &gt;2 million copies/ml.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0063s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  Are the patient’s CSF findings consistent with JCV-associated progressive multifocal leukoencephalopathy (PML)? What is the value of quantitative JCV NAAT?</para>
+        </listitem>
+        <listitem id="ch0063s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What laboratory method is used to determine patients at risk for developing PML?</para>
+        </listitem>
+        <listitem id="ch0063s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  Given the high seroprevalence of JCV, why is PML relatively rare in at-risk patients? What is the pathogenesis of disease progression?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient received five plasma exchanges in addition to mirtazapine and corticosteroids.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0063s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  What is plasma exchange, and why was it necessary in this patient?</para>
+        </listitem>
+        <listitem id="ch0063s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  What is mirtazapine and why was it used? How is this infection treated in individuals living with HIV?</para>
+        </listitem>
+        <listitem id="ch0063s0004x09" role="qus1">
+          <para><phrase><emphasis role="strong">9</emphasis></phrase>.  Why did the patient receive corticosteroids?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0063s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  The patient was receiving natalizumab, a recombinant, humanized monoclonal antibody that binds to the α4 subunit of α4β1 and α4β7 integrins <link linkend="ch0063s0002bib01">(1)</link>. By disrupting the action of these integrins, natalizumab inhibits leukocyte-endothelium adhesion processes necessary for efficient migration of leukocytes across the gastrointestinal endothelium and the blood-brain barrier. This reduces inflammation in the gastrointestinal tract and the central nervous system, respectively. Natalizumab is approved for use in patients with moderate to severe Crohn’s disease and patients with multiple sclerosis.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  The patient had PML, which is a demyelinating disease caused by JCV <link linkend="ch0063s0002bib02">(2)</link>. JCV is a nonenveloped double-stranded DNA polyomavirus that is intimately associated with PML. This patient was at risk for developing PML because of his extended natalizumab therapy (see <link linkend="ch0063s0004x03">question 3</link>).</para>
+        <para>Monoclonal antibody-associated PML presents with cognitive disorders (48%), motor abnormalities (37%), language disturbances (31%), and visual deficits (26%)<link linkend="ch0063s0002bib03">(3)</link>. Interestingly, these patients often have monofocal disease, as seen in <link linkend="ch0063s0004fg01">Fig. 60.1</link>, as opposed to the multifocal disease seen in other patient populations. PML affects the white matter of the brain, primarily affecting the parietal and occipital lobes. By MRI, the lesions characteristically show FLAIR sequences, hyperintensity on T2-weighted imaging, and hypointensity on T1-weighted imaging <link linkend="ch0063s0002bib04">(4)</link>. Only ~10% of lesions show contrast enhancement, and mass effect is usually absent.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  JCV is ubiquitous worldwide, infecting 60 to 80% of adults. Infection primarily occurs before late childhood, as seropositivity for JCV at 10 years of age is ~50% <link linkend="ch0063s0002bib05">(5)</link>. The mode of transmission is largely unknown. Respiratory transmission has been postulated since JCV has been found in tonsils. Likewise, since JCV can be detected in the urine of ~20% of seropositive individuals, uro-oral transmission has been proposed. JCV has also been detected in raw sewage and shellfish, indicating a possible role in water- or foodborne transmission.</para>
+        <para>Primary infection with JCV does not appear to cause clinical disease, though there are a few reports of nonspecific fever and respiratory symptoms associated with seroconversion. It is likely that infected tonsillar lymphocytes carry JCV to the bone marrow and kidneys, where it remains latent. JCV DNA has been detected in the brains of healthy individuals, indicating a possible role for latency in glial cells. With severe immunosuppression, viral reactivation may occur, leading to PML in certain individuals (see<link linkend="ch0063s0004x06">question 6</link>).</para>
+        <para>Patients receiving immunomodulatory therapies are at risk for developing PML, particularly if use of these therapies results in CD4<superscript>+</superscript> and CD8<superscript>+</superscript> lymphopenia <link linkend="ch0063s0002bib06">(6)</link>. The risk of developing PML during natalizumab therapy increases with the duration of therapy <link linkend="ch0063s0002bib07">(7)</link>. The incidence is estimated to be 1.3 cases per 1,000 patients who have received more than 24 infusions, as was the case with this patient <link linkend="ch0063s0002bib08">(8)</link>. The risk increases to 11 cases per 1,000 in seropositive patients <link linkend="ch0063s0002bib09">(9)</link>. Rituximab is a humanized monoclonal antibody against CD20 on B cells used in the treatment of non-Hodgkin’s lymphoma, chronic lymphocytic leukemia, rheumatoid arthritis, Wegener’s granulomatosis, and microscopic polyangiitis. Both natalizumab and rituximab have FDA “boxed” warnings about the risk of PML during treatment, though PML in patients receiving rituximab therapy is rare <link linkend="ch0063s0002bib10">(10)</link>. Efalizumab, an anti-CD11a monoclonal antibody, was used to treat psoriasis until it was found to increase the risk for PML (1 in 500), which resulted in its withdrawal from the market. Posttransplant recipients receiving certain antirejection therapies, such as mycophenolate mofetil, are also at increased risk for developing PML.</para>
+        <para>Individuals living with HIV with CD4 counts &lt;100/μl have an increased risk for PML, which is an AIDS-defining illness. The incidence of PML was up to 8% prior to the use of combination antiretroviral therapy (ART), but rates have since declined. PML still causes 3 to 5% of deaths in this patient population.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  CSF findings are generally within normal limits <link linkend="ch0063s0002bib11">(11)</link>. Approximately 20% of cases have mild leukocytosis (5 to 25 cells/ml) with lymphocytic predominance. Up to 40% of cases may have mildly elevated CSF protein, as was seen in this case. Once a patient presents with a clinical syndrome compatible with PML, detection of JCV DNA in the CSF by NAAT is preferred. Since there is not an FDA-cleared NAAT for JCV, many laboratories have developed their own tests, leading to great variability in performance. The sensitivity of JCV NAAT on CSF for diagnosing PML is 75 to 95%, while the specificity is ~95% <link linkend="ch0063s0002bib02">(2)</link>.</para>
+        <para>Data from patients living with HIV with PML indicate that there may be value in performing quantitative NAAT for JCV in the CSF. Increased JCV DNA levels were associated with shorter survival time in patients not receiving combination ART<link linkend="ch0063s0002bib12">(12)</link>. Not surprisingly, high JCV DNA levels also correlated with low CD4<superscript>+</superscript> cell counts. Longitudinal studies of patients living with HIV who were clinically diagnosed with PML showed some patients had an initial negative JCV CSF NAAT followed by a positive NAAT on a subsequent CSF specimen; this indicates a possible need to retest patients who are NAAT negative on an initial CSF. Patients living with HIV who received combination ART and stabilized their PML had a reduction in JCV DNA levels, suggesting that quantitative NAAT can be used to assess response to therapy.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  JCV antibody testing can help determine patients who are at risk for PML. However, initial serologic testing should be performed prior to immunosuppression, as false negatives may occur otherwise. Although a positive antibody test indicates JCV latency, a negative test does not rule it out, as a false-negative rate of up to 37% has been reported <link linkend="ch0063s0002bib13">(13)</link>. PML risk stratification using JCV antibody testing is recommended prior to natalizumab therapy. Patients who are negative for JCV antibodies should be retested every 6 months and followed closely for signs and symptoms of PML. False-positive serologic results may occur due to low-affinity cross-reacting antibodies against related polyomaviruses such as BK virus. Therefore, a two-step testing strategy has been recommended that includes an enzyme-linked immunosorbent assay (ELISA) screening test followed by confirmation affinity testing <link linkend="ch0063s0002bib14">(14)</link>.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>In an immunocompetent host with latent JCV, reactivation is prevented by a robust host immune system. However, with immunosuppression, JCV reactivation can occur. Current data suggest that, upon reactivation, JCV reaches the brain via infected B cells passing through the blood-brain barrier. Although not seen in this patient, the multifocal nature of PML supports the hematogenous spread of JCV. Once in the brain, JCV can infect glial cells. However, for this to happen, genetic rearrangement by mutations, insertions, and deletions in the noncoding transcription regulatory region of the JCV genome must occur. These highly variable genetic changes increase the replication fitness of JCV and the number of binding sites for brain-specific transcription factors, which results in increased pathogenicity (i. e., PML)<link linkend="ch0063s0002bib15">(15)</link>. The necessity for JCV genomic changes for glial cell infection likely explains the low incidence of PML, given the large proportion of immunosuppressed patients who are JCV seropositive. Another model exists in which the brain is the site of latency, but similarly to the hematogenous model, PML would only occur after genetic changes in the noncoding region and immunosuppression.</para>
+        <para>Once in the brain, JCV infects oligodendrocytes and causes them to lyse. Since oligodendrocytes create the myelin sheath protecting axons, the lysis of these cells leads to focal destruction of myelin and the spread of JCV to neighboring oligodendrocytes. Demyelinated axons are prone to injury, which can lead to permanent loss of the neuronal cell body and neurologic sequelae.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  Plasma exchange, also called plasmapheresis, is as it sounds—a machine separates the plasma from peripheral blood cells; then the blood cells are mixed with a plasma substitute and transfused back into the patient. Monoclonal antibodies have a relatively long half-life, so in addition to discontinuing the immunomodulatory therapy, plasma exchange is often used to remove circulating monoclonal antibodies. Although the patient survived, he can no longer take natalizumab to control his Crohn’s disease.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  Mirtazapine is an α<subscript>2</subscript>-adrenergic, 5 HT<subscript>2A</subscript>- and 5 HT<subscript>3</subscript>-receptor antagonist used to treat depression. The receptor it blocks has been demonstrated to play a role in JCV infection in glial cells. However, its efficacy has not been proven using randomized controlled trials and it is not recommended for the treatment of JCV <link linkend="ch0063s0002bib04">(4)</link>. The primary treatment for PML is to reduce the patient’s immunosuppression (see <link linkend="ch0063s0004x07">question 7</link>). For patients with advanced HIV disease, this is accomplished by initiating combination ART.</para>
+        <para role="ans1"><emphasis role="strong">9.</emphasis>  A major concern associated with the reduction of immunosuppression is the development of immune reconstitution inflammatory syndrome (IRIS). In patients with PML, when the immune system is reconstituted by reducing immunosuppression, inflammatory cells migrate to the virally infected sites in the brain. This inflammatory process can cause damage to the brain, resulting in a rapidly progressing clinical course with worsening of neurologic deficits caused by PML. This is termed inflammatory PML or PML-IRIS and can be life-threatening if corticosteroids are not started immediately. PML-IRIS can occur in the weeks to months following plasma exchange or combination ART.</para>
+      </sect1>
+      <sect1 id="ch0063s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0063s0003l01" role="decimal">
+          <listitem id="ch0063s0003x25">
+            <para>PML is a white matter demyelinating disease caused by JCV.</para>
+          </listitem>
+          <listitem id="ch0063s0003x26">
+            <para>Immunomodulatory monoclonal antibodies may increase the risk of certain infections, depending on the mode of action. Natalizumab and rituximab are monoclonal antibodies with a boxed warning for PML.</para>
+          </listitem>
+          <listitem id="ch0063s0003x27">
+            <para>Individuals living with HIV with CD4<superscript>+</superscript> cell counts of &lt;100/μl are also at risk for PML.</para>
+          </listitem>
+          <listitem id="ch0063s0003x28">
+            <para>Primary infection with JCV is usually subclinical, but severe immunosuppression may cause viral reactivation and PML in certain patients.</para>
+          </listitem>
+          <listitem id="ch0063s0003x29">
+            <para>CSF parameters from patients with PML are usually within normal limits or with slight leukocytosis and mildly elevated protein.</para>
+          </listitem>
+          <listitem id="ch0063s0003x30">
+            <para>The detection of JCV DNA in CSF by a NAAT is diagnostic, and quantitative NAAT may be useful in assessing response to therapy.</para>
+          </listitem>
+          <listitem id="ch0063s0003x31">
+            <para>Serologic testing for JCV antibodies can help determine patients who are at risk for PML prior to beginning immunomodulatory therapy.</para>
+          </listitem>
+          <listitem id="ch0063s0003x32">
+            <para>Changes to the JCV genome are required for glial cell infection and the development of PML. Therefore, only a small percentage of patients with latent JCV will develop PML upon immunosuppression.</para>
+          </listitem>
+          <listitem id="ch0063s0003x33">
+            <para>Patients with PML are treated by reducing their immunosuppression, which may include removal of monoclonal antibodies by plasma exchange or treating their HIV infection with combination ART. Corticosteroids are often coadministered to prevent the development of IRIS.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0063s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0063s0002bib01">Selewski DT, Shah GV, Segal BM, Rajdev PA, Mukherji SK. 2010. Natalizumab (Tysabri). <citetitle>AJNR Am J Neuroradiol</citetitle> 31:1588–1590.</bibliomixed>
+        <bibliomixed id="ch0063s0002bib02">Berger JR, Aksamit AJ, Clifford DB, Davis L, Koralnik IJ, Sejvar JJ, Bartt R, Major EO, Nath A. 2013. PML diagnostic criteria: consensus statement from the AAN Neuroinfectious Disease Section. <citetitle>Neurology</citetitle> 80:1430–1438.</bibliomixed>
+        <bibliomixed id="ch0063s0002bib03">Berger JR. 2011. The clinical features of PML. <citetitle>Cleve Clin J Med</citetitle>78 Suppl 2: S8-12.</bibliomixed>
+        <bibliomixed id="ch0063s0002bib04">Clinical Info. 2023. Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV: Progressive Multifocal Leukoencephalopathy/JC Virus Infection. https://clinicalinfo. hiv. gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/progressive? view=full. Accessed 4 April 2024.</bibliomixed>
+        <bibliomixed id="ch0063s0002bib05">Ferenczy MW, Marshall LJ, Nelson CD, Atwood WJ, Nath A, Khalili K, Major EO. 2012. Molecular biology, epidemiology, and pathogenesis of progressive multifocal leukoencephalopathy, the JC virus-induced demyelinating disease of the human brain. <citetitle>Clin Microbiol Rev</citetitle> 25:471–506.</bibliomixed>
+        <bibliomixed id="ch0063s0002bib06">Berger JR, Houff SA, Major EO. 2009. Monoclonal antibodies and progressive multifocal leukoencephalopathy. <citetitle>MAbs</citetitle> 1:583–589.</bibliomixed>
+        <bibliomixed id="ch0063s0002bib07">Bloomgren G, Richman S, Hotermans C, Subramanyam M, Goelz S, Natarajan A, Lee S, Plavina T, Scanlon JV, Sandrock A, Bozic C. 2012. Risk of natalizumab-associated progressive multifocal leukoencephalopathy. <citetitle>N Engl J Med</citetitle> 366:1870–1880.</bibliomixed>
+        <bibliomixed id="ch0063s0002bib08">US Food and Drug Administration. 2018. FDA drug safety communication: risk of progressive multifocal leukoencephalopathy (PML) with the use of tysabri (natalizumab). https://www. fda. gov/drugs/postmarket-drug-safety-information-patients-and-providers/fda-drug-safety-communication-risk-progressive-multifocal-leukoencephalopathy-pml-use-tysabri. Accessed 4 April 2024.</bibliomixed>
+        <bibliomixed id="ch0063s0002bib09">US Food and Drug Administration. 2018. FDA Drug Safety Communication: New risk factor for Progressive Multifocal Leukoencephalopathy (PML) associated with Tysabri (natalizumab). https://www. fda. gov/drugs/drug-safety-and-availability/fda-drug-safety-communication-new-risk-factor-progressive-multifocal-leukoencephalopathy-pml. Accessed 4 April 2024.</bibliomixed>
+        <bibliomixed id="ch0063s0002bib10">Berger JR, Malik V, Lacey S, Brunetta P, Lehane PB. 2018. Progressive multifocal leukoencephalopathy in rituximab-treated rheumatic diseases: a rare event. <citetitle>J Neurovirol</citetitle> 24:323–331.</bibliomixed>
+        <bibliomixed id="ch0063s0002bib11">Möhn N, Luo Y, Skripuletz T, Schwenkenbecher P, Ladwig A, Warnke C, Meuth SG, Wiendl H, Gross CC, Schröder C, Haghikia A, Stangel M. 2020. Cerebrospinal fluid analysis in 108 patients with progressive multifocal leukoencephalopathy. <citetitle>Fluids Barriers CNS</citetitle> 17:65.</bibliomixed>
+        <bibliomixed id="ch0063s0002bib12">Bossolasco S, Calori G, Moretti F, Boschini A, Bertelli D, Mena M, Gerevini S, Bestetti A, Pedale R, Sala S, Sala S, Lazzarin A, Cinque P. 2005. Prognostic significance of JC virus DNA levels in cerebrospinal fluid of patients with HIV-associated progressive multifocal leukoencephalopathy. <citetitle>Clin Infect Dis</citetitle> 40:738–744.</bibliomixed>
+        <bibliomixed id="ch0063s0002bib13"> Berger JR, Houff SA, Gurwell J, Vega N, Miller CS, Danaher RJ. 2013. JC virus antibody status underestimates infection rates. <citetitle>Ann Neurol</citetitle> 74:84–90.</bibliomixed>
+        <bibliomixed id="ch0063s0002bib14">Gorelik L, Lerner M, Bixler S, Crossman M, Schlain B, Simon K, Pace A, Cheung A, Chen LL, Berman M, Zein F, Wilson E, Yednock T, Sandrock A, Goelz SE, Subramanyam M. 2010. Anti-JC virus antibodies: implications for PML risk stratification. <citetitle>Ann Neurol</citetitle> 68:295–303.</bibliomixed>
+        <bibliomixed id="ch0063s0002bib15">Ferenczy MW, Marshall LJ, Nelson CD, Atwood WJ, Nath A, Khalili K, Major EO. 2012. Molecular biology, epidemiology, and pathogenesis of progressive multifocal leukoencephalopathy, the JC virus-induced demyelinating disease of the human brain. <citetitle>Clin Microbiol Rev</citetitle> 25:471–506.</bibliomixed>
+      </bibliography>
+    </chapter>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0001" role="frontmatter" label="1">
+    <title><emphasis role="color1">TO THE STUDENT</emphasis>
+    </title>
+    <sect1 id="ch0001s0002"><title>TO THE STUDENT</title><para>This text was written for you. It is an attempt to help you better understand the clinical importance of the basic science concepts you learn in your medical microbiology or infectious disease course or through your independent study. You may also find this text useful in reviewing for <ulink url="pt0001.xml#pt0001">Part I</ulink> of the National Board of Medical Examiners exam. It should be a good reference during your Infectious Disease rotations.</para>
+    <para>Below is a sample case, followed by a discussion of how you should approach a case to determine its likely etiology.</para>
+    </sect1><sect1 id="ch0001s0001" role="frontmatter">
+      <title><emphasis role="color1">SAMPLE CASE</emphasis>
+      </title>
+      <para>A 6-year-old child presented with a 24-hour history of fever, vomiting, and complaining of a sore throat. On physical examination, she had a temperature of 38.5°C, her tonsillar region appeared inflamed and was covered by an exudate, and she had several enlarged cervical lymph nodes. A throat culture plated on sheep blood agar grew many beta-hemolytic colonies. These colonies were small, with a comparatively wide zone of hemolysis.</para>
+      <para>What is the likely etiologic agent of her infection?</para>
+      <para>The first thing that should be done is to determine what type of infection this child has. She tells you she has a sore throat, “my throat hurts.” On physical examination, she has signs of an inflamed pharynx with exudate, which is consistent with her symptoms. (Do you know what an exudate is? If not, it's time to consult the glossary at the back of this text.) She also has enlarged regional lymph nodes, which support your diagnosis of pharyngitis (sore throat).</para>
+      <para>What is the etiology of her infection? The obvious response is that she has a “strep throat,” but in reality there are many agents that can cause a clinical syndrome indistinguishable from that produced by group A streptococci, the etiologic agent of “strep throat.” For example, sore throats are much more frequently caused by viruses than streptococci. Other bacteria can also cause pharyngitis, including <emphasis>Mycoplasma pneumoniae</emphasis>, various <emphasis>Corynebacterium</emphasis> spp., <emphasis>Arcanobacterium</emphasis> sp., and <emphasis>Neisseria gonorrhoeae</emphasis>. All of these organisms would be in the differential diagnosis, along with other, perhaps more obscure causes of pharyngitis.</para>
+      <para>However, further laboratory information narrows the differential diagnosis considerably; small colonies surrounded by large zones of hemolysis are consistent with beta-hemolytic streptococci, specifically group A streptococci. Based on the presenting signs and symptoms and the laboratory data, this child most likely has group A streptococcal pharyngitis.</para>
+      <para>Specific aids have been added to the book to assist you in solving the cases.</para>
+      <orderedlist id="ch0001s0001l01" role="decimal">
+        <listitem id="ch0001s0001x01">
+          <para>The book begins with “A Primer on the Laboratory Diagnosis of Infectious Diseases.” This section explains the application and effectiveness of different diagnostic approaches used in the clinical microbiology laboratory. We recommend that you read this primer before beginning your study of the cases.</para>
+        </listitem>
+        <listitem id="ch0001s0001x02">
+          <para>At the beginning of each book section is a brief introduction and a list of organisms. Only organisms on this list should be considered when solving the cases in that section. These lists have been organized based on important characteristics of the organisms.</para>
+        </listitem>
+        <listitem id="ch0001s0001x03">
+          <para>A table of normal values is available inside the front cover of this book. If you are unsure whether a specific laboratory or vital sign finding is abnormal, consult this table.</para>
+        </listitem>
+        <listitem id="ch0001s0001x04">
+          <para>A glossary of medical terms that are frequently used in the cases is available at the end of the text. If you do not understand a specific medical term, consult the glossary. If the term is not there, you will have to consult a medical dictionary or other medical texts.</para>
+        </listitem>
+        <listitem id="ch0001s0001x05">
+          <para>Figures demonstrating microscopic organism morphology are presented in many cases, as are key radiographic, laboratory, clinical, or pathologic findings. They provide important clues in helping you determine the etiology of the patient's infection. Because many medical schools have abandoned “wet” labs where medical students get to do “hands-on” microbiology, we felt having a richly illustrated text was important.</para>
+        </listitem>
+      </orderedlist>
+      <sect2 id="ch0001s0001s01">
+        <title><emphasis role="color1">A FINAL THOUGHT</emphasis>
+        </title>
+        <para>The temptation for many will be to read the case and its accompanying questions and then go directly to reading the answers. You will benefit more from this text by working through the questions and subsequently reading the case discussion.</para>
+        <para>Have fun and good luck!</para>
+      </sect2>
+    </sect1>
+  </chapter>

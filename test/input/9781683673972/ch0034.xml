@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0034" label="34">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor3">CASE 31</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0034s0004"><title>CASE 31</title><para>The patient was a 49-year-old woman who presented to the emergency department with a 3- to 4-week history of nausea, vomiting, and periodic fevers. She had recently returned from a visit to rural areas of India. She admitted to swimming in the Ganges River, eating in restaurants, drinking water without boiling or filtration, and having “raw” milk in her tea. She was exposed to rats, cattle, and mosquitoes. She did not take malaria or immune globulin prophylaxis and received no pretravel vaccinations. Two days prior to admission, she began feeling tired and “started sleeping all day.” She complained of vomiting after meals and 2 to 3 days of watery diarrhea at the onset of the illness, which had since resolved. She was febrile (38°C) every 5 days with associated arthralgia and myalgia.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0034s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  Given the patient's travel history and exposures, what infectious agents are most likely? What were her risk factors for each of these agents? What are the diagnostic options to rule out each?</para>
+        </listitem>
+      </itemizedlist>
+      <para>On physical examination, the patient was a thin woman in no apparent distress. She had a temperature of 36.9°C, pulse rate of 70 beats/minute, and blood pressure of 134/80 mm Hg reclining and 104/76 mm Hg standing. Her physical examination was significant for scleral icterus and a liver palpable at the costal margin. Laboratory tests were significant for the following values: aspartate aminotransferase (AST), 4,872 U/liter; alanine aminotransferase (ALT), 3,682 U/liter; gamma-glutamyl transferase (GGT), 174 U/liter; and bilirubin, 6.0 mg/dl. The results of her hepatitis serologic tests were as follows:</para>
+      <table id="ch0034s0004ta01"><title/>
+        
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <colspec colname="c3" colnum="3"/>
+          <tbody>
+            <row>
+              <entry morerows="3"><para>Hepatitis B virus</para>
+              </entry>
+              <entry><para>Surface antigen (HBsAg)</para>
+              </entry>
+              <entry><para>Negative</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Surface antibody (Anti-HBs)</para>
+              </entry>
+              <entry><para>Positive</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Core total antibody<?lb ?>  (Anti-HBc)</para>
+              </entry>
+              <entry><para>Positive</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Core IgM antibody<?lb ?>  (IgM Anti-HBc)</para>
+              </entry>
+              <entry><para>Negative</para>
+              </entry>
+            </row>
+            <row>
+              <entry morerows="1"><para>Hepatitis A virus</para>
+              </entry>
+              <entry><para>Total antibody<?lb ?>  (Anti-HAV)</para>
+              </entry>
+              <entry><para>Positive</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>IgM antibody (IgM Anti-HAV)</para>
+              </entry>
+              <entry><para>Positive</para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0034s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  How do you interpret the serologic tests in the table? What agent was the cause of her present illness?</para>
+        </listitem>
+        <listitem id="ch0034s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  What results from her physical examination and laboratory tests other than serologic tests are consistent with this illness?</para>
+        </listitem>
+        <listitem id="ch0034s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  How do you think she obtained her infection? What feature of this agent allows it to be spread in this way?</para>
+        </listitem>
+        <listitem id="ch0034s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What is the usual outcome of infection with this organism?</para>
+        </listitem>
+        <listitem id="ch0034s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What prophylactic strategies are available for this agent? (Note: She employed one of them on previous trips to India.)</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0034s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  Her travel history put her at increased risk for several infectious diseases. This woman appeared to have taken no precautions that would lessen the likelihood of her getting the most common infectious diseases that travelers to India encounter <link linkend="ch0034s0002bib01">(1)</link>. These include:</para>
+        <itemizedlist id="ch0034s0001l01">
+          <listitem id="ch0034s0001x07">
+            <para>Diarrheal diseases (typhoid fever, nontyphoidal salmonellosis, shigellosis, amebic dysentery, cholera, and traveler's diarrhea due to enterotoxigenic <emphasis>Escherichia coli</emphasis>) </para>
+            <orderedlist id="ch0034s0001l02" role="lower-roman">
+              <listitem id="ch0034s0001x08">
+                <para>Risk factors: Bathing in the Ganges, eating in restaurants, drinking nonboiled or nonfiltered water</para>
+              </listitem>
+              <listitem id="ch0034s0001x09">
+                <para>Diagnostic options: Blood cultures for typhoid fever and enteric fever. Gastrointestinal molecular multiplex panel or bacterial culture performed on stool for infectious causes of gastroenteritis. Stool ova and parasite examination for amebic dysentery.</para>
+              </listitem>
+            </orderedlist>
+          </listitem>
+          <listitem id="ch0034s0001x10">
+            <para>Hepatitis A</para>
+            <itemizedlist id="ch0034s0001l03">
+              <listitem id="ch0034s0001x11">
+                <para>Risk factors: Same as for the diarrheal diseases listed above plus failure to be vaccinated against hepatitis A virus (HAV) or to take preexposure immune globulin<link linkend="ch0034s0002bib02">(2)</link></para>
+              </listitem>
+              <listitem id="ch0034s0001x12">
+                <para>Diagnostic options: HAV immunoglobulin M (IgM) serology</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+          <listitem id="ch0034s0001x13">
+            <para>Hepatitis E</para>
+            <itemizedlist id="ch0034s0001l04">
+              <listitem id="ch0034s0001x14">
+                <para>Risk factor: Ingestion of contaminated water</para>
+              </listitem>
+              <listitem id="ch0034s0001x15">
+                <para>Diagnostic options: Hepatitis E virus IgM serology</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+          <listitem id="ch0034s0001x16">
+            <para>Malaria</para>
+            <itemizedlist id="ch0034s0001l05">
+              <listitem id="ch0034s0001x17">
+                <para>Risk factor: Exposure to mosquitoes without taking malarial prophylaxis and failure to use protection against mosquito bites, such as insect repellent, netting, and protective clothing</para>
+              </listitem>
+              <listitem id="ch0034s0001x18">
+                <para>Diagnostic options: Blood parasite smear and/or malaria antigen test</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+          <listitem id="ch0034s0001x19">
+            <para>Brucellosis</para>
+            <itemizedlist id="ch0034s0001l06">
+              <listitem id="ch0034s0001x20">
+                <para>Risk factor: Drinking “raw,” unpasteurized milk</para>
+              </listitem>
+              <listitem id="ch0034s0001x21">
+                <para>Diagnostic options: Blood cultures and/or <emphasis>Brucella</emphasis> IgG and IgM serology with confirmatory testing by antibody agglutination</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+          <listitem id="ch0034s0001x22">
+            <para>Tuberculosis (TB)</para>
+            <itemizedlist id="ch0034s0001l07">
+              <listitem id="ch0034s0001x23">
+                <para>Risk factor: High rate of endemic infection in India, including multidrug resistant TB</para>
+              </listitem>
+              <listitem id="ch0034s0001x24">
+                <para>Diagnostic options: Mycobacterial smear and culture;<emphasis>Mycobacterium tuberculosis</emphasis> nucleic acid amplification test (NAAT) with resistance screen from respiratory specimens</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+          <listitem id="ch0034s0001x25">
+            <para>Leptospirosis</para>
+            <itemizedlist id="ch0034s0001l08">
+              <listitem id="ch0034s0001x26">
+                <para>Risk factor: Cutaneous exposure to water that was potentially contaminated with infectious animal urine</para>
+              </listitem>
+              <listitem id="ch0034s0001x27">
+                <para>Diagnostic options:<emphasis>Leptospira</emphasis> IgM serology and/or <emphasis>Leptospira</emphasis> NAAT</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+        <para>The CDC offers further information on agents for which travelers are at increased risk in the Indian subcontinent and how they can be avoided<link linkend="ch0034s0002bib01">(1)</link>.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  The patient had an acute illness consistent with hepatitis with positive serologic tests for hepatitis B virus (HBV) surface antibody, HBV core antibody, and IgM and total antibodies to HAV. Her serologic profile is consistent with an acute HAV infection and prior infection with HBV. In patients with acute hepatitis A, IgM antibody is almost always present at the time of acute illness. Anti-HAV IgM antibodies can persist for months after the resolution of the acute illness. In acute hepatitis B, patients typically have HBV surface antigen in their blood, without antibodies to the surface or core antigen. IgM antibodies to HBV core antigen would be present in patients with acute hepatitis B infection. Her HBV core IgM antibodies were negative. Her serologic profile is not consistent with having received HBV vaccine because the vaccine contains only the surface antigen. Thus, vaccine-derived immunity should consist of only antibodies to the surface antigen. Vaccinated individuals do not have antibodies to core antigen.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  Clinical and laboratory findings consistent with hepatitis include markedly increased liver enzymes (ALT, AST, and GGT), markedly increased bilirubin levels, hepatomegaly, and scleral icterus. Symptoms of nausea, vomiting, malaise, fever, arthralgias, and myalgias are much less specific and could be associated with a wide array of agents to which she was potentially exposed.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  Hepatitis A virus is spread by the fecal-oral route, usually by ingestion of fecally contaminated water or food, especially shellfish <link linkend="ch0034s0002bib03">(3)</link>. It is a disease controlled by good sanitation practices and a public health infrastructure. Where these do not exist, HAV infections are common. In many low- and middle-income countries (LMICs), including India, essentially all adults have serologic evidence of prior HAV infection. Infections are common in children, who probably serve as the source of much of the fecal contamination of water sources in those locales. This patient was likely exposed to the virus while bathing in the Ganges, which is known to be highly contaminated with human fecal material. Approximately 5% of HAV infections in the United States occur in individuals traveling to LMICs who are exposed to contaminated food and water. Infections in high-income countries are most common in persons who inject drugs, in children who attend childcare centers, and in adults who work there. In the United States, frozen berries have been the sources of multiple food-borne outbreaks <link linkend="ch0034s0002bib04">(4)</link>. In addition, shellfish taken from water contaminated with human feces has been shown to be a source of HAV throughout the world. Shellfish are filter feeders; as part of the filter-feeding process, they may ingest HAV-contaminated human feces, and the virus persists in their flesh. In locales in the United States where sanitation is poor, the incidence of HAV infection is high.</para>
+        <para>HAV belongs to the family <emphasis>Picornaviridae</emphasis> which are nonenveloped, single-stranded RNA viruses <link linkend="ch0034s0002bib05">(5)</link>. HAV is similar to other <emphasis>Picornaviridae</emphasis> viruses, the rhinoviruses (“common cold” viruses), and enteroviruses (polioviruses and coxsackieviruses, among others), that infect humans and are known to be stable in the environment. The pathogenesis of HAV infection begins by ingestion of viral particles. The virus can survive pH extremes found in the stomach. It is absorbed into the bloodstream in either the stomach or small intestine and specifically infects and replicates in the liver, where it has its pathologic effect by inducing a robust immune response. T cells and natural killer cells, along with gamma interferon, clear virally infected hepatocytes but also cause tissue damage leading to hepatitis. Viral particles are excreted in bile in large numbers (10<superscript>8</superscript> viral particles/ml) and can then be passed into the environment in feces. Once in the environment, the virus can survive for weeks in both freshwater and salt water.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  Hepatitis A is almost always an acute, self-limited disease. In children, the infection is frequently subclinical. Fulminant hepatitis in adults due to HAV is rare, with a mortality rate of &lt;1.5% in patients hospitalized with HAV infection. Unlike hepatitis B and C viruses, and occasionally hepatitis E virus, chronic infection with HAV does not occur.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  The first formalin-inactivated HAV vaccine was approved for use in the United States in 1995. The vaccine is safe and highly efficacious, with seroconversion occurring in &gt;99% of vaccinated individuals and a low rate of minor side effects. In 2006, the CDC began recommending HAV vaccination of all children with a two-dose series between 12 and 23 months of age <link linkend="ch0034s0002bib06">(6)</link>. Beyond that, the vaccine is broadly recommended for those at risk for infection, including as pretravel prophylaxis <link linkend="ch0034s0002bib02">(2)</link>.</para>
+        <para>Prior to the availability of the vaccine, immunoprophylaxis using human immune globulin was used for individuals traveling to LMICs<link linkend="ch0034s0002bib02">(2)</link>. This patient had used it on previous visits to India. The protection is relatively short-lived but can last up to 6 months depending on the dosage. For an individual who will immediately embark on a trip to an LMIC and who, therefore, will not seroconvert to the hepatitis vaccine during the trip, immune globulin can be given for immediate protection.</para>
+        <para>Postexposure prophylactic benefits have been shown for both the vaccine and immune globulin<link linkend="ch0034s0002bib02">(2)</link>. Depending on individual patient factors, one or both may be administered, but must be given within 2 weeks of exposure.</para>
+      </sect1>
+      <sect1 id="ch0034s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0034s0003l09" role="decimal">
+          <listitem id="ch0034s0003x34">
+            <para>HAV is transmitted via the fecal-oral route, commonly through consumption of contaminated food or water in areas with poor sanitation.</para>
+          </listitem>
+          <listitem id="ch0034s0003x35">
+            <para>Nearly all infections with HAV are self-limiting but can rarely cause hepatic failure. Chronic HAV has not been described.</para>
+          </listitem>
+          <listitem id="ch0034s0003x36">
+            <para>The diagnosis of hepatitis A relies on serology, with IgM antibodies appearing in the acute phase of illness. IgM antibodies can persist for ~6 months. IgG antibodies appear within 3 to 4 weeks and can persist for years.</para>
+          </listitem>
+          <listitem id="ch0034s0003x37">
+            <para>Vaccination is recommended for all children in the United States. For those at risk of infection, vaccination or immune globulin can be administered as pre- or postexposure prophylaxis.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0034s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0034s0002bib01">Centers for Disease Control and Prevention. 13 July 2023. Travelers' health: India. https://wwwnc. cdc. gov/travel/destinations/traveler/none/india. Accessed 11 September 2024.</bibliomixed>
+        <bibliomixed id="ch0034s0002bib02">Nelson NP, Link-Gelles R, Hofmeister MG, Romero JR, Moore KL, Ward JW, Schillie SF. 2018. Update: recommendations of the advisory committee on immunization practices for use of hepatitis A vaccine for postexposure prophylaxis and for preexposure prophylaxis for international travel. <citetitle>MMWR Morb Mortal Wkly Rep</citetitle> 67:1216–1220.</bibliomixed>
+        <bibliomixed id="ch0034s0002bib03">Cuthbert JA. 2001. Hepatitis A: old and new. <citetitle>Clin Microbiol Rev</citetitle> 14:38–58.</bibliomixed>
+        <bibliomixed id="ch0034s0002bib04">Centers for Disease Control and Prevention. 8 February 2024. Hepatitis A outbreaks linked to food sources and person-to-person contact. https://www. cdc. gov/hepatitis-a/outbreaks/ongoing. Accessed 17 September 2024.</bibliomixed>
+        <bibliomixed id="ch0034s0002bib05">Iorio N, John S. 2023. Hepatitis A. In Stat Pearls [internet]. Stat Pearls Publishing, Treasure Island, FL. https://www. ncbi. nlm. nih. gov/books/NBK459290/.</bibliomixed>
+        <bibliomixed id="ch0034s0002bib06">Advisory Committee on Immunization Practices (ACIP); Fiore AE, Wasley A, Bell BP. 2006. Prevention of hepatitis A through active or passive immunization: recommendations of the Advisory Committee on Immunization Practices (ACIP). <citetitle>MMWR Recomm Rep</citetitle> 55(RR-7):1–23.</bibliomixed>
+      </bibliography>
+    </chapter>

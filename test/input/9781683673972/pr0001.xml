@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<preface id="pr0001">
+    <title>Cover Page</title>
+    <figure id="pr0001s0001fg03"><title>Cover</title>
+      
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="Prefacef04.jpg" width="100%" scalefit="1"/>
+        </imageobject>
+      </mediaobject>
+    </figure>
+    <figure id="pr0001s0001fg01"><title/>
+      
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="Prefacef04.jpg" width="100%" scalefit="1"/>
+        </imageobject>
+        <textobject>
+          <para>Cover: Cases in Medical Microbiology and Infectious Diseases, 5th Edition, Fifth Edition by Peter H Gilligan</para>
+        </textobject>
+      </mediaobject>
+    </figure>
+    <figure id="pr0001s0001fg02"><title/>
+      
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="Prefacef03.jpg" width="100%" scalefit="1"/>
+        </imageobject>
+        <textobject>
+          <para>Table of Normal Values</para>
+        </textobject>
+      </mediaobject>
+    </figure>
+  </preface>

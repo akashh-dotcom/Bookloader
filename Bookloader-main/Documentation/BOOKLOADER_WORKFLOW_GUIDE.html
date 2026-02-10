@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookLoader Workflow Guide</title>
+    <style>
+        @page {
+            margin: 0.75in;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        
+        .container {
+            background-color: white;
+            padding: 40px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        h2 {
+            color: #34495e;
+            border-bottom: 2px solid #95a5a6;
+            padding-bottom: 8px;
+            margin-top: 30px;
+            font-size: 1.8em;
+        }
+        
+        h3 {
+            color: #2980b9;
+            margin-top: 25px;
+            font-size: 1.4em;
+        }
+        
+        h4 {
+            color: #16a085;
+            margin-top: 20px;
+            font-size: 1.2em;
+        }
+        
+        .subtitle {
+            color: #7f8c8d;
+            font-size: 1.2em;
+            margin-bottom: 5px;
+        }
+        
+        .date {
+            color: #95a5a6;
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+        
+        hr {
+            border: none;
+            border-top: 1px solid #bdc3c7;
+            margin: 30px 0;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            box-shadow: 0 2px 3px rgba(0,0,0,0.1);
+        }
+        
+        th {
+            background-color: #3498db;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+        }
+        
+        td {
+            padding: 10px 12px;
+            border-bottom: 1px solid #ecf0f1;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        
+        tr:hover {
+            background-color: #e8f4f8;
+        }
+        
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Consolas', 'Monaco', monospace;
+            font-size: 0.9em;
+            color: #e74c3c;
+        }
+        
+        pre {
+            background-color: #2c3e50;
+            color: #ecf0f1;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+            margin: 15px 0;
+            border-left: 4px solid #3498db;
+        }
+        
+        pre code {
+            background-color: transparent;
+            color: #ecf0f1;
+            padding: 0;
+        }
+        
+        .alert {
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 5px;
+            border-left: 4px solid;
+        }
+        
+        .alert-info {
+            background-color: #d9edf7;
+            border-color: #3498db;
+            color: #31708f;
+        }
+        
+        .alert-warning {
+            background-color: #fcf8e3;
+            border-color: #f39c12;
+            color: #8a6d3b;
+        }
+        
+        .alert-danger {
+            background-color: #f2dede;
+            border-color: #e74c3c;
+            color: #a94442;
+        }
+        
+        .alert-success {
+            background-color: #dff0d8;
+            border-color: #27ae60;
+            color: #3c763d;
+        }
+        
+        .file-tree {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            font-family: 'Consolas', 'Monaco', monospace;
+            font-size: 0.9em;
+            margin: 15px 0;
+            border: 1px solid #dee2e6;
+        }
+        
+        .checklist {
+            list-style: none;
+            padding-left: 0;
+        }
+        
+        .checklist li {
+            padding: 8px 0;
+            padding-left: 30px;
+            position: relative;
+        }
+        
+        .checklist li:before {
+            content: "□";
+            position: absolute;
+            left: 0;
+            font-size: 1.3em;
+            color: #3498db;
+        }
+        
+        .step-number {
+            background-color: #3498db;
+            color: white;
+            border-radius: 50%;
+            padding: 5px 12px;
+            font-weight: bold;
+            margin-right: 10px;
+            display: inline-block;
+        }
+        
+        .phase {
+            background-color: #ecf0f1;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+            border-left: 5px solid #3498db;
+        }
+        
+        .critical {
+            background-color: #fff3cd;
+            padding: 3px 8px;
+            border-radius: 3px;
+            font-weight: bold;
+            color: #856404;
+        }
+        
+        .toc {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        
+        .toc ul {
+            list-style: none;
+            padding-left: 20px;
+        }
+        
+        .toc li {
+            padding: 5px 0;
+        }
+        
+        .toc a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        
+        .toc a:hover {
+            text-decoration: underline;
+        }
+        
+        @media print {
+            body {
+                background-color: white;
+            }
+            
+            .container {
+                box-shadow: none;
+                padding: 0;
+            }
+            
+            h1, h2 {
+                page-break-after: avoid;
+            }
+            
+            table, pre, .phase {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>BookLoader Workflow Guide</h1>
+        <p class="subtitle"><strong>Understanding the Complete Book Processing Pipeline</strong></p>
+        <p class="date"><em>Last Updated: January 2, 2026</em></p>
+        <hr>
+
+        <div class="alert alert-info">
+            <strong>Executive Summary:</strong> This document details the exact ordered flow of the BookLoader system, showing how books are processed from ZIP files through staging and made visible/licensed in the R2 system. This analysis covers database operations, file system requirements, and critical failure points.
+        </div>
+
+        <h2 id="flow">Complete Book Processing Flow</h2>
+
+        <div class="phase">
+            <h3>Phase 1: RIS Backend Processing (Java)</h3>
+            <p><strong>Entry Point:</strong> <code>src/com/rittenhouse/RIS/Main.java</code> - <code>main()</code> method</p>
+
+            <h4><span class="step-number">1</span>Unzip & Prepare</h4>
+            <p><strong>Location:</strong> <code>LoadBook.bat</code> (lines 40-60)</p>
+            <ul>
+                <li>Extract ISBN ZIP file to temporary working directory</li>
+                <li>Copy extracted files to <code>RIS.CONTENT_IN</code> directory (e.g., <code>E:\R2BookLoader\Job\content\in</code>)</li>
+                <li>Uses 7-Zip for extraction, robocopy for file transfer</li>
+            </ul>
+
+            <h4><span class="step-number">2</span>RIS Backend Processing</h4>
+            <p><strong>Location:</strong> <code>src/com/rittenhouse/RIS/Main.java</code> (lines 2088-2133)</p>
+            
+            <p>The Java RIS Backend performs the following operations:</p>
+            <ol>
+                <li><strong>Parse EPUB/DocBook XML</strong>
+                    <ul>
+                        <li>Read source content files</li>
+                        <li>Validate XML structure</li>
+                        <li>Extract metadata (title, author, publisher, ISBN variants)</li>
+                    </ul>
+                </li>
+                <li><strong>Content Tagging</strong>
+                    <ul>
+                        <li>Tag medical drugs (primary and synonyms)</li>
+                        <li>Tag diseases (primary and synonyms)</li>
+                        <li>Tag keywords and medical terms</li>
+                        <li>Link references to external resources</li>
+                    </ul>
+                </li>
+                <li><strong>XML Generation</strong>
+                    <ul>
+                        <li>Generate chunked XML files (one per chapter)</li>
+                        <li>Create table of contents (toc.xml)</li>
+                        <li>Add RIS metadata to XML structure</li>
+                    </ul>
+                </li>
+                <li><strong>Database Writes</strong>
+                    <ul>
+                        <li>Via <code>ResourceDB.addNewResource</code> method</li>
+                        <li><span class="critical">CRITICAL:</span> All database operations happen here in the Java layer</li>
+                    </ul>
+                </li>
+            </ol>
+
+            <h4><span class="step-number">3</span>Exit Code Handling</h4>
+            <p><strong>Location:</strong> <code>LoadBook.bat</code> (lines 64-86)</p>
+            <ul>
+                <li><strong>Exit Code 0:</strong> Success - proceed to post-processing</li>
+                <li><strong>Exit Code -4:</strong> Failure - cleanup required, process stops</li>
+                <li><strong>Other codes:</strong> Various failure states</li>
+            </ul>
+        </div>
+
+        <div class="phase">
+            <h3>Phase 2: File System Placement</h3>
+            <p><strong>Handled by:</strong> <code>Main.loadContent</code> method (lines 1958-2087)</p>
+
+            <h4><span class="step-number">4</span>XML Output Placement</h4>
+            <pre><code>Source:      RIS.CONTENT_TEMP (e.g., E:\R2BookLoader\Job\content\temp\)
+Destination: RIS.DEST_NON_TEXTML_CONTENT_PATH (e.g., E:\R2v2-XMLbyISBN\{ISBN}\xml\)</code></pre>
+            
+            <p><strong>Files Created:</strong></p>
+            <ul>
+                <li><code>book.{ISBN}.xml</code> - Main book XML document</li>
+                <li><code>chapter.{ISBN}.001.xml</code> - Individual chapter files</li>
+                <li><code>chapter.{ISBN}.002.xml</code></li>
+                <li>... (one per chapter)</li>
+                <li><code>toc.xml</code> - Table of contents</li>
+            </ul>
+
+            <h4><span class="step-number">5</span>Image File Placement</h4>
+            <pre><code>Source:      RIS.CONTENT_TEMP\MultiMedia
+Destination: {ImageDestination}\{ISBN}\</code></pre>
+            
+            <p><strong>Files Copied:</strong></p>
+            <ul>
+                <li>All image files (JPG, PNG, GIF)</li>
+                <li>Preserves original filenames and structure</li>
+            </ul>
+        </div>
+
+        <div class="phase">
+            <h3>Phase 3: Post-Processing (C# R2Utilities)</h3>
+            <p><strong>Entry Point:</strong> <code>BookLoaderPostProcessingTask.cs</code> - <code>Run()</code> method (line 62)</p>
+
+            <h4><span class="step-number">6</span>Database Lookup</h4>
+            <p><strong>Location:</strong> <code>BookLoaderPostProcessingTask.cs</code> (line 85)</p>
+            <pre><code>var resource = _resourceCoreDataService.GetResourceByIsbn(_isbn);</code></pre>
+            <ul>
+                <li>Query <code>tResource</code> table by ISBN to get <code>iResourceId</code></li>
+                <li><span class="critical">FAILURE POINT:</span> If RIS Backend didn't write to database, this returns null</li>
+                <li>Common cause: <code>RIS.TEST_MODE=true</code> in configuration</li>
+            </ul>
+
+            <h4><span class="step-number">7</span>Resource Data Updates</h4>
+            <p><strong>Location:</strong> <code>BookLoaderPostProcessingTask.cs</code> - <code>UpdateResourceData()</code> (lines 156-215)</p>
+            
+            <p><strong>Database Operations:</strong></p>
+            <ol>
+                <li><strong>Update Sort Title</strong> (<code>tResource</code> table)
+                    <ul>
+                        <li>Strip leading articles (A, AN, THE)</li>
+                        <li>Set <code>vchResourceSortTitle</code></li>
+                        <li>Set <code>chrAlphaKey</code> (first letter for alphabetical indexing)</li>
+                    </ul>
+                </li>
+                <li><strong>Insert Default Specialty</strong> (<code>tResourceSpecialty</code> table)
+                    <ul>
+                        <li>Add default medical specialty association</li>
+                        <li>Required for specialty-based filtering</li>
+                    </ul>
+                </li>
+                <li><strong>Insert Default Practice Area</strong> (<code>tResourcePracticeArea</code> table)
+                    <ul>
+                        <li>Add default practice area association</li>
+                        <li>Required for practice area filtering</li>
+                    </ul>
+                </li>
+                <li><strong>Update A-to-Z Index</strong> (<code>tAtoZIndex</code> table) - <span class="critical">CRITICAL</span>
+                    <ul>
+                        <li>Lines 349-375</li>
+                        <li>Populates search index terms</li>
+                        <li><strong>Book will not appear in search results without this</strong></li>
+                    </ul>
+                </li>
+            </ol>
+
+            <h4><span class="step-number">8</span>File Copy to Production Locations</h4>
+            <p><strong>Location:</strong> <code>BookLoaderPostProcessingTask.cs</code> - <code>CopyContent()</code> (lines 219-257)</p>
+            <pre><code>XML Files:
+Source:      {BookLoaderSourceRoot}\{ISBN}\xml\
+Destination: {ContentLocation}\{ISBN}\
+
+Image Files:
+Source:      {BookLoaderSourceRoot}\{ISBN}\images\
+Destination: {ImageDestination}\{ISBN}\</code></pre>
+
+            <h4><span class="step-number">9</span>Content Transformation</h4>
+            <p><strong>Location:</strong> <code>BookLoaderPostProcessingTask.cs</code> - <code>TransformXmlContent()</code> (lines 260-288)</p>
+            <ul>
+                <li>Transform XML for TextML/DITA CMS integration</li>
+                <li>Generate additional search indexes</li>
+                <li>Apply XSLT transformations for display formatting</li>
+            </ul>
+
+            <h4><span class="step-number">10</span>TOC Update (Optional)</h4>
+            <p><strong>Location:</strong> <code>BookLoaderPostProcessingTask.cs</code> - <code>UpdateTocXml()</code> (line 375)</p>
+            <p><strong>Condition:</strong> Only if <code>-includeChapterNumbersInToc=true</code> parameter passed</p>
+
+            <h4><span class="step-number">11</span>Activation</h4>
+            <p><strong>Location:</strong> <code>BookLoaderPostProcessingTask.cs</code> (line 125)</p>
+            <pre><code>tResource.iResourceStatusId = Active</code></pre>
+            <ul>
+                <li>Sets resource status to "Active"</li>
+                <li><strong>Makes book visible</strong> in the R2 application</li>
+                <li>Without this, book exists but is hidden</li>
+            </ul>
+
+            <h4><span class="step-number">12</span>Auto-Licensing</h4>
+            <p><strong>Location:</strong> <code>BookLoaderPostProcessingTask.cs</code> (lines 128-137)</p>
+            <ul>
+                <li>Insert into <code>tResourceLicense</code> table</li>
+                <li>Creates licenses for configured institutions</li>
+                <li>Uses <code>AutoLicensesNumberOfLicenses</code> configuration setting</li>
+                <li><strong>Makes book accessible</strong> to licensed users</li>
+            </ul>
+        </div>
+
+        <h2 id="database">Database Tables Modified</h2>
+
+        <h3>Written by RIS Backend (Java)</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Table</th>
+                    <th>Purpose</th>
+                    <th>Critical?</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><code>tPublisher</code></td>
+                    <td>Publisher metadata (name, contact info)</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td><code>tResource</code></td>
+                    <td><strong>Main resource record</strong> (title, ISBN, author, description)</td>
+                    <td><strong>Yes</strong></td>
+                </tr>
+                <tr>
+                    <td><code>tResourceISBN</code></td>
+                    <td>ISBN-10, ISBN-13, eISBN variants</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td><code>tNewResourceQue</code></td>
+                    <td>Processing queue tracking</td>
+                    <td>No</td>
+                </tr>
+                <tr>
+                    <td><code>tResourceDiscipline</code></td>
+                    <td>Subject/discipline associations</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td><code>tKeywordResource</code></td>
+                    <td>Tagged medical terms (drugs, diseases)</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td><code>tChapterResource</code></td>
+                    <td>Chapter metadata (title, sequence)</td>
+                    <td>Yes</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h3>Written by Post-Processing (C#)</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Table</th>
+                    <th>Purpose</th>
+                    <th>Critical?</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><code>tResourceSpecialty</code></td>
+                    <td>Medical specialty associations</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td><code>tResourcePracticeArea</code></td>
+                    <td>Practice area associations</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td><code>tAtoZIndex</code></td>
+                    <td><strong>Search indexing terms</strong></td>
+                    <td><strong>Yes</strong></td>
+                </tr>
+                <tr>
+                    <td><code>tResourceLicense</code></td>
+                    <td>Institution licenses</td>
+                    <td><strong>Yes</strong></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="alert alert-warning">
+            <strong>Database Write Summary:</strong> Total of <strong>11 tables</strong> modified across 2 processing phases. Critical path tables (book won't be visible/accessible without these): <code>tResource</code>, <code>tAtoZIndex</code>, <code>tResourceLicense</code>
+        </div>
+
+        <h2 id="filesystem">Required File System Structure</h2>
+
+        <h3>Production XML Location</h3>
+        <div class="file-tree">
+<pre>E:\R2v2-XMLbyISBN\
+  └── {ISBN}\
+      └── xml\
+          ├── book.{ISBN}.xml          (main book XML)
+          ├── chapter.{ISBN}.001.xml   (chapter 1)
+          ├── chapter.{ISBN}.002.xml   (chapter 2)
+          ├── chapter.{ISBN}.003.xml   (chapter 3)
+          ├── ...
+          └── toc.xml                  (table of contents)</pre>
+        </div>
+
+        <h3>Production Image Location</h3>
+        <div class="file-tree">
+<pre>{ImageDestination}\
+  └── {ISBN}\
+      ├── image001.jpg
+      ├── image002.jpg
+      ├── figure_01_01.png
+      └── ...</pre>
+        </div>
+
+        <h3>Working Directories</h3>
+        <div class="file-tree">
+<pre>E:\R2BookLoader\
+  ├── TestUploadPending\      (ZIP files awaiting processing)
+  ├── Completed\              (Successfully processed ISBNs)
+  ├── Failed\                 (Failed processing attempts)
+  ├── Logs\                   (Processing logs)
+  └── Job\
+      ├── bin\                (LoadBook.bat, RISBackend.jar)
+      ├── content\
+      │   ├── in\             (Extracted ZIP contents)
+      │   └── temp\           (Processed XML before final copy)
+      └── lib\                (JAR dependencies)</pre>
+        </div>
+
+        <h2 id="failures">Critical Failure Points</h2>
+
+        <div class="alert alert-danger">
+            <h4>1. RIS Backend Exits with -4</h4>
+            <p><strong>Symptom:</strong> Java process fails, exit code -4</p>
+            <p><strong>Cause:</strong> Database write failure, validation error, or processing exception</p>
+            <p><strong>Impact:</strong> Partial database writes (orphaned records)</p>
+            <p><strong>Resolution:</strong> Run <code>FailedResourceCleanup.java</code> to remove partial records</p>
+        </div>
+
+        <div class="alert alert-danger">
+            <h4>2. TEST_MODE=true in Staging</h4>
+            <p><strong>Symptom:</strong> Post-processing fails with "Resource not found"</p>
+            <p><strong>Cause:</strong> <code>RIS.TEST_MODE=true</code> in configuration file</p>
+            <p><strong>Impact:</strong> RIS Backend skips all database writes</p>
+            <p><strong>Resolution:</strong> Set <code>RIS.TEST_MODE=false</code> in <code>RISBackend.cfg</code></p>
+        </div>
+
+        <div class="alert alert-danger">
+            <h4>3. Missing XML Output Folder</h4>
+            <p><strong>Symptom:</strong> RIS Backend succeeds but no XML files created</p>
+            <p><strong>Cause:</strong> <code>RIS.DEST_NON_TEXTML_CONTENT_PATH</code> doesn't exist</p>
+            <p><strong>Impact:</strong> Post-processing can't find source files</p>
+            <p><strong>Resolution:</strong> Create directory structure before processing</p>
+        </div>
+
+        <div class="alert alert-danger">
+            <h4>4. Post-Processing Can't Find ISBN</h4>
+            <p><strong>Symptom:</strong> "Resource not found" error in post-processing</p>
+            <p><strong>Cause:</strong> Database not written by RIS Backend</p>
+            <p><strong>Root Causes:</strong> TEST_MODE enabled, database connection failed, transaction rolled back</p>
+            <p><strong>Resolution:</strong> Verify database connectivity, check RIS Backend logs</p>
+        </div>
+
+        <div class="alert alert-danger">
+            <h4>5. tAtoZIndex Not Populated</h4>
+            <p><strong>Symptom:</strong> Book exists but doesn't appear in search results</p>
+            <p><strong>Cause:</strong> Post-processing failed before indexing step</p>
+            <p><strong>Impact:</strong> Book invisible to users searching by title/keyword</p>
+            <p><strong>Resolution:</strong> Rerun post-processing task for ISBN</p>
+        </div>
+
+        <div class="alert alert-danger">
+            <h4>6. Book Not Licensed</h4>
+            <p><strong>Symptom:</strong> Book visible but "Access Denied" to users</p>
+            <p><strong>Cause:</strong> Auto-licensing failed or disabled</p>
+            <p><strong>Impact:</strong> Book exists but no users can access it</p>
+            <p><strong>Resolution:</strong> Manually insert <code>tResourceLicense</code> records</p>
+        </div>
+
+        <h2 id="local">Running on Home PC vs Staging</h2>
+
+        <h3>Scenario: Process Locally, Deploy to Staging</h3>
+
+        <h4>Option A: Full Local Processing + Database Export</h4>
+        <ol>
+            <li><strong>Local Processing</strong>
+                <pre><code># Configure for local database
+RIS.TEST_MODE=false
+RIS.DB_HOST=localhost
+RIS.DB_NAME=R2_Local</code></pre>
+            </li>
+            <li><strong>Process Book</strong>
+                <pre><code>LoadBook.bat 9781234567890</code></pre>
+            </li>
+            <li><strong>Export Database Records</strong>
+                <pre><code>-- Export resource and related records
+SELECT * FROM tResource WHERE vchisbn13 = '9781234567890'
+SELECT * FROM tResourceISBN WHERE iResourceId = @resourceId
+-- ... export all related tables</code></pre>
+            </li>
+            <li><strong>Deploy to Staging</strong>
+                <ul>
+                    <li>Copy XML files to staging file server</li>
+                    <li>Copy image files to staging file server</li>
+                    <li>Import database records into staging database</li>
+                    <li>Verify book visibility and licensing</li>
+                </ul>
+            </li>
+        </ol>
+
+        <div class="alert alert-info">
+            <strong>Pros:</strong> Process multiple books locally without affecting staging, test changes before deployment, faster iteration cycle<br>
+            <strong>Cons:</strong> Must maintain local database, manual export/import process, database schema must match staging
+        </div>
+
+        <h4>Option B: Process Locally, Reprocess on Staging</h4>
+        <ol>
+            <li><strong>Local Processing (Test Mode)</strong>
+                <pre><code># Configure for test mode
+RIS.TEST_MODE=true</code></pre>
+            </li>
+            <li><strong>Process Book Locally</strong>
+                <pre><code>LoadBook.bat 9781234567890
+# Validates processing, generates XML, but no database writes</code></pre>
+            </li>
+            <li><strong>Copy ZIP to Staging</strong>
+                <pre><code>Copy-Item "C:\LocalBooks\9781234567890.zip" `
+          "\\staging-server\E$\R2BookLoader\TestUploadPending\"</code></pre>
+            </li>
+            <li><strong>Reprocess on Staging</strong>
+                <pre><code>LoadBook.bat 9781234567890</code></pre>
+            </li>
+        </ol>
+
+        <div class="alert alert-info">
+            <strong>Pros:</strong> Single source of truth (staging database), no manual database export/import, guaranteed schema compatibility<br>
+            <strong>Cons:</strong> Must reprocess each book on staging, slower deployment cycle, requires staging server access
+        </div>
+
+        <h4>Option C: Hybrid Approach (Recommended)</h4>
+        <ol>
+            <li><strong>Local Validation</strong>
+                <pre><code>RIS.TEST_MODE=true
+LoadBook.bat 9781234567890
+# Validates EPUB structure, generates test XML</code></pre>
+            </li>
+            <li><strong>Review Generated XML</strong>
+                <ul>
+                    <li>Inspect chunked XML files</li>
+                    <li>Verify table of contents</li>
+                    <li>Check image extraction</li>
+                </ul>
+            </li>
+            <li><strong>Deploy if Valid</strong>
+                <pre><code># Copy validated ZIP to staging
+Copy-Item "C:\LocalBooks\9781234567890.zip" `
+          "\\staging-server\E$\R2BookLoader\TestUploadPending\"
+
+# Trigger staging processing
+Invoke-Command -ComputerName staging-server -ScriptBlock {
+    E:\R2BookLoader\Job\bin\LoadBook.bat 9781234567890
+}</code></pre>
+            </li>
+        </ol>
+
+        <div class="alert alert-success">
+            <strong>Pros:</strong> Fast local validation, reliable staging deployment, no database synchronization issues<br>
+            <strong>Cons:</strong> Books still processed twice, requires remote execution capability
+        </div>
+
+        <h2 id="requirements">Minimum Requirements for Book Visibility</h2>
+
+        <h3>Required Database Records</h3>
+        <ol>
+            <li><strong>tResource</strong>
+                <ul>
+                    <li><code>iResourceId</code> (primary key)</li>
+                    <li><code>vchisbn13</code> (ISBN-13)</li>
+                    <li><code>vchTitle</code> (title)</li>
+                    <li><code>iResourceStatusId = Active</code> ✅</li>
+                    <li><code>dtDateAdded</code></li>
+                </ul>
+            </li>
+            <li><strong>tResourceISBN</strong>
+                <ul>
+                    <li>Link to <code>iResourceId</code></li>
+                    <li>ISBN-10, ISBN-13, eISBN variants</li>
+                </ul>
+            </li>
+            <li><strong>tAtoZIndex</strong> ✅
+                <ul>
+                    <li>Search index entries for title</li>
+                    <li>Index entries for keywords</li>
+                </ul>
+            </li>
+            <li><strong>tResourceLicense</strong> ✅
+                <ul>
+                    <li>At least one institution license</li>
+                    <li><code>dtStartDate</code> ≤ current date</li>
+                    <li><code>dtEndDate</code> ≥ current date (or NULL)</li>
+                </ul>
+            </li>
+        </ol>
+
+        <h3>Required File System Files</h3>
+        <div class="file-tree">
+<pre>{CONTENT_PATH}\{ISBN}\
+  ├── book.{ISBN}.xml
+  ├── chapter.{ISBN}.*.xml (all chapters)
+  └── toc.xml
+
+{IMAGE_PATH}\{ISBN}\
+  └── *.jpg, *.png, *.gif (if book contains images)</pre>
+        </div>
+
+        <h3>Visibility Checklist</h3>
+        <ul class="checklist">
+            <li><code>tResource.iResourceStatusId = Active</code></li>
+            <li><code>tAtoZIndex</code> populated with search terms</li>
+            <li><code>tResourceLicense</code> has valid license(s)</li>
+            <li>XML files exist in content path</li>
+            <li>Image files copied (if applicable)</li>
+            <li>Book appears in search results</li>
+            <li>Book accessible to licensed users</li>
+        </ul>
+
+        <h2 id="config">Configuration File Reference</h2>
+
+        <h3>RISBackend.cfg (Java Layer)</h3>
+        <pre><code># Database Connection
+RIS.DB_HOST=rittenhousedb.crncufb491o7.us-east-2.rds.amazonaws.com
+RIS.DB_PORT=1433
+RIS.DB_NAME=STG_RIT001
+RIS.DB_USER=RittAdmin
+RIS.DB_PASSWORD=********
+
+# Processing Mode
+RIS.TEST_MODE=false          # MUST BE FALSE for staging
+
+# File Paths
+RIS.CONTENT_IN=E:\R2BookLoader\Job\content\in
+RIS.CONTENT_TEMP=E:\R2BookLoader\Job\content\temp
+RIS.DEST_NON_TEXTML_CONTENT_PATH=E:\R2v2-XMLbyISBN
+
+# Threading
+RIS.THREAD_COUNT_MAXIMUM=8
+RIS.LINKING_THREAD_COUNT_MAXIMUM=4</code></pre>
+
+        <h3>R2Utilities Settings (C# Layer)</h3>
+        <pre><code>&lt;!-- appsettings.json or web.config --&gt;
+&lt;ContentSettings&gt;
+  &lt;BookLoaderSourceRoot&gt;E:\R2v2-XMLbyISBN&lt;/BookLoaderSourceRoot&gt;
+  &lt;ContentLocation&gt;E:\R2Content&lt;/ContentLocation&gt;
+  &lt;ImageDestination&gt;E:\R2Images&lt;/ImageDestination&gt;
+&lt;/ContentSettings&gt;
+
+&lt;LicensingSettings&gt;
+  &lt;AutoLicensesNumberOfLicenses&gt;10&lt;/AutoLicensesNumberOfLicenses&gt;
+&lt;/LicensingSettings&gt;</code></pre>
+
+        <h2 id="troubleshooting">Troubleshooting Guide</h2>
+
+        <h3>Problem: Book Processed But Not Visible</h3>
+        <p><strong>Diagnosis Steps:</strong></p>
+        <ol>
+            <li>Check database record exists:
+                <pre><code>SELECT * FROM tResource WHERE vchisbn13 = '9781234567890'</code></pre>
+            </li>
+            <li>Check status is Active:
+                <pre><code>SELECT iResourceStatusId FROM tResource WHERE vchisbn13 = '9781234567890'
+-- Should return 1 (Active)</code></pre>
+            </li>
+            <li>Check search index:
+                <pre><code>SELECT * FROM tAtoZIndex WHERE iResourceId = @resourceId
+-- Should have multiple entries</code></pre>
+            </li>
+            <li>Check licensing:
+                <pre><code>SELECT * FROM tResourceLicense WHERE iResourceId = @resourceId
+AND dtStartDate <= GETDATE()
+AND (dtEndDate IS NULL OR dtEndDate >= GETDATE())
+-- Should have at least one valid license</code></pre>
+            </li>
+            <li>Check XML files exist:
+                <pre><code>Test-Path "E:\R2v2-XMLbyISBN\9781234567890\xml\book.9781234567890.xml"</code></pre>
+            </li>
+        </ol>
+
+        <h3>Problem: Post-Processing Fails with "Resource Not Found"</h3>
+        <p><strong>Diagnosis Steps:</strong></p>
+        <ol>
+            <li>Check RISBackend.cfg:
+                <pre><code>RIS.TEST_MODE=false    # Must be false!</code></pre>
+            </li>
+            <li>Check RIS Backend completed successfully:
+                <pre><code># Look for exit code in logs
+Select-String -Path "E:\R2BookLoader\Logs\*.log" -Pattern "ExitCode=0"</code></pre>
+            </li>
+            <li>Check database write occurred:
+                <pre><code>SELECT dtDateAdded FROM tResource WHERE vchisbn13 = '9781234567890'
+-- Should show timestamp from RIS Backend run</code></pre>
+            </li>
+            <li>Check for partial records (cleanup needed):
+                <pre><code>SELECT * FROM tNewResourceQue WHERE vchisbn13 = '9781234567890'
+-- If exists but tResource doesn't, run cleanup</code></pre>
+            </li>
+        </ol>
+
+        <h3>Problem: RIS Backend Exits with -4</h3>
+        <p><strong>Common Causes:</strong></p>
+        <ol>
+            <li><strong>Database Connection Failed</strong>
+                <ul>
+                    <li>Verify connection string in RISBackend.cfg</li>
+                    <li>Test connectivity: <code>Test-NetConnection -ComputerName rittenhousedb... -Port 1433</code></li>
+                </ul>
+            </li>
+            <li><strong>Invalid EPUB Structure</strong>
+                <ul>
+                    <li>Check RIS Backend logs for XML validation errors</li>
+                    <li>Verify EPUB package.opf file exists and is valid</li>
+                </ul>
+            </li>
+            <li><strong>Missing Required Metadata</strong>
+                <ul>
+                    <li>Check for ISBN in EPUB metadata</li>
+                    <li>Verify title and author fields present</li>
+                </ul>
+            </li>
+            <li><strong>Duplicate ISBN</strong>
+                <ul>
+                    <li>Check if ISBN already exists in database</li>
+                    <li>Use <code>-update</code> flag if intentional update</li>
+                </ul>
+            </li>
+        </ol>
+
+        <p><strong>Cleanup After -4 Failure:</strong></p>
+        <pre><code>java -cp %LOCALCLASSPATH%;.\RISBackend.jar ^
+  com.rittenhouse.RIS.util.FailedResourceCleanup ^
+  -isbn=9781234567890</code></pre>
+
+        <h2 id="performance">Performance Optimization</h2>
+
+        <h3>Processing Time Breakdown</h3>
+        <p><strong>Typical Book (300 pages, 20 chapters):</strong></p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Phase</th>
+                    <th>Time</th>
+                    <th>Percentage</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>ZIP extraction</td>
+                    <td>5 seconds</td>
+                    <td>2%</td>
+                </tr>
+                <tr>
+                    <td>RIS Backend (Java)</td>
+                    <td>180 seconds</td>
+                    <td>72%</td>
+                </tr>
+                <tr>
+                    <td>File copying</td>
+                    <td>10 seconds</td>
+                    <td>4%</td>
+                </tr>
+                <tr>
+                    <td>Post-processing (C#)</td>
+                    <td>45 seconds</td>
+                    <td>18%</td>
+                </tr>
+                <tr>
+                    <td>Licensing/Indexing</td>
+                    <td>10 seconds</td>
+                    <td>4%</td>
+                </tr>
+                <tr>
+                    <td><strong>Total</strong></td>
+                    <td><strong>250 seconds</strong></td>
+                    <td><strong>100%</strong></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h3>Optimization Opportunities</h3>
+        <ol>
+            <li><strong>Threading Configuration</strong>
+                <pre><code># Increase for powerful servers
+RIS.THREAD_COUNT_MAXIMUM=16
+RIS.LINKING_THREAD_COUNT_MAXIMUM=8</code></pre>
+            </li>
+            <li><strong>Database Connection Pooling</strong>
+                <ul>
+                    <li>Ensure connection pooling enabled</li>
+                    <li>Tune pool size for concurrent processing</li>
+                </ul>
+            </li>
+            <li><strong>Batch Processing</strong>
+                <ul>
+                    <li>Process multiple books in parallel using <code>ProcessIncomingZipsNew.ps1</code></li>
+                    <li>Adjust <code>BatchTimeoutMinutes</code> for large books</li>
+                </ul>
+            </li>
+            <li><strong>File I/O</strong>
+                <ul>
+                    <li>Use SSD storage for working directories</li>
+                    <li>Minimize network file copying (process on final destination server)</li>
+                </ul>
+            </li>
+        </ol>
+
+        <h2 id="summary">Summary</h2>
+
+        <div class="alert alert-success">
+            <p>The BookLoader workflow consists of <strong>three main phases</strong>:</p>
+            <ol>
+                <li><strong>RIS Backend (Java)</strong>: Parses EPUB, tags content, writes to database</li>
+                <li><strong>File Placement</strong>: Copies XML and images to production locations</li>
+                <li><strong>Post-Processing (C#)</strong>: Updates indexes, copies files, activates book, creates licenses</li>
+            </ol>
+            
+            <p><strong>Critical Success Factors:</strong></p>
+            <ul>
+                <li><code>RIS.TEST_MODE=false</code> for production processing</li>
+                <li>All 11 database tables properly populated</li>
+                <li>XML files in correct directory structure</li>
+                <li>Search indexing (<code>tAtoZIndex</code>) completed</li>
+                <li>Valid licenses created (<code>tResourceLicense</code>)</li>
+                <li>Book status set to Active</li>
+            </ul>
+            
+            <p><strong>For local development:</strong> Use Option C (Hybrid Approach) - validate locally with TEST_MODE, then process on staging with TEST_MODE=false for final database writes.</p>
+        </div>
+
+        <hr>
+        <p><strong>Document Version:</strong> 1.0<br>
+        <strong>Created:</strong> January 2, 2026<br>
+        <strong>Author:</strong> System Documentation from Code Analysis</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0018" label="18">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor2">CASE 15</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0018s0004"><title>CASE 15</title><para>The patient was a 39-year-old male with poorly controlled diabetes who presented with diabetic ketoacidosis and a right-sided headache with vision loss in his right eye. On physical exam, the right pupil was nonreactive. Magnetic resonance imaging (MRI) revealed a poorly visualized right ophthalmic artery. He was taken to the operating room (OR) emergently, where extensive debridement was performed on the right sinuses.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0018s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  Why was the patient taken emergently to the OR?</para>
+        </listitem>
+      </itemizedlist>
+      <para role="listPara1">Multiple frozen section biopsies were done during the procedure.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0018s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  What is a frozen section biopsy? Why were several done during the procedure?</para>
+        </listitem>
+      </itemizedlist>
+      <para role="listPara1">The procedure was significant for a lack of bleeding during the initial stages of the debridement. A biopsy of the sella region of the brain is seen in <link linkend="ch0018s0004fg01">Fig. 15.1</link>. A culture from the same region of the brain is seen in <link linkend="ch0018s0004fg02">Fig. 15.2</link>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0018s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  What agent is most likely causing this patient’s infection? How did the patient likely become infected?</para>
+        </listitem>
+        <listitem id="ch0018s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  Why was there little bleeding during the initial stages of surgery? (See <link linkend="ch0018s0004fg01">Fig. 15.1</link> for a clue.)</para>
+        </listitem>
+        <listitem id="ch0018s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What risk factor did this patient have for the development of his infection?</para>
+        </listitem>
+      </itemizedlist>
+      <figure id="ch0018s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 15.1</emphasis></emphasis> Histopathology of brain biopsy. Hematoxylin and eosin stain; magnification, ×400. The arrows point to fungal elements in a blood vessel. (Magnification, ×400). Courtesy of Sixto M. Leal. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0018f03.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A microscopic photograph showing tissue infected with parasites, with red and yellow arrowheads indicating parasitic structures and surrounding tissue.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0018s0004fg02"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 15.2</emphasis></emphasis> Culture from sella biopsy. Courtesy of Sixto M. Leal. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0018f02.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A photograph shows a cloudy, foamy microbial or fungal culture held in a person's hand against a gray background.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0018s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What is the appropriate treatment for this infection?</para>
+        </listitem>
+        <listitem id="ch0018s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  What other infections may be seen with the organism causing this infection, and in what patient population are they likely to be seen?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0018s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  The clinical presentation of a poorly controlled diabetic with localized headache and evidence of vision loss is consistent with a disease called rhinocerebral mucormycosis <link linkend="ch0018s0002bib01">(1)</link>. This infection is associated with significant mortality, and prompt surgical intervention is imperative because of its highly destructive nature.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  A frozen section biopsy is essentially as it sounds. A biopsy is obtained and the tissue is frozen at –20 to –30°C in a cryostat device; the tissue is then cut into thin sections, stained, and examined by a pathologist <link linkend="ch0018s0002bib02">(2)</link>. The time from receipt of the tissue specimen in the laboratory to diagnosis by the pathologist is ~30 minutes. However, that turnaround time may be extended if the diagnosis is not obvious and additional consultations with other pathologists are necessary. Because of the time frozen sections take, they are only used in limited clinical situations, such as ensuring clear margins in tumor removal. Multiple biopsies were done in this case because the surgeon was debriding necrotic tissue. The surgeon’s goal was to debride sufficiently to remove all infected tissue but limit the amount of tissue removed from the brain so as not affect neural function.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  The identification of broad, ribbon-like hyphae with few septations (pauciseptate) on histology is consistent with molds in the order <emphasis>Mucorales</emphasis>. In <link linkend="ch0018s0004fg01">Fig. 15.1</link>, characteristic hyphae (yellow arrows) are noted within the blood vessel (red arrows) and highlight the angioinvasive nature of these pathogens. The two most common <emphasis>Mucorales</emphasis> genera are <emphasis>Rhizopus</emphasis> and <emphasis>Mucor</emphasis>. Clinically encountered <emphasis>Mucorales</emphasis> are resistant to the antifungal agent voriconazole used to treat most mold infections so their accurate identification is critical. The culture of tissue obtained from a brain biopsy seen in <link linkend="ch0018s0004fg02">Fig. 15.2</link>, demonstrates characteristic fluffy, white, fast-growing (2 to 4 days) colonies with aerial hyphae that extend upwards to lift the lid off the plate. Invasion into the brain tissue is an ominous finding. This patient died 4 days after this surgery. Mortality from this infection varies, depending on the stage of infection at which the individual presents, but can be as high as 100% in certain immunosuppressed hosts.</para>
+        <para role="listPara1">The <emphasis>Mucorales</emphasis> are ubiquitous saprophytes in natural environments, especially decomposing organic matter. The organism reproduces by the production of conidia (spores). Individuals become infected by inhaling conidia from the environment. The conidia are trapped in the nasal turbinate. In most instances they are cleared, but in poorly controlled diabetics or people with malignancy, the conidia can germinate into fungal hyphae that may invade the sinuses and surrounding tissues. Because these fungi are both angioinvasive and rapidly growing, they can cause rapid necrosis in the tissue they infect by occluding blood vessels and causing thrombosis.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  In necrotic (infected) regions, blood flow is lost because of the occlusion and thrombosis in the vessel. Blockage of the right ophthalmic artery was believed to be responsible for the patient’s loss of vision in the right eye.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  Invasive rhinocerebral fungal infections are most common in patients with diabetic ketoacidosis <link linkend="ch0018s0002bib01">(1)</link>. Experimental evidence suggests that the blood and tissues of patients in ketoacidosis contain more glucose and free iron, a key fungal nutrient available for the growth of the <emphasis>Mucorales</emphasis>. Well-controlled diabetics rarely develop this infection. It may also be seen in individuals receiving corticosteroids and other immunosuppressive biologics and those with hematologic malignancies, especially those who have received human stem cell transplants.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  Treatment of rhinocerebral mucormycosis is three-pronged <link linkend="ch0018s0002bib03">(3)</link>.</para>
+        <orderedlist id="ch0018s0001l01" role="lower-roman">
+          <listitem id="ch0018s0001x08">
+            <para>Surgical debridement of the necrotic area; repeated frozen sections may be taken to determine when the necrotic area has been completely debrided. Delay in surgical debridement, especially if the infection progresses into the brain, is associated with high mortality.</para>
+          </listitem>
+          <listitem id="ch0018s0001x09">
+            <para>Prompt control of ketoacidosis and hyperglycemia.</para>
+          </listitem>
+          <listitem id="ch0018s0001x10">
+            <para>Treatment with liposomal amphotericin B. The <emphasis>Mucorales</emphasis> are resistant to the most commonly used antifungal agents, the azoles and echinocandins.</para>
+          </listitem>
+        </orderedlist>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  Four forms of infection may be seen:</para>
+        <orderedlist id="ch0018s0001l02" role="lower-roman">
+          <listitem id="ch0018s0001x11">
+            <para>Pulmonary mucormycosis occurs primarily in patients with hematologic malignancies with granulocytopenia<link linkend="ch0018s0002bib01">(1)</link>. It may disseminate and has high mortality, especially in patients with prolonged granulocytopenia. It is the most common cause of serious infection due to the <emphasis>Mucorales</emphasis>.</para>
+          </listitem>
+          <listitem id="ch0018s0001x12">
+            <para>Cutaneous mucormycosis can occur when the conidia of the mold contaminate a wound in a granulocytopenic patient or a patient with full-thickness burns or deep abrasions. Patients often have black eschars due to necrosis. The infected wound may have a fluffy white appearance similar to that seen in <link linkend="ch0018s0004fg02">Fig. 15.2</link> due to the formation of a mycelial mat as the fungus grows on the tissue.</para>
+          </listitem>
+          <listitem id="ch0018s0001x13">
+            <para>Keratitis may occur when organic matter containing <emphasis>Mucorales</emphasis> is introduced into an ocular wound following trauma <link linkend="ch0018s0002bib04">(4)</link>. This is a sight-threatening infection if diagnosis and treatment are delayed.</para>
+          </listitem>
+          <listitem id="ch0018s0001x14">
+            <para>COVID-associated mucormycosis occurs when severe acute respiratory syndrome coronavirus 2-mediated damage to the sinonasal mucosa and immunosuppressive treatments aimed to dampen viral pneumonia enable inhaled conidia to germinate into hyphae and cause rhinocerebral mucormycosis<link linkend="ch0018s0002bib05">(5)</link>.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <sect1 id="ch0018s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0018s0003l03" role="decimal">
+          <listitem id="ch0018s0003x20">
+            <para>Rhinocerebral mucormycosis is most commonly seen in patients with poorly controlled diabetes and ketoacidosis.</para>
+          </listitem>
+          <listitem id="ch0018s0003x21">
+            <para>Rhinocerebral mucormycosis begins when fungal conidia (spores) are inhaled and trapped in the nasal turbinates or sinuses. If conditions are favorable, such as with diabetic ketoacidosis or neutropenia, conidia germinate into hyphae, which invade tissues and blood vessels, resulting in local ischemia and tissue necrosis. Extension to the brain is associated with very high mortality.</para>
+          </listitem>
+          <listitem id="ch0018s0003x22">
+            <para>The most common fungi that cause rhinocerebral mucormycosis are <emphasis>Rhizopus</emphasis> and <emphasis>Mucor</emphasis>. On culture they grow rapidly, with a fluffy white appearance. Microscopically, the hyphal elements are broad and ribbon-like with very few septations (pauciseptate). They are referred to as “lid lifters” because they will rapidly take up all the space inside an agar plate (see <link linkend="ch0018s0004fg02">Fig. 15.2</link>).</para>
+          </listitem>
+          <listitem id="ch0018s0003x23">
+            <para>Treatment is multipronged, requiring aggressive surgical debridement, correction of ketoacidosis and immunosuppression, and treatment with antifungal agents.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0018s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0018s0002bib01">Petrikkos G, Skiada A, Lortholary O, Roilides E, Walsh TJ, Kontoyiannis DP. 2012. Epidemiology and clinical manifestations of mucormycosis. <citetitle>Clin Infect Dis</citetitle>54 Suppl 1: S23–34.</bibliomixed>
+        <bibliomixed id="ch0018s0002bib02">Jaafar H. 2006. Intra-operative frozen section consultation: concepts, applications and limitations. <citetitle>Malays J Med Sci</citetitle> 13:4–12.</bibliomixed>
+        <bibliomixed id="ch0018s0002bib03">Skiada A, Lass-Floerl C, Klimko N, Ibrahim A, Roilides E, Petrikkos G. 2018. Challenges in the diagnosis and treatment of mucormycosis. <citetitle>Med Mycol</citetitle> 56(suppl_1):93–101.</bibliomixed>
+        <bibliomixed id="ch0018s0002bib04">Gupta MK, Chandra A, Prakash P, Banerjee T, Maurya OP, Tilak R. 2015. Fungal keratitis in north India; spectrum and diagnosis by Calcofluor white stain. <citetitle>Indian J Med Microbiol</citetitle> 33:462–463.</bibliomixed>
+        <bibliomixed id="ch0018s0002bib05">Özbek L, Topçu U, Manay M, Esen BH, Bektas SN, Aydın S, Özdemir B, Khostelidi SN, Klimko N, Cornely O, Zakhour J, Kanj SS, Seidel D, Hoenigl M, Ergönül Ö. 2023. COVID-19-associated mucormycosis: a systematic review and meta-analysis of 958 cases. <citetitle>Clin Microbiol Infect</citetitle>:722–731.29</bibliomixed>
+      </bibliography>
+    </chapter>

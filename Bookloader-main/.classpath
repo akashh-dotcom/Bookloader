@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/xalan/xalan.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta/commons-lang-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta/commons-pool-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j.jar"/>
+	<classpathentry kind="lib" path="lib/textml/textmlserver.jar"/>
+	<classpathentry kind="lib" path="lib/textml/textmlserverrmi.jar"/>
+	<classpathentry kind="lib" path="lib/textml/textmlserverrmiInterfaces.jar"/>
+	<classpathentry kind="lib" path="lib/textml/textmlserverrmiStub.jar"/>
+	<classpathentry kind="lib" path="lib/saxon/sax.jar"/>
+	<classpathentry kind="lib" path="lib/dom.jar"/>
+	<classpathentry kind="lib" path="lib/xerces/new_xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/xerces/new_xml-apis.jar"/>
+	<classpathentry kind="lib" path="lib/saxon/saxon6.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jdom.jar"/>
+	<classpathentry kind="lib" path="lib/xerces/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/xerces/xml-apis.jar"/>
+	<classpathentry kind="lib" path="lib/saxon/saxon.jar"/>
+	<classpathentry kind="lib" path="lib/saxon/saxon9.jar"/>
+	<classpathentry kind="lib" path="lib/saxon/saxon9-ant.jar"/>
+	<classpathentry kind="lib" path="lib/saxon/saxon9-dom.jar"/>
+	<classpathentry kind="lib" path="lib/saxon/saxon9-dom4j.jar"/>
+	<classpathentry kind="lib" path="lib/saxon/saxon9-jdom.jar"/>
+	<classpathentry kind="lib" path="lib/saxon/saxon9-s9api.jar"/>
+	<classpathentry kind="lib" path="lib/saxon/saxon9-sql.jar"/>
+	<classpathentry kind="lib" path="lib/saxon/saxon9-xom.jar"/>
+	<classpathentry kind="lib" path="lib/saxon/saxon9-xpath.jar"/>
+	<classpathentry kind="lib" path="lib/saxon/saxon9-xqj.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-1.4.jar"/>
+	<classpathentry kind="var" path="JUNIT_HOME/junit.jar" sourcepath="ECLIPSE_HOME/plugins/org.eclipse.jdt.source_3.0.0/src/org.junit_3.8.1/junitsrc.zip"/>
+	<classpathentry kind="lib" path="lib/DoctypeChanger.jar"/>
+	<classpathentry kind="lib" path="lib/concurrent.jar" sourcepath="C:/javagoodies/concurrent/src"/>
+	<classpathentry kind="lib" path="lib/jakarta/commons-httpclient-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/jdbc/sqljdbc.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>

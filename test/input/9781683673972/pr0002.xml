@@ -1,0 +1,2477 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<preface id="pr0002">
+    <title>Table of Contents</title>
+    <sect1 id="pr0002s0001">
+      <title>Table of Contents</title>
+      <orderedlist role="directory">
+        <listitem role="contentsH1">
+          <para><phrase>COVER</phrase>
+          </para>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="pr0001s0001fg02">TABLE OF NORMAL VALUES</ulink>
+          </para>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><link linkend="pr0002">TABLE OF CONTENTS</link>
+          </para>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="pr0003">TITLE PAGE</ulink>
+          </para>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="pr0004">COPYRIGHT</ulink>
+          </para>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="dd0001">DEDICATION</ulink>
+          </para>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="pr0005">INTRODUCTION TO THE FIFTH EDITION</ulink>
+          </para>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="ch0001">TO THE STUDENT</ulink>
+          </para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0001s0001">SAMPLE CASE</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0001s0001s01">A FINAL THOUGHT</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="ch0002">A PRIMERON THE LABORATORY DIAGNOSIS OF INFECTIOUS DISEASES</ulink>
+          </para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001">ACCURACY IN LABORATORY TESTING</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001s01">SPECIMEN SELECTION, COLLECTION, AND TRANSPORT</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001s02">DIRECT EXAMINATION</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001s11">MOLECULAR DIAGNOSTICS</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001s12">CULTURE</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001s17">SEROLOGY</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="ch0003">ACKNOWLEDGMENTS</ulink>
+          </para>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="pt0001">SECTION ONE: UROGENITAL TRACT INFECTIONS</ulink>
+          </para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0004">CASE 1</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0004s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0004s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0005">CASE 2</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0005s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0005s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0006">CASE 3</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0006s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0006s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0007">CASE 4</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0007s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0007s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0008">CASE 5</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0008s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0008s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0009">CASE 6</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0009s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0009s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="pt0002">SECTION TWO: RESPIRATORY TRACT INFECTIONS</ulink>
+          </para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0010">CASE 7</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0010s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0010s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0011">CASE 8</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0011s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0011s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0012">CASE 9</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0012s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0012s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0013">CASE 10</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0013s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0013s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0014">CASE 11</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0014s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0014s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0015">CASE 12</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0015s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0015s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0016">CASE 13</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0016s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0016s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0017">CASE 14</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0017s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0017s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0018">CASE 15</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0018s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0018s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0019">CASE 16</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0019s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0019s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0020">CASE 17</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0020s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0020s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0021">CASE 18</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0021s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0021s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0022">CASE 19</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0022s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0022s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0023">CASE 20</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0023s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0023s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="pt0003">SECTION THREE: GASTROINTESTINAL TRACT INFECTIONS</ulink>
+          </para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0024">CASE 21</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0024s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0024s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0025">CASE 22</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0025s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0025s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0026">CASE 23</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0026s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0026s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0027">CASE 24</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0027s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0027s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0028">CASE 25</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0028s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0028s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0029">CASE 26</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0029s0002">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0029s0004">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0030">CASE 27</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0030s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0030s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0031">CASE 28</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0031s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0031s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0032">CASE 29</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0032s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0032s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0033">CASE 30</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0033s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0033s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0034">CASE 31</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0034s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0034s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0035">CASE 32</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0035s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0035s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0036">CASE 33</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0036s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0036s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="pt0004">SECTION FOUR: SKIN AND SOFT TISSUE INFECTIONS</ulink>
+          </para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0037">CASE 34</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0037s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0037s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0038">CASE 35</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0038s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0038s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0039">CASE 36</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0039s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0039s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0040">CASE 37</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0040s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0040s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0041">CASE 38</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0041s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0041s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0042">CASE 39</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0042s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0042s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0043">CASE 40</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0043s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0043s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0044">CASE 41</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0044s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0044s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="pt0005">SECTION FIVE: CENTRAL NERVOUS SYSTEM INFECTIONS</ulink>
+          </para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0045">CASE 42</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0045s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0045s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0046">CASE 43</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0046s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0046s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0047">CASE 44</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0047s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0047s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0048">CASE 45</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0048s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0048s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0049">CASE 46</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0049s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0049s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0050">CASE 47</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0050s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0050s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0051">CASE 48</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0051s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0051s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0052">CASE 49</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0052s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0052s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0053">CASE 50</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0053s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0053s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="pt0006">SECTION SIX: SYSTEMIC INFECTIONS</ulink>
+          </para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0054">CASE 51</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0054s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0054s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0055">CASE 52</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0055s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0055s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0056">CASE 53</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0056s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0056s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0057">CASE 54</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0057s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0057s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0058">CASE 55</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0058s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0058s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0059">CASE 56</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0059s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0059s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0060">CASE 57</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0060s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0060s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0061">CASE 58</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0061s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0061s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0062">CASE 59</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0062s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0062s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="pt0007">SECTION SEVEN: ADVANCED CASES</ulink>
+          </para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0063">CASE 60</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0063s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0063s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0064">CASE 61</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0064s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0064s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0065">CASE 62</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0065s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0065s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0066">CASE 63</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0066s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0066s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0067">CASE 64</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0067s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0067s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0068">CASE 65</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0068s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0068s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0069">CASE 66</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0069s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0069s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0070">CASE 67</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0070s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0070s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0071">CASE 68</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0071s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0071s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0072">CASE 69</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0072s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0072s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0073">CASE 70</ulink>
+              </para>
+              <orderedlist>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0073s0001">CASE DISCUSSION</ulink>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><phrase>REFERENCES</phrase>
+                  </para>
+                </listitem>
+                <listitem role="contentsH3">
+                  <para><ulink url="ch0073s0003">KEY LEARNING POINTS</ulink>
+                  </para>
+                </listitem>
+              </orderedlist>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="gl0001">GLOSSARY</ulink>
+          </para>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="in0001">INDEX</ulink>
+          </para>
+        </listitem>
+        <listitem role="contentsH1">
+          <para><ulink url="ch0074">END USER LICENSE AGREEMENT</ulink>
+          </para>
+        </listitem>
+      </orderedlist>
+    </sect1>
+    <sect1 id="pr0002s0002">
+      <title>List of Tables</title>
+      <orderedlist>
+        <listitem role="contentsH1">
+          <para>Part 1</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="pt0001s0001ta01">TABLE I SELECTED GENITOURINARY TRACT PATHOGENS<superscript><emphasis>a</emphasis></superscript></ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Part 2</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="pt0002s0001ta01">TABLE II SELECTED RESPIRATORY TRACT PATHOGENS<superscript><emphasis>a</emphasis></superscript></ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 8</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0011s0001ta01">TABLE 8.1 PLEURAL FLUID AND TRACHEAL ASPIRATE CULTURE RESULTS</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0011s0001ta02">TABLE 8.2 THE PATIENT’S S. <emphasis>PNEUMONIAE</emphasis> ANTIMICROBIAL SUSCEPTIBILITY TESTING R...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 10</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0013s0001ta01">TABLE 10.1 FDA-APPROVED ANTIVIRALS CURRENTLY BEING USED FOR THE TREATMENT OF...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 18</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0021s0001ta01">TABLE 18.1 RESULTS OF THE PATIENT’S CMV MOLECULAR GENOTYPING TEST</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 20</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0023s0001ta01">TABLE 20.1 TRACHEAL ASPIRATE CULTURE RESULTS</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0023s0001ta02">TABLE 20.2 ACINETOBACTER BAUMANNII ISOLATE ANTIMICROBIAL SUSCEPTIBILITY TEST...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Part 3</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="pt0003s0001ta01">TABLE III SELECTED GASTROINTESTINAL TRACT PATHOGENS</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 30</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0033s0001ta01">TABLE 30.1 INTERPRETATION OF HEPATITIS B VIRUS SEROLOGIC STUDIES</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 32</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0035s0001ta01">TABLE 32.1 RESULTS FROM HCV GENOTYPIC DRUG RESISTANCE TESTING</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Part 4</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="pt0004s0001ta01">TABLE IV SELECTED SKIN AND SOFT TISSUE PATHOGENS<superscript><emphasis>a</emphasis></superscript></ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 40</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0043s0001ta02">TABLE 40.1 SUMMARY OF TICKS AND TICK-BORNE DISEASES IN THE UNITED STATES</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Part 5</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="pt0005s0001ta01">TABLE V CENTRAL NERVOUS SYSTEM INFECTIONS<superscript><emphasis>a</emphasis></superscript></ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 47</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0050s0001ta01">TABLE 47.1 RESULTS OF ARBOVIRUS SEROLOGIC TESTING<superscript><emphasis>a</emphasis></superscript></ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0050s0001ta02">TABLE 47.2 RESULTS OF ADDITIONAL DIAGNOSTIC TESTS<emphasis><superscript>a</superscript></emphasis></ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 49</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0052s0001ta01">TABLE 49.1 TOXOPLASMA LABORATORY RESULTS</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Part 6</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="pt0006s0001ta01">TABLE VI SELECTED SYSTEMIC PATHOGENS<superscript><emphasis>a</emphasis></superscript></ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 51</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0054s0001ta01">TABLE 51.1 RESULTS OF MICROBIOLOGIC WORKUP</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Part 7</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="pt0007s0001ta01">TABLE VII AGENTS ASSOCIATED WITH COMPLEX CLINICAL DISEASE<superscript><emphasis>a</emphasis></superscript></ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+      </orderedlist>
+    </sect1>
+    <sect1 id="pr0002s0003">
+      <title>List of Illustrations</title>
+      <orderedlist>
+        <listitem role="contentsH1">
+          <para>Chapter 62</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0065s0001ta01">TABLE 62.1 PATIENT’S RESULTS OVER TIME</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 63</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0066s0001ta01">TABLE 63.1 RESULTS OF DIAGNOSTIC TESTING PERFORMED AT A PUBLIC HEALTH LABORA...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 64</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0067s0001ta01">TABLE 64.1 SUSCEPTIBILITY TESTING RESULTS</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>A Primer</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001fg01">Figure 1 Fagan's nomogram.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001fg04">Figure 2a </ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001fg04">Figure 2b </ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001fg04">Figure 3 </ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001fg04">Figure 4 </ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001fg04">Figure 5 </ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001fg09">Figure 6 </ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001fg10">Figure 7 </ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001fg11">Figure 8 </ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001fg12">Figure 9 ​PCR. (A) In the first cycle, a double-stranded DNA target sequence...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001fg13">Figure 10 </ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001fg14">Figure 11 ​Left disk, optochin; right disk, oxacillin.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0002s0001fg15">Figure 12 </ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 1</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0004s0001fg01">Figure 1.1 White blood cells (WBCs) and bacteria in urine as seen under a mi...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0004s0001fg02">Figure 1.2 (Left) Sheep blood agar plate. (Right) Mac Conkey agar plate. (Fro...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 2</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0005s0001fg01">Figure 2.1 Timeline of antimicrobial resistance in <emphasis>N. gonorrhoeae</emphasis>. SUL, sulf...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 5</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0008s0001fg01">Figure 5.1 Giemsa stain of organism.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 6</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0009s0001fg01">Figure 6.1 LSIL CPE of HPV infection in cervical cells. Thin Prep slide and P...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0009s0001fg02">Figure 6.2 Pathogenesis of HPV infection and cervical cancer. Adapted from C...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 7</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0010s0001fg01">Figure 7.1 (Left) Negative control. (Right) Patient’s test strip.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 8</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0011s0001fg01">Figure 8.1 Gram stain showing Gram-positive diplococci (magnification, ×1,00...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0011s0001fg01">Figure 8.2 Organism growth on a blood agar plate.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 9</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0012s0001fg01">Figure 9.1 Organism infecting this patient.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 10</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0013s0001fg01">Figure 10.1 Number of laboratory-confirmed influenza cases at the University...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 11</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0014s0001fg01">Figure 11.1 Weekly positivity rates for RSV.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 12</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0015s0001fg01">Figure 12.1 Rolling 7-day average of percent positive SARS-CoV-2 molecular t...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 13</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0016s0001fg01">Figure 13.1 Direct fluorescent antibody stain of a bronchoalveolar lavage. M...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 14</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0017s0001fg01">Figure 14.1 Microscopic view of the thallus of subcultured mold isolate.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0017s0001fg02">Figure 14.2 Lactophenol cotton blue tape prep (magnification, ×400). Courtes...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 15</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0018s0001fg01">Figure 15.1 Histopathology of brain biopsy. Hematoxylin and eosin stain; mag...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0018s0001fg02">Figure 15.2 Culture from sella biopsy. Courtesy of Sixto M. Leal.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 17</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0020s0001fg01">Figure 17.1 <emphasis>Coccidioides</emphasis>spherules identified in the transplant recipient’s...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0020s0001fg02">Figure 17.2 Lactophenol cotton blue stain showing barrel-shaped alternating...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 18</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0021s0001fg01">Figure 18.1 CMV qPCR results from the patient’s plasma over time. The red li...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 19</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0022s0001fg01">Figure 19.1 Wet mount of patient’s sputum specimen, 100x magnification (from...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 20</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0023s0001fg01">Figure 20.1 Colonies of <emphasis>A. baumannii</emphasis>on Mac Conkey agar. Image courtesy of Aj...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 21</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0024s0001fg01">Figure 21.1 Gram stain with Gram-negative curved rods (magnification, ×1,000...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0024s0001fg02">Figure 21.2 Growth on special media.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0024s0001fg03">Figure 21.3 Acridine orange stain of positive blood culture. Image from autho...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 22</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0025s0001fg01">Figure 22.1 <emphasis>Giardia</emphasis> and <emphasis>Cryptosporidium</emphasis> cysts on a positive DFA performed on...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 23</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0026s0001fg01">Figure 23.1 Non-lactose fermenting colonies on Mac Conkey agar.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 25</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0028s0001fg01">Figure 25.1 Sputum Gram stain. Magnification, ×1,000.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0028s0001fg02">Figure 25.2 A <emphasis>C. difficile</emphasis> combination test that detects both glutamate dehy...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0028s0001fg04">Figure 25.3 Gross pathology of colon. From author’s personal collection.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0028s0001fg04">Figure 25.4 Microscopic view of colonic tissue pathology. Image courtesy of...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 26</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0029s0001fg02">Figure 26.1 Material extracted from anus. From authors’ collection.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0029s0001fg02">Figure 26.2 Material obtained from crushing segment of material in Fig. 26.1...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0029s0001fg03">Figure 26.3 Stomach biopsy with arrows denoting nematode larvae. Magnificati...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0029s0002fg04">Figure 26.4 <emphasis>Dibothriocephalus latus life cycle. Image courtesy of CDC DPDx</emphasis> (...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 27</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0030s0001fg01">Figure 27.1 Trichrome stain of patient’s fecal specimen. (Magnification, ×10...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0030s0001fg02">Figure 27.2 Life cycle of <emphasis>Entamoeba histolytica</emphasis>.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 28</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0031s0001fg01">Figure 28.1 Stool culture on sorbitol Mac Conkey agar.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 29</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0032s0001fg01">Figure 29.1 Gram stain of organism growing from blood culture bottle (from a...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0032s0001fg02">Figure 29.2 Organism growth on Mac Conkey agar after 24 hours’ incubation at...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 30</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0033s0001fg01">Figure 30.1 Serologic and clinical patterns observed during acute HBV infect...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0033s0001fg01">Figure 30.2 Typical sequence of serologic markers in patients with acute hep...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 32</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0035s0001fg01">Figure 32.1 Testing algorithm for the diagnosis of hepatitis C infection.<superscript>1</superscript>If...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 33</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0036s0001fg01">Figure 33.1 (A) H&amp;E-stained gastric biopsy. (Magnification, ×100). (B) <emphasis>H. py</emphasis>...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 34</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0037s0001fg01">Figure 34.1 Gram stain of aspirated pus from leg lesion. Magnification, ×100...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0037s0001fg02">Figure 34.2 Picture taken 3 days after initiation of therapy. (From author’s...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0037s0001fg03">Figure 34.3 Beta-hemolytic, creamy, white colonies are seen growing on a she...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 35</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0038s0001fg01">Figure 35.1 Gram stain of tissue biopsy. Magnification ×1,000. (From the aut...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0038s0001fg02">Figure 35.2 (Left panel) Chocolate agar incubated at 35°C in CO<subscript>2</subscript>. (Middle pa...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 36</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0039s0001fg01">Figure 36.1 The patient’s back lesions when presenting to the ED after 1 wee...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0039s0001fg02">Figure 36.2 A close-up of the patient’s chest lesions when presenting to the...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 37</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0040s0001fg01">Figure 37.1 Direct Gram stain from tissue (magnification, ×1,000).</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0040s0001fg02">Figure 37.2 Isolate recovered from patient.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0040s0001fg03">Figure 37.3 D test with erythromycin (E) and clindamycin (CC).</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 38</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0041s0001fg01">Figure 38.1 (A) Gram stain of organism aspirated from left breast (magnifica...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0041s0001fg02">Figure 38.2 Hematoxylin and eosin-stained breast biopsy. Magnification, ×100...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 39</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0042s0001fg01">Figure 39.1 Patient’s rash.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0042s0001fg02">Figure 39.2 Two MTTT algorithms using polyvalent or monovalent EIAs. Used wi...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 40</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0043s0001fg01">Figure 40.1 Tick bite with associated erythema.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 41</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0044s0001fg01">Figure 41.1 Initial lesion in Peru.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0044s0001fg02">Figure 41.2 Lesion 1 month later at time of punch biopsy.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0044s0001fg03">Figure 41.3 Microscopic examination from skin biopsy (magnification, ×1,000)...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0044s0001fg04">Figure 41.4 Organism grown on culture from the biopsy (magnification, ×400)....</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 42</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0045s0001fg01">Figure 42.1 CSF Gram stain from patient (magnification, ×1,000).</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0045s0001fg02">Figure 42.2 Optochin disks showing zone of growth inhibition characteristic...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0045s0001fg03">Figure 42.3 E-test antimicrobial susceptibility test of the organism grown f...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 43</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0046s0001fg01">Figure 43.1 Gram stain of positive blood culture. Image from author’s collec...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0046s0001fg02">Figure 43.2 Gram stain of large, Gram-variable (left panel) and boxy, Gram-p...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0046s0001fg03">Figure 43.3 Gram stain of filamentous Gram-positive bacilli. Image courtesy...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0046s0001fg03">Figure 43.4 Gram stain of beaded Gram-positive bacilli. Image courtesy of Si...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 44</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0047s0001fg01">Figure 44.1 Tracheal aspirate Gram stain (magnification, ×1,000).</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0047s0001fg01">Figure 44.2 Subculture of the patient's positive blood culture to sheep bloo...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 46</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0049s0001fg01">Figure 46.1 Gram stain of patient’s CSF. From author’s collection. Magnifica...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0049s0001fg02">Figure 46.2 Colony morphology of growth on a sheep blood agar plate inoculat...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0049s0003fg03">Figure 46.3 CDC HIV testing algorithm. See reference 11 for further details....</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 47</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0050s0001fg01">Figure 47.1 Testing algorithm for the diagnosis of arboviral infections. qRT...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 48</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0051s0001fg01">Figure 48.1 Head CT.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0051s0001fg01">Figure 48.2 Radiograph showing “rice-grain” calcification in soft tissue.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0051s0001fg03">Figure 48.3 <emphasis>T. solium</emphasis> life cycle. Cysticercosis (blue arrow). Taeniasis (red...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0051s0001fg04">Figure 48.4 <emphasis>Taenia</emphasis> sp. eggs. Image courtesy of Heather Morris, MT(ASCP).</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 49</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0052s0001fg01">Figure 49.1 Brain biopsy.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 50</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0053s0001fg01">Figure 50.1 BabyBIG. Source: California Department of Public Health.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 52</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0055s0001fg01">Figure 52.1 Blood culture Gram stain (magnification, ×1,000).</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0055s0001fg02">Figure 52.2 Blood culture isolate on sheep blood agar plate.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0055s0001fg03">Figure 52.3 Head CT from fifth hospital day.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 53</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0056s0001fg01">Figure 53.1 Patient’s peripheral blood smear (magnification, ×1,000).</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0056s0001fg02">Figure 53.2 TSI slant of isolate recovered from blood culture.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 54</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0057s0001fg01">Figure 54.1 Gram stain from blood culture bottle (magnification, ×1,000).</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 55</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0058s0001fg01">Figure 55.1 Blood culture Gram stain (magnification, ×1,000).</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0058s0001fg01">Figure 55.2 Growth on chocolate agar after 48 hours.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0058s0001fg01">Figure 55.3 Urea slant after 30 minutes.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 56</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0059s0001fg01">Figure 56.1 Fungal growth observed after 12 days of incubation at 27°C. Cour...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0059s0001fg02">Figure 56.2 Lactophenol cotton blue print at × 400 magnification. Courtesy N...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 57</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0060s0001fg01">Figure 57.1 Patient’s rash on the back and upper arm.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0060s0001fg02">Figure 57.2 Patient’s rash on palms.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0060s0003fg03">Figure 57.3 Syphilis testing algorithms. CIA, chemiluminescence immunoassay;...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 58</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0061s0001fg01">Figure 58.1 Quantification of EBV antibodies and DNA after primary infection...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 59</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0062s0001fg01">Figure 59.1 Peripheral blood smear (image from the author's collection).</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 60</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0063s0001fg01">Figure 60.1 MRI result.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 61</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0064s0001fg01">Figure 61.1 Blood culture Gram stain (from author’s collection; magnificatio...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0064s0001fg02">Figure 61.2 Patient’s left foot (from author’s collection).</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0064s0001fg03">Figure 61.3 The meningitis belt. Reprinted from Mc Namara L, Blain A. 2024. M...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 62</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0065s0001fg01">Figure 62.1 Geenius confirmatory HIV test (Bio-Rad, Hercules, CA). (Top pane...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0065s0001fg02">Figure 62.2 Time to detection for RNA (blue), p 24 antigen (red), and antibod...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 63</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0066s0001fg01">Figure 63.1 Dengue and Zika virus testing recommendations for nonpregnant pe...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 64</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0067s0001fg01">Figure 64.1 Diffuse hemorrhagic plaques presenting on the legs.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0067s0001fg03">Figure 64.2 Fungal organism on microscopy from a culture tape prep displayin...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0067s0001fg03">Figure 64.3 Macroconidia of organism infecting this patient seen in a positi...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0067s0001fg03">Figure 64.4 <emphasis>Fusarium</emphasis> growing in culture media displaying white, cottony, spr...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 65</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0068s0001fg01">Figure 65.1 Bilateral leg lesions.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0068s0001fg02">Figure 65.2 Gram stain (magnification, ×1,000).</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0068s0001fg01">Figure 65.3 Organism growth on Middlebrook 7H11 agar.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0068s0001fg01">Figure 65.4 Kinyoun stain (magnification, ×1,000).</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 66</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0069s0001fg01">Figure 66.1 Chest computed tomography scan showing diffuse, tiny nodular les...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0069s0001fg02">Figure 66.2 Fluorescent stain of bronchoalveolar lavage fluid (×1,000).</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0069s0001fg03">Figure 66.3 Kinyoun stain from positive liquid culture (×400).</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 67</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0070s0001fg01">Figure 67.1 H&amp;E-stained corneal biopsy at ×1000 magnification.</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0070s0001fg02">Figure 67.2 Life cycle of <emphasis>Acanthamoeba</emphasis> species.</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 68</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0071s0001fg01">Figure 68.1 Gram stain of sputum typical for this individual (magnification,...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0071s0001fg02">Figure 68.2 The organism cultured from the patient at 2 years of age growing...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 69</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0072s0001fg01">Figure 69.1 Wet mount of <emphasis>Echinococcus</emphasis> protoscolex with hooklets. Magnificati...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0072s0001fg01">Figure 69.2 Hematoxylin and eosin stain of tissue removed from intra-abdomin...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0072s0001fg01">Figure 69.3 Cytology of liver cyst contents using Fite-Faraco stain. Magnifi...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+        <listitem role="contentsH1">
+          <para>Chapter 70</para>
+          <orderedlist>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0073s0001fg01">Figure 70.1 Patient’s left leg prior to amputation (from the author’s collec...</ulink>
+              </para>
+            </listitem>
+            <listitem role="contentsH2">
+              <para><ulink url="ch0073s0001fg02">Figure 70.2 Gram stain from a biopsy from the leg of the patient (from the a...</ulink>
+              </para>
+            </listitem>
+          </orderedlist>
+        </listitem>
+      </orderedlist>
+    </sect1>
+  </preface>

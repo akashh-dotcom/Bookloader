@@ -1,0 +1,18 @@
+Rule 1
+=============================
+Term and Topic both appear in any title tag (chapter, sect1..sect10)
+
+
+Rule 2
+========================================
+Term appears in any title tag (chapter, sect1...sect10)
+AND
+Topic appears in any child title tag
+
+
+Rule 3
+===========================================
+Term appears in any title tag
+AND
+Topic does not appear in any child
+- Tag Term/Topic = General

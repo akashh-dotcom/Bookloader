@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0065" label="65">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor7">CASE 62</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0065s0004"><title>CASE 62</title><para>A 21-year-old male presented to the emergency department with a 4-day history of headache, fever, myalgia, sore throat, nausea, and diarrhea. He described his headache as severe (pain level, 10/10) and worsened by bright light, noise, and movement. The patient had a history of migraine headaches, but he stated that this headache was different. He denied head injury, ear pain, chest pain, and dyspnea. He did not have any abdominal pain, dysuria, or skin rash. He denied alcohol and illicit drug use and had no recent travel, tick exposure, or known sick contacts. His physical exam revealed right-sided tonsillar exudates and swelling but was otherwise unremarkable. Although he complained of neck pain with the headache, his neck was supple upon examination. His complete blood count (CBC) showed a normal white blood cell count but a low absolute lymphocyte count of 700 cells/μl. Blood was drawn for routine bacterial cultures and a rapid Monospot test. Urine was obtained for bacterial culture and chlamydia and gonorrhea testing.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0065s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  The patient’s presentation is consistent with which syndrome seen in young adults? What are the most common viral etiologies of this condition?</para>
+        </listitem>
+        <listitem id="ch0065s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  Were the patient’s CBC results consistent with Epstein-Barr virus (EBV)-associated mononucleosis?</para>
+        </listitem>
+        <listitem id="ch0065s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  What is a Monospot test?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Given the concern for meningitis, a lumbar puncture was performed, which showed four nucleated cells and 88% lymphocytes. Cerebrospinal fluid (CSF) glucose and protein were within normal limits. His head computed tomogram and chest radiograph were normal. CSF was sent for bacterial culture. The CSF Gram stain showed no neutrophils and no organisms. The patient was admitted for further evaluation.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0065s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  Were the patient’s CSF findings consistent with meningitis? Which molecular tests should be ordered on the CSF?</para>
+        </listitem>
+        <listitem id="ch0065s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What additional history should have been taken during his emergency department visit?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Upon further questioning at the time of hospital admission, the patient revealed that he was sexually active as a man who has sex with men with unreliable condom use. His last sexual encounter had occurred 2 to 3 weeks previously with a now estranged partner.</para>
+      <para>When the resident obtained the patient’s sexual history at admission, the patient stated that his last HIV test was negative 4 months ago. An HIV antigen/antibody combination test was ordered, which was positive. The patient’s HIV confirmatory test is shown in <link linkend="ch0065s0004fg01">Fig. 62.1</link> and was negative.</para>
+      <figure id="ch0065s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 62.1</emphasis></emphasis>Geenius confirmatory HIV test (Bio-Rad, Hercules, CA). (Top panel) Patient test. (Bottom panel) Positive control. Band interpretation is as follows: Band 1, gp 36 (HIV-2 envelope peptide); Band 2, gp 140 (HIV-2 envelope peptides); Band 3, p 31 (HIV-1 polymerase peptide); Band 4, gp 160 (HIV-1 envelope recombinant protein); Band 5, p 24 (HIV-1 core recombinant protein); Band 6, gp 41 (group M and O)(HIV-1 envelope peptides); Control brand, protein A.</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0065f03.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>Two rapid HIV test devices showing results: the top with a single control line indicating negative, and the bottom with two lines indicating positive for HIV.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0065s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What was this patient’s specific diagnosis? Explain the patient’s HIV results. What additional testing should be done to confirm his diagnosis?</para>
+        </listitem>
+        <listitem id="ch0065s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  What is the natural history of this infection?</para>
+        </listitem>
+        <listitem id="ch0065s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  What populations are at increased risk for infection with this agent?</para>
+        </listitem>
+        <listitem id="ch0065s0004x09" role="qus1">
+          <para><phrase><emphasis role="strong">9</emphasis></phrase>.  How should this patient’s infection be managed?</para>
+        </listitem>
+      </itemizedlist>
+      <para>In 2012, Baeten et al. described the use of antiretroviral preexposure prophylaxis (PrEP) to prevent HIV transmission in discordant couples.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0065s0004x10" role="qus2">
+          <para><phrase><emphasis role="strong">10</emphasis></phrase>.  How is PrEP used to prevent HIV infection?</para>
+        </listitem>
+        <listitem id="ch0065s0004x11" role="qus2">
+          <para><phrase><emphasis role="strong">11</emphasis></phrase>.  What additional approaches should be used to control the spread of this infection?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0065s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  The patient had an infectious mononucleosis-like syndrome <link linkend="ch0065s0002bib01">(1)</link>. EBV, cytomegalovirus, adenovirus, hepatitis viruses, and HIV can cause a mononucleosis-like illness. Due to his severe headache, neck pain, and photophobia, meningitis was also possible, but tonsillar exudate and swelling would be unusual with meningitis.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  EBV is the most common cause of infectious mononucleosis (see <ulink url="ch0061.xml#ch0061">case 58</ulink>). Patients with EBV-associated mononucleosis have a normal to moderately elevated white blood cell count. However, they usually have an increase in lymphocytes, with &gt;10% atypical lymphocytes. This patient was lymphopenic at the time of presentation, which is not consistent with an EBV-associated infection.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  The Monospot test is a latex agglutination test that assesses the patient’s blood for the presence of heterophile antibodies, which are nonspecific antibodies produced during acute EBV infection <link linkend="ch0065s0002bib02">(2)</link>. Heterophile antibodies agglutinate horse erythrocytes, leading to a positive Monospot test. The patient’s Monospot test was negative, making EBV-associated mononucleosis unlikely.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  The low white cell count, normal glucose and protein in the CSF, and a negative Gram stain make bacterial meningitis unlikely. The predominance of lymphocytes in the CSF suggests possible viral meningitis. Minimally, herpes simplex virus (HSV) and enterovirus PCRs should be ordered. HSV is the most common cause of sporadic encephalitis (see <ulink url="ch0007.xml#ch0007">case 4</ulink>), while enterovirus is the most diagnosed etiologic agent of meningitis (see <ulink url="ch0048.xml#ch0048">case 45</ulink>). Notably, HIV can also cause aseptic meningitis. A molecular syndromic panel for meningitis and encephalitis could be used, which includes HSV and enterovirus along with 12 other targets. However, false-negative HSV results occur and should be followed by HSV-specific PCR if HSV meningitis or encephalitis is suspected <link linkend="ch0065s0002bib03">(3)</link>.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  Although a social history was taken regarding alcohol and drug use, a sexual history was not obtained when he first presented to the emergency department, even though sexually transmitted infections were considered (chlamydia and gonorrhea testing).</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  His diagnosis was acute, primary HIV infection <link linkend="ch0065s0002bib04">(4)</link>. During this early stage, there is a massive burst of viral replication. Plasma viral RNA and antigen (specifically, p 24) are detectable before the host’s antibody response becomes positive. The antibody response can take weeks to occur following initial infection, and how soon HIV antibodies are detected depends on the test. For example, third-generation enzyme immunoassay tests typically will detect HIV antibodies 3 to 4 weeks postinfection, whereas second-generation tests (e. g., confirmatory tests) may not be positive for another week or longer. The reason for this is based on the type of antibodies detected by the immunologic tests. While both detect antibodies using recombinant and synthetic antigens, third-generation enzyme immunoassays detect both immunoglobulin M (IgM) and IgG whereas second-generation confirmatory tests detect IgG only. See <link linkend="ch0065s0001fg02">Fig. 62.2</link>for a schematic of the time to detection for RNA, p 24 antigen, and antibodies in the weeks following primary infection.</para>
+        <figure id="ch0065s0001fg02"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 62.2</emphasis></emphasis>Time to detection for RNA (blue), p 24 antigen (red), and antibodies (green) following primary infection.</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0065f02.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A graph showing the levels of HIV RNA, HIV antibodies, p 24 antigen, and EIA multispot over days after HIV infection, illustrating the timing of viral and antibody detection.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <para>This patient was tested with an HIV antigen/antibody combination test (fourth-generation test), which simultaneously detects p 24 antigen and IgM and IgG antibodies. However, the combination test does not differentiate whether antigen and/or antibodies are the source of a positive result. The use of the combination test reduces the window of false-negative results due to acute infection by about 5 to 7 days. Since his combination test was positive but his confirmatory test was negative, this indicates that he likely had circulating p 24 antigen (and maybe IgM) but had yet to develop an IgG antibody response.</para>
+        <para>Additional testing that should be performed includes a quantitative HIV RNA test (i. e., viral load) and repeat immunologic tests to confirm seroconversion<link linkend="ch0065s0002bib05">(5)</link>. The HIV RNA test is critical in differentiating acute HIV infection from a false-positive combination test. The results of this patient’s additional testing are outlined in <link linkend="ch0065s0001ta01">Table 62.1</link>. Patients newly diagnosed with an HIV infection should also be tested for other sexually transmitted infections, including syphilis, chlamydia, and gonorrhea.</para>
+        <para>The diagnosis of acute HIV infection is often missed, particularly since patients may present to physicians who are not specialists in managing HIV-infected patients. All physicians should consider acute HIV infection in persons presenting with a mononucleosis-like illness.</para>
+        <table id="ch0065s0001ta01"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 62.1</emphasis></emphasis> PATIENT’S RESULTS OVER TIME</emphasis> </title>
+          
+          <tgroup cols="4">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <colspec colname="c4" colnum="4"/>
+            <tbody>
+              <row>
+                <entry>DAYS FROM PRESENTATION</entry>
+                <entry>ANTIGEN/ANTIBODY COMBINATION RESULT</entry>
+                <entry>RNA VIRAL LOAD</entry>
+                <entry>CONFIRMATORY RESULT</entry>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry>Positive</entry>
+                <entry>&gt;10<superscript>6</superscript></entry>
+                <entry>Negative</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>Positive</entry>
+                <entry>NP<superscript><emphasis>a</emphasis></superscript></entry>
+                <entry>Negative</entry>
+              </row>
+              <row>
+                <entry>24</entry>
+                <entry>Positive</entry>
+                <entry>&gt;10<superscript>6</superscript></entry>
+                <entry>Negative</entry>
+              </row>
+              <row>
+                <entry>31</entry>
+                <entry>Positive</entry>
+                <entry>NP</entry>
+                <entry>Positive</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para role="table-footnote"><superscript><emphasis>a</emphasis></superscript> NP, not performed.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>   Upon infection, large amounts of virus are produced that transiently peak and rapidly decline. At this point, the host’s immune response provides some control, which can be measured, in part, by detectable anti-HIV antibodies. The clinical manifestations of acute HIV infection can include gastrointestinal, dermatologic, neurologic, and lymphoid tissue involvement arising from the widespread dissemination of HIV. Some individuals can be asymptomatic during the acute stage of HIV infection.</para>
+        <para>An individual’s course of HIV infection and disease is variable and is largely determined by complex interactions between the virus and the host’s immune system<link linkend="ch0065s0002bib06">(6)</link>. The rate at which immune dysfunction occurs determines the rate of disease progression. Advanced HIV disease (i. e., AIDS) results in complications such as opportunistic infections and malignancies.</para>
+        <para>Even early in infection, very large amounts of virus are present in lymphoid tissues, semen, and plasma (up to 10<superscript>6</superscript> particles per ml, with an estimated 10<superscript>10</superscript> viral particles generated daily). The concentration of HIV in semen peaks ~30 days after infection (10<superscript>4</superscript>/ml), which is thought to contribute to the high transmissibility of HIV during acute infection. Within 1 year after seroconversion, each infected individual establishes a “steady-state” level of HIV RNA that largely determines the rate at which CD4<superscript>+</superscript> T lymphocytes (the cells HIV infects) subsequently decline. Concurrent use of plasma HIV RNA measurements and CD4<superscript>+</superscript> cell counts can predict disease progression.</para>
+        <para>CD4<superscript>+</superscript> T cells (T-helper cells) initiate the immune response to infection through the direct interaction with B cells and the release of cytokines that activate cytotoxic T cells and macrophages in response to foreign antigens. As CD4<superscript>+</superscript> cells decline during HIV infection, the host becomes more susceptible to opportunistic infections <link linkend="ch0065s0002bib07">(7)</link>. Individuals with CD4<superscript>+</superscript> cell counts &lt;200/μl are at greatest risk for HIV-associated infections including candidiasis, cryptococcosis, cryptosporidiosis, cytomegalovirus (CMV), HSV, histoplasmosis, disseminated <emphasis>Mycobacterium avium</emphasis>, tuberculosis, <emphasis>Pneumocystis</emphasis> pneumonia, and toxoplasmosis. In addition, the decline in CD4<superscript>+</superscript> cells puts individuals at an increased risk for infection-associated cancers including human papillomavirus-associated cervical and anal cancers, human herpesvirus 8-associated Kaposi’s sarcoma, EBV-associated lymphomas, and JC virus-associated progressive multifocal leukoencephalopathy. HIV-positive patients with low CD4<superscript>+</superscript> counts are also at increased risk for non-virus-related cancers, though the mechanism is less clear. Direct oncogenic effects of HIV, chronic inflammation, and long-term exposure to antiretroviral therapy have all been suggested as possible mediators.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>   A variety of populations are at increased risk for acquiring HIV infections. HIV is spread primarily in three ways: sexually, including vaginal and anal intercourse and oral-genital contact; by contact with infected blood; or vertically, from mother to fetus. In the United States, men who have sex with men and men who have sex with men and women have the highest rates of infection, followed by persons who inject drugs and their sexual partners. Infection rates are lowest among individuals who are infected through heterosexual activity, but this at-risk population in the United States is developing an increasing incidence of HIV infection, which has been particularly observed in the southern states and in Black communities <link linkend="ch0065s0002bib09">(8, 9</link>). This is in sharp contrast to the spread of HIV in other parts of the world, where the major mode of transmission is via heterosexual activity. Although the spread of HIV has slowed in the United States, HIV infection is an increasing public health problem in India, China, Russia, and many countries throughout Southeast Asia. In Russia and China, the increasing prevalence of HIV is largely driven by high rates of infection in persons who inject drugs. AIDS continues to be a devastating disease in sub-Saharan Africa, where approximately two-thirds of the world’s HIV-infected persons live. Worldwide, HIV disease and AIDS have surpassed tuberculosis and malaria as the leading fatal infectious diseases, with an estimated 40 million HIV-related deaths to date <link linkend="ch0065s0002bib10">(10)</link>. It is estimated that 38 million people in the world are living with HIV.</para>
+        <para>At one time, HIV-contaminated blood product transfusions were an important mode of transmission. At particularly high risk were patients with hemophilia who received pooled clotting factor preparations. Prior to the availability of donor screening tests, methods such as pasteurization were used to kill viruses in the plasma-derived concentrates, which led to a significant decline in HIV infections in this population. Aggressive donor screening using serologic and nucleic acid amplification tests has led to a greatly reduced rate of transfusion-associated HIV infection in high-income countries. In areas of the world where screening of blood for HIV antibodies, antigen, or RNA is prohibitively expensive, transfusion-associated HIV infection continues to be a major health problem.</para>
+        <para role="ans1"><emphasis role="strong">9.</emphasis>  The patient should be counseled about his HIV infection status, what clinical course to expect, and what behaviors should be modified to avoid transmitting his infection to others. He should be considered for combination antiretroviral therapy. In 1996, combination antiretroviral therapy involving three or more anti-HIV medications, including a protease inhibitor or a non-nucleoside reverse transcriptase inhibitor (RTI) plus two nucleoside RTIs, became the standard of care in the industrialized world. These regimens resulted in a substantial reduction in HIV-related deaths in populations that have access to these drugs. Additional classes of antiretroviral drugs have since been introduced: fusion inhibitors, CCR5 antagonists (or entry inhibitors), integrase strand transfer inhibitors, and post-attachment inhibitors <link linkend="ch0065s0002bib11">(11)</link>. Today’s regimens typically consist of two nucleoside RTIs in combination with a non-nucleoside RTI, a protease inhibitor, or an integrase strand transfer inhibitor <link linkend="ch0065s0002bib12">(12)</link>. Greater viral load reductions and CD4<superscript>+</superscript> cell count increases can result from combination antiretroviral therapy. At the acute stage of HIV infection, the viral population is relatively homogeneous and thus less variable. Treating with more than one antiretroviral agent significantly lessens the risk that drug-induced resistance will develop.</para>
+        <para>Antiretroviral drug resistance is becoming a critical issue. A slowly increasing proportion of patients with primary HIV infection have acquired HIV that is already resistant to one or more classes of antiretroviral drugs<link linkend="ch0065s0002bib13">(13)</link>. Patient response to therapy is measured by determining the level of HIV RNA present in the blood by a quantitative nucleic acid amplification test (i. e., viral load). The goal of therapy is to achieve and sustain an undetectable viral load. Patients with an undetectable viral load for at least 6 months cannot sexually transmit HIV (i. e., undetectable = untransmittable, U=U)<link linkend="ch0065s0002bib14">(14)</link>. Viral loads are monitored at 3- to 4-month intervals <link linkend="ch0065s0002bib12">(12)</link>. If there is a sudden increase in viral load, there are two common explanations. One is that the patient may have stopped taking their medicine. Although current HIV antiretroviral regimens are very effective, they may cause significant side effects. The second explanation is that the patient’s viral population may have developed resistance to one or more of the agents with which the patient is being treated. The HIV genome is highly mutable, as are most RNA viruses, and mutations leading to resistance are frequent. Antiretroviral resistance testing can potentially benefit patients by allowing individualized treatment regimens based upon the analysis of the genotype and/or phenotype of the patient’s viral population <link linkend="ch0065s0002bib12">(12)</link>.</para>
+        <para role="ans1"><emphasis role="strong">10.</emphasis>  The CDC recommends that individuals who are HIV negative but at risk for infection with HIV through sex or injection drug use consider PrEP <link linkend="ch0065s0002bib16">(15, 16</link>). When taken as prescribed, PrEP reduces the risk of getting HIV by sex by ~99% and by injection drug use by at least 74%. As of 2023, two pills and one injectable are FDA approved to be used as PrEP <link linkend="ch0065s0002bib17">(17)</link>.</para>
+        <para role="ans1"><emphasis role="strong">11.</emphasis>  The main approaches to control the spread of HIV infections are education, behavior modification, and vaccine development. First, the CDC recommends that everyone between the ages of 13 and 64 be tested for HIV at least once, and high-risk groups should be tested at least annually <link linkend="ch0065s0002bib18">(18)</link>. Because ~20% of HIV-infected persons are not aware of their HIV status, educating the public about the need to get tested and providing easy access to testing is an important control measure. Both physician-orderable home specimen collection kits and an over-the-counter at-home HIV test are available. Although access to testing is important, educating persons who engage in high-risk activities is paramount. The patient presented here had been tested for HIV 4 months prior to his infection. Although he was negative, he was in a high-risk category and did not use protection. Educating those at high risk regarding preventative measures such as condom use and needle exchange programs cannot be overemphasized. There have been many attempts to develop a vaccine for HIV, with some candidate vaccines being tested in clinical trials; however, none has been successful to date <link linkend="ch0065s0002bib19">(19)</link>. HIV vaccine development has been difficult because of the mutability of the virus and our limited understanding of what constitutes protective immunity. A key feature of any successful HIV vaccine will be the capacity to induce mucosal immunity to prevent the acquisition of HIV via sexual activity.</para>
+      </sect1>
+      <sect1 id="ch0065s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0065s0003l01" role="decimal">
+          <listitem id="ch0065s0003x31">
+            <para>Viral etiologies of infectious mononucleosis syndrome include EBV, CMV, adenovirus, hepatitis viruses, and HIV.</para>
+          </listitem>
+          <listitem id="ch0065s0003x32">
+            <para>Patients with acute, primary HIV are lymphopenic, which contrasts with patients with EBV-associated mononucleosis, who may have increased white blood cell count with &gt;10% atypical lymphocytes.</para>
+          </listitem>
+          <listitem id="ch0065s0003x33">
+            <para>Clinical manifestations of acute HIV infection include gastrointestinal, dermatologic, neurologic, and lymphoid tissue involvement arising from the widespread dissemination of HIV. Some patients are asymptomatic.</para>
+          </listitem>
+          <listitem id="ch0065s0003x34">
+            <para>Early in HIV infection, a fourth-generation (antigen/antibody) HIV test may be positive, but the confirmatory test (second-generation, IgG only) will be negative. HIV RNA testing should be performed when results are discordant to differentiate between a false-positive antigen/antibody test and acute HIV infection.</para>
+          </listitem>
+          <listitem id="ch0065s0003x35">
+            <para>Recognition and diagnosis of acute HIV infection is critical to prevent transmission. Early in infection, high concentrations of virus are present in lymphoid tissues, semen, and plasma, which contributes to the high transmissibility of HIV during acute infection.</para>
+          </listitem>
+          <listitem id="ch0065s0003x36">
+            <para>Without treatment, HIV infection leads to a decline of CD4<superscript>+</superscript> T cells and concomitant increase in risk for opportunistic infections and infection-associated cancers.</para>
+          </listitem>
+          <listitem id="ch0065s0003x37">
+            <para>Individuals at high risk for HIV infection in the United States include men who have sex with men, men who have sex with men and women, and persons who inject drugs. Rates of HIV infection are increasing in the South and in Black communities. Globally, heterosexual transmission plays a greater role in increasing rates of infection.</para>
+          </listitem>
+          <listitem id="ch0065s0003x38">
+            <para>Antiretroviral treatment can suppress the peripheral HIV viral load such that undetectable = untransmittable.</para>
+          </listitem>
+          <listitem id="ch0065s0003x39">
+            <para>Preexposure prophylaxis with antiretroviral drugs substantially reduces the risk of HIV infection in at-risk individuals.</para>
+          </listitem>
+          <listitem id="ch0065s0003x40">
+            <para>Everyone between the ages of 13 and 64 should be tested for HIV at least once, and high-risk groups should be tested at least annually.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0065s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0065s0002bib01">Centers for Disease Control and Prevention. 2024. Epstein-Barr Virus and Infectious Mononucleosis: About Infectious Mononucleosis (Mono). https://www. cdc. gov/epstein-barr/about/mononucleosis. html. Accessed 4 February 2024.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib02">Stuempfid ND, Seroy J. 14 August 2023. Monospot test. In Stat Pearls. Stat Pearls Publishing, Treasure Island, FL. https://www. ncbi. nlm. nih. gov/books/NBK539739/ Accessed 4 February 2024.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib03">Tansarli GS, Chapin KC. 2020. Diagnostic test accuracy of the Bio Fire® Film Array® meningitis/encephalitis panel: a systematic review and meta-analysis.<citetitle>Clin Microbiol Infect</citetitle> 26:281–290.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib04">Cohen MS, Gay CL, Busch MP, Hecht FM. 2010. The detection of acute HIV infection. <citetitle>J Infect Dis</citetitle>202 Suppl 2: S270–277.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib05">AIDS Education and Training Center. 1 February 2021. Quick guide: CDC HIV laboratory testing recommendations. https://aidsetc. org/resource/quick-guide-cdc-hiv-laboratory-testing-recommendations. Accessed 4 February 2024.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib06">Cohen MS, Shaw GM, Mc Michael AJ, Haynes BF. 2011. Acute HIV-1 infection.<citetitle>N Engl J Med</citetitle> 364:1943–1954.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib07">HIV. gov. 22 February 2024. Opportunistic infections. https://www. hiv. gov/hiv-basics/staying-in-hiv-care/other-related-health-issues/opportunistic-infections. Accessed 28 February 2025.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib08">Reif SS, Whetten K, Wilson ER, Mc Allaster C, Pence BW, Legrand S, Gong W. 2014. HIV/AIDS in the Southern USA: a disproportionate epidemic.<citetitle>AIDS Care</citetitle>. 26:351–359.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib09">HIV. gov. 21 February 2025. U. S. statistics. https://www. hiv. gov/hiv-basics/overview/data-and-trends/statistics. Accessed 28 February 2025.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib10">World Health Organization. 2023. HIV and AIDS. https://www. who. int/news-room/fact-sheets/detail/hiv-aids. Accessed 4 February 2024.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib11">HIVInfo. 2021. What to start: choosing an HIV treatment regimen. https://hivinfo. nih. gov/understanding-hiv/fact-sheets/what-start-choosing-hiv-treatment-regimen. Accessed 4 February 2024.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib12">Clinical Info. 2022. Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents With HIV. HIV. govhttps://clinicalinfo. hiv. gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-arv/what-start-initial-combination. Accessed 4 February 2024.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib13">Mc Clung RP, Oster AM, Ocfemia MCB, Saduvala N, Heneine W, Johnson JA, Hernandez AL. 2022. Transmitted drug resistance among human immunodeficiency virus (HIV)-1 diagnoses in the United States, 2014–2018.<citetitle>Clin Infect Dis</citetitle> 74:1055–1062.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib14">NIAID. 2019. HIV Undetectable=Untransmittable (U=U), or Treatment as Prevention. https://www. niaid. nih. gov/diseases-conditions/treatment-prevention. Accessed 4 February 2024.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib15">May 2014. Just-released guidelines: pre-exposure prophylaxis use for HIV prevention. HIV. gov. https://www. hiv. gov/blog/just-released-guidelines-pre-exposure-prophylaxis-use-for-hiv-prevention. Accessed 4 February 2024.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib16">Baeten JM, et al; Partners PrEP Study Team. 2012. Antiretroviral prophylaxis for HIV prevention in heterosexual men and women. <citetitle>N Engl J Med</citetitle> 367:399–410.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib17">HIV. gov. 7 February 2025. Pre-exposure prophylaxis. https://www. hiv. gov/hiv-basics/hiv-prevention/using-hiv-medication-to-reduce-risk/pre-exposure-prophylaxis. Accessed 28 February 2025.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib18">May 2024. HIV testing. HIVinfo. NIH. gov. https://hivinfo. nih. gov/understanding-hiv/fact-sheets/hiv-testing. Accessed 28 February 2025.</bibliomixed>
+        <bibliomixed id="ch0065s0002bib19">IAVI. 20 December 2021. 40 years of AIDS vaccine research. https://www. iavi. org/iavi-report/40-years-of-aids-vaccine-research/. Accessed 4 February 2024.</bibliomixed>
+      </bibliography>
+    </chapter>

@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0042" label="42">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor4">CASE 39</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0042s0004"><title>CASE 39</title><para>A 12-year-old girl was in her normal state of good health when she developed a fever of several days’ duration. She had no localizing symptoms except for the development of a large rash on her back (<link linkend="ch0042s0004fg01">Fig. 39.1</link>).</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0042s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What approach should be taken when evaluating a patient with a rash? How would you characterize the lesion on her back?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Her history was notable in that she lived in Connecticut near the New York border and had recently been walking through tall grass where her sister was taking horseback riding lessons.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0042s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  What arachnids may she have been exposed to when walking through tall grass and what infectious agents might they transmit?</para>
+        </listitem>
+        <listitem id="ch0042s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  Of these possibilities, what disease does this patient likely have?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient had blood drawn for a complete blood count (CBC), erythrocyte sedimentation rate (ESR), and comprehensive metabolic panel (CMP). The CBC was unremarkable, but the ESR was elevated to 39 mm/hour. As part of the CMP, slightly elevated aspartate transaminase and alanine aminotransferase were noted, 54 U/liter and 56 U/liter, respectively. Modified two-tiered Lyme disease serology was performed on serum, with a positive result from the initial screening assay and positive immunoglobulin G (IgG) and immunogobulin M (IgM) antibodies on the second assay. A blood parasite smear looking for <emphasis>Babesia</emphasis> species was negative, as was an <emphasis>Anaplasma</emphasis>/<emphasis>Ehrlichia</emphasis> nucleic acid amplification test (NAAT) from whole blood.</para>
+      <figure id="ch0042s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 39.1</emphasis></emphasis> Patient’s rash. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0042f03.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A photograph of a person's back showing a large, red, circular rash with a clear center, resembling a classic bullseye or target-shaped skin lesion.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0042s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  What in her history is suggestive of this disease? How is this disease transmitted?</para>
+        </listitem>
+        <listitem id="ch0042s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  How is the diagnosis of Lyme disease established in the absence of a characteristic rash?</para>
+        </listitem>
+        <listitem id="ch0042s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What is the modified two-tiered testing (MTTT) algorithm?</para>
+        </listitem>
+        <listitem id="ch0042s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  What complications can occur in patients with this disease, particularly those who did not get treated or received inadequate therapy?</para>
+        </listitem>
+        <listitem id="ch0042s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  What is the recommended treatment for Lyme disease?</para>
+        </listitem>
+      </itemizedlist>
+      <para>This patient was appropriately treated with doxycycline and recovered uneventfully.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0042s0004x09" role="qus1">
+          <para><phrase><emphasis role="strong">9</emphasis></phrase>.  What is posttreatment Lyme disease syndrome (PTLDS)?</para>
+        </listitem>
+        <listitem id="ch0042s0004x10" role="qus2">
+          <para><phrase><emphasis role="strong">10</emphasis></phrase>.  What controversies exist in Lyme disease diagnostic testing?</para>
+        </listitem>
+        <listitem id="ch0042s0004x11" role="qus2">
+          <para><phrase><emphasis role="strong">11</emphasis></phrase>.  What efforts can be taken to prevent this illness?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0042s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  Evaluation of a patient with a rash should combine an assessment of symptoms, possible exposures, and accurate characterization of the lesions <link linkend="ch0042s0002bib01">(1)</link>. When characterizing the rash, it can be helpful to utilize a defined set of descriptors <link linkend="ch0042s0002bib02">(2)</link>. Common terms include:</para>
+        <itemizedlist id="ch0042s0001l01">
+          <listitem id="ch0042s0001x12">
+            <para>Macule – flat, change in skin coloration &lt;1 cm</para>
+          </listitem>
+          <listitem id="ch0042s0001x13">
+            <para>Papule – raised, palpable, solid lesion &lt;0.5 cm</para>
+          </listitem>
+          <listitem id="ch0042s0001x14">
+            <para>Nodule – palpable, deep-seat lesion &gt;0.5 cm</para>
+          </listitem>
+          <listitem id="ch0042s0001x15">
+            <para>Plaque – elevated, expanded lesion &gt;0.5 cm</para>
+          </listitem>
+          <listitem id="ch0042s0001x16">
+            <para>Vesicle – elevated, fluid-containing lesion &lt;0.5 cm</para>
+          </listitem>
+          <listitem id="ch0042s0001x17">
+            <para>Bulla – vesicular lesion &gt;0.5 cm</para>
+          </listitem>
+          <listitem id="ch0042s0001x18">
+            <para>Pustule – vesicular lesion containing purulence</para>
+          </listitem>
+          <listitem id="ch0042s0001x19">
+            <para>Ulcer – lesion where the top layer of skin is lost</para>
+          </listitem>
+          <listitem id="ch0042s0001x20">
+            <para>Eschar – necrotic, hard skin overlying an ulcer</para>
+          </listitem>
+        </itemizedlist>
+        <para>This patient’s lesion is best described as a large, expanding plaque with a targetoid appearance. This appearance is referred to as erythema migrans, a classic appearing Lyme disease rash<link linkend="ch0042s0002bib03">(3)</link>.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  Spiders, mites, and ticks are the arachnids she would most likely encounter in tall grass. Spiders are not known to transmit infections, and while certain species of mites can transmit <emphasis>Orientia tsutsugamushi</emphasis>, the cause of scrub typhus, they are not found in the United States. This leaves ticks as the major arachnid exposure of concern when considering infectious causes of a rash.</para>
+        <para>Bacterial, viral, and parasitic tick-borne diseases exist in the United States<link linkend="ch0042s0002bib01">(4)</link>. The most common in this patient’s geographic region include Lyme disease, babesiosis, anaplasmosis, hard tick relapsing fever (<emphasis>Borrelia miyamotoi</emphasis> disease), and encephalitis due to Powassan virus. Additional tick-borne diseases include ehrlichiosis, rickettsiosis, tularemia, Heartland virus disease, and Bourbon virus disease, but these are not common in her geographical region <link linkend="ch0042s0002bib05">(5)</link>.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  Her symptom of a nonspecific fever is consistent with Lyme disease, but it is the presence of the characteristic erythematous annular rash, referred to as erythema migrans, demonstrated in <link linkend="ch0042s0004fg01">Fig. 39.1</link>, that is diagnostic. The rash typically has a target-like appearance with expanding borders. Some patients will have these lesions at multiple sites. This patient had one rather prominent lesion.</para>
+        <para>Lyme disease is caused by a number of related organisms in the bacteria species complex <emphasis>Borrelia burgdorferi sensu lato</emphasis> (Bbsl) <link linkend="ch0042s0002bib06">(6)</link>. More than 20 species of <emphasis>Borrelia</emphasis> cause Lyme disease and comprise Bbsl. In the United States, <emphasis>Borrelia burgdorferi sensu stricto</emphasis>, henceforth referred to as <emphasis>B. burgdorferi</emphasis>, is the genospecies responsible for nearly all Lyme disease cases, with rare cases reported due to <emphasis>Borrelia mayonii</emphasis>. In Europe and Asia, <emphasis>Borrelia afzelii</emphasis> and <emphasis>Borrelia garinii</emphasis> are the predominant Lyme disease-causing species.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  The patient lives in Connecticut, a state with a very high incidence of Lyme disease <link linkend="ch0042s0002bib07">(7)</link>. In fact, the disease was initially described in (and named for) Old Lyme, a town in Connecticut. Other regions where Lyme disease is endemic include other areas in the northeastern United States, Minnesota, Wisconsin, northern California, and much of Europe, particularly between 35° north latitude and 60° north latitude. Regions of endemicity are expanding, particularly to the north, as climate change increases the range of areas inhabitable by Lyme disease-transmitting ticks <link linkend="ch0042s0002bib08">(8)</link>.</para>
+        <para><emphasis>B. burgdorferi</emphasis> is spread to humans by ticks of the genus <emphasis>Ixodes</emphasis>. In the northeastern United States, the white-footed mouse appears to be the primary reservoir of <emphasis>B. burgdorferi</emphasis>, which is present in the mouse’s bloodstream. This mouse is also the preferred host for the <emphasis>Ixodes scapularis</emphasis> tick, the principal vector of this spirochete. On the west coast of the United States, <emphasis>Ixodes pacificus</emphasis> is the primary vector, while <emphasis>Ixodes ricinus</emphasis> and <emphasis>Ixodes persulcatus</emphasis> are the predominant vectors in Europe and Asia.</para>
+        <para>Given that the patient was walking through tall grass, the environment where ticks are likely to be found, she may have had an ixodid tick attached to her during this time. Ticks are frequently found in woody areas, but also can be found in grassy areas. All three stages in the life cycle of the tick, i. e., larva, nymph, and adult, can feed on a human host, but only the nymph and adult stages can transmit the disease. Larval stage ticks do not carry <emphasis>Borrelia</emphasis> spirochetes, as this organism is not transmitted transovarially (from adult female to offspring), and therefore cannot transmit the infection during their larval-stage blood meal. However, larvae and nymphs can become infected after feeding on a <emphasis>B. burgdorferi</emphasis>-infected mouse (or other small mammal), maintain the organism via transstadial transmission (across life cycle stages), and pass the organism to humans during the subsequent blood meals as nymphs and adults. Transfer of the spirochetes from the infected <emphasis>I. scapularis</emphasis> ticks to humans appears to require 36 to 48 hours of attachment. The events that occur in the tick during the attachment are complex, with the spirochetes migrating from the gut to the salivary glands. Additionally, the organism must express a protein called outer surface protein C that enhances infectivity of the spirochete for the human host. It is believed that this migration and phenotypic change explain the need for prolonged attachment prior to transmission. Ticks removed before the 36 to 48 hours probably do not transmit the spirochete. However, the nymph stage of the tick is extremely small (described as the size of a pencil point), so the tick may go unnoticed. Less than half of patients with documented Lyme disease can recall a tick bite.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  Erythema migrans is absent in roughly 20 to 30% of Lyme disease infections <link linkend="ch0042s0002bib09">(9)</link>. Without this characteristic rash, laboratory testing can assist with diagnosis. Testing for Lyme disease includes both direct and indirect detection methods <link linkend="ch0042s0002bib10">(10)</link>. The role of direct detection methods, namely Bbsl NAAT, is limited. The best performance is seen with synovial fluid from cases of Lyme arthritis. Sensitivity in cerebrospinal fluid (CSF) and blood is substantially lower, equating to low negative predictive value, particularly in cases of high clinical suspicion. Indirect detection, including a two-step algorithmic approach to antibody detection, is the mainstay of laboratory diagnosis. For decades, the standard two-tiered testing (STTT) approach included an initial screening enzyme immunosorbent assay (EIA) or an indirect immunofluorescent assay (IFA). Positive or equivocal specimens were then directed to the more specific IgG and IgM Western blot or immunoblot for confirmation. In 2019, with the FDA clearance of new EIAs, the MTTT algorithm was introduced <link linkend="ch0042s0002bib11">(11</link>, <link linkend="ch0042s0002bib12">12)</link>.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  The MTTT consists of successive EIAs, combining either whole-cell sonicate (WCS), recombinant VlsE, or recombinant C6 peptide. The specific assays used in the two-step algorithm may vary, but it is recommended that they differ antigenically to reduce the likelihood of shared false positivity. Additionally, the assays may be polyvalent (total antibody) or separate monovalent IgG and IgM antibody assays. The two-tiered testing can be arranged in many combinations as long as the assays are FDA-cleared for inclusion in an MTTT protocol. As an example, a polyvalent VlsE EIA may be performed first. Positive or equivocal samples will proceed to a second-tier test, a polyvalent WCS EIA. <link linkend="ch0042s0001fg02">Figure 39.2</link> outlines suggested MTTT algorithms as defined by CDC and Association of Public Health Laboratories. The MTTT algorithm provides a few benefits when compared to the STTT, including reduced cost and greater sensitivity in the acute phase of infection, although room for improvement remains <link linkend="ch0042s0002bib13">(13)</link>. While improved serologic assays may boost sensitivity and specificity to some degree, reliance on antibody production is a constant limitation for acute phase detection that enhanced direct detection methods could address.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  Approximately 90% of patients with <emphasis>B. burgdorferi</emphasis> present as this patient did with fever and skin rash and respond to antimicrobial therapy with no sequelae. Left untreated, <emphasis>Borrelia</emphasis> can disseminate to multiple organs, causing further complications <link linkend="ch0042s0002bib14">(14)</link>. Early disseminated disease can include Lyme neuroborreliosis with a clinical picture of headache, CSF with a lymphocytic pleocytosis, cranial nerve VII palsy, peripheral neuropathy, meningoencephalitis, and subacute encephalopathy. Acute Lyme carditis can also occur in about 5% of patients. In untreated late Lyme disease, Lyme arthritis is the most common manifestation. Arthritis generally appears months to years after initial infection and most commonly involves the knee.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  Joint guidelines for the treatment of Lyme disease from the Infectious Diseases Society of America (IDSA), the American Academy of Neurology (AAN), and the American College of Rheumatology (ACR) were updated in 2021 <link linkend="ch0042s0002bib15">(15)</link>. Doxycycline, 100 mg twice daily for 10 days, is the preferred regimen. This strategy has the advantage of being active against other tick-borne bacteria that may cause coinfection. Historically, doxycycline was avoided in the treatment of children. However, the American Academy of Pediatrics now endorses the use of doxycycline as the preferred regimen in children <link linkend="ch0042s0002bib16">(16)</link>. Alternative regimens include amoxicillin and cefuroxime depending on complicating Lyme disease manifestations and patient factors that may be contraindications for use of doxycycline (e. g., pregnancy).</para>
+        <figure id="ch0042s0001fg02"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 39.2</emphasis></emphasis> Two MTTT algorithms using polyvalent or monovalent EIAs. Used with permission; copyright Association of Public Health Laboratories. All rights reserved. </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0042f02.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A flowchart outlining the serological testing process for IgM and IgG antibodies, showing two tiers: initial qualitative testing with results leading to either second-tier quantitative testing or no further testing, and a subsequent detailed immunoassay step for positive/equivocal results.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <para role="ans1"><emphasis role="strong">9.</emphasis>  A subset of patients who have been effectively treated for Lyme disease experience prolonged symptoms, including fatigue, pain, and cognitive deficits. This phenomenon is referred to as PTLDS, a more appropriate descriptor than chronic Lyme disease, as there is no evidence that the bacterium persists in these patients <link linkend="ch0042s0002bib17">(17)</link>. The cause of PTLDS is unknown and challenging to differentiate from other chronic conditions with similar symptoms, making this entity frustrating to both patients and clinicians.</para>
+        <para role="ans1"><emphasis role="strong">10.</emphasis>   With respect to patients experiencing PTLDS, there is little rationale for additional diagnostic testing. Serology testing is not informative, as antibodies persist after initial infection. The presence of antibodies does not provide any information about persistence versus clearance of infection. Serology should not be trended as a marker of successful treatment.</para>
+        <para>There is also controversy about diagnostic testing to be performed on a tick removed from a patient. However, the AAN/ACR/IDSA guidelines clearly recommend against such testing on the basis of the results not being informative of infection. The presence or absence of <emphasis>Borrelia</emphasis> DNA in the tick does not equate to likelihood of infection. The guidelines do, however, support identification of the type of tick, as this information can be used to counsel the patient on the types of infections they are at risk of acquiring and the symptoms to be aware of.</para>
+        <para role="ans1"><emphasis role="strong">11.</emphasis>  Prevention of Lyme disease is similar to the prevention of other tick-borne diseases <link linkend="ch0042s0002bib18">(18)</link>. In areas of endemicity, the use of appropriate clothing, including long pants, long-sleeved shirts, and closed-toe shoes, is important when exposure to ticks may occur. The use of tick repellents, including the chemical <emphasis>N, N</emphasis>-diethyl-<emphasis>m</emphasis>-toluamide (DEET) on skin and clothing and permethrin on clothing, is an additional precaution. Finally, examination of the skin after walking in an environment in which tick exposure is a possibility allows for the removal of ticks before they are able to transmit <emphasis>B. burgdorferi</emphasis>.</para>
+      </sect1>
+      <sect1 id="ch0042s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0042s0003l02" role="decimal">
+          <listitem id="ch0042s0003x39">
+            <para>Lyme disease is caused by spirochetes of the species complex <emphasis>B. burgdorferi sensu latu</emphasis>.</para>
+          </listitem>
+          <listitem id="ch0042s0003x40">
+            <para>The bacteria are transmitted to the host during the blood meal of <emphasis>Ixodes</emphasis> ticks.</para>
+          </listitem>
+          <listitem id="ch0042s0003x41">
+            <para>Symptoms of Lyme disease can include a bullseye rash referred to as erythema migrans. In the absence of the characteristic rash, laboratory testing is needed to establish the diagnosis.</para>
+          </listitem>
+          <listitem id="ch0042s0003x42">
+            <para>Clinical and laboratory diagnostics are useful in establishing a diagnosis of Lyme disease. Both the STTT and MTTT algorithms, consisting of screening and confirmatory testing steps, can be used for laboratory diagnosis, but are imperfect methods for detecting acute phase infection. Treatment should not be withheld pending laboratory confirmation for patients with suspected Lyme disease.</para>
+          </listitem>
+          <listitem id="ch0042s0003x43">
+            <para>NAAT testing is poorly sensitive from blood and CSF, but shows better performance from synovial fluid in the diagnosis of Lyme arthritis.</para>
+          </listitem>
+          <listitem id="ch0042s0003x44">
+            <para>Left untreated, disseminated Lyme disease can cause a number of diseases, including Lyme carditis, central nervous system disease, and arthritis.</para>
+          </listitem>
+          <listitem id="ch0042s0003x45">
+            <para>Doxycycline is the recommended therapy for Lyme disease.</para>
+          </listitem>
+          <listitem id="ch0042s0003x46">
+            <para>PTLDS is a complicated chronic condition without clear source or treatment options.</para>
+          </listitem>
+          <listitem id="ch0042s0003x47">
+            <para>Tick avoidance is the best preventative measure against Lyme disease.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0042s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0042s0002bib01">Lopez FA, Sanders CV. 2024. Fever and rash in the immunocompetent patient. In Hall KK, Nelson S (ed). <citetitle>UpTo Date</citetitle>. Wolters Kluwer Health. https://www. uptodate. com/contents/fever-and-rash-in-the-immunocompetent-patient#H14. Accessed 29 April 2024.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib02">Mc Kinnon HD Jr, Howard T. 2000. Evaluating the febrile patient with a rash.<citetitle>Am Fam Physician</citetitle> 62:804–816.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib03">Centers for Disease Control and Prevention. 2024. Lyme disease rashes. https://www. cdc. gov/lyme/signs-symptoms/lyme-disease-rashes. html. Accessed 29 April 2024.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib04">Centers for Disease Control and Prevention. 2024. Tickborne diseases of the United States. https://www. cdc. gov/ticks/hcp/data-research/tickborne-disease-reference-guide/. Accessed 29 April 2024.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib05">Rodino KG, Theel ES, Pritt BS. 2020. Tick-borne diseases in the United States. <citetitle>Clin Chem</citetitle> 66:537–548.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib06">Aguero-Rosenfield ME. 2023. Borrelia. In Carroll KC, Pfaller MA, Karlowsky JA, Landry ML, Mc Adam AJ, Patel R, Pritt BS.<citetitle>Manual of Clinical Microbiology</citetitle>, 13th Ed. ASM Press, Washington, DC.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib07">Centers for Disease Control and Prevention. 2024. Lyme disease surveillance data. https://www. cdc. gov/lyme/data-research/facts-stats/surveillance-data-1. html. Accessed 29 April 2024.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib08">United States Environmental Protection Agency. 2024. Climate change indicators: Lyme disease. https://www. epa. gov/climate-indicators/climate-change-indicators-lyme-disease. Accessed 14 January 2025.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib09">Sanchez E, Vannier E, Wormser GP, Hu LT. 2016. Diagnosis, treatment, and prevention of Lyme disease, human granulocytic anaplasmosis, and babesiosis: a review. <citetitle>JAMA</citetitle> 315:1767–1777.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib10">Branda JA, Steere AC. 2021. Laboratory diagnosis of Lyme borreliosis. <citetitle>Clin Microbiol Rev</citetitle>34: e 00018-19.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib11">U. S. Food and Drug Administration. 29 July 2019. FDA clears new indications for existing Lyme disease tests that may help streamline diagnoses. https://www. fda. gov/news-events/press-announcements/fda-clears-new-indications-existing-lyme-disease-tests-may-help-streamline-diagnoses. Accessed 29 April 2024.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib12">Mead P, Petersen J, Hinckley A. 2019. Updated CDC recommendation for serologic diagnosis of Lyme disease. <citetitle>MMWR Morb Mortal Wkly Rep</citetitle> 68:703.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib13">Branda JA, Strle K, Nigrovic LE, Lantos PM, Lepore TJ, Damle NS, Ferraro MJ, Steere AC. 2017. Evaluation of modified 2-tiered serodiagnostic testing algorithms for early Lyme disease. <citetitle>Clin Infect Dis</citetitle> 64:1074-1080.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib14">Shapiro ED. 2014. Clinical practice. <citetitle>Lyme disease. N Engl J Med</citetitle> 370:1724-1731.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib15">Lantos PM, Rumbaugh J, Bockenstedt LK, Falck-Ytter YT, Aguero-Rosenfeld ME, Auwaerter PG, Baldwin K, Bannuru RR, Belani KK, Bowie WR, Branda JA, Clifford DB, Di Mario FJ, Halperin JJ, Krause PJ, Lavergne V, Liang MH, Meissner HC, Nigrovic LE, Nocton JJJ, Osani MC, Pruitt AA, Rips J, Rosenfeld LE, Savoy ML, Sood SK, Steere AC, Strle F, Sundel R, Tsao J, Vaysbrot EE, Wormser GP, Zemel LS. 2021. Clinical practice guidelines by the Infectious Diseases Society of America (IDSA), American Academy of Neurology (AAN), and American College of Rheumatology (ACR): 2020 guidelines for the prevention, diagnosis and treatment of Lyme disease.<citetitle>Clin Infect Dis</citetitle>72: e 1–e 48.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib16">American Academy of Pediatrics. 2021. Lyme disease (Lyme borreliosis, Borrelia burgdorferi sensu lato infection), p 482–489. In Kimberlin DW, Barnett ED, Lynfield R, Sawyer MH (ed). <citetitle>Red Book 2021: Report of the Committee on Infectious Diseases</citetitle>, 32nd Ed. American Academy of Pediatrics, Itasca, IL.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib17">Centers for Disease Control and Prevention. 2024. Chronic symptoms and Lyme disease. https://www. cdc. gov/lyme/signs-symptoms/chronic-symptoms-and-lyme-disease. html. Accessed 29 April 2024.</bibliomixed>
+        <bibliomixed id="ch0042s0002bib18">Centers for Disease Control and Prevention. 2024. About Lyme disease. https://www. cdc. gov/lyme/about/. Accessed 29 April 2024.</bibliomixed>
+      </bibliography>
+    </chapter>

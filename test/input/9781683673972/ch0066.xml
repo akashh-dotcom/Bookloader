@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0066" label="66">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor7">CASE 63</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0066s0004"><title>CASE 63</title><para>A 31-year-old female presented to an urgent care clinic with 4 days of nausea, vomiting, dizziness, headache, myalgia, and arthralgia. The day prior to presentation, she developed bilateral conjunctivitis and a maculopapular rash on her chest and the ventral surface of her forearms. She had not taken her temperature, but noted she was having chills. She had returned from the Dominican Republic 8 days prior, where she was visiting family. During her visit, she spent a lot of time outdoors and received multiple mosquito bites. Her uncle in the Dominican Republic was also recently sick and had a rash similar to hers.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0066s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What infectious diseases should individuals be aware of prior to traveling to the Dominican Republic? What is the most common illness?</para>
+        </listitem>
+        <listitem id="ch0066s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  Which infectious diseases are most likely in this patient? This case occurred in 2016. Why is the timing of her visit important?</para>
+        </listitem>
+        <listitem id="ch0066s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  What laboratory tests should be performed?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient’s pregnancy test, urinalysis, and urine culture were all negative. The patient’s urine was sent to a public health laboratory for a multiplex nucleic acid amplification test (NAAT) detecting chikungunya, dengue, and Zika viruses. Her serum was sent for serologic testing. Her results are shown in <link linkend="ch0066s0004ta01">Table 63.1</link>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0066s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  How do you interpret the patient’s results? If her Zika and dengue serologies had both been positive, how would you interpret the results and what additional testing would you recommend?</para>
+        </listitem>
+        <listitem id="ch0066s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  Describe the epidemiology of the virus infecting this patient.</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient had discontinued her oral contraceptives several months prior and was trying to get pregnant with her husband, who was also on the trip to the Dominican Republic but had no symptoms.</para>
+      <table id="ch0066s0004ta01"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 63.1</emphasis></emphasis> RESULTS OF DIAGNOSTIC TESTING PERFORMED AT A PUBLIC HEALTH LABORATORY</emphasis> </title>
+        
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <colspec colname="c3" colnum="3"/>
+          <tbody>
+            <row>
+              <entry>TEST</entry>
+              <entry>SPECIMEN TYPE</entry>
+              <entry>RESULT</entry>
+            </row>
+            <row>
+              <entry>Chikungunya NAAT</entry>
+              <entry>Urine</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry>Dengue NAAT</entry>
+              <entry>Urine</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry>Zika NAAT</entry>
+              <entry>Urine</entry>
+              <entry>Positive</entry>
+            </row>
+            <row>
+              <entry>Chikungunya IgM</entry>
+              <entry>Serum</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry>Dengue IgM</entry>
+              <entry>Serum</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry>Zika IgM</entry>
+              <entry>Serum</entry>
+              <entry>Negative</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0066s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  The patient’s pregnancy test was negative at the urgent care clinic. Had she been pregnant, what additional concerns would you have given the results in <link linkend="ch0066s0004ta01">Table 63.1</link>?</para>
+        </listitem>
+        <listitem id="ch0066s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  Are there any concerns with the couple trying to conceive given the patient’s diagnosis?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Four months after her Zika virus diagnosis, the patient became pregnant. At her 15-week routine visit, she asked her obstetrician about traveling to Puerto Rico to help take care of her mother after a surgical procedure.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0066s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  What advice would you give the patient, given she was pregnant and traveling to an area with active Zika virus transmission?</para>
+        </listitem>
+        <listitem id="ch0066s0004x09" role="qus1">
+          <para><phrase><emphasis role="strong">9</emphasis></phrase>.  Infections with this virus are associated with a postinfection neurologic sequela in adults. What is this complication? What other infectious diseases are associated with this complication?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0066s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  Depending on the area(s) to be visited, travelers to the Dominican Republic should be aware of possible exposures and consider vaccines to prevent hepatitis A, hepatitis B, measles, rabies, typhoid fever, and yellow fever and prophylactic medicine to prevent malaria <link linkend="ch0066s0002bib01">(1)</link>. Other diseases found in the Dominican Republic that are not vaccine preventable include leptospirosis, dengue, leishmaniasis, Zika, hantavirus, and tuberculosis. Travelers’ diarrhea is the most commonly acquired infection, which is primarily due to one of several bacterial agents and has been associated with street food and informal food sellers at the beach <link linkend="ch0066s0002bib02">(2)</link>. Of the vector-borne diseases, dengue is the most common, with infections occurring year-round, but the rainy season (May to November) typically has more cases. There were ~28,000 cases of dengue in the Dominican Republic in 2023. Over the past several years there have been a few notable outbreaks in the Dominican Republic. In 2014, there was a chikungunya outbreak in the Caribbean that caused nearly 4,000 infections in travelers; the Dominican Republic had the highest number of cases reported <link linkend="ch0066s0002bib03">(3, 4</link>). In 2015–2016, epidemics of Zika virus occurred in the Americas, which led to ~5,000 travel-associated infections in the United States and ~5,000 local cases in the Dominican Republic <link linkend="ch0066s0002bib06">(5, 6</link>). In 2016–2017, there was a cholera outbreak on the island of Hispaniola, though ~99% of cases were in Haiti. Cholera was introduced to Haiti in 2010 by relocated United Nations troops; then the outbreak was exacerbated by a hurricane and associated flooding in 2016 <link linkend="ch0066s0002bib07">(7)</link>. The Dominican Republic had &gt;1,000 cases of cholera in 2016–2017. In 2023, there were ~150 cases of cholera in the Dominican Republic, which were spillover cases from a larger cholera outbreak in Haiti.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  Based on her clinical presentation (nausea, vomiting, headache, rash, myalgia, and arthralgia), travel history, and mosquito exposure, the vector-borne diseases caused by dengue, chikungunya, and Zika viruses are most likely. Bilateral conjunctivitis is strongly associated with Zika, though it can also be seen with chikungunya and more rarely dengue. If she had presented with intense joint pain, dengue or chikungunya would be more likely than Zika. In 2016, there was ongoing transmission of both Zika and dengue viruses in the Dominican Republic <link linkend="ch0066s0002bib08">(8)</link>. However, since the 2016 outbreak of Zika virus, there have not been new cases in the Dominican Republic. Likewise, since the 2014 chikungunya virus outbreak, there have not been any reported cases. If this case occurred in 2023, then diagnostic testing should focus on dengue virus since there have not been cases of chikungunya or Zika viruses reported in several years.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  During the 2016 Zika outbreak in the Americas, the recommendations for Zika virus diagnostic testing were based on how long after symptom onset the specimen was collected. Patients with &lt;4 days of symptoms should only have NAATs performed. Zika virus RNA can be detected in serum in the first week of illness and in urine in the first 2 weeks of illness. Virus-specific immunoglobulin M (IgM) and neutralizing antibodies typically develop toward the end of the first week of illness. If the patient is 4 to 7 days postsymptom onset, then a NAAT and IgM test should be performed on serum and a NAAT on urine. For patients 7 to 14 days after onset of symptoms, IgM detection from serum and a NAAT on urine should be done. Only serologic testing is indicated for patients &gt;14 days from symptom onset. Since this patient began having symptoms 4 days prior, serum and urine NAATs for Zika virus RNA and serum IgM should be sent to a public health laboratory for testing. Since the epidemiology of Zika and dengue viruses overlapped at the time this patient traveled to the Dominican Republic, testing is needed for both viruses <link linkend="ch0066s0002bib09">(9)</link>. Dengue virus diagnostic tests include a NAAT and IgM test on serum. Since the Zika outbreak is no longer ongoing, current recommendations are only to test pregnant women for Zika virus <link linkend="ch0066s0002bib10">(10)</link>. Given the current epidemiology, nonpregnant symptomatic patients should follow recommendations for dengue virus testing.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  Based on the patient’s positive NAAT from urine for Zika RNA, the patient had acute Zika virus infection (<link linkend="ch0066s0001fg01">Fig. 63.1</link>). The patient’s serum was not tested for Zika RNA, but it likely would have also been positive. Unlike serologic tests for flaviviruses, NAATs are very specific to the flavivirus being tested. Unsurprisingly, the patient had not developed IgM to Zika virus yet; this usually appears ~7 days after symptom onset. For serologic testing it is important to note that cross-reaction among flaviviruses (i. e., Zika, dengue, and yellow fever) is common and complicates the interpretation of positive results when individuals have a history of flavivirus infection or vaccination or traveled to locations with cocirculation of flaviviruses (see<ulink url="ch0050.xml#ch0050">case 47</ulink>). Plaque reduction neutralization testing (PRNT) can be performed to measure virus-specific neutralizing antibodies and discriminate between cross-reacting antibodies in primary flavivirus infections <link linkend="ch0066s0002bib11">(11)</link>.</para>
+        <figure id="ch0066s0001fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 63.1</emphasis></emphasis> Dengue and Zika virus testing recommendations for nonpregnant persons with a clinically compatible illness and risk for infection with both viruses. Reprinted from reference <link linkend="ch0066s0002bib09">(9)</link>. </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0066f01.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A flowchart illustrating diagnostic steps for dengue and Zika virus detection, starting with specimen collection after 7 days of symptom onset, outlining testing methods (NAAT, IgM serology, PRNT), and categorizing results into acute, recent, or no evidence of infection.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  Zika virus is a member of the <emphasis>Flavivirus</emphasis> genus, which also includes dengue, yellow fever, and West Nile viruses. It is an arthropod-borne virus (arbovirus) that is transmitted by <emphasis>Aedes</emphasis> spp. mosquitoes, which are widespread globally <link linkend="ch0066s0002bib12">(12)</link>. It was discovered in 1947 from a rhesus monkey in the Zika forest of Uganda though a yellow fever virus surveillance program. The first known human case was in 1954 in Nigeria. The first documented outbreak of Zika was in 2007 in Yap State, a Western Pacific island in Micronesia <link linkend="ch0066s0002bib13">(13)</link>. Larger epidemics occurred in 2013–2014 in French Polynesia, where smaller outbreaks continued to occur in subsequent years. Outbreaks of Zika were first described in the Americas with a Brazilian outbreak in 2015. In 2016, Zika virus spread throughout the Americas, including many epidemics in the Caribbean. There were ~725,000 Zika cases in the Americas in 2015–2016. Currently, there are no declared outbreaks of Zika, but sporadic cases continue to occur <link linkend="ch0066s0002bib12">(12)</link>. There were &gt;36,000 Zika cases in the Americas in 2023, with Brazil, Colombia, and Venezuela having the most cases. The climate crisis and the continued expansion of <emphasis>Aedes</emphasis> species’ geographical distribution will undoubtedly lead to more Zika outbreaks.</para>
+        <para>Most people who are infected with Zika virus are asymptomatic or only have mild symptoms. About 20% of those infected display symptoms, which include a pruritic maculopapular rash, fever, arthralgia, myalgia, and conjunctivitis<link linkend="ch0066s0002bib13">(13)</link>. The incubation period is 3 to 14 days, and the natural disease course is ~1 week. In addition to the vector-borne spread of disease, Zika can be spread by maternal-fetal or sexual transmission and by blood transfusions, particularly during epidemics. Prevention of infections includes mosquito bite prevention, condom use, and screening the blood supply. The blood supply in the United States was screened for Zika RNA by NAAT from 2016 to 2021 when there were reports of local transmission in Florida, Texas, and U. S. territories<link linkend="ch0066s0002bib14">(14)</link>.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  The patient had a pregnancy test for two reasons: (i) she had symptoms of nausea and vomiting in the setting of trying to conceive, and (ii) Zika virus infection can be passed to the fetus. If the patient needed diagnostic radiology, a pregnancy test would also be warranted independent of symptoms.</para>
+        <para>Zika virus infection during pregnancy may lead to brain, eye, and neurodevelopmental abnormalities in the fetus and even fetal demise<link linkend="ch0066s0002bib15">(15)</link>. Babies may be born with congenital Zika syndrome, which may include microcephaly (and associated reduced brain size and function), damage to the eye with potential vision loss, limited range of motion and body movements, seizures, difficulty swallowing, and hearing loss <link linkend="ch0066s0002bib16">(16)</link>. About 5 to 14% of babies born after a Zika virus infection during gestation will have sequalae at birth, but babies may not have apparent defects at birth and still be affected by long-term health problems, including postnatal microcephaly, vision problems, and increased mortality rate <link linkend="ch0066s0002bib17">(17, 18</link>). Both asymptomatic and symptomatic maternal infections may lead to congenital Zika syndrome and birth defects. Although infection at any time during gestation may lead to congenital Zika syndrome, infection during the first trimester carries the highest risk. If the patient had been pregnant, the fetus should be monitored for signs of congenital Zika virus infection <link linkend="ch0066s0002bib19">(19)</link>. After birth, the infant should be tested for congenital Zika infection independent of apparent birth defects so that the child can be monitored appropriately during development <link linkend="ch0066s0002bib20">(20)</link>.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  Zika virus infection is primarily a concern for pregnant women and individuals trying to conceive (male or female). Although 50 to 80% of Zika virus infections are asymptomatic, the virus can still be passed on to sexual partners <link linkend="ch0066s0002bib21">(21)</link>. Zika virus has been found in the semen of infected, even if asymptomatic, men for up to 3 months <link linkend="ch0066s0002bib22">(22)</link>. Therefore, if a couple is actively trying to conceive and one or both have traveled to an area where Zika is endemic, it is recommended that they postpone conception plans and abstain from sex or use barrier protection for 2 to 3 months, depending on who traveled <link linkend="ch0066s0002bib21">(21)</link>. If a partner is pregnant, and the male traveled to an area of endemicity, barrier protection should be used for the entire pregnancy. This patient was diagnosed with acute Zika virus infection, and her partner may have also been asymptomatically infected. It is recommended that they postpone their conception plans for 3 months. Had the patient’s partner not traveled to the Dominican Republic, conception plans should be postponed for 2 months after her symptom onset.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  At the time of this case, Zika virus epidemics were still occurring in the Americas. In 2016, there were ~36,000 confirmed Zika cases in Puerto Rico <link linkend="ch0066s0002bib23">(23)</link>. Although the patient had Zika virus infection 4 months previously, there are not reliable serologic tests to assess immunity, particularly in the setting of pregnancy when the risk for complications is high. The patient’s obstetrician recommended that she not travel to Puerto Rico while pregnant because of the ongoing epidemic and high case rate. If the patient decided to travel despite this recommendation, she should take precautions to prevent mosquito bites and sexual exposure to Zika virus.</para>
+        <para role="ans1"><emphasis role="strong">9.</emphasis>  Although several neurologic complications like encephalitis, encephalomyelitis, motor and cognitive impairment, and peripheral neuropathy have been described, Guillain-Barré syndrome (GBS) is the most common neurologic sequela in adults after Zika virus infection <link linkend="ch0066s0002bib24">(24, 25</link>). There are ~2 cases of GBS per 10,000 Zika virus infections. GBS is a neurologic disorder that usually presents as progressive, ascending limb weakness up to 4 weeks after an infection or vaccination. The pathogen with the strongest association with GBS is <emphasis>Campylobacter jejuni</emphasis> (see <ulink url="ch0024.xml#ch0024">case 21</ulink>). Studies of post-<emphasis>Campylobacter</emphasis> GBS have suggested that molecular mimicry between microbial and nerve antigens plays a role in disease pathogenesis <link linkend="ch0066s0002bib26">(26)</link>. Other potential antecedent infections include cytomegalovirus, Epstein-Barr virus, hepatitis E virus, influenza A virus, <emphasis>Haemophilus influenzae</emphasis>, and <emphasis>Mycoplasma pneumoniae</emphasis>. Increases of GBS incidence during outbreaks have been observed with Zika virus, dengue virus, chikungunya virus, and severe acute respiratory syndrome coronavirus 2 <link linkend="ch0066s0002bib27">(27)</link>. As described for other GBS antecedent infections, post-Zika GBS is likely immune mediated, as patients have shown higher levels of anti-ganglioside antibodies <link linkend="ch0066s0002bib28">(28)</link>. Most patients with post-Zika GBS fully recover, but some patients have ongoing mild to moderate disability <link linkend="ch0066s0002bib29">(29)</link>. Plasma exchange and intravenous immunoglobulin are treatments that have been used successfully in patients with severe acute GBS to lessen immune-related nerve damage <link linkend="ch0066s0002bib30">(30)</link>.</para>
+      </sect1>
+      <sect1 id="ch0066s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0066s0003l01" role="decimal">
+          <listitem id="ch0066s0003x40">
+            <para>Zika virus is an arbovirus in the <emphasis>Flavivirus</emphasis> genus, along with dengue, yellow fever, and West Nile viruses. It is transmitted by <emphasis>Aedes</emphasis> spp. mosquitoes.</para>
+          </listitem>
+          <listitem id="ch0066s0003x41">
+            <para>Most infections with Zika virus are asymptomatic, but ~20% of people present with symptoms that include fever, rash, arthralgia, myalgia, and conjunctivitis.</para>
+          </listitem>
+          <listitem id="ch0066s0003x42">
+            <para>Outbreaks of Zika have occurred globally. Most recently, Zika epidemics in the Americas led to ~750,000 cases in 2015–2016.</para>
+          </listitem>
+          <listitem id="ch0066s0003x43">
+            <para>Zika disease is mostly a concern for pregnant women and partners trying to conceive. The virus can be transmitted from mother to fetus and by sexual activity. It can be found in the semen of infected men for up to 3 months.</para>
+          </listitem>
+          <listitem id="ch0066s0003x44">
+            <para>Congenital Zika syndrome occurs in 5 to 14% of babies born after maternal infection. Both asymptomatic and symptomatic maternal infections may lead to congenital Zika syndrome and birth defects.</para>
+          </listitem>
+          <listitem id="ch0066s0003x45">
+            <para>Babies born after maternal Zika infection may have birth defects such as microcephaly, eye damage, limited range of motion and body movements, seizures, difficulty swallowing, and hearing loss. Babies may not have apparent defects at birth and still be affected by long-term health problems.</para>
+          </listitem>
+          <listitem id="ch0066s0003x46">
+            <para>Zika virus diagnostic testing depends on the time after symptom onset that specimens were collected and whether there are cocirculating arboviruses like dengue. NAATs of urine and serum are the most sensitive and specific diagnostic tests if performed within 4 days of symptom onset.</para>
+          </listitem>
+          <listitem id="ch0066s0003x47">
+            <para>Virus-specific IgM and neutralizing antibodies usually appear ~1 week after symptom onset. Because flaviviruses cross-react in serologic tests, PRNTs are needed to differentiate between cross-reacting antibodies in primary flavivirus infections.</para>
+          </listitem>
+          <listitem id="ch0066s0003x48">
+            <para>Guillain-Barré syndrome is a neurologic sequela seen in adults following Zika virus infection. It occurs in ~2 out of 10,000 Zika cases.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0066s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0066s0002bib01">Centers for Disease Control and Prevention. 13 March 2024. Dominican Republic. https://wwwnc. cdc. gov/travel/destinations/traveler/none/dominican-republic. Accessed 21 April 2024.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib02">Centers for Disease Control and Prevention. 1 May 2023. Travelers’ diarrhea. https://wwwnc. cdc. gov/travel/yellowbook/2024/preparing/travelers-diarrhea. Accessed 21 April 2024.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib03">Fischer M, Staples JE; Arboviral Diseases Branch, National Center for Emerging and Zoonotic Infectious Diseases, CDC. 2014. Notes from the field: Chikungunya virus spreads in the Americas—Caribbean and South America, 2013-2014. <citetitle>MMWR Morb Mortal Wkly Rep</citetitle> 63:500–501.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib04">Lindsey NP, Staples JE, Fischer M. 2018. Chikungunya virus disease among travelers—United States, 2014–2016. <citetitle>Am J Trop Med Hyg</citetitle> 98:192–197.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib05">Ikejezie J, Shapiro CN, Kim J, Chiu M, Almiron M, Ugarte C, Espinal MA, Aldighieri S. 2017. Zika virus transmission—region of the Americas, May 15, 2015–December 15, 2016. <citetitle>MMWR Morb Mortal Wkly Rep</citetitle> 66:329–334.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib06">Peña F, Pimentel R, Khosla S, Mehta S, Brito M. 2017. Zika virus epidemic in the Dominican Republic, 2016. <citetitle>Open Forum Infect Dis</citetitle>4(Suppl 1): S301.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib07">Hendriksen RS, Price LB, Schupp JM, Gillece JD, Kaas RS, Engelthaler DM, Bortolaia V, Pearson T, Waters AE, Upadhyay BP, Shrestha SD, Adhikari S, Shakya G, Keim PS, Aarestrup FM. 2011. Population genetics of <citetitle>Vibrio cholerae</citetitle>from Nepal in 2010: evidence on the origin of the Haitian outbreak. mBio 2: e 00157-11.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib08">Petrone ME, Earnest R, Lourenço J, Kraemer MUG, Paulino-Ramirez R, Grubaugh ND, Tapia L. 2021. Asynchronicity of endemic and emerging mosquito-borne disease outbreaks in the Dominican Republic. <citetitle>Nat Commun</citetitle> 12:151.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib09">Sharp TM, Fischer M, Muñoz-Jordán JL, Paz-Bailey G, Staples JE, Gregory CJ, Waterman SH. 2019. Dengue and Zika virus diagnostic testing for patients with a clinically compatible illness and risk for infection with both viruses. <citetitle>MMWR Recomm Rep</citetitle> 68:1–10.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib10">Centers for Disease Control and Prevention. 29 September 2022. Clinical testing and diagnosis for Zika virus disease. https://www. cdc. gov/zika/hcp/diagnosis-testing/. Accessed 9 August 2024.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib11">Centers for Disease Control and Prevention. 14 May 2024. Serologic tests for dengue virus. https://www. cdc. gov/dengue/hcp/diagnosis-testing/serologic-tests-for-dengue-virus. html. Accessed 9 August 2024.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib12">Centers for Disease Control and Prevention. 27 June 2024. Countries and territories at risk for Zika. https://www. cdc. gov/zika/geo. Accessed 9 August 2024.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib13">Musso D, Gubler DJ. 2016. Zika virus. <citetitle>Clin Microbiol Rev</citetitle> 29:487–524.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib14">American Red Cross. 2024. Infectious disease, HLA and ABO donor qualification testing. https://www. redcrossblood. org/biomedical-services/blood-diagnostic-testing/blood-testing. html. Accessed 21 April 2024.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib15">Platt DJ, Miner JJ. 2017. Consequences of congenital Zika virus infection. <citetitle>Curr Opin Virol</citetitle> 27:1–7.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib16">Centers for Disease Control and Prevention. 31 May 2024. Congenital Zika syndrome and other birth defects. https://www. cdc. gov/zika/czs. Accessed 9 August 2024.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib17">Musso D, Ko AI, Baud D. 2019. Zika virus infection—after the pandemic. <citetitle>N Engl J Med</citetitle> 381:1444–1457.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib18">Paixao ES, Cardim LL, Costa MCN, Brickley EB, de Carvalho-Sauer RCO, Carmo EH, Andrade RFS, Rodrigues MS, Veiga RV, Costa LC, Moore CA, França GVA, Smeeth L, Rodrigues LC, Barreto ML, Teixeira MG. 2022. Mortality from congenital Zika syndrome—nationwide cohort study in Brazil. <citetitle>N Engl J Med</citetitle> 386:757–767.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib19">Centers for Disease Control and Prevention. 15 May 2024. Clinical considerations for pregnant persons with possible Zika virus infection. https://www. cdc. gov/zika/hcp/clinical-pregnant. Accessed 9 August 2024.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib20">Adebanjo T, Godfred-Cato S, Viens L, Fischer M, Staples JE, Kuhnert-Tallman W, Walke H, Oduyebo T, Polen K, Peacock G, Meaney-Delman D, Honein MA, Rasmussen SA, Moore CA; Contributors. 2017. Update: Interim guidance for the diagnosis, evaluation, and management of infants with possible congenital Zika virus infection—United States, October 2017. <citetitle>MMWR Morb Mortal Wkly Rep</citetitle> 66:1089–1099.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib21">Centers for Disease Control and Prevention. 30 May 2024. Recommendations for travelers and people living abroad. https://www. cdc. gov/zika/travel. Accessed 9 August 2024.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib22">Mead PS, Hills SL, Brooks JT. 2018. Zika virus as a sexually transmitted pathogen. <citetitle>Curr Opin Infect Dis</citetitle> 31:39–44.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib23">Pan American Health Organization, World Health Organization. 2016. Zika Epidemiological Report Puerto Rico. https://www. paho. org/sites/default/files/Nov-2016-cha-zika-situation-report-pur. pdf. Accessed 21 April 2024.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib24">Souza INO, Barros-Aragão FGQ, Frost PS, Figueiredo CP, Clarke JR. 2019. Late neurological consequences of Zika virus infection: risk factors and pharmaceutical approaches. <citetitle>Pharmaceuticals (Basel)</citetitle> 12:60.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib25">Shahrizaila N, Lehmann HC, Kuwabara S. 2021. Guillain-Barré syndrome. <citetitle>Lancet</citetitle> 397:1214–1228.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib26">Yuki N, Susuki K, Koga M, Nishimoto Y, Odaka M, Hirata K, Taguchi K, Miyatake T, Furukawa K, Kobata T, Yamada M. 2004. Carbohydrate mimicry between human ganglioside GM1 and Campylobacter jejuni lipooligosaccharide causes Guillain-Barré syndrome. <citetitle>Proc Natl Acad Sci U S A</citetitle> 101:11404–11409.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib27">Parra B, Lizarazo J, Jiménez-Arango JA, Zea-Vera AF, González-Manrique G, Vargas J, Angarita JA, Zuñiga G, Lopez-Gonzalez R, Beltran CL, Rizcala KH, Morales MT, Pacheco O, Ospina ML, Kumar A, Cornblath DR, Muñoz LS, Osorio L, Barreras P, Pardo CA. 2016. Guillain-Barré syndrome associated with Zika virus infection in Colombia. <citetitle>N Engl J Med</citetitle> 375:1513–1523.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib28">Rivera-Correa J, de Siqueira IC, Mota S, do Rosário MS, Pereira de Jesus PA, Alcantara LCJ, Ernst JD, Rodriguez A. 2019. Anti-ganglioside antibodies in patients with Zika virus infection-associated Guillain-Barré syndrome in Brazil. <citetitle>PLoS Negl Trop Dis</citetitle>13: e 0007695.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib29">Walteros DM, Soares J, Styczynski AR, Abrams JY, Galindo-Buitrago JI, Acosta-Reyes J, Bravo-Ribero E, Arteta ZE, Solano-Sanchez A, Prieto FE, Gonzalez-Duarte M, Navarro-Lechuga E, Salinas JL, Belay ED, Schonberger LB, Damon IK, Ospina ML, Sejvar JJ. 2019. Long-term outcomes of Guillain-Barré syndrome possibly associated with Zika virus infection. <citetitle>PLoS One</citetitle>14: e 0220049.</bibliomixed>
+        <bibliomixed id="ch0066s0002bib30">Leonhard SE, Mandarakas MR, Gondim FAA, Bateman K, Ferreira MLB, Cornblath DR, van Doorn PA, Dourado ME, Hughes RAC, Islam B, Kusunoki S, Pardo CA, Reisin R, Sejvar JJ, Shahrizaila N, Soares C, Umapathi T, Wang Y, Yiu EM, Willison HJ, Jacobs BC. 2019. Diagnosis and management of Guillain-Barré syndrome in ten steps. <citetitle>Nat Rev Neurol</citetitle> 15:671–683.</bibliomixed>
+      </bibliography>
+    </chapter>

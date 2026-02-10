@@ -1,0 +1,24 @@
+# Ignore .svn folders
+.svn/
+
+# Ignore Project folders
+.vs
+.vscode
+.project
+.idea
+
+# Ignore build artifacts
+build/
+bin/
+logs/
+
+.DS_Store
+
+# Ignore all files in test subdirectories
+test/*/**
+
+# But track contents of dtd folder inside temp
+!test/temp/dtd/**
+
+# And track .gitkeep files to maintain directory structure
+!test/*/.gitkeep

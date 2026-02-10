@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0069" label="69">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor7">CASE 66</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0069s0004"><title>CASE 66</title><para>The patient was a 28-year-old female who came to the United States from the Philippines 5 years ago. Two years ago, she was diagnosed with systemic lupus erythematosus (SLE). She was treated with cyclophosphamide for lupus nephritis 2 months ago, but therapy was discontinued due to concerns about drug-induced hepatitis. She remained on hydroxychloroquine and prednisone for her lupus. In the past 3 months the patient had two hospital admissions for fever and myositis; she was diagnosed with SLE flares and treated with pulse-dose steroids. Her current admission was directly from the rheumatology clinic for persistent fever. The patient’s husband stated that she had had daily fever of 38.3 to 38.9°C for the past 4 weeks.</para>
+      <para>Approximately 4 weeks ago, the entire family (patient, husband, and 1-year-old daughter) became ill. The patient and her husband had symptoms consistent with an upper respiratory infection, and the child had tonsillitis but improved. The patient and her husband were put on azithromycin but only her husband improved. In addition, the patient had anorexia with 15 lb of unintentional weight loss in the last few months, as well as nausea, lethargy, and intermittent confusion and dizziness. On physical exam the patient denied neck stiffness, chest pain, shortness of breath, rhinorrhea, abdominal pain, vomiting, diarrhea, arthralgias, myalgias, or rash, though she noted a dry chronic cough.</para>
+      <para>Her physical examination was relatively benign except for an abnormal chest computed tomography scan showing diffuse, tiny nodules throughout both lungs (<link linkend="ch0069s0004fg01">Fig. 66.1</link>). The patient was subsequently sent for a bronchoscopy, and lavage fluid was obtained for bacterial, fungal, and mycobacterial cultures and stains.</para>
+      <figure id="ch0069s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 66.1</emphasis></emphasis> Chest computed tomography scan showing diffuse, tiny nodular lesions. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0069f04.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A scan of the chest showing the lungs with visible air-filled bronchial structures and surrounding chest wall.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <para>Upon receipt of the bronchoalveolar lavage (BAL) fluid, the laboratory proceeded with a mycobacterial culture, which included processing, plating to solid and liquid media, and a fluorescent stain.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0069s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  Why must BAL fluid be processed (i. e., decontaminated and concentrated) for mycobacterial culture?</para>
+        </listitem>
+        <listitem id="ch0069s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  Why are both solid and liquid media inoculated for a mycobacterial culture?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The laboratory performed a fluorescent stain on the patient’s decontaminated, concentrated BAL fluid. The stain was positive (<link linkend="ch0069s0004fg02">Fig. 66.2</link>).</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0069s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  What is the fluorescent stain in <link linkend="ch0069s0004fg02">Fig. 66.2</link>? Why is it used to screen specimens for mycobacteria?</para>
+        </listitem>
+      </itemizedlist>
+      <para>After 2 weeks of incubation, the culture became positive in the liquid medium. The Kinyoun stain from the culture is shown in <link linkend="ch0069s0004fg03">Fig. 66.3</link>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0069s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  Given the patient’s clinical presentation, positive smear result, and BAL fluid mycobacterial culture growth rate, which organism was most likely causing her infection? What risk factors did she have for infection with this organism?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Although the positive acid-fast stain from the primary specimen was nonspecific, a nucleic acid amplification test (NAAT) performed directly on the patient’s smear-positive respiratory specimen was positive for <emphasis>Mycobacterium tuberculosis</emphasis>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0069s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What are the advantages and disadvantages of rapid detection of M. tuberculosis in patient specimens? </para>
+          <figure id="ch0069s0004fg02"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 66.2</emphasis></emphasis> Fluorescent stain of bronchoalveolar lavage fluid (×1,000). </title>
+            
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Ch0069f05.jpg" width="100%" scalefit="1"/>
+              </imageobject>
+              <textobject>
+                <para>A dark background with two bright, curved, orange fluorescent objects, likely indicating bacteria or other microorganisms under a fluorescence microscopy view.</para>
+              </textobject>
+            </mediaobject>
+          </figure>
+          <figure id="ch0069s0004fg03"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 66.3</emphasis></emphasis> Kinyoun stain from positive liquid culture (×400). </title>
+            
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Ch0069f03.jpg" width="100%" scalefit="1"/>
+              </imageobject>
+              <textobject>
+                <para>A microscopic photograph showing brightly stained pink filamentous structures with branching, resembling a network of interconnected, tree-like formations.</para>
+              </textobject>
+            </mediaobject>
+          </figure>
+        </listitem>
+        <listitem id="ch0069s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  Describe the natural history of infections with this organism.</para>
+        </listitem>
+      </itemizedlist>
+      <para>The organism isolated from this patient had the following susceptibility pattern.</para>
+      <table id="ch0069s0004ta01"><title>Table 1</title>
+        
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <tbody>
+            <row>
+              <entry><para>Isoniazid</para>
+              </entry>
+              <entry><para>Resistant</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Rifampin</para>
+              </entry>
+              <entry><para>Resistant</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Pyrazinamide</para>
+              </entry>
+              <entry><para>Resistant</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Ethambutol</para>
+              </entry>
+              <entry><para>Susceptible</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Ethionamide</para>
+              </entry>
+              <entry><para>Resistant</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Capreomycin</para>
+              </entry>
+              <entry><para>Resistant</para>
+              </entry>
+            </row>
+            <row>
+              <entry><para>Ciprofloxacin</para>
+              </entry>
+              <entry><para>Susceptible</para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <itemizedlist mark="none" role="notesList" id="ch0069s0004l01">
+        <listitem id="ch0069s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  How would you classify this organism? What is the global distribution of these organisms? What is the significance of her being from the Philippines?</para>
+        </listitem>
+      </itemizedlist>
+      <para>During the last 25 years, the epidemiology of this organism has changed in the United States.</para>
+      <itemizedlist mark="none" role="notesList" id="ch0069s0004l02">
+        <listitem id="ch0069s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  What treatment strategy was instituted during that time, and how has it affected the epidemiology of infection? What change in the microorganism prompted this new treatment strategy?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient had a history of negative purified protein derivative (PPD) tests upon entering the United States and prior to starting therapy for SLE 2 years ago.</para>
+      <itemizedlist mark="none" role="notesList" id="ch0069s0004l03">
+        <listitem id="ch0069s0004x09" role="qus1">
+          <para><phrase><emphasis role="strong">9</emphasis></phrase>.  What is a PPD test? What is its value in this patient? What additional tests are available for detecting latent infection with this organism?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0069s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  Since BAL fluid is obtained through a bronchoscope that passes through the oral cavity, it can be contaminated with oral microbiota. In addition, patients may be infected by microorganisms that grow faster than mycobacteria, such as <emphasis>Streptococcus pneumoniae</emphasis> or <emphasis>Staphylococcus aureus</emphasis>. The presence of faster-growing microorganisms in the BAL fluid may cause the culture to become overgrown before enough time has passed to detect a slower-growing organism such as <emphasis>Mycobacterium</emphasis> species. Therefore, a decontamination process must be performed on nonsterile sites, including BAL fluid, submitted for mycobacterial culture. Specimen decontamination relies on the use of sodium hydroxide and <emphasis>N</emphasis>-acetyl-L-cysteine that act to kill bacteria and liquefy the specimen, respectively <link linkend="ch0069s0002bib01">(1)</link>. This process also kills a portion of mycobacteria, so diligent adherence to the decontamination protocol is important. Laboratories should maintain quality monitors to assess the effectiveness of the decontamination process so that it is neither too stringent nor too weak <link linkend="ch0069s0002bib02">(2)</link>. The “sweet spot” for contamination rates for mycobacterial cultures is 3 to 5%. Part of the decontamination process includes concentration, which allows for increased sensitivity for larger-volume specimens such as BAL fluid <link linkend="ch0069s0002bib03">(3)</link>.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  A mycobacterial culture assesses the presence of nearly all mycobacterial species, not just <emphasis>M. tuberculosis</emphasis>. Some mycobacterial species grow better in liquid media, while some prefer solid media. Liquid media often allow for faster recovery of mycobacteria from primary specimens, while solid media are helpful in assessing colony morphology and color, which is important for identification algorithms.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  The stain is an auramine-rhodamine fluorescent stain for acid-fast bacilli. The high mycolic acid content in the cell walls of mycobacteria makes the organisms refractory to traditional Gram staining but allows the organisms to be detected directly from patient samples by using stains employing a stringent acid decolorization step, hence the name “acid-fast bacilli.” Acid-fast stains include fluorescent stains, such as auramine and auramine-rhodamine, and carbol fuchsin-based stains, such as Kinyoun and Ziehl-Neelsen, which are viewed by light microscopy. Fluorescent stains are preferred for the detection of acid-fast bacilli in primary specimens because it is easier to visualize fluorescent rods on a dark background than pink rods on a blue background <link linkend="ch0069s0002bib04">(4)</link>. Therefore, fluorescently stained smears can be read at lower power (×200 to ×400) while carbol fuchsin staining must be read at higher power (×600 to ×1,000). Reading slides using lower power allows the microscopist to read more fields of the slide in less time, increasing the sensitivity of detecting acid-fast bacilli while making the method more efficient. Although less sensitive than culture (50 to 65% versus 80 to 85%), acid-fast smears are performed on direct specimens because the positive predictive value is very high, particularly in respiratory specimens. A positive smear indicates that mycobacteria are present, but not necessarily <emphasis>M. tuberculosis</emphasis>. In patients with a high suspicion of tuberculosis (TB), a positive smear can be the catalyst to initiate additional testing (see <link linkend="ch0069s0004x05">question 5</link>), to start therapy and contact investigations, and to place the patient on specific infection control precautions. Persons with smear-positive TB are more infectious because of a higher organism burden than those who are smear negative.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  The most likely organism was <emphasis>M. tuberculosis</emphasis>. The Kinyoun stain from the liquid medium in <link linkend="ch0069s0004fg03">Fig. 66.3</link> displays a phenotype called cording, indicating the serpentine-like appearance of aggregated rods by low-power microscopy. Although many <emphasis>M. tuberculosis</emphasis>strains display cording when grown in liquid culture, there are some strains of other species that can produce similar appearances (i. e.,<emphasis>M. marinum</emphasis> and <emphasis>M. abscessus</emphasis>). A “cording factor” (e. g., trehalose 6,6′-di-mycolate) is found in the cell walls of <emphasis>M. tuberculosis</emphasis> and other cording mycobacterial strains <link linkend="ch0069s0002bib05">(5)</link>.</para>
+        <para>Those at higher risk for TB infection include recent (&lt;5 years) immigrants from high-prevalence countries; persons with substance use disorder; residents or employees of high-risk congregate settings (e. g., homeless shelters, correctional facilities, and long-term care facilities); organ transplant recipients; oncology patients; and persons with HIV infection, silicosis, diabetes mellitus, severe kidney disease, or malnutrition. The patient’s known risk factors included her immunosuppressive therapy for lupus and her immigration from the Philippines.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  The availability of commercial NAATs for the detection of <emphasis>M. tuberculosis</emphasis> DNA directly from patient samples has the potential to significantly reduce the global burden of TB disease by offering a rapid, accurate diagnosis. The World Health Organization (WHO) 2022 Global Tuberculosis Report published in 2022 reported that there were 6.4 million new cases of TB disease globally and that 1.5 million patients died <link linkend="ch0069s0002bib06">(6)</link>. Prior to the COVID-19 pandemic, rates of new TB infections had been rising while the global death rate was declining. The concomitant decrease in new infections and increase in deaths stresses the negative impact the COVID-19 pandemic had on TB control. These data indicate that the number of people with undiagnosed and untreated TB is increasing.</para>
+        <para>Because <emphasis>M. tuberculosis</emphasis> can take up to 3 weeks to grow in culture, and smears are notoriously insensitive and lack specificity for TB, the diagnosis of TB can be grossly delayed in an individual who is actively transmitting disease to others. A rapid diagnosis is critical to starting appropriate therapy and preventing disease transmission. There are limited FDA-approved/cleared NAATs for TB, but additional commercial tests are available globally <link linkend="ch0069s0002bib07">(7)</link>. The WHO endorsed one of these tests (Xpert MTB/RIF; Cepheid, Sunnyvale, CA) in 2010 and has since published policies for its global implementation due to its ease of use in the field, its ability to offer a result while a patient is waiting, and its diagnostic accuracy <link linkend="ch0069s0002bib08">(8, 9</link>). The Xpert MTB/RIF test has a time to result of ~2 hours. Its sensitivity in smear-positive respiratory specimens is 98 to 99%, and the sensitivity in smear-negative specimens is 68 to 90%, depending on the number of specimens tested <link linkend="ch0069s0002bib09">(9)</link>. In addition, the Xpert test also screens for the most common rifampin resistance mutations by interrogating the rifampin resistance-determining region of <emphasis>rpoB</emphasis> in <emphasis>M. tuberculosis</emphasis>. In countries with a higher prevalence of multidrug-resistant TB (MDR-TB), rifampin resistance is a predictor for MDR-TB. This is not necessarily true in the United States, where MDR-TB is uncommon. More data are needed from areas with low MDR-TB rates to determine the positive predictive value of the rifampin resistance screen in low-prevalence settings. The CDC has published recommendations for the use of the TB NAAT in the United States <link linkend="ch0069s0002bib10">(10)</link>.</para>
+        <para>A new version of the test, Xpert MTB/RIF Ultra, is available globally but is not available in the United States; it was endorsed by the WHO in 2017<link linkend="ch0069s0002bib11">(11)</link>. The Xpert Ultra increases the sensitivity of TB detection, particularly in smear-negative pulmonary specimens and extrapulmonary specimens <link linkend="ch0069s0002bib13">(12, 13</link>). The market penetration of Xpert instruments and Xpert MTB/RIF tests acquired through concessional pricing continues to increase with the help of the President’s Emergency Plan for AIDS Relief, the U. S. Agency for International Development, Unitaid of the WHO, and the Gates Foundation<link linkend="ch0069s0002bib14">(14)</link>. While there are other globally available commercial tests for the detection of TB and drug resistance markers, none are as portable and easy to use in low-resource settings, making their global impact more limited.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  <emphasis>M. tuberculosis</emphasis> is spread by respiratory droplets from infected individuals. The droplets are small enough to reach the alveolar space, where they can establish infection. After exposure to TB, only 10 to 30% of people will develop infection. Upon inhalation of M. tuberculosis, an individual has four possible outcomes: (i) clearance of the organism, (ii) latent infection with no reactivation, (iii) latent infection with subsequent reactivation, and (iv) primary TB disease <link linkend="ch0069s0002bib15">(15)</link>. Complete eradication of TB after infection is thought to be rare, but there is evidence suggesting that this may happen. More commonly, disease progression depends on the balance of the organism and the host immune response. The organisms proliferate until an adequate cell-mediated immune response develops. The macrophages containing TB produce cytokines and chemokines to attract other phagocytic cells and cytolytic T cells. The T cells surrounding the macrophages produce gamma interferon (IFN-γ), which keeps the macrophages activated and able to kill TB. The T cells become surrounded by additional macrophages that form a granuloma, which under normal host circumstances suppresses infection. However, if the balance is upset and organisms kill the macrophages, this produces a caseating granuloma. Further, if TB is able to prevent the formation of a granuloma or replicate out of the granuloma, the activated macrophages release cytokines such as tumor necrosis factor directly into lung tissue, causing tissue damage and cavitary lesions. If necrosis occurs along a blood vessel, a more severe form of infection occurs due to the hematogenous spread of TB, which will cause disseminated disease. This form of TB is called miliary disease because the lesions look like millet seeds, which is how this patient presented (<link linkend="ch0069s0004fg01">Fig. 66.1</link>). Reactivation occurs in ~5% of infected persons within the first 18 months of infection, and then there is a 5% risk of reactivation over the course of an infected individual’s life, usually associated with immunosuppression. Common causes of reactivation-inducing immunosuppression are chemotherapy, chronic diseases, and advanced age. In HIV-positive individuals, the risk of reactivation is increased to 5% per life year.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  The organism isolated from this patient had a drug susceptibility pattern consistent with MDR-TB. MDR-TB is defined as being resistant to the first-line agents rifampin and isoniazid. Since standard therapy for TB includes four-drug therapy for 2 months (rifampin, isoniazid, pyrazinamide, and ethambutol) followed by 4 additional months of isoniazid and rifampin therapy, resistance to these two drugs predicts failure of standard antituberculosis therapy. In addition, her organism was also resistant to another first-line agent, pyrazinamide, and the second-line agent capreomycin. Her organism did not meet the definition of an extensively drug-resistant TB (XDR-TB), which is defined as resistance to rifampin and isoniazid plus resistance to any fluoroquinolone and one of the injectable second-line drugs (amikacin, capreomycin, or kanamycin). Although her organism was resistant to capreomycin, it maintained susceptibility to ciprofloxacin, a fluoroquinolone. The incidence of TB and prevalence of MDR-TB in the Philippines are increasing, and the WHO classifies the Philippines as a high-burden country for MDR or rifampin-resistant TB <link linkend="ch0069s0002bib16">(6, 16</link>). Globally, MDR-TB is most prevalent in the Russian Federation, Kazakhstan, China, India, the Philippines, Eastern Europe, South Africa, and Peru, with a moderate prevalence in Southeast Asia, Brazil, and the Middle East. Since it took several weeks for this patient’s culture to grow and for susceptibility testing to be performed on her <emphasis>M. tuberculosis</emphasis> isolate, she was inappropriately treated using standard TB therapy initially. Had her specimen been tested with a diagnostic test that, in addition to detecting TB, screened for rifampin resistance, her clinical course might have been altered. The patient’s disseminated disease caused by a highly resistant organism ultimately led to her death.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  Following a resurgence of TB in the early 1990s due to the increase of HIV infections, TB cases have been on the decline in the United States <link linkend="ch0069s0002bib17">(17)</link>. In 2022, there were 2.5 cases per 100,000 persons, which represented a slight increase after the decrease associated with the COVID-19 pandemic. The number of cases reported is now the lowest since 1953, when national reporting began. The rates are higher in foreign-born persons than those born in the United States, but these rates have also steadily declined. Due to increasing rates of TB in the 1980s, including the appearance of MDR-TB, directly observed treatment, short-course (DOTS) was formally instituted in the United States in 1993. The development of MDR-TB was likely due to patient nonadherence, which is influenced by many factors. Effective antituberculosis therapy requires months to complete, which means patients are rarely hospitalized for the duration of treatment. Thus, most antituberculosis therapy is done in the outpatient setting. The treatment regimen is complex and expensive, and the drugs often have side effects. Further, social and cultural factors, including access to health care, contribute to patient noncompliance. Therefore, dosing regimens were modified, public health programs began providing free antituberculosis therapy, and DOTS was implemented. In DOTS, a reliable individual—anyone from a health care worker to a prison guard to a worker in a homeless shelter—watches the infected individual take his or her medicine to ensure adherence to the appropriate treatment regimen. Public health officials have the option of incarcerating infected individuals who refuse to follow their treatment regimen, to ensure compliance. The thought is that by directly observing a patient take the required treatment, the risk of treatment failure and development of resistance is reduced. More recently, electronic documentation of DOTS (eDOTS) has been piloted using live or recorded video <link linkend="ch0069s0002bib18">(18)</link>.</para>
+        <para role="ans1"><emphasis role="strong">9.</emphasis>  A PPD test, also called tuberculin skin test or Mantoux test, is a skin test used to screen individuals for <emphasis>M. tuberculosis</emphasis> infection. Tuberculin PPD is a cell-free purified protein fraction obtained from inactivated cultures of <emphasis>M. tuberculosis</emphasis>. PPD is injected intradermally in the ventral side of the forearm with a tuberculin syringe. The site of injection is examined 48 to 72 hours later for evidence of a delayed hypersensitivity reaction, or an area of induration. A positive reaction indicates previous infection with <emphasis>M. tuberculosis</emphasis> or other cross-reacting mycobacteria or vaccination with <emphasis>Mycobacterium bovis</emphasis> BCG (bacille Calmette-Guérin). An area of induration of 15 mm or more is positive in any person, independent of immune status or risk factors. Individuals with moderate risk factors for TB infection (see <phrase>answer to question 4</phrase>) are considered positive with an induration of 10 mm or more. Only a 5-mm area of induration is needed for a positive result in HIV-infected individuals, other immunosuppressed persons, recent contacts of those with active TB, or individuals with chest radiograph consistent with TB. It should be noted that most PPD-positive patients are latently infected with TB and do not necessarily have active infection. Immunosuppression may lead to false-negative PPD tests and is common in HIV-infected individuals and patients with underlying chronic diseases and/or on a wide variety of immunosuppressive therapies. Control antigens (usually <emphasis>Candida</emphasis>, mumps, and/or tetanus) may be placed to determine anergy, or the inability to mount a local immune reaction to the injected antigens. Although placing control antigens can help determine a false-negative PPD result, they are rarely performed. In addition, approximately half of patients with miliary tuberculosis (disseminated TB) will have a negative PPD. This patient had miliary TB and a chronic autoimmune disease that likely led to her falsely negative PPD.</para>
+        <para>IFN-γ release assays (IGRAs) are alternative tests to diagnose latent TB infection<link linkend="ch0069s0002bib19">(19)</link>. IGRAs, such as the QuantiFERON and T-SPOT. TB tests, have the advantages of convenience (only one blood draw is needed) and possibly increased sensitivity and specificity over the PPD. There is no cross-reactivity of IGRAs with BCG vaccination, though there is still some cross-reactivity with some nontuberculous mycobacteria (e. g.,<emphasis>Mycobacterium kansasii</emphasis>, <emphasis>Mycobacterium szulgai</emphasis>, and <emphasis>Mycobacterium marinum</emphasis>). With IGRAs, whole blood is collected, white blood cells are stimulated with TB-specific antigens, and the resulting IFN-γ response is measured. Patients with TB infection will release IFN-γ in response to antigen stimulation, but similarly to the PPD, IGRAs do not differentiate between active and latent infection. IGRAs include a control that assesses the patient’s ability to produce IFN-γ to control antigens. Results along the positive threshold can be difficult to interpret, particularly if the test is used serially such as with health care providers. More studies are needed to determine how effectively IGRAs predict those who will progress to active tuberculosis and how the tests perform in children and immunocompromised patients.</para>
+      </sect1>
+      <sect1 id="ch0069s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0069s0003l04" role="decimal">
+          <listitem id="ch0069s0003x29">
+            <para>During the COVID-19 pandemic, the number of diagnosed TB cases decreased, while the global death rate increased. The number of undiagnosed and untreated TB cases is increasing.</para>
+          </listitem>
+          <listitem id="ch0069s0003x30">
+            <para>Risk factors for <emphasis>M. tuberculosis</emphasis>infection include recent (&lt;5 years) immigrants from high-prevalence countries; persons with substance use disorder; residents or employees of high-risk congregate setting (e. g., homeless shelters, correctional facilities, and long-term care facilities); organ transplant recipients; oncology patients; and persons with HIV infection, silicosis, diabetes mellitus, severe kidney disease, or malnutrition.</para>
+          </listitem>
+          <listitem id="ch0069s0003x31">
+            <para><emphasis>M. tuberculosis</emphasis> spreads by respiratory droplets from infected individuals. After exposure, an individual has four possible outcomes: </para>
+            <orderedlist id="ch0069s0003l05" role="lower-latin">
+              <listitem id="ch0069s0003x32">
+                <para>clearance of the organism</para>
+              </listitem>
+              <listitem id="ch0069s0003x33">
+                <para>latent infection with no reactivation</para>
+              </listitem>
+              <listitem id="ch0069s0003x34">
+                <para>latent infection with subsequent reactivation</para>
+              </listitem>
+              <listitem id="ch0069s0003x35">
+                <para>primary TB disease</para>
+              </listitem>
+            </orderedlist>
+          </listitem>
+          <listitem id="ch0069s0003x36">
+            <para>Reactivation occurs in ~5% of infected persons within the first 18 months of infection, and then there is a 5% risk of reactivation over the course of an infected individual’s life, usually associated with immunosuppression.</para>
+          </listitem>
+          <listitem id="ch0069s0003x37">
+            <para>During initial infection, the organisms proliferate until an adequate cell-mediated immune response develops. The host response may lead to granulomas or cavitary lung lesions.</para>
+          </listitem>
+          <listitem id="ch0069s0003x38">
+            <para>For optimal recovery of mycobacteria from nonsterile sources, specimens must be decontaminated and concentrated prior to inoculating both solid and liquid media.</para>
+          </listitem>
+          <listitem id="ch0069s0003x39">
+            <para>Fluorescent stains are used to screen for mycobacteria from direct, processed specimens to increase the sensitivity by allowing the microscopist to see the organisms more easily and scan a larger area of the slide.</para>
+          </listitem>
+          <listitem id="ch0069s0003x40">
+            <para>NAATs provide rapid and sensitive detection of <emphasis>M. tuberculosis</emphasis> directly from patient samples. A rapid diagnosis is critical to starting appropriate therapy and preventing disease transmission.</para>
+          </listitem>
+          <listitem id="ch0069s0003x41">
+            <para>Treatment of TB includes four-drug therapy for 2 months, followed by two-drug therapy (isoniazid and rifampin) for 4 more months. Organisms that are multidrug resistant are difficult to treat and are associated with higher morbidity and mortality.</para>
+          </listitem>
+          <listitem id="ch0069s0003x42">
+            <para>Directly observed therapy was implemented to decrease the risk of antimicrobial resistance associated with noncompliance.</para>
+          </listitem>
+          <listitem id="ch0069s0003x43">
+            <para>Methods used to detect latent tuberculosis infection include the tuberculin skin test (e. g., PPD) and IGRAs.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0069s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0069s0002bib01">Global Laboratory Initiative. 2022. <citetitle>Practical manual on tuberculosis laboratory strengthening: 2022 update</citetitle>. https://www. stoptb. org/sites/default/files/imported/document/gli_practical_manual_on_tb_lab_strengthening_2022. pdf. Stop TB Partnership, Grand-Saconnex, Switzerland.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib02">Forbes BA, Hall GS, Miller MB, Novak SM, Rowlinson MC, Salfinger M, Somoskövi A, Warshauer DM, Wilson ML. 2018. Practical guidance for clinical microbiology laboratories: mycobacteria. <citetitle>Clin Microbiol Rev</citetitle>31: e 00038–17.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib03">Clinical and Laboratory Standards Institute. 2018. Laboratory detection and identification of mycobacteria, 2nd ed. <citetitle>CLSI M48</citetitle>. Clinical and Laboratory Standards Institute, Wayne, PA.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib04">Somoskövi A, Hotaling JE, Fitzgerald M, O'Donnell D, Parsons LM, Salfinger M. 2001. Lessons from a proficiency testing event for acid-fast microscopy. <citetitle>Chest</citetitle> 120:250–257.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib05">Hunter RL, Hwang SA, Jagannath C, Actor JK. 2016. Cord factor as an invisibility cloak? A hypothesis for asymptomatic TB persistence. <citetitle>Tuberculosis (Edinb)</citetitle>101S: S2–S8.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib06">World Health Organization. 2022. Global tuberculosis report 2022. https://www. who. int/publications/i/item/9789240061729. World Health Organization, Geneva, Switzerland.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib07">US Food and Drug Administration. Nucleic acid based tests: list of microbial tests. https://www. fda. gov/medical-devices/in-vitro-diagnostics/nucleic-acid-based-tests#microbial. Accessed 9 August 2024.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib08">World Health Organization. 8 December 2010. <citetitle>WHO endorses new rapid tuberculosis test</citetitle>. https://www. who. int/news/item/08-12-2010-who-endorses-new-rapid-tuberculosis-test. World Health Organization, Geneva, Switzerland.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib09">World Health Organization. 24 April 2014. <citetitle>Xpert MTB/RIF implementation manual: technical and operational ‘how-to’; practical considerations</citetitle>. https://www. who. int/publications/i/item/9789241506700. World Health Organization, Geneva, Switzerland.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib10">Centers for Disease Control and Prevention. 2009. Updated guidelines for the use of nucleic acid amplification tests in the diagnosis of tuberculosis. <citetitle>MMWR Morb Mortal Wkly Rep</citetitle> 58:7–10.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib11">World Health Organization. 24 March 2017. <citetitle>WHO meeting report of a technical expert consultation: non-inferiority analysis of Xpert MTB/RIF ultra compared to Xpert MTB/RIF</citetitle>. https://www. who. int/publications/i/item/WHO-HTM-TB-2017.04. World Health Organization, Geneva, Switzerland.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib12">Zifodya JS, Kreniske JS, Schiller I, Kohli M, Dendukuri N, Schumacher SG, Ochodo EA, Haraka F, Zwerling AA, Pai M, Steingart KR, Horne DJ. 2021. Xpert Ultra versus Xpert MTB/RIF for pulmonary tuberculosis and rifampicin resistance in adults with presumptive pulmonary tuberculosis. <citetitle>Cochrane Database Syst Rev</citetitle>2: CD009593.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib13">Rindi L. 2022. Rapid molecular diagnosis of extra-pulmonary tuberculosis by Xpert/RIF Ultra. <citetitle>Front Microbiol</citetitle> 13:817661.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib14">Cazabon D, Pande T, Kik S, Van Gemert W, Sohn H, Denkinger C, Qin ZZ, Waning B, Pai M. 2018. Market penetration of Xpert MTB/RIF in high tuberculosis burden countries: a trend analysis from 2014–2016. <citetitle>Gates Open Res</citetitle> 2:35.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib15">Sossen B, Richards AS, Heinsohn T, Frascella B, Balzarini F, Oradini-Alacreu A, Odone A, Rogozinska E, Häcker B, Cobelens F, Kranzer K, Houben RMGJ, Esmail H. 2023. The natural history of untreated pulmonary tuberculosis in adults: a systematic review and meta-analysis. <citetitle>Lancet Respir Med</citetitle> 11:367–379.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib16">Stop TB Partnership. Tuberculosis dashboard: interactive country group dashboard. https://dashboards. stoptb. org/country-profile. html. Accessed 1 February 2025.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib17">Centers for Disease Control and Prevention. Tuberculosis data. https://www. cdc. gov/tb-data/. Accessed 1 February 2025.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib18">Centers for Disease Control and Prevention. 2023. A promising HIP intervention — electronic directly observed therapy for active TB disease. https://www. cdc. gov/high-impact-prevention/php/case-studies/directly-observed-therapy-tb. html. Accessed 9 August 2024.</bibliomixed>
+        <bibliomixed id="ch0069s0002bib19">Alexander TS, Miller MB, Gilligan P. 2011. Should interferon gamma release assays become the standard method for screening patients for Mycobacterium tuberculosis infections in the United States? <citetitle>J Clin Microbiol</citetitle> 49:2086–2092.</bibliomixed>
+      </bibliography>
+    </chapter>

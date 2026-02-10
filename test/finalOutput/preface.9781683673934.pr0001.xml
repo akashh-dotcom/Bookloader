@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preface id="pr0001">
+   <prefaceinfo>
+      <risinfo>
+         <booktitle>Clinical Laboratory Management</booktitle>
+         <isbn>9781683673934</isbn>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Lynne S.</firstname>
+                  <surname>Garcia</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc.</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Lynne S.</firstname>
+            <surname>Garcia</surname>
+         </personname>
+      </primaryauthor>
+   </prefaceinfo>
+   <title>Cover Page</title>
+   <figure float="0" id="pr0001s0001fg02">
+      <title>Cover</title>
+      <mediaobject>
+         <imageobject>
+            <imagedata fileref="Prefacef03.jpg" scalefit="1" width="100%"/>
+         </imageobject>
+      </mediaobject>
+   </figure>
+   <figure float="0" id="pr0001s0001fg01">
+      <title/>
+      <mediaobject>
+         <imageobject>
+            <imagedata fileref="Prefacef01.jpg" scalefit="1" width="100%"/>
+         </imageobject>
+         <textobject>
+            <para>Cover: Clinical Laboratory Management, Third Edition, by Lynne S. Garcia</para>
+         </textobject>
+      </mediaobject>
+   </figure>
+</preface>

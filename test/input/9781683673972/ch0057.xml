@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0057" label="57">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor6">CASE 54</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0057s0004"><title>CASE 54</title><para>The patient was a male in his late 60s with prior 5-month hospitalization for severe COVID-19 pneumonia followed by a stay at a long-term acute care hospital. His history was significant for type 2 diabetes, coronary artery disease, hypertension, chronic kidney disease requiring hemodialysis, ventilator-dependent respiratory failure, and a chronic sacral ulcer requiring debridement. Most recently he was admitted to the medical intensive care unit with septic shock and aspiration pneumonia, with an extended and complicated hospital course with numerous infections.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0057s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What hospital-acquired infections (HAIs) was the patient at risk of developing?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Presently, the patient was found to have new right upper lobe infiltrates and acute leukocytosis (white blood cell count, 30,400/μl). The patient was also noted to have pyuria, and the subsequent urine culture grew ≥10<superscript>5</superscript> CFU/ml of a yeast.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0057s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  How should yeast from a urine culture be reported? Is there any additional work that should be done given this particular patient’s risk factors?</para>
+        </listitem>
+        <listitem id="ch0057s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  What is <emphasis>Candida auris</emphasis>, and why is it an infection prevention concern?</para>
+        </listitem>
+        <listitem id="ch0057s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  What risk factors are associated with <emphasis>C. auris</emphasis> colonization?</para>
+        </listitem>
+        <listitem id="ch0057s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What methods exist for screening patients for <emphasis>C. auris</emphasis> colonization?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient was treated with caspofungin for 10 days for suspected funguria and with cefiderocol for 7 days for possible hospital-acquired pneumonia given the history of multidrug-resistant respiratory pathogens. After nearly 2 months without antimicrobials, the patient again had pyuria and repeat urine culture growing ≥10<superscript>5</superscript> CFU/ml of <emphasis>C. auris</emphasis>. Two days later, blood cultures were positive and the Gram stain from the culture bottle showed the morphology in <link linkend="ch0057s0004fg01">Fig. 54.1</link>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0057s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What Gram stain morphology is seen in <link linkend="ch0057s0004fg01">Fig. 54.1</link>?</para>
+        </listitem>
+      </itemizedlist>
+      <figure id="ch0057s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 54.1</emphasis></emphasis> Gram stain from blood culture bottle (magnification, ×1,000). </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0057f01.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A microscopic photograph showing clusters of dark-stained filamentous structures, possibly representing fungal hyphae or bacterial colonies, with branching patterns against a light background.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <para>The yeast was identified as <emphasis>C. auris</emphasis> by matrix-assisted laser desorption ionization–time of flight mass spectrometry (MALDI-TOF MS).</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0057s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  Is this a reliable method for <emphasis>C. auris</emphasis> identification? What known challenges exist with <emphasis>C. auris</emphasis> identification with other methods?</para>
+        </listitem>
+        <listitem id="ch0057s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  Broadly, what is the expected <emphasis>C. auris</emphasis> susceptibility profile?</para>
+        </listitem>
+      </itemizedlist>
+      <para>This patient’s <emphasis>C. auris</emphasis> isolate was tested against fluconazole (MIC &gt;64 μg/ml, R) and micafungin as a surrogate for caspofungin (MIC 0.06 μg/ml, S) using a CLSI-recommended broth microdilution method. Unfortunately, the patient ultimately passed away.</para>
+      </sect1><sect1 id="ch0057s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>This patient’s critical illness, number of invasive procedures including ventilator dependence and number of indwelling lines (e. g., central venous catheter), and various antibiotic courses are risk factors for HAIs. Specifically, this patient’s lifesaving interventions present the risk for ventilator-associated pneumonia, central line-associated bloodstream infection, catheter-associated urinary tract infection, and surgical site infection. This patient was also at risk of developing <emphasis>Clostridioides difficile</emphasis> infection due to recent antibiotic exposure, age (≥65), and extensive contact with health care <link linkend="ch0057s0002bib01">(1)</link>.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  It is recommended that <emphasis>Candida</emphasis> species are not reported specifically and instead reported as “yeast” with further identification only by request <link linkend="ch0057s0002bib02">(2)</link>. However, <emphasis>Cryptococcus</emphasis>, <emphasis>Geotrichum</emphasis>, and <emphasis>Trichosporon</emphasis> recovered from urine cultures should be reported to at least the genus level. Antifungal susceptibility testing is not routinely performed when yeasts are isolated from urine. While non-<emphasis>auris Candida</emphasis> species may not be reported clinically from nonsterile culture sites, identifying yeast isolates to “passively screen” for <emphasis>C. auris</emphasis> can be a beneficial infection prevention tool, particularly for inpatients <link linkend="ch0057s0002bib03">(3)</link>.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  <emphasis>C. auris</emphasis> is a yeast that has emerged as a global health threat over the course of the last decade and may be multidrug resistant. The first documented isolation of <emphasis>C. auris</emphasis> occurred in 2009 in Japan <link linkend="ch0057s0002bib04">(4)</link>. Since then, it has been isolated all over the globe, with the first reported U. S. case occurring in New York<link linkend="ch0057s0002bib05">(5)</link>. In 2023, there were more than 4,500 documented clinical cases of <emphasis>C. auris</emphasis>, with Nevada, California, Florida, New York, Illinois, and Texas reporting the most <link linkend="ch0057s0002bib06">(6)</link>. The rapid rise and immediate threat of <emphasis>C. auris</emphasis> have been noted in the 2019 CDC Antibiotic Resistance Threats Report and the 2022 WHO Fungal Priority List (<link linkend="ch0057s0002bib07">7</link>, <link linkend="ch0057s0002bib08">8</link>). It has been postulated that the emergence of <emphasis>C. auris</emphasis> as a pathogen is a result of global warming <link linkend="ch0057s0002bib09">(9)</link>. With the adaptation of <emphasis>C. auris</emphasis> to rising temperatures in its natural habitat, it acquired a tolerance to animal body temperature, which resulted in the ability to colonize and spread in new populations. <emphasis>C. auris</emphasis> is most closely related to <emphasis>C. duobushaemulonii</emphasis>, <emphasis>C. pseudohaemulonii</emphasis>, and <emphasis>C. haemulonii</emphasis>, all rarely encountered <emphasis>Candida</emphasis> species of limited pathogenic potential <link linkend="ch0057s0002bib10">(10)</link>. There are five recognized clades of <emphasis>C. auris</emphasis>, emerging from distinct geographic regions, all of which have been detected in the United States. Clade I is the most commonly encountered in the United States, but local outbreaks are largely dependent on the mode of introduction <link linkend="ch0057s0002bib11">(11)</link>.</para>
+        <para><emphasis>C. auris</emphasis> presents a significant infection prevention concern due to its unique abilities to persist in the hospital environment and resist disinfection. Studies have shown that <emphasis>C. auris</emphasis> can remain viable on surfaces for weeks <link linkend="ch0057s0002bib12">(12)</link>. Additionally, <emphasis>C. auris</emphasis> can be resistant to commonly used disinfection products, including quaternary ammonia compounds. Recommendations for disinfection include the use of products on the Environmental Protection Agency (EPA) list “P” <link linkend="ch0057s0002bib13">(13)</link>, which are products with specific claims for activity against <emphasis>C. auris</emphasis>(e. g., containing sodium hypochlorite, hydrogen peroxide) or, if unavailable, EPA list “K” with <emphasis>C. difficile</emphasis>spore activity (e. g., containing sodium hypochlorite, hydrogen peroxide)<link linkend="ch0057s0002bib14">(14)</link>. Together, these features of <emphasis>C. auris</emphasis> contribute to the possibility of environment-to-patient transmission within the health care facility.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  Risk factors for <emphasis>C. auris</emphasis> colonization include a known epidemiological link to a patient infected with <emphasis>C. auris</emphasis>, admission at a facility with known <emphasis>C. auris</emphasis> circulation, or frequent contact with health care, specifically long-term acute care facilities or ventilator-capable skilled nursing facilities <link linkend="ch0057s0002bib15">(15)</link>. Invasive procedures or lifesaving measures, such as indwelling medical devices or central lines, increase the risk of infection. Colonization with <emphasis>C. auris</emphasis> increases the risk that patients will progress to invasive infection <link linkend="ch0057s0002bib16">(16)</link>.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  CDC recommends screening patients with the risk factors described in <phrase>answer 4</phrase> for <emphasis>C. auris</emphasis> colonization <link linkend="ch0057s0002bib15">(15)</link>. Identification of colonized patients can be helpful in implementing the correct infection prevention control measures, namely contact precautions, and directing <emphasis>C. auris</emphasis>-specific terminal cleaning of the patient room. Active surveillance for <emphasis>C. auris</emphasis> colonization can be done by culture or nucleic acid amplification test (NAAT) <link linkend="ch0057s0002bib17">(17)</link>. A combined swab of the axilla and groin can be plated directly to a salt/dulcitol-containing agar or enriched in a salt/dulcitol broth prior to plating. These conditions selectively grow <emphasis>C. auris</emphasis> over other <emphasis>Candida</emphasis>species. Chromogenic media, e. g., CHROMagar <emphasis>Candida</emphasis> Plus, can also be used for isolation and differentiation of <emphasis>Candida</emphasis> species, including <emphasis>C. auris</emphasis>. NAAT testing uses the same sample type and is preferred to culture in terms of speed and throughput. Broth preenrichment can improve sensitivity of NAAT screening.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  <link linkend="ch0057s0004fg01">Figure 54.1</link> shows small oval budding yeasts in the Gram stain from the blood culture bottles. This morphology is most consistent with <emphasis>Candida</emphasis> species.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  MALDI-TOF MS is a reliable method for identification of <emphasis>C. auris</emphasis> when using up-to-date databases. Misidentification of <emphasis>C. auris</emphasis> as other yeast species has been reported when using other semiautomated or phenotypic identification methods <link linkend="ch0057s0002bib18">(18)</link>. Molecular methods, such as rapid blood culture yeast identification panels and 28S D1/D2 or internal transcribed spacer sequencing, have been shown to be reliable as well. Special chromogenic agars with the ability to differentiate <emphasis>C. auris</emphasis> can provide rapid, culture-based discrimination.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  Azole resistance of <emphasis>C. auris</emphasis> is extremely common, &gt;90%, and azoles are considered ineffective <link linkend="ch0057s0002bib19">(19)</link>. Resistance to amphotericin B is also common, particularly in clade I, the most common clade encountered in the United States. Resistance to echinocandins is infrequent, but pan-resistant isolates have been reported. There are currently no established interpretive criteria of antifungal susceptibility testing for <emphasis>C. auris</emphasis>. Tentative breakpoints, based on criteria used for other <emphasis>Candida</emphasis> species, may be used to interpret MICs and assist in choice of therapy <link linkend="ch0057s0002bib20">(20)</link>.</para>
+      </sect1>
+      <sect1 id="ch0057s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0057s0003l01" role="decimal">
+          <listitem id="ch0057s0003x29">
+            <para><emphasis>C. auris</emphasis> is an emerging global pathogen, with dramatically increased case counts over the last decade.</para>
+          </listitem>
+          <listitem id="ch0057s0003x30">
+            <para>Prolonged contact with health care, stays at long-term acute care hospitals or ventilator-capable skilled nursing facilities, invasive procedures or indwelling devices, receipt of broad-spectrum antimicrobials, or prolonged exposure to fluconazole have been linked to increased risk of <emphasis>C. auris</emphasis> colonization.</para>
+          </listitem>
+          <listitem id="ch0057s0003x31">
+            <para>Screening is recommended upon hospitalization to direct infection prevention practices. Screening can be accomplished by NAAT and culture.</para>
+          </listitem>
+          <listitem id="ch0057s0003x32">
+            <para><emphasis>C. auris</emphasis> risk to the health care facility includes prolonged survival on surfaces and resistance to disinfection, contributing to the possibility of hospital-acquired infections.</para>
+          </listitem>
+          <listitem id="ch0057s0003x33">
+            <para>Colonization with <emphasis>C. auris</emphasis> increases the risk of serious infection, particularly in immunocompromised patients. Infection with <emphasis>C. auris</emphasis> carries a high mortality rate.</para>
+          </listitem>
+          <listitem id="ch0057s0003x34">
+            <para><emphasis>C. auris</emphasis> has high rates of resistance to azoles and shows variable resistance to amphotericin and low-level resistance to echinocandins. Pan-resistant isolates have been detected in the United States.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0057s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0057s0002bib01">Centers for Disease Control and Prevention. 18 December 2024. About C. diff. https://www. cdc. gov/c-diff/about/index. html. Accessed 14 February 2025.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib02">Yarbrough ML, Potter RF. 2023. Urine cultures, p 3.11.1.1–3.11.1.15. In Leber AL, Burnham CA-D (ed). <citetitle>Clinical Microbiology Procedures Handbook</citetitle>, 5th ed. ASM Press, Washington, DC.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib03">de St Maurice A, Parti U, Anikst VE, Harper T, Mirasol R, Dayo AJ, Garner OB, Prabaker KK, Yang S. 2023. Clinical, microbiological, and genomic characteristics of clade-III Candida auris colonization and infection in southern California, 2019–2022. <citetitle>Infect Control Hosp Epidemiol</citetitle> 44:1093–1101.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib04">Satoh K, Makimura K, Hasumi Y, Nishiyama Y, Uchida K, Yamaguchi H. 2009. Candida auris sp. nov., a novel ascomycetous yeast isolated from the external ear canal of an inpatient in a Japanese hospital. <citetitle>Microbiol Immunol</citetitle> 53:41–44.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib05">Vallabhaneni S, Kallen A, Tsay S, Chow N, Welsh R, Kerins J, Kemble SK, Pacilli M, Black SR, Landon E, Ridgway J, Palmore TN, Zelzany A, Adams EH, Quinn M, Chaturvedi S, Greenko J, Fernandez R, Southwick K, Furuya EY, Calfee DP, Hamula C, Patel G, Barrett P, Lafaro P, Berkow EL, Moulton-Meissner H, Noble-Wang J, Fagan RP, Jackson BR, Lockhart SR, Litvintseva AP, Chiller TM. 2017. Investigation of the first seven reported cases of Candida auris, a globally emerging invasive, multidrug-resistant fungus-United States, May 2013–August 2016. <citetitle>Am J Transplant</citetitle> 17:296–299.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib06">Centers for Disease Control and Prevention. 9 December 2024. Tracking C. auris. https://www. cdc. gov/candida-auris/tracking-c-auris. Accessed 14 February 2025.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib07">Centers for Disease Control and Prevention. 2019. <citetitle>Antibiotic Resistance Threats in the United States, 2019</citetitle>. US Department of Health and Human Services, Atlanta, GA.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib08">World Health Organization. 2022. <citetitle>WHO Fungal Priority Pathogens List To Guide Research</citetitle>, Development and Public Health Action. World Health Organization, Geneva, Switzerland.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib09">Casadevall A, Kontoyiannis DP, Robert V. 2019. On the emergence of Candida auris: climate change, azoles, swamps, and birds. <citetitle>mBio</citetitle>10: e 01397-19.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib10">Du H, Bing J, Hu T, Ennis CL, Nobile CJ, Huang G. 2020. Candida auris: epidemiology, biology, antifungal resistance, and virulence. <citetitle>PLoS Pathog</citetitle>16: e 1008921.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib11">Chow NA, Gade L, Tsay SV, Forsberg K, Greenko JA, Southwick KL, Barrett PM, Kerins JL, Lockhart SR, Chiller TM, Litvintseva AP; US 2018. Multiple introductions and subsequent transmission of multidrug-resistant Investigation Team. Candida auris in the USA: a molecular epidemiological survey. Candida auris <citetitle>Lancet Infect Dis</citetitle> 18:1377–1384.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib12">Welsh RM, Bentz ML, Shams A, Houston H, Lyons A, Rose LJ, Litvintseva AP. 2017. Survival, persistence, and isolation of the emerging multidrug-resistant pathogenic yeast Candida auris on a plastic health care surface. <citetitle>J Clin Microbiol</citetitle> 55:2996–3005.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib13">United States Environmental Protection Agency. 26 February 2024. EPA’s registered antimicrobial products effective against Candida auris [List P]. https://www. epa. gov/pesticide-registration/epas-registered-antimicrobial-products-effective-against-candida-auris-list. Accessed 11 March 2024.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib14">United States Environmental Protection Agency. 26 February 2024. EPA’s registered antimicrobial products effective against Clostridioides difficile (C. diff) spores [List K]. https://www. epa. gov/pesticide-registration/epas-registered-antimicrobial-products-effective-against-clostridioides. Accessed 11 March 2024.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib15">Centers for Disease Control and Prevention. 24 April 2024. Screening recommendations for healthcare facilities. https://www. cdc. gov/candida-auris/hcp/screening-hcp. Accessed 14 February 2025.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib16">Rossow J, Ostrowsky B, Adams E, Greenko J, Mc Donald R, Vallabhaneni S, Forsberg K, Perez S, Lucas T, Alroy KA, Jacobs Slifka K, Walters M, Jackson BR, Quinn M, Chaturvedi S, Blog D; New York Candida auris Investigation Workgroup. 2021. Factors associated with Candida auris colonization and transmission in skilled nursing facilities with ventilator units, New York, 2016–2018.<citetitle>Clin Infect Dis</citetitle>72: e 753–e 760.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib17">Centers for Disease Control and Prevention. 23 April 2024. Guidance for detection of C. auris colonization. https://www. cdc. gov/candida-auris/hcp/laboratories/detection-colonization. html. Accessed 14 February 2025.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib18">Centers for Disease Control and Prevention. 27 June 2024. Identification of C. auris. https://www. cdc. gov/candida-auris/hcp/laboratories/identification-of-c-auris. html. Accessed 14 February 2025.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib19">Chow NA, Muñoz JF, Gade L, Berkow EL, Li X, Welsh RM, Forsberg K, Lockhart SR, Adam R, Alanio A, Alastruey-Izquierdo A, Althawadi S, Araúz AB, Ben-Ami R, Bharat A, Calvo B, Desnos-Ollivier M, Escandón P, Gardam D, Gunturu R, Heath CH, Kurzai O, Martin R, Litvintseva AP, Cuomo CA. 2020. Tracing the evolutionary history and global expansion of Candida auris using population genomic analyses. <citetitle>mBio</citetitle>11: e 03364-19.</bibliomixed>
+        <bibliomixed id="ch0057s0002bib20">Centers for Disease Control and Prevention. 23 April 2024. Antifungal susceptibility testing for C. auris. https://www. cdc. gov/candida-auris/hcp/laboratories/antifungal-susceptibility-testing. html. Accessed 14 February 2025.</bibliomixed>
+      </bibliography>
+    </chapter>

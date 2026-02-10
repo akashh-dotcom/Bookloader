@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules PUBLIC "-//RIS Dev//DTD RIS Tagging rules//EN" "ris_rules.dtd">
+<!-- FAST MODE: Optimized for quick local debugging - skips slow linking operations -->
+<rules>
+    <rule type="addRISInfo" action="apply"/>
+    <rule type="addPMID" action="disable"/>
+	<rule type="addRISIndex1" action="disable"/>    
+    <rule type="linkKeyword" action="disable"/>
+    
+    <!-- DISABLED for fast mode - these are SLOW -->
+    <rule type="linkDrug" action="disable"/>
+    <rule type="linkDisease" action="disable"/>    
+    
+    <rule type="loadContent" action="apply"/>
+</rules>

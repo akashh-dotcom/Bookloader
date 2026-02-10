@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0040" label="40">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor4">CASE 37</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0040s0004"><title>CASE 37</title><para>The patient was a 44-year-old nursing assistant who, 3 days previously, suffered a dislocated left thumb while assisting a patient into a wheelchair. When she got home from work, a family member reduced the dislocation. However, over the next 2 days, she had gradually increased ascending pain and swelling in her left arm. She visited her local emergency department on each of those 2 days. She was given analgesics (not specified) and sent home both times.</para>
+      <para>On her third day of illness, she visited her primary care physician, where she had a cardiopulmonary arrest. She was resuscitated, intubated, and transferred to the hospital by air ambulance.</para>
+      <para>Physical examination of her left arm was consistent with a nonperfused extremity, including a cold, cyanotic hand; blisters with skin necrosis between the wrist and elbow, and arm warm to the touch at the elbow and above.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0040s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  Given her history and physical findings, what do you think was happening with this patient? What emergent steps do you think should have been taken?</para>
+        </listitem>
+      </itemizedlist>
+      <para>She had a temperature of 39.1°C, a heart rate of 197 beats/minute, and blood pressure of 95/45 mm Hg. In addition, her white blood cell count was 4,700/μl; her hemoglobin was 11.7 g/dl; and she had a creatinine of 1.9 mg/dl, a blood urea nitrogen of 32 mg/dl, and a creatine kinase of 3,307 units/liter.</para>
+      <para>She was begun on clindamycin and penicillin G and taken to the operating room (OR).</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0040s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  The laboratory findings point to what infectious syndrome? Explain your answer. In particular, how do you interpret her creatine kinase result?</para>
+        </listitem>
+        <listitem id="ch0040s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  Why were clindamycin and penicillin chosen as initial antimicrobial treatment?</para>
+        </listitem>
+      </itemizedlist>
+      <para>In the OR, an incision was made over her left humerus, which revealed necrotic tissue and dishwater fluid between tissue planes at the fascial level. The necrotic tissue was submitted to the laboratory for a culture and stat Gram stain (<link linkend="ch0040s0004fg01">Fig. 37.1</link>).</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0040s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  Describe the finding on Gram stain. The technologist who read the Gram stain called the OR within 10 minutes of the specimen arriving in the laboratory. She was able to accurately identify the cause of the patient’s infection. Why?</para>
+        </listitem>
+      </itemizedlist>
+      <figure id="ch0040s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 37.1</emphasis></emphasis> Direct Gram stain from tissue (magnification, ×1,000). </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0040f04.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A microscopic slide showing numerous red-stained cells and blue-stained structures, indicating a stained biological sample, likely of blood or tissue tissue with cellular components.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <para>Her arm was amputated at the shoulder. She had additional tissue debridement of necrotic tissue down to the pectoralis major.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0040s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  At this point, what was the prognosis for the patient?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Postoperatively, the patient became increasingly hemodynamically unstable, had a cardiac arrest, and could not be resuscitated. The organism recovered from the patient is shown in <link linkend="ch0040s0004fg02">Fig. 37.2</link>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0040s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What is the organism that was recovered from this patient? What is the significance of the mucoid appearance of the colonies?</para>
+        </listitem>
+        <listitem id="ch0040s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  Briefly describe the pathogenesis of the patient’s infection, focusing on the virulence factors produced by this organism and the role of the patient’s immune response in the disease process.</para>
+        </listitem>
+        <listitem id="ch0040s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  What might have changed the outcome in this patient?</para>
+        </listitem>
+      </itemizedlist>
+      <para>It was subsequently learned that the individual with whom the patient was working when she suffered the thumb dislocation had been admitted with septic shock to another hospital.</para>
+      <figure id="ch0040s0004fg02"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 37.2</emphasis></emphasis> Isolate recovered from patient. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0040f05.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A photograph shows blood agar with bacterial colonies and streak lines, showing growth patterns of microorganisms for laboratory analysis.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0040s0004x09" role="qus1">
+          <para><phrase><emphasis role="strong">9</emphasis></phrase>.  How might these events be related? What could be done to prove they were related?</para>
+        </listitem>
+        <listitem id="ch0040s0004x10" role="qus2">
+          <para><phrase><emphasis role="strong">10</emphasis></phrase>.  Despite decades of effort, there currently is no vaccine against group A <emphasis>Streptococcus</emphasis> (GAS). However, a childhood vaccine is likely highly protective against necrotizing soft tissue infections (NSTI). What is that vaccine, and why is it protective?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0040s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  The patient’s history is consistent with NSTI complicated by septic or toxic shock, leading to cardiopulmonary arrest. A common initial event in NSTI is trauma, where there is no break in the skin, such as a dislocated thumb <link linkend="ch0040s0002bib01">(1)</link>. Severe pain causes the individual to seek medical attention <link linkend="ch0040s0002bib01">(1)</link>. The use of analgesics may initially mask the severity of the pain, which is a key sign in the diagnosis of NSTI <link linkend="ch0040s0002bib01">(1)</link>. It is estimated that as many as 70% of NSTIs may be misdiagnosed in the early stages of infection <link linkend="ch0040s0002bib02">(2)</link>. The key intervention in NSTI is early surgical debridement of necrotic tissue, preferably within 24 hours <link linkend="ch0040s0002bib01">(1)</link>. The longer the delay in intervention, the greater the mortality. In severe cases, limb amputation may be necessary <link linkend="ch0040s0002bib02">(2)</link>. One of the most ominous findings in her physical examination was the cold, cyanotic hand, which indicates that there had been a compromise to the blood flow to the hand, which likely would not be reversible. (See <phrase>answer to question 7</phrase> for further explanation.)</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  This patient had streptococcal toxic shock syndrome (STSS) associated with NSTI <link linkend="ch0040s0002bib03">(3)</link>. STSS is defined as recovery of GAS from a normally sterile site, shock as evidenced by decreased blood pressure (95/45 mm Hg in this patient despite the initiation of fluid resuscitation), and evidence of failure in two or more organ systems. This patient had evidence of renal, cardiac, and pulmonary failure based on laboratory and clinical findings. The physiological response to the production of superantigens by GAS causes STSS. Streptococcal pyogenic exotoxin A (SpeA) is the superantigen most associated with STSS. This molecule binds nonspecifically to antigen-presenting cells and T lymphocytes, causing the T lymphocytes to produce massive amounts of proinflammatory cytokines, including tumor necrosis factor alpha, interleukin-1beta, interleukin-2, and interferon gamma. These high levels of cytokines activate the complement, coagulation, and fibrinolysis cascades, which are responsible for the abnormal physiological response characteristic of STSS.</para>
+        <para>Highly elevated creatine kinase levels are a key characteristic of GAS NSTIs<link linkend="ch0040s0002bib04">(4)</link>. It reflects the massive tissue damage that occurs in this infection. See the <phrase>answer to question 7</phrase> for greater details.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  Her clinical presentation and laboratory findings are consistent with GAS NSTI complicated by STSS <link linkend="ch0040s0002bib05">(5)</link>. The combination of penicillin and clindamycin is recommended for GAS NSTI treatment. This recommendation was initially based on animal model studies that showed reduced GAS toxin production, especially SpeA <link linkend="ch0040s0002bib06">(6)</link>. There is an emerging body of retrospective clinical evidence that adjunctive clindamycin therapy <link linkend="ch0040s0002bib06">(6)</link> reduces mortality compared to penicillin given alone, confirming the animal model findings. Unlike penicillin, clindamycin is not prone to an inoculum effect nor loses activity against stationary-phase organisms. Both are problems with penicillin therapy. The number of organisms in the tissue may be too large for penicillin to kill efficiently. In addition, because of the rapid growth of GAS in tissue, many organisms may be in the stationary phase or no longer growing. Penicillin only kills actively growing organisms.</para>
+        <para>One of the problems with clindamycin therapy for GAS NSTIs is that 22% of isolates are reported to be resistant to this antimicrobial<link linkend="ch0040s0002bib07">(7)</link>. Detection of clindamycin resistance in Gram-positive cocci, including GAS, is not straightforward. Strains of GAS and other Gram-positive organisms may have an inducible form of clindamycin resistance due to the presence of an erythromycin ribosomal methylase (<emphasis>erm</emphasis>) gene. By standard susceptibility tests, <emphasis>erm</emphasis>-containing GAS isolates appear susceptible. However, when the inducer, erythromycin, is placed 12 mm from the clindamycin disk, the zone of inhibition will flatten on the side of the disk adjacent to the erythromycin disk. This zone looks like the letter “D” (<link linkend="ch0040s0001fg03">Fig. 37.3</link>); thus, the term “D test.” Isolates with inducible resistance may undergo mutation to a constitutive form of the enzyme during clindamycin therapy, resulting in the organism becoming resistant. Given the severity of NSTI, it is of value to know if the organism has inducible clindamycin resistance. Animal studies suggest that linezolid may be a useful alternative to clindamycin in treating of GAS NSTI; the use of linezolid as a replacement for clindamycin is a focus of ongoing assessment and debate <link linkend="ch0040s0002bib08">(8)</link>.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  The Gram stain shows large numbers of Gram-positive cocci in pairs and short chains. Gram stains of deep-tissue specimens typically are negative for the presence of microorganisms. Such large numbers of organisms are unusual and suggest a serious infectious process. The finding of Gram-positive cocci in pairs and short chains is most consistent with organisms in the <emphasis>Streptococcus</emphasis> or <emphasis>Enterococcus</emphasis> genera. Since GAS are the most likely Gram-positive cocci in pairs and chains to cause a severe infection in deep tissue, especially of an extremity, the technologist surmised that the etiologic agent was GAS <link linkend="ch0040s0002bib01">(1)</link>. See the <phrase>answer to question 6</phrase> for further information. Other common etiologic agents of NSTI include <emphasis>Staphylococcus aureus</emphasis>, a Gram-positive coccus in clusters; <emphasis>Vibrio vulnificus</emphasis>, a curved Gram-negative bacillus; <emphasis>Clostridium perfringens</emphasis> and <emphasis>Clostridium septicum</emphasis>, Gram-positive bacilli; <emphasis>Aeromonas hydrophila</emphasis>, a Gram-negative bacillus; and mixed aerobic and anaerobic infection, which will have several different Gram stain morphologies and Gram reactions but will be primarily Gram-negative bacilli <link linkend="ch0040s0002bib05">(5)</link>.</para>
+        <figure id="ch0040s0001fg03"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 37.3</emphasis></emphasis> D test with erythromycin (E) and clindamycin (CC). </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0040f03.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A photograph shows a pinkish growth medium showing two labeled areas: one with a white dot marked E and another larger area marked cc, indicating bacterial or fungal culture zones.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  The purpose of amputating an extremity is to prevent the spread of a rapidly growing organism causing tissue damage. The finding of the organism in the chest wall, despite the amputation of her arm, suggests that amputation had failed to halt the spread of the organism. At this point, the individual's likelihood of surviving the infection was very limited.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  The culture from the OR specimen grew GAS, or <emphasis>Streptococcus pyogenes</emphasis>, confirming the physicians’ clinical suspicion and the laboratorian’s interpretation of the Gram stain. GAS are Gram-positive cocci arranged in pairs and short chains. On sheep blood agar, GAS colonies are surrounded by a wide band of beta-hemolysis. Group A streptococci are referred to as beta-hemolytic streptococci. Other beta-hemolytic streptococci commonly encountered clinically are group B, C, and G streptococci. These three beta-streptococci can also cause invasive disease, including NSTI, but they are less frequent and typically not as severe <link linkend="ch0040s0002bib08">(8)</link>.</para>
+        <para>The mucoid appearance of the organism on blood agar is due to the presence of a hyaluronic acid capsule. GAS that produce mucoid colonies are recovered more frequently in patients with invasive GAS infection than those with GAS pharyngitis or superficial skin infection (impetigo). Hyaluronic acid capsules are antiphagocytic, aiding the organism’s ability to evade the innate immune system<link linkend="ch0040s0002bib09">(9)</link>.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  Our understanding of the pathogenesis of infectious diseases has been greatly enhanced by dual transcriptome (RNA) sequencing because it tells us what proteins the pathogen makes during the infectious process and what proteins the host makes in response to the infection. For example, in GAS NSTIs, animal studies using nonhuman primates have shown upregulation of GAS genes involved in tissue destruction (cytolysins), immune evasion (capsule, streptokinase, streptodornase, and DNase), adhesins (M protein), immune dysregulation (superantigen production), tissue destruction (cytolysins), and metabolism of alternative carbon sources from damaged tissues <link linkend="ch0040s0002bib10">(10)</link>. In addition, host genes involved in inflammation, including several proinflammatory cytokines and chemokines, are upregulated, while anti-inflammatory cytokines are downregulated.</para>
+        <para>Our current understanding is that events in GAS NSTI complicated by STSS begin with seeding of the area of trauma with group A streptococci. This seeding can be due to the direct introduction of GAS from the skin or a transient GAS bacteremia<link linkend="ch0040s0002bib09">(9)</link>. The organism binds to host cells at the site of trauma; evades phagocytosis; and produces a variety of toxins that cause local host cell damage, releasing nutrients that enhance GAS growth and cause ever-increasing tissue damage. GAS M protein is involved in activating the clotting cascade, resulting in blood vessel occlusion that leads to oxygen starvation and to further tissue necrosis. At the same time, GAS superantigen production promotes immune system dysregulation, causing the production of massive amounts of proinflammatory cytokines while downregulating anti-inflammatory cytokines meant to modulate the proinflammatory ones. The resulting cytokine storm is responsible for the septic shock and multiorgan failure of STSS.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  One of the difficulties in diagnosing NSTI is that the pathology occurs in subcutaneous tissue <link linkend="ch0040s0002bib01">(1)</link>. As a result, in the absence of an obvious injury, the skin may appear normal in as many as 50% of patients in the early stages of this illness. In this case, the clues were her progressive arm swelling and continued arm pain, both of which were severe enough to warrant two trips to her local emergency department. GAS NSTI, because of its ability to spread rapidly along fascial planes, is a true surgical emergency. If surgical debridement and antimicrobial therapy are not implemented in the first 12 to 24 hours of symptomatic disease, the likelihood of a fatal outcome greatly increases <link linkend="ch0040s0002bib02">(2)</link>. By the time she presented to her physician on the third day of illness, her disease had progressed beyond the point where she could survive. Perhaps this disease has such a high mortality because, as was the case with this patient, it may not be recognized or considered until infection with this highly virulent organism has progressed beyond the point where the patient can be saved.</para>
+        <para role="ans1"><emphasis role="strong">9.</emphasis>  After this patient’s death (patient A), it was learned that she had dislocated her thumb while helping an individual (patient B) into a wheelchair. Patient B had impetigo-like lesions (superficial skin infection frequently due to GAS) on her face at the time of patient A’s injury, and patient B was admitted to a second hospital with septic shock the day after patient A died. GAS was isolated from the blood of patient B. The two organisms were M typed, and both patients were infected with the M1 serotype. M1 is one of the most common M types associated with invasive GAS with NSTI <link linkend="ch0040s0002bib08">(8)</link>. The conclusion was that patient A was infected by patient B, most likely when patient A dislocated her thumb helping patient B into a wheelchair. Since there are many different variants of M1 serotypes, whole-genome sequencing would confirm that the individuals were infected with the same strain. However, given the presence of the same M type and the clear epidemiologic link, it is highly likely that the two infections were due to the same GAS strain.</para>
+        <para role="ans1"><emphasis role="strong">10.</emphasis>  In 1995, a live, attenuated varicella-zoster vaccine became available for children in the United States. Two doses of vaccine have proven to have an efficacy over 90% in preventing infections with this virus <link linkend="ch0040s0002bib11">(11)</link>. Prior to the widespread availability of this vaccine, approximately 30% of children <link linkend="ch0040s0002bib12">(12)</link> who developed necrotizing fasciitis had had a recent case of varicella, usually within the past 1 to 3 weeks. Children with varicella or recovering from it have a 6-fold increased risk of necrotizing fasciitis. Varicella lesions are “itchy,” and children can inoculate GAS on their skin into their lesion by scratching these itchy lesions; in a small percentage of children, GAS necrotizing fasciitis can result. Unlike in adults, GAS necrotizing fasciitis in children has low mortality: &lt;10%. Most adults had varicella as children, so they are no longer prone to this risk factor. With the widespread use of this vaccine, hospitalizations due to invasive GAS infection and GAS NSTI have declined by 70%, attesting to this vaccine’s effectiveness in protecting against serious GAS infections <link linkend="ch0040s0002bib13">(13)</link>.</para>
+      </sect1>
+      <sect1 id="ch0040s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0040s0003l01" role="decimal">
+          <listitem id="ch0040s0003x24">
+            <para>Individuals with NSTIs often have severe pain but no visual lesions because the infection is subdermal. In these patients, there often is a preceding traumatic event, in this case a joint dislocation, but not obvious breaks in the skin.</para>
+          </listitem>
+          <listitem id="ch0040s0003x25">
+            <para>NSTIs are surgical emergencies because the organism can grow rapidly up fascial planes on the extremities into the diaphragm. Best outcomes occur when surgical debridement of infected tissue is performed within 24 hours of symptom onset. The longer the delay, the greater the likelihood of the need for limb amputation.</para>
+          </listitem>
+          <listitem id="ch0040s0003x26">
+            <para>The most common cause of NSTIs is GAS, or <emphasis>S. pyogenes</emphasis>. GAS is a Gram-positive coccus arranged in pairs and short chains when seen on Gram stain of infected tissue. Gram stain of tissue is a reliable diagnostic tool because it allows the rapid identification of the most likely agents of NSTI. Besides GAS, there are group B, C, and G streptococci, <emphasis>V. vulnificus</emphasis>, <emphasis>A. hydrophilia</emphasis>, <emphasis>C. perfringens</emphasis> and <emphasis>C. septicum</emphasis>, <emphasis>S. aureus</emphasis>, and mixed aerobic and anaerobic bacteria.</para>
+          </listitem>
+          <listitem id="ch0040s0003x27">
+            <para>GAS makes a wide array of virulence factors involved in adherence, immune evasion, growth promotion in tissue, and tissue destruction. Strains that produce super-antigens can cause streptococcal toxic shock system, leading to multiorgan failure, as was seen in this patient.</para>
+          </listitem>
+          <listitem id="ch0040s0003x28">
+            <para>Beyond surgical treatment, GAS NSTIs are treated with a combination of penicillin and clindamycin. Animal studies and human retrospective case studies show better survival with the combination compared to penicillin only. GAS isolates causing NSTIs should be tested for inducible clindamycin resistance since it is estimated that up to 22% will be resistant. Animal studies show linezolid may be a treatment alternative to clindamycin.</para>
+          </listitem>
+          <listitem id="ch0040s0003x29">
+            <para>Primary infection with varicella-zoster virus (i. e., varicella or chickenpox) is an important predisposing factor for GAS NSTI in children. Since the introduction of varicella-zoster vaccine, GAS NSTIs have significantly declined in children.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0040s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0040s0002bib01">Stevens DL, Bryant AE. 2018. Necrotizing soft-tissue infections. <citetitle>N Engl J Med</citetitle> 378:971.</bibliomixed>
+        <bibliomixed id="ch0040s0002bib02">Nawijn F, de Gier B, Brandwagt DAH, Groenwold RHH, Keizer J, Hietbrink F. 2021. Incidence and mortality of necrotizing fasciitis in The Netherlands: the impact of group A Streptococcus. <citetitle>BMC Infect Dis</citetitle> 21:1217.</bibliomixed>
+        <bibliomixed id="ch0040s0002bib03">Stevens DL, Tanner MH, Winship J, Swarts R, Ries KM, Schlievert PM, Kaplan E. 1989. Severe group A streptococcal infections associated with a toxic shock-like syndrome and scarlet fever toxin A. <citetitle>N Engl J Med</citetitle> 3211:1–7.</bibliomixed>
+        <bibliomixed id="ch0040s0002bib04">Simonart T, Simonart JM, Derdelinckx I, De Dobbeleer G, Verleysen A, Verraes S, de Maubeuge J, Van Vooren JP, Naeyaert JM, de la Brassine M, Peetermans WE, Heenen M. 2001. Value of standard laboratory tests for the early recognition of group A beta-hemolytic streptococcal necrotizing fasciitis. <citetitle>Clin Infect Dis</citetitle>32: E9–12.</bibliomixed>
+        <bibliomixed id="ch0040s0002bib05">Stevens DL, Bisno AL, Chambers HF, Dellinger EP, Goldstein EJ, Gorbach SL, Hirschmann JV, Kaplan SL, Montoya JG, Wade JC; Infectious Diseases Society of America. 2014. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. <citetitle>Clin Infect Dis</citetitle>59: e 10–52.</bibliomixed>
+        <bibliomixed id="ch0040s0002bib06">Babiker A, Li X, Lai YL, Strich JR, Warner S, Sarzynski S, Dekker JP, Danner RL, Kadri SS. 2021. Effectiveness of adjunctive clindamycin in β-lactam antibiotic-treated patients with invasive β-haemolytic streptococcal infections in US hospitals: a retrospective multicentre cohort study. <citetitle>Lancet Infect Dis</citetitle> 21:697–710.</bibliomixed>
+        <bibliomixed id="ch0040s0002bib07">Fay K, Onukwube J, Chochua S, Schaffner W, Cieslak P, Lynfield R, Muse A, Smelser C, Harrison LH, Farley M, Petit S, Alden N, Apostal M, Snippes Vagnone P, Nanduri S, Beall B, Van Beneden CA. 2021. Patterns of antibiotic nonsusceptibility among invasive group A Streptococcus infections-United States, 2006-2017. <citetitle>Clin Infect Dis</citetitle> 73:1957–1964.</bibliomixed>
+        <bibliomixed id="ch0040s0002bib08">Bruun T, Rath E, Madsen MB, Oppegaard O, Nekludov M, Arnell P, Karlsson Y, Babbar A, Bergey F, Itzek A, Hyldegaard O, Norrby-Teglund A, Skrede S; INFECT Study Group. 2021. Risk factors and predictors of mortality in streptococcal necrotizing soft-tissue infections: a multicenter prospective study. <citetitle>Clin Infect Dis</citetitle> 72:293–300.</bibliomixed>
+        <bibliomixed id="ch0040s0002bib09">Walker MJ, Barnett TC, Mc Arthur JD, Cole JN, Gillen CM, Henningham A, Sriprakash KS, Sanderson-Smith ML, Nizet V. 2014. Disease manifestations and pathogenic mechanisms of group A Streptococcus.<citetitle>Clin Microbiol Rev</citetitle> 27:264–301.</bibliomixed>
+        <bibliomixed id="ch0040s0002bib10">Kachroo P, Eraso JM, Olsen RJ, Zhu L, Kubiak SL, Pruitt L, Yerramilli P, Cantu CC, Ojeda Saavedra M, Pensar J, Corander J, Jenkins L, Kao L, Granillo A, Porter AR, DeLeo FR, Musser JM. 2020. New pathogenesis mechanisms and translational leads identified by multidimensional analysis of necrotizing myositis in primates. <citetitle>mBio</citetitle>11: e 03363-19.</bibliomixed>
+        <bibliomixed id="ch0040s0002bib11">US Department of Health and Human Services. 2021. Immunization: chickenpox (varicella). https://www. hhs. gov/immunization/diseases/chickenpox. Accessed 15 September 2023.</bibliomixed>
+        <bibliomixed id="ch0040s0002bib12">Minodier P, Bidet P, Rallu F, Tapiero B, Bingen E, Ovetchkine P. 2009. Clinical and microbiologic characteristics of group A streptococcal necrotizing fasciitis in children. <citetitle>Pediatr Infect Dis J</citetitle> 28:541–543.</bibliomixed>
+        <bibliomixed id="ch0040s0002bib13">Frère J, Bidet P, Tapiéro B, Rallu F, Minodier P, Bonacorsi S, Bingen E, Ovetchkine P. 2016. Clinical and microbiological characteristics of invasive group A streptococcal infections before and after implementation of a universal varicella vaccine program. <citetitle>Clin Infect Dis</citetitle> 62:75–77.</bibliomixed>
+      </bibliography>
+    </chapter>

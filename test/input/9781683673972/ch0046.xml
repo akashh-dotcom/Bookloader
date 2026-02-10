@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0046" label="46">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor5">CASE 43</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0046s0004"><title>CASE 43</title><para>A 32-year-old woman with a 6-week history of diarrhea secondary to ulcerative colitis on infliximab presented to the emergency department (ED). She had returned from a trip to Provence in France 4 days previously, and over the 3 days following her return her diarrhea had worsened. She presented to the ED with a temperature of 38.5°C, blood pressure of 90/60 mm Hg, and white blood cell count of 14,500/μl with 90% neutrophils. Two sets of blood cultures were obtained. She was admitted to the infectious disease service, where she was begun on 2 g of ceftriaxone intravenously every 12 hours.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0046s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  Explain why you think this person had a history of 6 weeks of diarrhea.</para>
+        </listitem>
+        <listitem id="ch0046s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  What is infliximab? Why was this patient being treated with infliximab?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Both blood cultures became positive after 16 to 20 hours of incubation. The Gram stain in <link linkend="ch0046s0004fg01">Fig. 43.1</link> is from one of the blood cultures; the Gram stain from the second blood culture was the same.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0046s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  How do you interpret this Gram stain?</para>
+        </listitem>
+      </itemizedlist>
+      <para>After the microbiologist reviewed the Gram stain from the patient’s positive blood culture, he asked the infectious disease team to obtain a more detailed travel history, especially what foods the woman had eaten in Provence. Of note, she said she ate soft cheeses, steak tartare, rare leg of lamb, and many fresh fruits and vegetables.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0046s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  What did the microbiologist learn from the Gram stain that raised concerns about her food history? What Gram-positive bacilli that can cause bacteremia are associated with food consumption, and what foods that she consumed are of particular concern?</para>
+        </listitem>
+        <listitem id="ch0046s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What role did infliximab have in the development of the patient’s infection?</para>
+        </listitem>
+        <listitem id="ch0046s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  Was the initial antimicrobial choice appropriate for this patient? Explain.</para>
+        </listitem>
+        <listitem id="ch0046s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  Although it was not done in this case, would a pregnancy test have been prudent?</para>
+        </listitem>
+      </itemizedlist>
+      <figure id="ch0046s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 43.1</emphasis></emphasis> Gram stain of positive blood culture. Image from author’s collection. (Magnification, ×1,000.) </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0046f05.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A microscopic slide showing a light pink background with scattered small, dark blue, rod-shaped bacteria, along with larger pink-stained cell debris.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      </sect1><sect1 id="ch0046s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  Ulcerative colitis is a chronic inflammatory disease of the colon and rectum that is frequently associated with periods of chronic diarrhea followed by periods of remission. Diarrhea in individuals with ulcerative colitis will often be bloody <link linkend="ch0046s0002bib01">(1)</link>.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  Infliximab belongs to a class of therapeutic agents called immunomodulators (<link linkend="ch0046s0002bib02">2</link>, <link linkend="ch0046s0002bib03">3</link>). Immunomodulators are used to treat a variety of chronic conditions associated with immune system disorders, including rheumatoid arthritis, inflammatory bowel disease (including ulcerative colitis), psoriasis, ankylosing spondylitis, lymphoma, chronic lymphocytic leukemia, and systemic lupus erythematosus. Immunomodulators fit into two broad categories: biologics, which are primarily monoclonal antibodies, which act against specific targets in the immune system, neutralizing their activity; or small molecules, which also inhibit the activity of specific immune system targets. Infliximab is a human-mouse chimeric monoclonal antibody that inhibits the activity of tumor necrosis factor α (TNF-α). TNF-α is a proinflammatory cytokine that impacts a variety of inflammatory pathways. Inhibition of TNF-α by infliximab was shown in two randomized, double-blind, placebo-controlled clinical trials to produce a dose-dependent, statistically significant clinical response (<link linkend="ch0046s0002bib02">2</link>, <link linkend="ch0046s0002bib04">4</link>). As a result, infliximab has become a standard therapy for treatment of moderate to severe ulcerative colitis <link linkend="ch0046s0002bib01">(1)</link>. All immunomodulators carry a “box warning.” FDA mandates these warnings be present in a box in the drug package insert. They describe severe adverse events observed in individuals taking these agents. Television commercials for different drugs carry these warnings at the end, often in rushed language.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  The organism is a Gram-positive bacillus. The morphology of the Gram-positive bacillus is important, as we will learn as we work through this case. Multiple morphotypes of Gram-positive bacilli are encountered in patients with bacteremia as well as other types of infections. Empiric therapy for the organisms discussed here may differ, so understanding the different Gram-positive bacilli morphotypes has clinical significance. The morphotype here is consistent with the organism causing this patient’s infection.</para>
+        <para>When seen in blood cultures, the genera with the Gram stain morphology shown in <link linkend="ch0046s0004fg01">Fig. 43.1</link> are most likely <emphasis>Corynebacterium</emphasis> and <emphasis>Cutibacterium</emphasis>. Both have similar morphologies to the patient’s organism seen in <link linkend="ch0046s0004fg01">Fig 43.1</link>, but <emphasis>Corynebacterium</emphasis> spp. tend to be more club-shaped and clustered, while <emphasis>Cutibacterium</emphasis> spp. are more curved and often in a spider-like arrangement.</para>
+        <para><link linkend="ch0046s0001fg02">Figure 43.2</link> shows large Gram-variable (left panel) and -positive (right panel) bacilli. Gram-variable bacilli (left panel) are exactly that; some are Gram positive (purple) and some are Gram negative (pink). Three genera of bacteria with this Gram stain morphology encountered clinically are <emphasis>Lactobacillus</emphasis> spp., <emphasis>Bacillus</emphasis> spp., and <emphasis>Clostridium</emphasis> spp. The boxy, Gram-positive morphology in the right panel is more consistent with <emphasis>Bacillus</emphasis> spp. and <emphasis>Clostridium</emphasis> spp.; however, certain <emphasis>Lactobacillus</emphasis> species may share a similar morphology.</para>
+        <figure id="ch0046s0001fg02"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 43.2</emphasis></emphasis> Gram stain of large, Gram-variable (left panel) and boxy, Gram-positive (right panel) bacilli. Left panel courtesy of CDC-PHIL (#1058), right panel courtesy of Sixto Leal. (Magnification, ×1,000.) </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0046f06.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A microscopic photograph displaying purple, rod-shaped bacterial cells scattered and aggregated on a light background.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <para><emphasis>Bacillus</emphasis> spp. can cause serious infections such as anthrax (<emphasis>Bacillus anthracis</emphasis>) and <emphasis>Clostridium</emphasis> spp. cause gas gangrene (<emphasis>Clostridium septicum</emphasis> and <emphasis>Clostridium perfringens</emphasis>). They can also be contaminants in blood cultures. On the other hand, <emphasis>Lactobacillus</emphasis> spp. are almost always a contaminant in blood cultures. If found in multiple blood culture sets (an exceedingly rare occurrence), it may indicate that the patient has endocarditis.</para>
+        <para>Another distinctive positive Gram stain is seen in <link linkend="ch0046s0001fg03">Fig. 43.3</link>. The organism is thin, pleiotropic (many forms), and may have pseudo-branching. This organism belongs to the genus <emphasis>Actinomyces</emphasis>, and this particular Gram stain is from an aspirate of a brain abscess. <emphasis>Actinomyces</emphasis> species are anaerobic bacteria associated with brain, lung, and jaw abscesses.</para>
+        <para>The final Gram stain (<link linkend="ch0046s0001fg03">Fig. 43.4</link>) shows a “beaded” Gram-positive organism due to the irregular, bead-like staining pattern. This staining appearance is found in what are called “higher-order” bacteria. The two most common genera with this appearance on Gram stain are <emphasis>Mycobacterium</emphasis> and <emphasis>Nocardia</emphasis>. This particular organism is <emphasis>Mycobacterium abscessus</emphasis> complex recovered from a blood culture.</para>
+        <figure id="ch0046s0001fg03"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 43.3</emphasis></emphasis> Gram stain of filamentous Gram-positive bacilli. Image courtesy of Sixto Leal. (Magnification, ×1,000.) </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0046f07.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A microscopic photograph showing a cluster of red and purple-stained bacteria with filamentous structures, forming a dense, granular mass on a light background.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <figure id="ch0046s0001fg04"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 43.4</emphasis></emphasis> Gram stain of beaded Gram-positive bacilli. Image courtesy of Sixto Leal. (Magnification, ×1,000.) </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0046f04.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A microscopic photograph featuring purple, filamentous bacteria scattered across a light background, with some forming tangled network-like structures.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  The Gram stain of the organism detected from blood culture shows relatively small, Gram-positive bacilli with straight, parallel walls characteristic of <emphasis>Listeria monocytogenes</emphasis>.</para>
+        <para>It is almost always obtained by the consumption of contaminated food. Foods most frequently contaminated by <emphasis>Listeria</emphasis> include soft cheeses, which may not be made with pasteurized milk; processed meats (cold cuts); and fresh fruits and vegetables that are contaminated with either animal or human feces <link linkend="ch0046s0002bib05">(5)</link>.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  <emphasis>Listeria</emphasis> is a facultative intracellular pathogen. TNFα is a proinflammatory cytokine that recruits and activates neutrophils and macrophages, enhancing their ability to kill bacteria. Monoclonal antibodies that inhibit TNF-α activity place individuals at risk for infection with a wide variety of intracellular pathogens, including <emphasis>Listeria</emphasis>, <emphasis>Mycobacterium tuberculosis</emphasis>, and the dimorphic fungus <emphasis>Histoplasma capsulatum</emphasis> (see the infliximab box warning for other organisms for which she is at risk) <link linkend="ch0046s0002bib06">(6)</link>.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  There is very limited information in the literature about bacteremia in individuals with ulcerative colitis. Ceftriaxone was likely chosen because of its ease of administration (once or twice daily) and broad spectrum of activity. <emphasis>Listeria</emphasis> is clinically resistant to ceftriaxone and as such is not a good choice for treating this patient <link linkend="ch0046s0002bib07">(7)</link>. By knowing the patient’s history, especially her dietary one, coupled with the blood culture Gram stain result, the patient’s clinicians could switch her to an appropriate antimicrobial at least 18 to 24 hours earlier than if they had to wait for a subculture of the organism to grow so it could be identified. The patient was switched to ampicillin and made an uneventful recovery.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  Vertical transmission of <emphasis>Listeria</emphasis> carries a significant risk of fetal or neonatal mortality. In the largest outbreak of food-borne <emphasis>Listeria</emphasis> on record, 50% of the &gt;900 cases occurred during pregnancy, with close to 43% occurring in neonates, with a 28% mortality <link linkend="ch0046s0002bib08">(8)</link>. Early-onset disease occurred in 95% of neonates. Fetal loss occurred in 27 of 59 infected pregnant woman (46%). These data support vertical transmission as the major mode of transmission. Letting the individual, if pregnant, know of the potential risks of eating soft cheeses, cold cuts, and undercooked meat to the fetus would seem prudent. In addition, clinicians should be aware that outbreaks may occur with other types of foods. Examples of <emphasis>Listeria</emphasis> outbreaks with other foods include stone fruits (peaches, plums, nectarines), ice cream, and leafy greens (<link linkend="ch0046s0002bib09">9</link>, <link linkend="ch0046s0002bib10">10</link>).</para>
+      </sect1>
+      <sect1 id="ch0046s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0046s0003l01" role="decimal">
+          <listitem id="ch0046s0003x18">
+            <para><emphasis>L. monocytogenes</emphasis> is a Gram-positive bacillus that can cause sepsis and meningitis, primarily but not exclusively in immunocompromised hosts, including the elderly, neonates, and individuals receiving immunosuppressive agents.</para>
+          </listitem>
+          <listitem id="ch0046s0003x19">
+            <para>It can contaminate a variety of foods, including unpasteurized dairy products, processed meats, and fresh fruits and vegetables that come in contact with fecally contaminated water or soil.</para>
+          </listitem>
+          <listitem id="ch0046s0003x20">
+            <para><emphasis>Listeria</emphasis> is found in the box warnings of several immunosuppressive monoclonal antibodies, including infliximab, which inhibits the activity of TNF-α. Infliximab is a commonly used therapeutic for treating moderate to severe ulcerative colitis and other autoimmune diseases.</para>
+          </listitem>
+          <listitem id="ch0046s0003x21">
+            <para><emphasis>Listeria</emphasis> is clinically resistant to all cephalosporins, including ceftriaxone. Ampicillin is the drug of choice.</para>
+          </listitem>
+          <listitem id="ch0046s0003x22">
+            <para>Vertical transmission of <emphasis>Listeria</emphasis> is associated with high rates of fetal demise and neonatal mortality.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0046s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0046s0002bib01">Rubin DT, Ananthakrishnan AN, Siegel CA, Sauer BG, Long MD. 2019. ACG clinical guideline: ulcerative colitis in adults. <citetitle>Am J Gastroenterol</citetitle> 114:384–413.</bibliomixed>
+        <bibliomixed id="ch0046s0002bib02">Hindryckx P, Jairath V, D'Haens G. 2016. Acute severe ulcerative colitis: from pathophysiology to clinical management. <citetitle>Nat Rev Gastroenterol Hepatol</citetitle> 13:654–664.</bibliomixed>
+        <bibliomixed id="ch0046s0002bib03">Novosad SA, Winthrop KL. 2014. Beyond tumor necrosis factor inhibition: the expanding pipeline of biologic therapies for inflammatory diseases and their associated infectious sequelae. <citetitle>Clin Infect Dis</citetitle> 58:1587-1598.</bibliomixed>
+        <bibliomixed id="ch0046s0002bib04">Rutgeerts P, Sandborn WJ, Feagan BG, Reinisch W, Olson A, Johanns J, Travers S, Rachmilewitz D, Hanauer SB, Lichtenstein GR, de Villiers WJ, Present D, Sands BE, Colombel JF. 2005. Infliximab for induction and maintenance therapy for ulcerative colitis. <citetitle>N Engl J Med</citetitle> 353:2462–2476.</bibliomixed>
+        <bibliomixed id="ch0046s0002bib05">Jackson KA, Gould LH, Hunter JC, Kucerova Z, Jackson B. 2018. Listeriosis outbreaks associated with soft cheeses, United States, 1998-2014. <citetitle>Emerg Infect Dis</citetitle> 24:1116–1118.</bibliomixed>
+        <bibliomixed id="ch0046s0002bib06">Janssen Immunology. Remicade product insert. https://www. janssenlabels. com/package-insert/product-monograph/prescribing-information/REMICADE-pi. pdf. Accessed 15 September 2023.</bibliomixed>
+        <bibliomixed id="ch0046s0002bib07">Lorber B. 1997. Listeriosis. <citetitle>Clin Infect Dis</citetitle> 24:1-9; quiz 10-1.</bibliomixed>
+        <bibliomixed id="ch0046s0002bib08">Thomas J, Govender N, Mc Carthy KM, Erasmus LK, Doyle TJ, Allam M, Ismail A, Ramalwa N, Sekwadi P, Ntshoe G, Shonhiwa A, Essel V, Tau N, Smouse S, Ngomane HM, Disenyeng B, Page NA, Govender NP, Duse AG, Stewart R, Thomas T, Mahoney D, Tourdjman M, Disson O, Thouvenot P, Maury MM, Leclercq A, Lecuit M, Smith AM, Blumberg LH. 2020. Outbreak of listeriosis in South Africa associated with processed meat.<citetitle>N Engl J Med</citetitle> 382:632-643.</bibliomixed>
+        <bibliomixed id="ch0046s0002bib09">US Food and Drug Administration. 2023. Outbreak investigation of Listeria monocytogenes: peaches, plums, &amp; nectarines (November 2023). https://www. fda. gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-peaches-plums-nectarines-november-2023. Accessed 16 January 2024.</bibliomixed>
+        <bibliomixed id="ch0046s0002bib10">Centers for Disease Control and Prevention. 2024. Listeria outbreaks. https://www. cdc. gov/listeria/outbreaks/index. html. Accessed 16 January 2024.</bibliomixed>
+      </bibliography>
+    </chapter>

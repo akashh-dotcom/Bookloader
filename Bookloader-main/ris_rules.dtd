@@ -1,0 +1,9 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT rules (rule)+>
+
+
+<!ELEMENT rule EMPTY>
+<!ATTLIST rule
+  type (addRISInfo|1|2|3|linkDrug|linkDisease|addPMID|linkKeyword|addRISIndex1|loadContent) #REQUIRED
+  action (apply|remove|disable)  #REQUIRED>

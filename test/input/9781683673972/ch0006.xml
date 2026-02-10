@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0006" label="6">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor1">CASE 3</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0006s0004"><title>CASE 3</title><para>The patient was a 16-year-old female with no reported past medical history who presented to the emergency department (ED) with generalized abdominal pain, chills, fever (104°F), and palpitations. The abdominal pain had been present for a week, during which time she also had non-bloody emesis and intermittent diarrhea. On arrival in the ED, she complained of intermittent dizziness and profound fatigue. She reported no changes in diet, suspicious foods, or abdominal trauma of any sort. She denied dysuria and vaginal discharge. Her physical exam was notable for tachycardia with a heart rate of 158 beats/minute, hypotension (90/50 mm Hg), generalized abdominal tenderness, and bilateral costovertebral angle tenderness. Her complete blood count showed an elevated white count (19,300/μl) and increased neutrophil count (17,700/μl).</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0006s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What syndrome is consistent with this patient’s presentation?</para>
+        </listitem>
+        <listitem id="ch0006s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  What interventions should immediately occur in patients with suspected sepsis?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Additional labs for the patient were relatively unremarkable except for an elevated alkaline phosphatase. Following fluid resuscitation, the patient was stable. Given the abdominal tenderness, gynecology was consulted in the ED. A pelvic exam was performed and notable for cervical motion tenderness, mucopurulent discharge, and an erythematous and friable cervix. A computed tomography scan with contrast of the abdomen and pelvis was performed, showing mesenteric fat stranding in the pelvis, fluid with thickening of the peritoneum, and prominent ovaries, suspicious for acute pelvic inflammatory disease (PID).</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0006s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  What is PID, and what are the most common causes?</para>
+        </listitem>
+        <listitem id="ch0006s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  What diagnostic testing should be performed for patients with suspected PID?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient had blood cultures drawn as part of her sepsis workup, with both sets resulting as negative after 4 days of incubation. HIV and syphilis testing was negative. Nucleic acid amplification testing (NAAT) from a vaginal swab was positive for <emphasis>Chlamydia trachomatis</emphasis> and negative for <emphasis>Neisseria gonorrhoeae</emphasis> and <emphasis>Trichomonas vaginalis</emphasis>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0006s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What is <emphasis>C. trachomatis</emphasis>? Describe its life cycle and epidemiology.</para>
+        </listitem>
+        <listitem id="ch0006s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What is the appropriate treatment for PID caused by <emphasis>C. trachomatis</emphasis>?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient was started on ceftriaxone, doxycycline, and metronidazole in the ED and transferred to a regional pediatric hospital for admission.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0006s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  What follow-up is recommended for patients with <emphasis>C. trachomatis</emphasis>?</para>
+        </listitem>
+        <listitem id="ch0006s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  What are the screening recommendations related to <emphasis>Chlamydia</emphasis>?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0006s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  This patient’s presentation is consistent with sepsis, a broad term used to describe organ dysfunction caused by the immune response to an infection <ulink url="ch0006.xml#ch0006s0002bib01">(1)</ulink>. A number of schemes have been developed to quickly identify patients with sepsis, including the systemic inflammatory response syndrome (SIRS) criteria, sequential organ failure assessment (SOFA) score, and quick SOFA (qSOFA) score <ulink url="ch0006.xml#ch0006s0002bib02">(2)</ulink>. With the information available in the ED, this patient met three of the four SIRS criteria: temperature &gt;100.4°F, heart rate &gt;90 beats/min, and white blood cell count &gt;12,000/μl (respiratory rate or partial pressure of CO<subscript>2</subscript> not documented). Meeting at least two of the criteria qualifies for the diagnosis of sepsis.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>Protocols in response to a patient with sepsis focus on three main areas: identification of the source of infection through imaging and cultures (e. g., blood cultures), fluid resuscitation, and assessment of sepsis severity through laboratory studies<ulink url="ch0006.xml#ch0006s0002bib02">(2)</ulink>.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  Pelvic inflammatory disease (PID) encompasses infections causing inflammation in the upper female genital tract and may present as sepsis (<ulink url="ch0006.xml#ch0006s0002bib03">3</ulink>, <ulink url="ch0006.xml#ch0006s0002bib04">4</ulink>). PID is often the result of unrecognized or untreated infections of the lower genital tract that ascend to involve the uterus, fallopian tubes, or ovaries. If left untreated, scarring in the fallopian tubes can result in infertility. These infections are often sexually transmitted, with <emphasis>N. gonorrhoeae</emphasis> and <emphasis>C. trachomatis</emphasis> accounting for the majority of cases. A variety of other bacteria, including anaerobes, enteric Gram-negative bacilli, staphylococci, streptococci, and <emphasis>Mycoplasma genitalium</emphasis>, can cause PID.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  Routine diagnostic evaluation recommended for patients with PID includes blood cultures for endogenous sources of infection and NAATs from urine or endocervical or vaginal swab for <emphasis>N. gonorrhoeae</emphasis>, <emphasis>C. trachomatis</emphasis>, and <emphasis>M. genitalium</emphasis> <ulink url="ch0006.xml#ch0006s0002bib05">(5)</ulink>. Concomitant testing for other sexually transmitted infections, including NAAT for <emphasis>T. vaginalis</emphasis>, HIV antigen/antibody screen, and syphilis testing, is also recommended.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  <emphasis>Chlamydia</emphasis> species are obligate intracellular bacteria and, as such, cannot be cultured on enriched agar media like most bacteria <ulink url="ch0006.xml#ch0006s0002bib06">(6)</ulink>. Cell culture, using McCoy cells, must be performed to grow <emphasis>C. trachomatis in vitro</emphasis>. However, cell culture methods are rarely used as clinical diagnostics, having been replaced by NAATs. For more information on FDA-approved NAATs for <emphasis>C. trachomatis</emphasis> and <emphasis>N. gonorrhoeae</emphasis>, refer to <ulink url="ch0005.xml#ch0005">case 2</ulink>. <emphasis>Chlamydia</emphasis> species exhibit a biphasic life cycle where the infectious elementary body (EB) enters cells through a process called receptor-mediated endocytosis. The bacterium develops into a reticulate body (RB) within a membrane-bound structure called an inclusion. RBs, the reproductive form of the organism, multiply by binary fission. The RBs then condense to form EBs. EBs are released from the cell by lysis, release of intact inclusions, or exocytosis, where they can go on to infect additional cells.</para>
+        <para><emphasis>C. trachomatis</emphasis>, the most common sexually transmitted bacterial pathogen in the United States <ulink url="ch0006.xml#ch0006s0002bib07">(7)</ulink>, is also an etiologic agent of proctitis in individuals engaging in receptive anal intercourse, both non-gonococcal urethritis and epididymitis in males and cervicitis, endometritis, and salpingitis in females <ulink url="ch0006.xml#ch0006s0002bib06">(6)</ulink>. It can cause pneumonia and conjunctival disease in neonates if they have passed through an infected birth canal. It is worth noting that many patients are minimally symptomatic or asymptomatic with genital infection due to <emphasis>C. trachomatis</emphasis> and may not seek medical attention. Other serotypes of <emphasis>C. trachomatis</emphasis>, found rarely in the United States, cause lymphogranuloma venereum. Lymphogranuloma venereum is a genital tract infection characterized by enlarged, tender, and erythematous inguinal lymph nodes and is frequently accompanied by systemic symptoms of fever, headache, and malaise. Other serotypes of <emphasis>C. trachomatis</emphasis> cause trachoma, a leading cause of blindness in the developing world.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  Antimicrobial therapy for PID is recommended on clinical signs and symptoms, even before identifying the responsible pathogen. Therefore, empiric therapy regimens are designed to cover the likely causes of PID <ulink url="ch0006.xml#ch0006s0002bib08">(8)</ulink>. Empiric regimens use a combination of a cephalosporin (ceftriaxone, cefotetan, or cefoxitin) and doxycycline (targeting <emphasis>C. trachomatis</emphasis>). If ceftriaxone is used, the addition of metronidazole is recommended for additional coverage of anaerobic bacteria. In cases where diagnostic testing has returned, and <emphasis>C. trachomatis</emphasis> is known to be the pathogen, the recommended therapy is 100 mg of doxycycline twice daily for 7 days <ulink url="ch0006.xml#ch0006s0002bib09">(9)</ulink>.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  Repeat <emphasis>C. trachomatis</emphasis> NAAT is recommended 3 months after therapy <ulink url="ch0006.xml#ch0006s0002bib10">(10)</ulink>. Retesting should be avoided within the first month after treatment to avoid false-positive detections from residual nucleic acid. The impetus for retesting stems from the likelihood of reinfection from untreated sexual partners, and not from the risk of resistance to therapy. With that in mind, follow-up is also recommended for sexual partners of patients diagnosed with <emphasis>C. trachomatis</emphasis>, including testing and presumptive treatment.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  CDC-recommended screening practices for <emphasis>Chlamydia</emphasis> differ based on population (11). Screening is recommended for sexually active females under the age of 25 and those over the age of 25 if they meet increased risk criteria. Additional screening should occur during the third trimester for pregnant women under 25 years old. Screening is not recommended in men who have sex with women unless they live in an area with high prevalence. Men who have sex with men should be screened at least annually and more frequently (every 3 to 6 months) if at increased risk for infection, including as part of screening protocols for those taking HIV preexposure prophylaxis. Transgender individuals should be tested based on age, risk factors, and anatomy. Finally, persons living with HIV should be screened at least annually.</para>
+      </sect1>
+      <sect1 id="ch0006s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <itemizedlist mark="none" role="decimal" id="ch0006s0003l01">
+          <listitem id="ch0006s0003x19">
+            <para><emphasis>C. trachomatis</emphasis> is an intracellular bacterium and the most common sexually transmitted bacterial infection.</para>
+          </listitem>
+          <listitem id="ch0006s0003x20">
+            <para><emphasis>C. trachomatis</emphasis> infections may be asymptomatic, leading to a lack of diagnosis and unintended transmission. In women, untreated infection can lead to pelvic inflammatory disease, which can have a long-term impact on fertility.</para>
+          </listitem>
+          <listitem id="ch0006s0003x21">
+            <para>NAATs are the most appropriate diagnostic tests for <emphasis>C. trachomatis</emphasis> from all body sites.</para>
+          </listitem>
+          <listitem id="ch0006s0003x22">
+            <para>Doxycycline is the recommended therapy for <emphasis>C. trachomatis</emphasis>.</para>
+          </listitem>
+          <listitem id="ch0006s0003x23">
+            <para>Sexual partners of patients with <emphasis>C. trachomatis</emphasis> should be tested and offered preemptive therapy.</para>
+          </listitem>
+          <listitem id="ch0006s0003x24">
+            <para>NAAT is recommended 3 months after therapy completion to confirm clearance and that the patient is not reinfected.</para>
+          </listitem>
+          <listitem id="ch0006s0003x25">
+            <para>Regular screening for <emphasis>C. trachomatis</emphasis> is recommended for various populations based on risk factors.</para>
+          </listitem>
+        </itemizedlist>
+      </sect1>
+      <bibliography id="ch0006s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0006s0002bib01">World Health Organization. 3 May 2024. Sepsis. https://www. who. int/news-room/fact-sheets/detail/sepsis. Accessed 12 November 2024.</bibliomixed>
+        <bibliomixed id="ch0006s0002bib02">Gauer R, Forbes D, Boyer N. 2020. Sepsis: diagnosis and management. <citetitle>Am Fam Physician</citetitle> 101:409–418.</bibliomixed>
+        <bibliomixed id="ch0006s0002bib03">Jennings LK, Krywko DM. 2023. Pelvic inflammatory disease. In <citetitle>Stat Pearls [Internet]</citetitle>. Stat Pearls Publishing, Treasure Island, FL. https://www. ncbi. nlm. nih. gov/books/NBK499959/.</bibliomixed>
+        <bibliomixed id="ch0006s0002bib04">Dulin JD, Akers MC. 2003. Pelvic inflammatory disease and sepsis. <citetitle>Crit Care Nurs Clin North Am</citetitle> 15:63–70.</bibliomixed>
+        <bibliomixed id="ch0006s0002bib05">Miller JM, Binnicker MJ, Campbell S, Carroll KC, Chapin KC, Gonzalez MD, Harrington A, Jerris RC, Kehl SC, Leal SM Jr, Patel R, Pritt BS, Richter SS, Robinson-Dunn B, Snyder JW, Telford S 3rd, Theel ES, Thomson RB Jr, Weinstein MP, Yao JD. 2024. Guide to utilization of the microbiology laboratory for diagnosis of infectious diseases: 2024 update by the Infectious Diseases Society of America (IDSA) and the American Society for Microbiology (ASM). Clin Infect Dis Mar 5: ciae 104.</bibliomixed>
+        <bibliomixed id="ch0006s0002bib06">Greub G, Munson E. 2023. Chlamydia. In Carroll KC, Pfaller MA, Karlowsky JA, Landry ML, Mc Adam AJ, Patel R, Pritt BS (ed),<citetitle>Manual of Clinical Microbiology</citetitle>, 13th ed. ASM Press, Washington, DC.</bibliomixed>
+        <bibliomixed id="ch0006s0002bib07">Centers for Disease Control and Prevention. STI statistics. https://www. cdc. gov/sti-statistics. Accessed 12 November 2024.</bibliomixed>
+        <bibliomixed id="ch0006s0002bib08">Centers for Disease Control and Prevention. 21 September 2022. Pelvic inflammatory disease (PID). https://www. cdc. gov/std/treatment-guidelines/pid. htm. Accessed 12 November 2024.</bibliomixed>
+        <bibliomixed id="ch0006s0002bib09">Centers for Disease Control and Prevention. 22 July 2021. Chlamydial infections. https://www. cdc. gov/std/treatment-guidelines/chlamydia. htm. Accessed 12 November 2024.</bibliomixed>
+        <bibliomixed id="ch0006s0002bib10">Centers for Disease Control and Prevention. 22 March 2024. Screening recommendations and considerations referenced in treatment guidelines and original sources. https://www. cdc. gov/std/treatment-guidelines/screening-recommendations. htm. Accessed 12 November 2024.</bibliomixed>
+      </bibliography>
+    </chapter>

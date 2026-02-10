@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0052" label="52">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor5">CASE 49</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0052s0004"><title>CASE 49</title><para>This patient was a 25-year-old male from Latin America who traveled to the United States on foot 4 months before his presentation to the emergency department (ED). En route to the United States, he passed through various jungle landscapes where he consumed wild birds and subsequently developed 1 week of bloody diarrhea, fever, nausea, and vomiting. About 2 to 3 weeks later, when he arrived in Mexico, he received metronidazole and omeprazole, which relieved his symptoms. However, the symptoms resolved only for a short time, and the patient redeveloped gastrointestinal symptoms associated with ataxia, dizziness, and episodes of altered mental status. Given persistent and worsening symptoms, he re-presented to the ED. On arrival at the ED, his blood pressure was 110/75 mm Hg, pulse 62 beats/minute, and temperature 98.1°F. He denied having weakness, numbness or tingling, speech issues, or a history of seizures. A computed tomography scan of his abdomen showed acute colitis. Due to his lethargy and neurological symptoms, magnetic resonance imaging (MRI) of his brain was ordered, which showed multifocal intra-axial masses in the left frontal and right occipital lobes. The radiologist noted that the masses were nonspecific, but some appeared to be ring-enhancing. The patient was encephalopathic. He was admitted for further workup and monitoring. Initial laboratory results demonstrated an abnormal white blood cell count of 3,200/μl, hemoglobin of 7.9 g/dl, and hematocrit of 25%. Multiple infectious disease tests were ordered, including an HIV test.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0052s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What clinical entity did this patient have? Did he have meningitis, encephalitis, a brain abscess, a brain tumor, or something else?</para>
+        </listitem>
+      </itemizedlist>
+      <para>While the patient was in the operating room getting a brain biopsy, his HIV serology test returned positive and his CD4 count was 106 cells/μl. During the procedure, tissue and cerebrospinal fluid (CSF) were collected and sent to the laboratory for further analysis.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0052s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  How does knowing the patient’s HIV status change your differential diagnosis? Do you think an infectious agent caused this patient’s symptoms? How would you confirm this diagnosis?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient’s <emphasis>Toxoplasma</emphasis> serology, nucleic acid amplification test (NAAT), and histopathology results are shown in <link linkend="ch0052s0004ta01">Table 49.1</link>. Based on the radiology results and his clinical symptoms, he was started on empiric pyrimethamine, sulfadiazine, and leucovorin and kept on this therapy after the test results came back.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0052s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  Name two ways individuals can become infected with this organism. What stage of the parasite is found in each transmission mode? How could each mode of transmission be prevented?</para>
+        </listitem>
+        <listitem id="ch0052s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  The patient was started on a combination of pyrimethamine, sulfadiazine, and leucovorin. Was this therapy appropriate? How do these anti-<emphasis>Toxoplasma</emphasis> therapies work? How is clinical response to therapy measured? What is chronic maintenance therapy?</para>
+        </listitem>
+        <listitem id="ch0052s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What other populations are at increased risk for debilitating or life-threatening infections with this organism?</para>
+        </listitem>
+      </itemizedlist>
+      <table id="ch0052s0004ta01"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 49.1</emphasis></emphasis> TOXOPLASMA LABORATORY RESULTS</emphasis> </title>
+        
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <tbody>
+            <row>
+              <entry>TEST</entry>
+              <entry>RESULT</entry>
+            </row>
+            <row>
+              <entry>Microscopic pathology (see also <link linkend="ch0052s0001fg01">Fig. 49.1</link>)</entry>
+              <entry>Hematoxylin and eosin-stained sections show extensive necrosis and fragments of reactive brain parenchyma involved with multifocal acute and chronic inflammation, including plasma cells, small-sized lymphocytes, and macrophage aggregates. In areas surrounding necrosis, many tachyzoites and cyst forms (brachyzoites) are seen.</entry>
+            </row>
+            <row>
+              <entry><emphasis>Toxoplasma</emphasis> NAAT (CSF)</entry>
+              <entry>Positive</entry>
+            </row>
+            <row>
+              <entry><emphasis>Toxoplasma</emphasis> antibody (IgG)</entry>
+              <entry>&gt;400 IU/ml [normal reference of ≤9 IU/ml]</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para>The patient stabilized after 1 week of therapy. He was discharged on acute anti-toxoplasmosis therapy with a plan for HIV infection management and <emphasis>Toxoplasma</emphasis> maintenance therapy.</para>
+      </sect1><sect1 id="ch0052s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  Due to this patient’s significant travel exposures and array of symptoms, his initial differential diagnosis is broad. Possible causes of his gastrointestinal disease include bacterial pathogens such as enterohemorrhagic <emphasis>Escherichia coli</emphasis> (EHEC), <emphasis>Shigella</emphasis>, <emphasis>Campylobacter</emphasis>, and <emphasis>Salmonella</emphasis>. The patient’s brain lesions could be caused by an infection or malignancy. Travelers from South America, Central America, and the Caribbean are at risk for neurocysticercosis, a parasitic infection caused by infection with the tapeworm <emphasis>Taenia solium</emphasis> <link linkend="ch0052s0002bib01">(1)</link>. Infection with the parasite occurs most often via the fecal-oral route, particularly in rural areas with poor sanitation. <emphasis>T. solium</emphasis> larvae can migrate to the central nervous system (CNS) and spread throughout the brain, causing a significant inflammatory response and neurological symptoms. Chagas disease, which is caused by the <emphasis>Trypanosoma cruzi</emphasis> parasite and is prevalent in several countries across Latin America, can lead to brain masses and CNS involvement in individuals who are immunosuppressed <link linkend="ch0052s0002bib02">(2)</link>. Free-living amebae also cause severe encephalitis, including <emphasis>Naegleria fowleri</emphasis>, <emphasis>Acanthamoeba</emphasis> spp., and <emphasis>Balamuthia mandrillaris</emphasis> <link linkend="ch0052s0002bib03">(3)</link>. Infection with <emphasis>N. fowleri</emphasis> occurs when freshwater containing organisms are splashed or inhaled into the olfactory epithelium, and the organisms migrate up the olfactory nerve to the brain. <emphasis>Acanthamoeba</emphasis> and <emphasis>B. mandrillaris</emphasis> are more common in immunocompromised patients. Infection typically occurs when aerosols or dust particles containing the organisms are inhaled. Since this patient traveled across multiple countries into the United States, fungi that are prevalent in those areas should also be considered <link linkend="ch0052s0002bib04">(4)</link>. <emphasis>Histoplasma</emphasis>, <emphasis>Blastomyces</emphasis>, <emphasis>Coccidioides</emphasis>, and <emphasis>Paracoccidioides</emphasis> can cause CNS disease and should be ruled out. Infection with <emphasis>Toxoplasma gondii</emphasis> should be included in the differential based on the patient’s symptoms and brain masses, possible contact with feral cats, and his consumption of wild birds while in a forest <link linkend="ch0052s0002bib05">(5)</link>. Many birds and animals are intermediate hosts for the <emphasis>T. gondii</emphasis> parasite, and infection can occur through consumption of undercooked meat from an infected host, contaminated drinking water, or ingesting oocytes shed in cat feces. Rarely, advanced syphilis infection can result in granulomatous and necrotic lesions in the brain known as “gumma <link linkend="ch0052s0002bib06">(6)</link>.” Migrant travelers are especially vulnerable to tuberculosis due to overcrowded living conditions, delayed diagnosis, and poor health literacy. Untreated <emphasis>Mycobacterium tuberculosis</emphasis> infections can become disseminated and infect the CNS, resulting in brain lesions <link linkend="ch0052s0002bib07">(7)</link>. Viral etiologies that can cause CNS disease include cytomegalovirus, varicella-zoster virus, and herpes simplex virus. Other etiologies include primary CNS lymphoma and, although rare, progressive multifocal leukoencephalopathy caused by JC virus.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  Patients living with HIV, especially those with low CD4 counts (&lt;200 cells/μl), may have multiple infections at the same time, which can impact several organ systems simultaneously, as seen in this case. The most common cause of ring-enhancing CNS lesions in persons living with HIV is toxoplasmosis caused by <emphasis>T. gondii</emphasis> <link linkend="ch0052s0002bib08">(8)</link>. According to the National Institutes of Health Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV, the definitive diagnosis of <emphasis>Toxoplasma</emphasis> encephalitis requires a compatible clinical syndrome, identification of one or more masses by radiography, and detection of the organism in a clinical sample <link linkend="ch0052s0002bib09">(9)</link>. The definitive diagnosis of cerebral toxoplasmosis may require the visualization of tachyzoites (actively replicating form of <emphasis>Toxoplasma</emphasis>) during histologic examination of a brain biopsy (<link linkend="ch0052s0001fg01">Fig. 49.1</link>). Serologic testing for <emphasis>Toxoplasma</emphasis> is widely available. Patients living with HIV who have <emphasis>Toxoplasma</emphasis> encephalitis almost always have positive anti-<emphasis>Toxoplasma</emphasis> immunoglobulin G (IgG) antibody tests <link linkend="ch0052s0002bib09">(9)</link>. Although a positive IgG indicates <emphasis>Toxoplasma</emphasis> exposure, it does not distinguish disease reactivation from latent infection. It should be noted that <emphasis>Toxoplasma</emphasis> IgM antibodies can persist for years after primary infection but are rarely seen with cerebral toxoplasmosis. A negative <emphasis>Toxoplasma</emphasis> serology, particularly in immunocompromised patients, does not exclude the diagnosis of cerebral toxoplasmosis <link linkend="ch0052s0002bib10">(10)</link>. A presumptive diagnosis can be made using either molecular or serologic tests. The detection of <emphasis>T. gondii</emphasis> by NAAT of the CSF has a specificity of 96 to 100% but a sensitivity as low as 30 to 50%, depending on the NAAT target. Although it requires a more invasive sampling technique, NAAT on brain tissue is more sensitive than NAAT on CSF.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  Infection with <emphasis>T. gondii</emphasis> most commonly occurs by ingestion of infective oocysts. An infected cat, the definitive host for <emphasis>T. gondii</emphasis> <link linkend="ch0052s0002bib11">(11)</link>, sheds unsporulated oocysts that require several days before they convert to infective oocysts. Ingestion of infective oocysts in the environment (from cat feces) or of trophozoites present in cysts in undercooked or raw meat is how primary infections typically occur. Alternatively, transplacental infection, in which a fetus acquires <emphasis>T. gondii</emphasis> during the parasitemia that occurs during the pregnant person’s primary <emphasis>Toxoplasma</emphasis> infection, can occur as well. These infections are potentially fatal, especially in the first trimester of pregnancy. Transmission of <emphasis>T. gondii</emphasis> has also been documented to occur because of organ transplantation and blood transfusions. Prevention of toxoplasmosis includes eating meat that has been properly cooked (to kill any viable cysts) and, particularly for pregnant people, only changing the litter box within 24 hours after the cat has defecated. This does not give the oocysts time to become infectious. Using gloves and hand washing when handling cat litter are important to prevent the fecal-oral spread of the oocysts. If the pregnant person is a gardener, wearing gloves while working with soil is another important preventive measure because cats may also defecate there. While the patient in this case likely had numerous exposures during his travels that could have put him at risk for toxoplasmosis, it is possible that his consumption of wild bird in a Panamanian jungle was where he acquired this infection.</para>
+        <figure id="ch0052s0001fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 49.1</emphasis></emphasis> Brain biopsy. </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0052f01.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A microscopic tissue sample showing various cells stained in shades of blue and purple, including some with prominent nuclei, indicative of cellular or pathological analysis.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  The recommended initial therapy for presumptive toxoplasmosis is a combination of pyrimethamine, sulfadiazine, and leucovorin, so the therapy administered to this patient was appropriate <link linkend="ch0052s0002bib09">(9)</link>. Pyrimethamine is an antiparasitic compound that works by penetrating the brain parenchyma and blocking the biosynthesis of purines and pyrimidines, which are essential for DNA synthesis and cell multiplication. Pyrimethamine can cause dose-related suppression of the bone marrow and leucovorin is given to reduce the toxic effects of pyrimethamine therapy. Sulfadiazine is an antiparasitic agent that works synergistically with pyrimethamine. Clinical response to therapy occurs in 90% of patients with <emphasis>T. gondii</emphasis> encephalitis within 14 days of the start of therapy. A lack of a notable response within that 14-day window may suggest therapy failure, but the reasons for therapy failure are not proven in the existing medical literature. Guidelines recommend that therapy be continued for at least 6 weeks. Longer therapy courses may be needed if no clinical and radiological improvements are seen. Once this phase of therapy is completed, patients living with HIV should be moved into a chronic maintenance therapy phase. While different combinations and doses of drugs may be used, this therapy should be maintained until the patient increases their CD4 count to &gt;200 cells/μl after antiretroviral therapy that has been sustained for at least 6 months. Maintaining therapy helps prevent infection recurrence. In some cases, an MRI might be obtained to assess the resolution of brain lesions to stop chronic maintenance therapy.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  In addition to people living with HIV disease, infants who acquire congenital toxoplasmosis may have poor outcomes. Clinically, the infected infant may have cerebral calcifications, seizure disorder, hydrocephalus, or ocular involvement. The disease may be fatal, or it may result in learning disabilities. Often, congenital toxoplasmosis can be diagnosed <emphasis>in utero</emphasis> using NAAT performed on amniotic fluid. Another group of patients at high risk for toxoplasmosis are organ transplant recipients, particularly heart and heart-lung transplant recipients. In addition to reactivation, which may occur due to immunosuppression used to prevent organ rejection, an explanation for the increased risk in this patient population is that a solid organ, such as the transplanted donor heart, may contain viable trophozoites within cysts. In transplanting the heart, a large amount of muscle mass that may be latently infected with viable trophozoites is transferred to the organ recipient. This risk in cardiac transplant patients is high enough that many centers routinely give such patients prophylactic anti-<emphasis>Toxoplasma</emphasis> therapy beginning at the time of transplant. Other patients at increased risk for reactivation resulting in toxoplasmosis are those with lymphoma and leukemia who are immunosuppressed as a result of their underlying disease, as well as cytotoxic drug therapy.</para>
+      </sect1>
+      <sect1 id="ch0052s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0052s0003l01" role="decimal">
+          <listitem id="ch0052s0003x17">
+            <para>Neurological disease and brain lesions in a traveler could be due to various infectious and noninfectious diseases including neurocysticercosis, Chagas disease, encephalitis caused by a free-living amebae, endemic fungal infection, disseminated <emphasis>M. tuberculosis</emphasis> infection, toxoplasmosis, and malignancy.</para>
+          </listitem>
+          <listitem id="ch0052s0003x18">
+            <para>The most common cause of ring-enhancing CNS lesions in patients living with HIV disease who have a CD4 count &lt;200/μl is toxoplasmosis caused by <emphasis>T. gondii</emphasis>.</para>
+          </listitem>
+          <listitem id="ch0052s0003x19">
+            <para>Infection with <emphasis>T. gondii</emphasis> most commonly occurs by ingestion of infective oocysts. This may occur when someone comes in contact with cat feces or eats undercooked meat.</para>
+          </listitem>
+          <listitem id="ch0052s0003x20">
+            <para>Other routes of infection include transplacental infection during pregnancy and transmission of the organism during organ transplantation.</para>
+          </listitem>
+          <listitem id="ch0052s0003x21">
+            <para>The definitive diagnosis of cerebral toxoplasmosis requires the visualization of tachyzoites (actively replicating form of <emphasis>Toxoplasma</emphasis>) during histologic examination of a brain biopsy.</para>
+          </listitem>
+          <listitem id="ch0052s0003x22">
+            <para>Serologic testing for <emphasis>Toxoplasma</emphasis> is widely available, and patients living with HIV disease who have <emphasis>Toxoplasma</emphasis> encephalitis almost always have positive anti-<emphasis>Toxoplasma</emphasis> IgG antibody tests.</para>
+          </listitem>
+          <listitem id="ch0052s0003x23">
+            <para>Although a positive IgG indicates <emphasis>Toxoplasma</emphasis> exposure, it does not distinguish disease reactivation from latent infection.</para>
+          </listitem>
+          <listitem id="ch0052s0003x24">
+            <para><emphasis>Toxoplasma</emphasis> IgM antibodies can persist for years after primary infection but are rarely seen with cerebral toxoplasmosis.</para>
+          </listitem>
+          <listitem id="ch0052s0003x25">
+            <para>The detection of <emphasis>T. gondii</emphasis> by NAAT of the CSF has a specificity of 96 to 100% but a sensitivity as low as 30 to 50%.</para>
+          </listitem>
+          <listitem id="ch0052s0003x26">
+            <para>The recommended initial therapy for presumptive toxoplasmosis is a combination of pyrimethamine, sulfadiazine, and leucovorin. Acute therapy may last for 6 weeks or longer.</para>
+          </listitem>
+          <listitem id="ch0052s0003x27">
+            <para>People living with HIV disease should be moved into a chronic maintenance therapy phase after acute therapy. This therapy should be maintained until the patient has an increase in their CD4 count to &gt;200 cells/μl after antiretroviral therapy that has been sustained for at least 6 months. Maintaining therapy helps prevent infection recurrence.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0052s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0052s0002bib01">Thompson H, Thakur K. 2017. Infections of the central nervous system in returning travelers and immigrants. <citetitle>Curr Infect Dis Rep</citetitle> 19:45.</bibliomixed>
+        <bibliomixed id="ch0052s0002bib02">Shelton WJ, Gonzalez JM. 2024. Outcomes of patients in Chagas disease of the central nervous system: a systematic review. <citetitle>Parasitology</citetitle> 151:15–23.</bibliomixed>
+        <bibliomixed id="ch0052s0002bib03">Martinez AJ. 1996. Chapter 81. Free-living amebas: Naegleria, Acanthamoeba and Balamuthia. In Baron S (ed), <citetitle>Medical Microbiology</citetitle>, 4th ed. University of Texas Medical Branch at Galveston, Galveston, TX. https://www. ncbi. nlm. nih. gov/books/NBK7960/.</bibliomixed>
+        <bibliomixed id="ch0052s0002bib04">Góralska K, Blaszkowska J, Dzikowiec M. 2018. Neuroinfections caused by fungi. <citetitle>Infection</citetitle> 46:443–459.</bibliomixed>
+        <bibliomixed id="ch0052s0002bib05">Virus MA, Ehrhorn EG, Lui LM, Davis PH. 2021. Neurological and neurobehavioral disorders associated with Toxoplasma gondii infection in humans. <citetitle>J Parasitol Res</citetitle> 2021:6634807.</bibliomixed>
+        <bibliomixed id="ch0052s0002bib06">Pham K, Gottesdiener L, Simon MS, Trzebucki A, Maldarelli GA, Cisse B, Lieberman J, De Haan E, Pisapia D. 2021. Meningovascular syphilis presenting as a brain mass in an immunocompetent male. Open Forum <citetitle>Infect Dis</citetitle>8: ofab 455. (Erratum, 9: ofab 635, 2022.)</bibliomixed>
+        <bibliomixed id="ch0052s0002bib07">Perez-Malagon CD, Barrera-Rodriguez R, Lopez-Gonzalez MA, Alva-Lopez LF. 2021. Diagnostic and neurological overview of brain tuberculomas: a review of literature. <citetitle>Cureus</citetitle>13: e 20133.</bibliomixed>
+        <bibliomixed id="ch0052s0002bib08">Garg RK, Paliwal V, Pandey S, Uniyal R, Agrawal KK. 2024. The etiological spectrum of multiple ring-enhancing lesions of the brain: a systematic review of published cases and case series. <citetitle>Neurol Sci</citetitle> 45:515–523.</bibliomixed>
+        <bibliomixed id="ch0052s0002bib09">National Institutes of Health. 16 September 2024. <citetitle>Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV</citetitle>. Toxoplasma gondii encephalitis. https://clinicalinfo. hiv. gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/toxoplasma-gondii. Accessed 3 August 2024.</bibliomixed>
+        <bibliomixed id="ch0052s0002bib10">Centers for Disease Control and Prevention. 22 January 2024. Clinical overview of toxoplasmosis. https://www. cdc. gov/toxoplasmosis/hcp/clinical-overview/index. html. Accessed 3 August 2024.</bibliomixed>
+        <bibliomixed id="ch0052s0002bib11">Robert-Gangneux F, Dardé ML. 2012. Epidemiology of and diagnostic strategies for toxoplasmosis. <citetitle>Clin Microbiol Rev</citetitle> 25:264–296. (Erratum, 25:583, 2012.)</bibliomixed>
+      </bibliography>
+    </chapter>

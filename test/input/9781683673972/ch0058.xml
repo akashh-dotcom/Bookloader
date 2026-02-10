@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0058" label="58">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor6">CASE 55</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0058s0004"><title>CASE 55</title><para>The patient was a 14-year-old male who presented with a 2-week history of malaise, anorexia, and fevers. He developed these symptoms soon after returning from a family vacation in India.</para>
+      <para>During that trip, the family took a bus into the Himalayan Mountains. During the bus trip, they stopped to watch a woman milking a cow. They asked if they could drink milk from the cow, and the woman complied with their request. The mother, father, and their 14-year-old son all drank the milk.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0058s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  Name several organisms that should be considered in a patient who has recently returned from India and has a 2-week history of fever without specific localizing symptoms such as cough or diarrhea. What testing should be done to determine if these organisms are causing his symptoms?</para>
+        </listitem>
+        <listitem id="ch0058s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  When it was learned that the patient had consumed unpasteurized milk, what organism on your list became much more likely?</para>
+        </listitem>
+      </itemizedlist>
+      <para>On physical examination, the patient was found to be afebrile but ill-appearing. Otherwise, his physical examination was unremarkable. A complete blood count (CBC) and basic metabolic panel were obtained, along with two blood cultures. The CBC and basic metabolic panel were within normal limits with the exception of elevated alanine aminotransferase and aspartate aminotransferase. He was given a single dose of ceftriaxone intramuscularly and was discharged home.</para>
+      <para>Approximately 36 hours later, his blood culture grew the organism seen in <link linkend="ch0058s0004fg01">Fig. 55.1</link> and <link linkend="ch0058s0004fg01">Fig. 55.2</link>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0058s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  <link linkend="ch0058s0004fg01">Figure 55.1</link> shows a Gram stain from the blood culture bottle. How would you describe this organism?</para>
+        </listitem>
+        <listitem id="ch0058s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  The organism was put into “lockdown” in a special room that only allowed entry of laboratory personnel. All further work on this organism was done in this special room in a biological safety cabinet using enhanced personal protective equipment. Why?</para>
+        </listitem>
+        <listitem id="ch0058s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  <link linkend="ch0058s0004fg01">Figure 55.3</link> shows a reaction on a urease slant 30 minutes after inoculating the slant from a colony from the plate seen in <link linkend="ch0058s0004fg01">Fig. 55.2</link>. Previously, catalase and oxidase tests were done on this organism in a biological safety cabinet in the “lockdown” room. Both were positive. Given this information in the result in <link linkend="ch0058s0004fg01">Fig. 55.3</link>, what is the organism causing this infection?</para>
+        </listitem>
+      </itemizedlist>
+      <figure id="ch0058s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 55.1</emphasis></emphasis> Blood culture Gram stain (magnification, ×1,000). </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0058f04.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A microscopic photograph showing irregularly shaped cells stained in shades of purple and pink, with some cell clusters and scattered background tissue.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0058s0004fg02"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 55.2</emphasis></emphasis> Growth on chocolate agar after 48 hours. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0058f05.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A photograph shows a brownish medium with streaks and colonies of bacterial growth on its surface.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0058s0004fg03"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 55.3</emphasis></emphasis> Urea slant after 30 minutes. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0058f03.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A photograph shows a laboratory hand wearing a blue glove holding a test tube containing a pinkish liquid, which transitions from pink at the bottom to clear at the top.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <para>The patient was asked to report to the hospital for care. On physical exam, he was afebrile with normal blood pressure and heart rate. Repeat blood cultures were obtained.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0058s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What empiric therapy should the patient receive? Explain your choice based on the pathogenesis of this organism.</para>
+        </listitem>
+        <listitem id="ch0058s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  If the patient had obtained his infection in the United States by ingesting unpasteurized milk, how might that change your therapy?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient began doxycycline and rifampin therapy. During the night he spiked a fever to 39°C, he complained of a headache, and his heart rate went from 72 to 95 beats/minute. Two nights later, he spiked a fever to 39°C, his heart rate went from 72 to 110 beats/minute, he again complained of a headache, and he had sweats that soaked the sheets. Also on the second hospital day, his admission blood culture was positive for the same organism that he was initially reported to have.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0058s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  During the day the patient did not have a fever, but at night he did have a high one. Explain why this occurred with the organism causing his infection.</para>
+        </listitem>
+      </itemizedlist>
+      <para>On the fifth hospital day the patient continued to spike a fever during the evening.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0058s0004x09" role="qus1">
+          <para><phrase><emphasis role="strong">9</emphasis></phrase>.  What change in the patient’s antimicrobial therapy did the infectious disease consultant recommend?</para>
+        </listitem>
+        <listitem id="ch0058s0004x10" role="qus2">
+          <para><phrase><emphasis role="strong">10</emphasis></phrase>.  Besides sepsis, what other complications may be caused by the organism causing his current infection?</para>
+        </listitem>
+      </itemizedlist>
+      <para>During his son’s hospitalization, the father began to complain of headache, fever, and anorexia.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0058s0004x11" role="qus2">
+          <para><phrase><emphasis role="strong">11</emphasis></phrase>.  What would be your recommendation for this parent?</para>
+        </listitem>
+        <listitem id="ch0058s0004x12" role="qus2">
+          <para><phrase><emphasis role="strong">12</emphasis></phrase>.  Where in United States might we expect to find cases of infection with this organism, and in what patient population would they be most likely to be seen?</para>
+        </listitem>
+        <listitem id="ch0058s0004x13" role="qus2">
+          <para><phrase><emphasis role="strong">13</emphasis></phrase>.  With advances in sequencing technology, several proposals to nomenclature changes for major pathogens have been proposed. In 2020, taxonomists proposed that <emphasis>Ochrobactrum</emphasis> species be reclassified to the <emphasis>Brucella</emphasis> genus based on gene-content analysis studies. Why is this change problematic for clinical microbiology laboratories and clinicians?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0058s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  Whenever a patient returns with a fever from an area where malaria is endemic, it is always important to rule out this organism. <emphasis>Plasmodium vivax</emphasis> is the predominant malarial species in India, but <emphasis>Plasmodium falciparum</emphasis> is also frequently found there <link linkend="ch0058s0002bib01">(1)</link>. Since <emphasis>P. falciparum</emphasis> is associated with significant morbidity and mortality, immediate laboratory testing for malaria, either by examination of blood smears or by rapid antigen testing, should be done (see also <ulink url="ch0062.xml#ch0062">case 59</ulink>) <link linkend="ch0058s0002bib02">(2)</link>.</para>
+        <para>Enteric fever due to <emphasis>Salmonella enterica</emphasis> serovar Typhi or Paratyphi in the United States and most high-income countries is due to importation of the pathogens by travelers from low- and middle-income countries. These pathogens are typically transmitted from person to person by ingestion of food or water contaminated with human feces. Acquisition of enteric fever occurs primarily in regions with poor sanitation. Blood cultures are positive for this organism in up to 80% of infected individuals (see <ulink url="ch0056.xml#ch0056">case 53</ulink>).</para>
+        <para>A third organism associated with prolonged fever without localizing symptoms in returning travelers is <emphasis>Brucella</emphasis>. <emphasis>Brucella</emphasis> is a zoonotic infection associated with direct contact with or consumption of unpasteurized dairy products from cattle, goats, or sheep. Both B. abortus (cattle) and <emphasis>B. melitensis</emphasis> (goats and sheep) are endemic in South Asia, including India, as well as regions in Africa, Central America, and South America. Nomadic herds of primarily small ruminants are responsible for the widespread distribution of human brucellosis in the Middle East <link linkend="ch0058s0002bib03">(3)</link>. Control of the organism is complicated by current conflicts in Syria and Yemen, where brucellosis cases in humans have been increasing. The organism can be diagnosed either by detection of <emphasis>Brucella</emphasis> antibodies or by blood cultures <link linkend="ch0058s0002bib04">(4)</link>. Public health laboratories may also have a nucleic acid amplification test (NAAT) that detects <emphasis>Brucella</emphasis> in blood samples <link linkend="ch0058s0002bib04">(4)</link>. Antibody detection is more sensitive, but because it lacks specificity, it may be more difficult to interpret. Blood cultures are less sensitive but, if positive, are diagnostic for infection.</para>
+        <para>Dengue and other arboviral infections are endemic to India, but the fever typically lasts less than 7 days, and the patients typically have a maculopapular rash<link linkend="ch0058s0002bib05">(5)</link>. Fever for 2 weeks and the absence of a rash would be an atypical presentation for this pathogen, which is why it is not on the differential for this patient. Because the patient was ill for 2 weeks, the physician may have considered doing a serologic test for dengue virus antibodies or NAAT from blood samples <link linkend="ch0058s0002bib06">(6)</link>.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  <emphasis>Brucella</emphasis> can be obtained from unpasteurized dairy products including milk, cheese, and yogurt and can infect immunocompetent individuals, causing a clinical syndrome similar to what we see with this adolescent <link linkend="ch0058s0002bib07">(7)</link>. <emphasis>Listeria</emphasis> can be obtained by the ingestion of unpasteurized milk as well, but it usually only causes bloodstream infections in immunocompromised individuals (see <ulink url="ch0046.xml#ch0046">case 43</ulink>). Diarrheal pathogens commonly associated with the ingestion of unpasteurized milk include <emphasis>Campylobacter</emphasis>, enterohemorrhagic <emphasis>Escherichia coli</emphasis>, and nontyphoidal <emphasis>Salmonella</emphasis> <link linkend="ch0058s0002bib08">(8)</link>.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  The organism is a small coccobacillus. There are a limited number of human pathogens with this Gram stain appearance. It is most likely <emphasis>Haemophilus</emphasis>, <emphasis>Brucella</emphasis>, or <emphasis>Francisella</emphasis>.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  A positive culture with a Gram stain consistent with <emphasis>Brucella</emphasis> requires special infection prevention precautions. <emphasis>Brucella</emphasis> is one of the most common causes of laboratory-acquired infections in the United States <link linkend="ch0058s0002bib09">(9)</link>. The reason is that the organism is easily aerosolized and has an extremely low infectious dose, making it easily transmitted in the laboratory setting. As a result, any procedure that may produce aerosols of the organism such as catalase testing or preparing the organism for matrix-assisted laser desorption ionization–time of flight mass spectrometry identification requires infection control measures, including handling cultures and performing all manipulations in a biological safety cabinet <link linkend="ch0058s0002bib04">(4)</link>. <emphasis>Brucella abortus</emphasis>, <emphasis>Brucella melitensis</emphasis>, and <emphasis>Brucella suis</emphasis> were removed from the select agent list in December 2024. However, two other zoonotic organisms, <emphasis>Bacillus anthracis</emphasis> and <emphasis>Francisella tularensis</emphasis>, remain select agents. A full list of select agents can be found at reference <link linkend="ch0058s0002bib10">10</link>.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  The phenotypic characteristics are consistent with <emphasis>Brucella</emphasis> species. Confirmation of the organism, including species-level identification, is done by a public health laboratory using species-specific NAAT <link linkend="ch0058s0002bib04">(4)</link>.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  <emphasis>Brucella</emphasis> species are facultative intracellular pathogens. They are taken up by macrophages or dendritic cells, whereupon the organism’s type IV secretion system mediates the formation of a <emphasis>Brucella</emphasis>-containing vacuole, or BCV <link linkend="ch0058s0002bib11">(11)</link>. The organism replicates within this structure. Progeny are released from the BCVs and can infect other macrophages/dendritic cells, especially in macrophage-rich tissues such as liver, spleen, bone marrow, and lymph nodes. Because the organism replicates within macrophages, it should be treated with antimicrobials that can penetrate into macrophages and are active against Gram-negative organisms. The standard therapy for <emphasis>Brucella</emphasis> infection is antimicrobials given orally, doxycycline and rifampin <link linkend="ch0058s0002bib12">(12)</link>. Other antimicrobials that may have been proven effective are gentamicin and trimethoprim-sulfamethoxazole. Although fluoroquinolones may also penetrate into macrophages, there currently are limited clinical data concerning the effectiveness of this class of antimicrobials in the treatment of brucellosis <link linkend="ch0058s0002bib13">(13)</link>.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  A live, attenuated <emphasis>B. abortus</emphasis> vaccine designated RB51 is used to protect dairy cows against brucellosis. The RB51 strain is resistant to rifampin. A small number of individuals who consume unpasteurized or raw milk from RB51 dairy cows have developed brucellosis. In those patients, long-term treatment (60 days) with the combination of trimethoprim-sulfamethoxazole and doxycycline should be considered <link linkend="ch0058s0002bib14">(14)</link>.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  An alternative name for brucellosis is “undulant fever” <link linkend="ch0058s0002bib12">(12)</link>. Patients will have periods of clinical well-being followed by septic episodes where they develop significant fever, headaches, tachycardia, and diaphoresis. If blood cultures are done during the septic episode, the organism may be recovered, but when the patient is asymptomatic, blood cultures are likely to be negative. This is referred to clinically as intermittent bacteremia and is characteristic of brucellosis. Why there is waxing and waning of clinical symptoms is not well understood.</para>
+        <para role="ans1"><emphasis role="strong">9.</emphasis>  Oral antimicrobials are not typically used to treat septic episodes because blood drug levels are frequently not as high as when drugs are given intravenously. Treating brucellosis with a combination of two oral antimicrobials is an unusual clinical approach in a septic patient. Because this patient was responding poorly to the standard combination of doxycycline and rifampin, gentamicin, an aminoglycoside given intravenously, could be added, usually for a period of 2 weeks <link linkend="ch0058s0002bib13">(13)</link>.</para>
+        <para role="ans1"><emphasis role="strong">10.</emphasis>  Peripheral osteoarticular complications occur in approximately 50% of patients infected with <emphasis>Brucella</emphasis> <link linkend="ch0058s0002bib15">(15)</link>. These include arthritis in the wrists, hips, knees, and ankles. Clinically, patients have joint pain, swelling, tenderness, decreased range of motion, and difficulty bearing weight. Spondylitis of the lumbar spine is an infrequent but particularly daunting complication because it is challenging to treat, requiring 3 to 6 months of treatment with a combination of antimicrobials, including 2 weeks of gentamicin with either doxycycline or trimethoprim-sulfamethoxazole in children under 4 <link linkend="ch0058s0002bib16">(16)</link>. In addition, relapse of infection may occur in as many as 30% of patients following an antimicrobial course <link linkend="ch0058s0002bib17">(17)</link>.</para>
+        <para role="ans1"><emphasis role="strong">11.</emphasis>  Given the similarities in the travel history of these two individuals, especially drinking unpasteurized milk, brucellosis needs to be ruled out. Given that the exposure was likely more than 2 weeks previously, a serologic test for <emphasis>Brucella</emphasis> antibodies would be the fastest way to confirm your clinical suspicion. <emphasis>Brucella</emphasis> antibody testing will likely need to be sent to a reference laboratory. Test results may not be available for a few days. Getting two sets of blood cultures and asking the laboratory to prolong culture incubation times to 10 days would be prudent. Molecular testing for <emphasis>Brucella</emphasis> is available through some public health laboratories <link linkend="ch0058s0002bib04">(4)</link>.</para>
+        <para role="ans1"><emphasis role="strong">12.</emphasis>  Geography is always an important consideration in the diagnosis of infrequently encountered microbes. Most cases of <emphasis>Brucella</emphasis> encountered in the United States are associated with the consumption of unpasteurized dairy products during foreign travel to the Middle East, South Asia, or Mexico. Acquiring brucellosis within the United States is unusual and is typically through the consumption of unpasteurized dairy products (see <phrase>answer to question 7</phrase>). A second common way in which people can be infected is by occupational contact with infected animals. In much of the world, especially low-income countries, this is a common way for people to be infected with <emphasis>Brucella</emphasis>. In many high-income countries, this mode of transmission is unusual because of <emphasis>Brucella</emphasis> control programs, which include vaccination and culling of infected animals and herds to prevent contact with infected animals. Large meat-packers process animals such as hogs only from <emphasis>Brucella</emphasis>-free herds <link linkend="ch0058s0002bib18">(18)</link>. Because <emphasis>Brucella</emphasis> can be easily aerosolized and can be found in bone and bone marrow in infected animals, outbreaks of <emphasis>Brucella</emphasis> can occur in processing plants by creating potentially infectious aerosols when cutting carcasses with saws. <emphasis>B. suis</emphasis> is associated with the processing of swine. More hogs are processed in North Carolina than in any other state. The process is highly mechanized, including the use of aerosol-generating bone saws. A large outbreak occurred at one North Carolina plant, with at least 30 workers becoming infected <link linkend="ch0058s0002bib19">(19)</link>. There is a significant population of feral hogs in North Carolina that have escaped from industrialized hog farms. These feral hogs may infect farm hogs, eventually leading to infected herds. The state is currently considered <emphasis>Brucella</emphasis>-free <link linkend="ch0058s0002bib20">(20)</link>. Brucellosis in feral pigs has been found in 13 states <link linkend="ch0058s0002bib04">(4)</link>.</para>
+        <para role="ans1"><emphasis role="strong">13.</emphasis>  There are many implications associated with reporting <emphasis>Orchrobactrum</emphasis> species as <emphasis>Brucella</emphasis> <link linkend="ch0058s0002bib21">(21)</link>. If the organism is not reported with a comment clarifying the difference between <emphasis>Brucella (Ochrobactrum)</emphasis> and <emphasis>Brucella</emphasis>, patients may be inappropriately treated for brucellosis. Additionally, the risk of infection may increase for medical laboratory scientists if the organism identification is poorly understood or differentiated. The requirements for handling and shipping <emphasis>Brucella</emphasis> and <emphasis>Ochrobactrum</emphasis> are significantly different, and an appropriate understanding of the identification is required to ensure these things are done appropriately.</para>
+      </sect1>
+      <sect1 id="ch0058s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0058s0003l01" role="decimal">
+          <listitem id="ch0058s0003x35">
+            <para><emphasis>Brucella</emphasis>is a fastidious, small, Gram-negative coccobacillus that is oxidase, catalase, and urease positive. It is comparatively slow-growing, requiring 2 to 4 days to form visible colonies; it does not grow on Mac Conkey agar. It has a low infectious dose and is easily aerosolized.</para>
+          </listitem>
+          <listitem id="ch0058s0003x36">
+            <para>Brucellosis is a zoonotic infection, with humans acquiring infections by consumption of unpasteurized dairy products from large or small ruminants, cattle, camels, goats, or sheep or contact with infected animal tissues or fluids (cattle, camels, goats, sheep, or hogs). Industrialized meat processing creates aerosols from infected animals, putting meat processers at risk. Processing only animals from <emphasis>Brucella</emphasis>-free herds mitigates that risk.</para>
+          </listitem>
+          <listitem id="ch0058s0003x37">
+            <para>Three species are most likely to infect humans:<emphasis>B. abortus</emphasis> obtained from cattle or camels; <emphasis>B. melitensis</emphasis> obtained from goats or sheep; and <emphasis>B. suis</emphasis> obtained from hogs. The zoonotic infections are particularly common in small ruminants and cattle in the Middle East, South Asia, and Mexico. <emphasis>Brucella</emphasis> infection should be included in the differential diagnosis of febrile patients returning from those regions/countries, especially if they have come in contact with or consumed unpasteurized dairy products, which are more common in rural areas.</para>
+          </listitem>
+          <listitem id="ch0058s0003x38">
+            <para>Brucellosis is a nonspecific febrile illness characterized by fever, chills, headache, myalgias, and malaise. Symptoms frequently wax and wane. Osteoarticular manifestations are common and variable. Less common are osteomyelitis and endocarditis. Infections may become chronic.</para>
+          </listitem>
+          <listitem id="ch0058s0003x39">
+            <para><emphasis>Brucella</emphasis> is a facultative, intracellular pathogen. A type IV secretion system mediates the formation of <emphasis>Brucella</emphasis>-containing vacuoles within macrophages and dendritic cells, where the organism replicates and releases progeny, which are then taken up by macrophages to continue the cycle.</para>
+          </listitem>
+          <listitem id="ch0058s0003x40">
+            <para>Because the organism is an intracellular pathogen, it must be treated with antimicrobials that can penetrate into macrophages. Standard therapy is with doxycycline and rifampin given orally. For patients with severe infection or complications such as arthritis, 2 weeks of gentamicin given either intramuscularly or intravenously should be added. Therapy is often prolonged, given for 6 weeks or longer, if the patient has osteoarticular or other complications or has a relapse of infection.</para>
+          </listitem>
+          <listitem id="ch0058s0003x41">
+            <para>Recently suggested nomenclature changes for <emphasis>Ochrobactrum</emphasis> to <emphasis>Brucella</emphasis> are problematic for the clinical microbiology laboratory. If the taxonomic changes are implemented, special care should be taken to provide education to clinicians and communicate the difference between <emphasis>Ochrobactrum</emphasis> and <emphasis>Brucella</emphasis> in organism reports.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0058s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0058s0002bib01">Centers for Disease Control and Prevention. 2023. Travelers’ Health: India. https://wwwnc. cdc. gov/travel/destinations/traveler/none/india. Accessed 2 November 2023.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib02">Tan K, Abanyie F. 2024. Malaria. In Centers for Disease Control and Prevention (ed). CDC Yellow Book: Health Information for International Travel. CDC, Atlanta, GA.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib03">Bagheri Nejad R, Krecek RC, Khalaf OH, Hailat N, Arenas-Gamboa AM. 2020. Brucellosis in the Middle East: current situation and a pathway forward. <citetitle>PLoS Negl Trop Dis</citetitle>14: e 0008071.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib04">Centers for Disease Control and Prevention. 2017. Brucellosis Reference Guide: Exposures, Testing, and Prevention. https://www. cdc. gov/brucellosis/media/pdfs/2025/02/brucellosi-reference-guide. pdf. Accessed 19 February 2024.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib05">Sánchez-González L, Adams L, Paz-Bailey G. 2024. Dengue. In Centers for Disease Control and Prevention (ed). CDC Yellow Book: Health Information for International Travel. CDC, Atlanta, GA.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib06">Centers for Disease Control and Prevention. 30 January 2025. Clinical testing guidance for dengue. https://www. cdc. gov/dengue/hcp/diagnosis-testing/. Accessed 13 February 2025.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib07">Franc KA, Krecek RC, Häsler BN, Arenas-Gamboa AM. 2018. Brucellosis remains a neglected disease in the developing world: a call for interdisciplinary action. <citetitle>BMC Public Health</citetitle> 18:125.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib08">Centers for Disease Control and Prevention. 31 January 2025. Raw milk. https://www. cdc. gov/food-safety/foods/raw-milk. html. Accessed 13 February 2025.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib09">Ackelsberg J, Liddicoat A, Burke T, Szymczak WA, Levi MH, Ostrowsky B, Hamula C, Patel G, Kopetz V, Saverimuttu J, Sordillo EM, D’Souza D, Mitchell EA, Lowe W, Khare R, Tang YW, Bianchi AL, Egan C, Perry MJ, Hughes S, Rakeman JL, Adams E, Kharod GA, Tiller R, Saile E, Lee S, Gonzalez E, Hoppe B, Leviton IM, Hacker S, Ni KF, Orsini RL, Jhaveri S, Mazariegos I, Dingle T, Koll B, Stoddard RA, Galloway R, Hoffmaster A, Fine A, Lee E, Dentinger C, Harrison E, Layton M. 2020. Brucella exposure risk events in 10 clinical laboratories, New York City, USA, 2015 to 2017. <citetitle>J Clin Microbiol</citetitle>58: e 01096–19.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib10">Centers for Disease Control and Prevention. 2023. Select Agents and Toxins List. https://www. selectagents. gov/sat/list. htm. Accessed 2 November 2023.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib11">Celli J. 2019. The intracellular life cycle of Brucella spp. <citetitle>Microbiol Spectr</citetitle>7:10.1128/microbiolspec. BAI-0006-2019.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib12">Harrison ER, Posada R. 2018. Brucellosis. <citetitle>Pediatr Rev</citetitle> 39:222–224.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib13">Yousefi-Nooraie R, Mortaz-Hejri S, Mehrani M, Sadeghipour P. 2012. Antibiotics for treating human brucellosis. <citetitle>Cochrane Database Syst Rev</citetitle>10: CD007179.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib14">Hatcher SM, Shih D, Holderman J, Cossaboom C, Leman R, De Bess E. 2018. Notes from the field: adverse event associated with unintentional exposure to the Brucella abortus RB51 vaccine - Oregon, December 2017.<citetitle>MMWR Morb Mortal Wkly Rep</citetitle> 67:747.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib15">Giambartolomei GH, Arriola Benitez PC, Delpino MV. 2017. Brucella and osteoarticular cell activation: partners in crime. <citetitle>Front Microbiol</citetitle> 8:256.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib16">Principi N, Esposito S. 2016. Infectious discitis and spondylodiscitis in children. <citetitle>Int J Mol Sci</citetitle> 17:539.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib17">Yagupsky P, Morata P, Colmenero JD. 2019. Laboratory diagnosis of human brucellosis. <citetitle>Clin Microbiol Rev</citetitle>33: e 00073–19.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib18">United States Department of Agriculture. 1998. <citetitle>Swine Brucellosis Control/Eradication</citetitle>. State-Federal-Industry Uniform Methods and Rules. https://www. aphis. usda. gov/animal_health/animal_dis_spec/swine/downloads/sbruumr. pdf. Accessed 2 November 2023.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib19">Trout D, Gomez TM, Bernard BP, Mueller CA, Smith CG, Hunter L, Kiefer M. 1995. Outbreak of brucellosis at a United States pork packing plant. <citetitle>J Occup Environ Med</citetitle> 37:697–703.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib20">Animal and Plant Health Inspection Service, USDA. 5 February 2025. Status of current eradication programs. https://www. aphis. usda. gov/livestock-poultry-disease/status-eradication-programs. Accessed 13 February 2025.</bibliomixed>
+        <bibliomixed id="ch0058s0002bib21">She R, Anglewicz C, Jerke K, Relich R, Glazier M, Filkins L, Schuetz A. 2023. Brucella and Ochrobactrum Taxonomic Updates for Laboratories. https://asm. org/Guideline/Brucella-and-Ochrobactrum-Taxonomic-Updates-for-La. Accessed 2 November 2023.</bibliomixed>
+      </bibliography>
+    </chapter>

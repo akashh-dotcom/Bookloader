@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0010" label="10">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor2">CASE 7</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0010s0004"><title>CASE 7</title><para>The patient was a 5-year-old male who awoke on the day before evaluation with a sore throat and fever. His mother had him stay home from kindergarten and treated him symptomatically with acetaminophen. He slept well but awoke the next day, still complaining of sore throat, fever, headache, and abdominal pain. Because the child was still ill, the mother took him to his pediatrician.</para>
+      <para>On physical examination, he was noted to have a fever of 38.4°C. His physical examination was significant for a 2+ (on a scale of 1 to 4+) red anterior pharynx, tonsillar region, and soft palate. His anterior cervical lymph nodes at the angle of the mandible were slightly enlarged and tender.</para>
+      <para>He did not have a cough, runny nose, or conjunctivitis. He was an only child, and neither parent was ill.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0010s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  His physical findings are consistent with infection with what organism? Explain.</para>
+        </listitem>
+        <listitem id="ch0010s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  The absence of cough, runny nose (rhinorrhea), or conjunctivitis makes what group of organisms less likely to be causing this child’s illness?</para>
+        </listitem>
+      </itemizedlist>
+      <para>A throat swab was obtained for a rapid antigen test for group A <emphasis>Streptococcus</emphasis> (GAS). This test’s result along with a negative control of the assay are seen in <link linkend="ch0010s0004fg01">Fig. 7.1</link>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0010s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  Why was this test done? How do you interpret the result of this test?</para>
+        </listitem>
+      </itemizedlist>
+      <figure id="ch0010s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 7.1</emphasis></emphasis> (Left) Negative control. (Right) Patient’s test strip. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0010f01.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A photograph shows two pregnancy test strips placed parallel on a white background, showing the result lines.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <para>When the rapid antigen test results were known, the patient was given a 10-day course of oral amoxicillin.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0010s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  The appropriate use of antimicrobial agents in managing pharyngitis is emphasized in clinical practice guidelines. What is antimicrobial stewardship? Why is there a particular focus on antimicrobial stewardship in children and adolescents with pharyngitis?</para>
+        </listitem>
+        <listitem id="ch0010s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  Why is antimicrobial therapy recommended for treatment of this infection? In particular, for what two noninfectious sequelae is this patient at risk? Briefly describe our current understanding of the pathogenesis of these two disease processes.</para>
+        </listitem>
+        <listitem id="ch0010s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What antimicrobial resistance problems have been observed with this organism?</para>
+        </listitem>
+      </itemizedlist>
+      <para>No skin lesions or rashes were seen in this patient.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0010s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  Why did the clinician note this?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0010s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>The Mc Isaac scoring system for diagnosing strep throat is based on five criteria: temperature &gt;38°C, no cough, tender anterior cervical lymphadenopathy, tonsillar swelling and exudates, and age 3 to 14<link linkend="ch0010s0002bib01">(1)</link>. Children less than 3 years old rarely are infected with GAS. This patient was positive for all five criteria. Patients with this score are estimated to have a risk of ~50% of having GAS pharyngitis. Although not part of the prediction rule, abdominal pain, nausea, and vomiting are frequently seen in pediatric patients with GAS pharyngitis, though only abdominal pain was seen in this patient.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  Viral agents are the primary pathogens causing pharyngitis <link linkend="ch0010s0002bib02">(2)</link>. These include rhinoviruses, coronaviruses including severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), influenza, parainfluenza, and adenovirus. Patients with viral pharyngitis typically have cough and rhinorrhea and may have conjunctivitis. This constellation of symptoms typically is self-limited. Viral pharyngitis should be treated only symptomatically with analgesics and warm saltwater gargles. In patients with his presentation, group A streptococci testing is not recommended <link linkend="ch0010s0002bib03">(3)</link>. Studies have shown that these guidelines are often not followed in children and even less frequently in adults <link linkend="ch0010s0002bib04">(4</link>–<link linkend="ch0010s0002bib05">5)</link>.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>Approximately 70% of clinical diagnoses rely on the results of diagnostic tests, including laboratory tests and imaging studies. Direct antigen detection is commonly used to diagnose GAS infections. This is accomplished by extracting the group A polysaccharide antigen from the throat swab and performing an immunoassay on the extract. The test is very rapid, taking 10 to 15 minutes, and is highly specific (&gt;95%), but when compared with culture it has a sensitivity of 80 to 90%, meaning that this test will not detect GAS in 10 to 20% of patients with GAS in their throats. The advantage of the “rapid strep test,” as it is called, is that a swab can be obtained in the office or clinic and a result can be obtained while the patient waits (i. e., a “point of care” microbiology test). For patients with a high pretest probability of disease, such as this patient, and a positive rapid GAS antigen test, antibiotics can be prescribed on the spot if that is the clinical decision that is reached. Figure 1 shows a rapid GAS antigen test as was seen in this patient.</para>
+        <para>A negative GAS antigen test may present the physician with a more complex decision. Because of concerns about post-streptococcal sequelae (see the<phrase>answer to question 5</phrase> for a further explanation), pediatricians may “back up” negative rapid GAS antigen tests with culture. There are at least four possible outcomes of a confirmatory bacterial culture. (i) It can be negative for all potential bacterial agents of pharyngitis. (ii) It can be positive for GAS with a clinical score supporting the GAS diagnosis. The physician will need to decide whether to treat or not. (iii) It can be positive for GAS but represent asymptomatic carriage. During the winter and early spring months, when GAS pharyngitis is most common, GAS carriage rates of between 10 and 20% may be present in children. Antimicrobial treatment in this group is controversial but may be done if recurrent GAS infections are being seen in other family members. (iv) It can be positive for other pharyngitis-associated bacterial agents, including groups C and G streptococci or <emphasis>Arcanobacterium haemolyticum</emphasis>. There is no evidence that these agents cause nonsuppurative post-streptococcal sequelae. Nor is there good evidence that antimicrobials will reduce the length of their disease course. Given the limited benefit, there is no evidence that culture should be used to support the treatment of pharyngitis with these organisms. Confirmatory testing is not recommended in adults because post-streptococcal sequelae are rare.</para>
+        <para>A recent innovation that may change the landscape of GAS diagnostics is point-of-care molecular testing<link linkend="ch0010s0002bib06">(6)</link>. This testing is as sensitive as culture, if not even more so, and takes less than 30 minutes, compared to 18 to 24 hours for culture. There are two distinct disadvantages, cost and an inability to distinguish between the carrier state and true infection. However, if clinical scoring systems are used with this test, the problem of detecting the carrier state is diminished. Clinical outcome studies are needed to determine if molecular testing costs can be justified based on improved clinical outcomes, especially reduction in unnecessary antimicrobial use.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  A good definition of antimicrobial stewardship is using antimicrobial agents responsibly, which includes administering the most appropriate antimicrobial at the right time using the right dose <link linkend="ch0010s0002bib07">(7)</link>. Responsible use in individuals with pharyngitis is to treat only patients who are infected with GAS with antimicrobials and not treat others <link linkend="ch0010s0002bib03">(3)</link>. In those being treated, narrow-spectrum antimicrobials should be used, preferably amoxicillin, as was used in this patient. With more than 11 million outpatient visits annually, pharyngitis is one of the most common reasons children and adolescents visit a clinical provider <link linkend="ch0010s0002bib06">(6)</link>. It is estimated that 15% of all outpatient prescriptions in children 3 to 9 years of age are for pharyngitis <link linkend="ch0010s0002bib08">(8)</link>. Only 15 to 30% of those children and adolescents are positive for GAS, warranting the use of a narrow-spectrum antimicrobial such as amoxicillin <link linkend="ch0010s0002bib06">(6)</link>. Unfortunately, 25 to 40% may receive antimicrobials inappropriately, in part because physicians do not follow practice guidelines for management of GAS pharyngitis or acquiesce to parents demanding antimicrobial prescriptions because they believe the child will get “better” sooner, allowing parents to return more quickly to pre-illness activities (<link linkend="ch0010s0002bib03">3</link>, <link linkend="ch0010s0002bib06">6</link>, <link linkend="ch0010s0002bib09">9</link>). In adults with pharyngitis, 5 to 15% are positive for GAS, with an even higher percentage receiving antimicrobials inappropriately <link linkend="ch0010s0002bib01">(1)</link>.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  There are several benefits of antibiotics in the treatment of GAS pharyngitis. Of greatest significance is that treatment prevents nonsuppurative post-streptococcal sequelae <link linkend="ch0010s0002bib02">(2)</link>. Antimicrobials have been shown to shorten the time the patient is symptomatic by 1 to 2 days. Additionally, antibiotic therapy will prevent suppurative complications of GAS, such as peritonsillar and retropharyngeal abscesses, and decrease the infectivity of the infected individual. In school-age children, this is important so that they are less likely to infect their classmates and siblings, both at-risk populations. Because suppurative and non-suppurative post-streptococcal sequelae are now rare in the industrialized world, the importance of antimicrobial therapy in GAS treatment is limited to the benefits of shortening disease course and decreasing transmissibility. This benefit must be balanced with the risks of antimicrobial therapy. These include allergic reactions, especially since this infection is treated with penicillin; changes in the microbiota that may put the patient at risk for other infections; and increasing antimicrobial resistance among respiratory pathogens such as <emphasis>Streptococcus pneumoniae</emphasis>.</para>
+        <para>The patient was at risk for two nonsuppurative post-streptococcal sequelae, rheumatic fever and glomerulonephritis. Because he received antimicrobial therapy, his risk of rheumatic fever was essentially zero. The likelihood of an untreated infected person developing either one of these complications is low in the industrialized world, but in certain populations, such as Maori and Pacific Islanders, rheumatic fever and glomerulonephritis case rates are high<link linkend="ch0010s0002bib10">(10)</link>. Nonsuppurative post-streptococcal sequelae case rates are significantly higher in crowded, economically poor tropical regions <link linkend="ch0010s0002bib11">(11)</link>. Glomerulonephritis is seen following both pharyngitis and skin infections (pyoderma or impetigo), whereas rheumatic fever typically, but not exclusively, occurs following pharyngitis.</para>
+        <para>These noninfectious post-streptococcal sequelae occur after an acute GAS infection. Rheumatic fever occurs 1 to 5 weeks after infection, while glomerulonephritis following pharyngitis occurs at 1 to 2 weeks and 3 to 6 weeks following pyoderma.</para>
+        <para>In rheumatic fever, antibodies directed against the M protein and the group A carbohydrate GlcNAc are thought to cross-react with various tissue components in the heart, including myosin, actin, laminin, and tropomyosin<link linkend="ch0010s0002bib12">(12)</link>. This reaction can result in fibrosis of heart valves and muscles and produce the carditis and heart murmurs that are manifestations of this syndrome. Diagnosis of rheumatic fever is based on clinical and laboratory findings called the Jones criteria <link linkend="ch0010s0002bib13">(13)</link>. To fulfill the rheumatic fever diagnosis criteria, the patient must have two major or one major and two minor criteria.</para>
+        <sect2 id="ch0010s0001s01" role="listhead">
+          <title>Major criteria:</title>
+          <itemizedlist id="ch0010s0001l01" mark="none" role="none">
+            <listitem id="ch0010s0001x08">
+              <para>Carditis</para>
+            </listitem>
+            <listitem id="ch0010s0001x09">
+              <para>Arthritis</para>
+            </listitem>
+            <listitem id="ch0010s0001x10">
+              <para>Chorea</para>
+            </listitem>
+            <listitem id="ch0010s0001x11">
+              <para>Erythema marginatum</para>
+            </listitem>
+            <listitem id="ch0010s0001x12">
+              <para>Subcutaneous nodules</para>
+            </listitem>
+          </itemizedlist>
+        </sect2>
+        <sect2 id="ch0010s0001s02" role="listhead">
+          <title>Minor criteria:</title>
+          <itemizedlist id="ch0010s0001l02" mark="none" role="none">
+            <listitem id="ch0010s0001x13">
+              <para>Polyarthralgia</para>
+            </listitem>
+            <listitem id="ch0010s0001x14">
+              <para>Fever ≥38.5°C</para>
+            </listitem>
+            <listitem id="ch0010s0001x15">
+              <para>Erythrocyte sedimentation rate &gt;60 mm or C-reactive protein ≥3.0 mg/dl</para>
+            </listitem>
+            <listitem id="ch0010s0001x16">
+              <para>Prolonged PR interval by echocardiogram in the absence of carditis</para>
+            </listitem>
+          </itemizedlist>
+          <para role="ans1"><emphasis role="strong">6.</emphasis>  GAS strains of M types 1, 2, 4, 12, 42, 49, and 57 are associated with generating immune complexes in glomerulonephritis <link linkend="ch0010s0002bib11">(11)</link>. These immune complexes contain antibodies and their targeted specific GAS antigens, including M protein and streptococcal pyrogenic exotoxin B. The deposition of these immune complexes in the glomerular capillaries triggers an inflammatory reaction, resulting in immune-mediated glomerular damage. Clinically, individuals, primarily children between 3 and 15 years old, present with edema, hypertension, and hematuria. This disease process is typically self-limited in children and adolescents. Adults who develop post-streptococcal glomerulonephritis are typically diabetics over 60 who tend to have more severe and prolonged renal impairment <link linkend="ch0010s0002bib11">(11)</link>. Individuals with post-streptococcal glomerulonephritis have elevated anti-streptolysin O antibody titers and decreased complement levels. Penicillins have been the treatment of choice since the recognition in 1950 that penicillin treatment of GAS pharyngitis could reduce the risk of rheumatic fever <link linkend="ch0010s0002bib14">(14)</link>. Despite the use of penicillins for more than 70 years, resistant strains have not been reported <link linkend="ch0010s0002bib15">(15)</link>. Recently, two GAS isolates genetically related with reduced susceptibility to ampicillin, amoxicillin, and cefotaxime have been reported <link linkend="ch0010s0002bib16">(16)</link>. Resistance is due to mutation in the <emphasis>pbp 2x</emphasis> gene (pbp = penicillin-binding protein). Data mining of 26,465 GAS genomes found 112 genomes with variation in <emphasis>pbp 2x</emphasis> <link linkend="ch0010s0002bib17">(17)</link>. The evolution to penicillin resistance in GAS will likely require accumulating mutations in <emphasis>pbp</emphasis> genes. The discovery of a GAS <emphasis>pbp 2x</emphasis> gene mutation that reduces penicillin susceptibility may herald the initial evolutionary steps to penicillin resistance in GAS. How long that evolutionary cycle to resistance might be is unknown. However, penicillin treatment failures of GAS pharyngitis are well described in the literature <link linkend="ch0010s0002bib18">(18)</link>. Whether that suggests that GAS strains with reduced susceptibility are more common than previously thought is unknown. For now, penicillins such as oral amoxicillin remain the drugs of choice.</para>
+          <para>For patients allergic to penicillin, clindamycin and azithromycin are recommended as alternative agents<link linkend="ch0010s0002bib18">(18)</link>. Resistance to clindamycin and azithromycin is increasing, and resistant clones have been associated with GAS disease outbreaks. It is estimated that approximately 15% of isolates in the United States are resistant to these agents <link linkend="ch0010s0002bib19">(19)</link>.</para>
+          <para>The most common mechanism that confers resistance to both clindamycin and azithromycin is the presence of the<emphasis>ermB</emphasis> gene. This gene encodes a methyltransferase that methylates the ribosomal binding site of clindamycin and azithromycin. This ribosomal binding site modification blocks the binding of those agents, rendering the organism resistant to them.</para>
+          <para>Tetracycline resistance is also seen in approximately 15% of GAS isolates, while only 1% of GAS isolates are resistant to levofloxacin<link linkend="ch0010s0002bib19">(19)</link>. However, levofloxacin is not recommended for use in children and thus has little value in treating GAS pharyngitis.</para>
+          <para role="ans1"><emphasis role="strong">7.</emphasis>  One of the forms of GAS pharyngitis is scarlet fever. Patients with scarlet fever typically have a blanching, papular, erythematous rash and “strawberry tongue” as well as pharyngitis <link linkend="ch0010s0002bib20">(20)</link>. The rash and strawberry tongue are due to an immune response to GAS superantigens, particularly streptococcal pyrogenic exotoxins A and C (SpeA and SpeC). The <emphasis>emm</emphasis> types 1, 3, 4, and 12 have all been associated with recent outbreaks of scarlet fever <link linkend="ch0010s0002bib21">(21)</link>. In the 19th and 20th centuries, scarlet fever was a feared form of strep throat with a significant mortality rate <link linkend="ch0010s0002bib21">(21)</link>. In the 21st century, mortality due to scarlet fever is rare in the industrialized world <link linkend="ch0010s0002bib21">(21)</link>. However, cases have increased in England and East Asia, specifically Vietnam, South Korea, Hong Kong, and mainland China. Outbreaks of scarlet fever may be associated with outbreaks of invasive GAS disease, especially with <emphasis>emm</emphasis> types 1 and 3.</para>
+        </sect2>
+      </sect1>
+      <sect1 id="ch0010s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0010s0003l03" role="decimal">
+          <listitem id="ch0010s0003x38">
+            <para>Pharyngitis is among the most common reasons for outpatient visits in children and adolescents.</para>
+          </listitem>
+          <listitem id="ch0010s0003x39">
+            <para>The major causes of pharyngitis are viral agents, including rhinoviruses, coronaviruses including SARS-CoV-2, influenza, parainfluenza, and adenovirus. They should be treated symptomatically.</para>
+          </listitem>
+          <listitem id="ch0010s0003x40">
+            <para>The major bacterial pathogen of pharyngitis is group A <emphasis>Streptococcus</emphasis> (GAS) (<emphasis>Streptococcus pyogenes</emphasis>). It is responsible for 15 to 30% of cases of pharyngitis in 3- to 14-year-olds and 5 to 15% in adults.</para>
+          </listitem>
+          <listitem id="ch0010s0003x41">
+            <para>The diagnosis of GAS pharyngitis should be based on the detection of the organism by antigen detection (fast, less sensitive), molecular testing (fast, highly sensitive, expensive), or culture (highly sensitive but slow). Clinical scoring systems have been developed to guide physicians on which patients should be tested for GAS.</para>
+          </listitem>
+          <listitem id="ch0010s0003x42">
+            <para>Oral amoxicillin is used to treat GAS pharyngitis. The main reason for this treatment is to prevent nonsuppurative post-streptococcal sequelae, e. g., rheumatic fever or post-streptococcal glomerulonephritis. It may also reduce symptoms modestly and prevent GAS transmission.</para>
+          </listitem>
+          <listitem id="ch0010s0003x43">
+            <para>Inappropriate use of antimicrobial therapy is common in people with pharyngitis because physicians may base their decision to use antimicrobials on clinical findings rather than laboratory detection of GAS.</para>
+          </listitem>
+          <listitem id="ch0010s0003x44">
+            <para>Penicillin resistance has not yet been reported in GAS, but recent data suggest this resistance is emerging. Treatment with clindamycin or azithromycin is recommended for GAS treatment in penicillin-allergic individuals. Approximately 15% of GAS isolates have been reported to be resistant to these drugs.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0010s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0010s0002bib01">Mustafa Z, Ghaffari M. 2020. Diagnostic methods, clinical guidelines, and antibiotic treatment for group A streptococcal pharyngitis: a narrative review. <citetitle>Front Cell Infect Microbiol</citetitle> 10:563627.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib02">Robinson JL. 2021. Paediatrics: how to manage pharyngitis in an era of increasing antimicrobial resistance. <citetitle>Drugs Context</citetitle> 10:2020-11-6.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib03">Shulman ST, Bisno AL, Clegg HW, Gerber MA, Kaplan EL, Lee G, Martin JM, Van Beneden C; Infectious Diseases Society of America. 2012. Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis: 2012 update by the Infectious Diseases Society of America. <citetitle>Clin Infect Dis</citetitle>55: e 86–102.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib04">Thompson JM, Zagel AL, Spaulding AB, Krause EA, Arms JL. 2022. Streptococcal pharyngitis: compliance with national testing guidelines in a pediatric emergency department. <citetitle>Pediatr Emerg Care</citetitle>38: e 519–e 523.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib05">Luo R, Sickler J, Vahidnia F, Lee YC, Frogner B, Thompson M. 2019. Diagnosis and management of group A streptococcal pharyngitis in the United States, 2011-2015. <citetitle>BMC Infect Dis</citetitle> 19:193.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib06">Thompson TZ, Mc Mullen AR. 2020. Group A Streptococcus testing in pediatrics: the move to point-of-care molecular testing.<citetitle>J Clin Microbiol</citetitle>58: e 01494-19.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib07">Dyar OJ, Huttner B, Schouten J, Pulcini C; ESGAP (ESCMID Study Group for Antimicrobial stewardship). 2017. What is antimicrobial stewardship? <citetitle>Clin Microbiol Infect</citetitle> 23:793–798.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib08">Lewnard JA, King LM, Fleming-Dutra KE, Link-Gelles R, Van Beneden CA. 2021. Incidence of pharyngitis, sinusitis, acute otitis media, and outpatient antibiotic prescribing preventable by vaccination against group A Streptococcus in the United States. <citetitle>Clin Infect Dis</citetitle>73: e 47–e 58.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib09">Lucas PJ, Cabral C, Hay AD, Horwood J. 2015. A systematic review of parent and clinician views and perceptions that influence prescribing decisions in relation to acute childhood infections in primary care. <citetitle>Scand J Prim Health Care</citetitle>:11–20.33</bibliomixed>
+        <bibliomixed id="ch0010s0002bib10">Taylor A, Morpeth S, Webb R, Taylor S. 2021. The utility of rapid group A Streptococcus molecular testing compared with throat culture for the diagnosis of group A streptococcal pharyngitis in a high-incidence rheumatic fever population. <citetitle>J Clin Microbiol</citetitle>59: e 0097821.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib11">Satoskar AA, Parikh SV, Nadasdy T. 2020. Epidemiology, pathogenesis, treatment and outcomes of infection-associated glomerulonephritis. <citetitle>Nat Rev Nephrol</citetitle> 16:32–50.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib12">Watkins DA, Beaton AZ, Carapetis JR, Karthikeyan G, Mayosi BM, Wyber R, Yacoub MH, Zühlke LJ. 2018. Rheumatic heart disease worldwide: JACC scientific expert panel. <citetitle>J Am Coll Cardiol</citetitle> 72:1397–1416.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib13">Gewitz MH, Baltimore RS, Tani LY, Sable CA, Shulman ST, Carapetis J, Remenyi B, Taubert KA, Bolger AF, Beerman L, Mayosi BM, Beaton A, Pandian NG, Kaplan EL; American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular Disease in the Young. 2015. Revision of the Jones Criteria for the diagnosis of acute rheumatic fever in the era of Doppler echocardiography: a scientific statement from the American Heart Association. <citetitle>Circulation</citetitle> 131:1806–1818.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib14">Denny FW, Wannamaker LW, Brink WR, Rammelkamp CH Jr, Custer EA. 1950. Prevention of rheumatic fever; treatment of the preceding streptococcic infection. <citetitle>J Am Med Assoc</citetitle> 143:151–153.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib15">Oppegaard O, Skrede S, Mylvaganam H, Kittang BR. 2020. Emerging threat of antimicrobial resistance in β-hemolytic streptococci. <citetitle>Front Microbiol</citetitle> 11:797.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib16">Vannice KS, Ricaldi J, Nanduri S, Fang FC, Lynch JB, Bryson-Cahn C, Wright T, Duchin J, Kay M, Chochua S, Van Beneden CA, Beall B. 2020. Streptococcus pyogenes pbp 2x mutation confers reduced susceptibility to β-lactam antibiotics.<citetitle>Clin Infect Dis</citetitle> 71:201–204.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib17">Beres SB, Zhu L, Pruitt L, Olsen RJ, Faili A, Kayal S, Musser JM. 2022. Integrative reverse genetic analysis identifies polymorphisms contributing to decreased antimicrobial agent susceptibility in Streptococcus pyogenes. <citetitle>mBio</citetitle>13: e 0361821.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib18">Johnson AF, La Rock CN. 2021. Antibiotic treatment, mechanisms for failure, and adjunctive therapies for infections by group A Streptococcus.<citetitle>Front Microbiol</citetitle> 12:760255.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib19">Fay K, Onukwube J, Chochua S, Schaffner W, Cieslak P, Lynfield R, Muse A, Smelser C, Harrison LH, Farley M, Petit S, Alden N, Apostal M, Snippes Vagnone P, Nanduri S, Beall B, Van Beneden CA. 2021. Patterns of antibiotic nonsusceptibility among invasive group A Streptococcus infections-United States, 2006-2017. <citetitle>Clin Infect Dis</citetitle> 73:1957–1964.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib20">Hurst JR, Brouwer S, Walker MJ, Mc Cormick JK. 2021. Streptococcal superantigens and the return of scarlet fever.<citetitle>PLoS Pathog</citetitle>17: e 1010097.</bibliomixed>
+        <bibliomixed id="ch0010s0002bib21">Lamagni T, Guy R, Chand M, Henderson KL, Chalker V, Lewis J, Saliba V, Elliot AJ, Smith GE, Rushton S, Sheridan EA, Ramsay M, Johnson AP. 2018. Resurgence of scarlet fever in England, 2014-16: a population-based surveillance study. <citetitle>Lancet Infect Dis</citetitle> 18:180–187.</bibliomixed>
+      </bibliography>
+    </chapter>

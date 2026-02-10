@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0008" label="8">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor1">CASE 5</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0008s0004"><title>CASE 5</title><para>The patient was a 26-year-old woman referred to a public health clinic due to contact tracing in a case of gonorrhea. The woman, who recently had unprotected sexual intercourse, was asymptomatic. Physical examination was normal. Pelvic examination demonstrated a white vaginal discharge but was otherwise unremarkable. A cervical swab was obtained and submitted for <emphasis>Chlamydia trachomatis</emphasis> and <emphasis>Neisseria gonorrhoeae</emphasis> testing by a nucleic acid amplification test (NAAT). Examination of a wet mount of the vaginal discharge revealed the presence of a protozoan with characteristic jerky motility. <link linkend="ch0008s0004fg01">Figure 5.1</link> shows a Giemsa stain of the organism.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0008s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  What organism did the wet preparation demonstrate? What other organism can cause vaginitis and can be detected by wet mount?</para>
+        </listitem>
+        <listitem id="ch0008s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  What other methodologies are available for detection of this organism?</para>
+        </listitem>
+        <listitem id="ch0008s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  How is infection with this organism most commonly acquired? What is the clinical presentation of women infected with this organism? Can men be infected with this organism?</para>
+        </listitem>
+        <listitem id="ch0008s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  This patient was asymptomatic when examined. She had had sexual contact with a partner who had a positive culture for <emphasis>N. gonorrhoeae</emphasis>. What would be appropriate antimicrobial therapy for this patient?</para>
+        </listitem>
+        <listitem id="ch0008s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  Even though the patient was asymptomatic and only tested positive for <emphasis>Trichomonas vaginalis</emphasis>, she was treated for <emphasis>N. gonorrhoeae</emphasis> and <emphasis>C. trachomatis</emphasis>. Was it appropriate to treat her before establishing that she was infected?</para>
+        </listitem>
+      </itemizedlist>
+      <figure id="ch0008s0004fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 5.1</emphasis></emphasis> Giemsa stain of organism. </title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0008f01.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <para>A microscopic photograph of a single parasite or protozoan cell with visible internal structures and surrounding debris.</para>
+          </textobject>
+        </mediaobject>
+      </figure>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0008s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  The patient was also offered testing for human immunodeficiency virus (HIV) infection. Why was this done?</para>
+        </listitem>
+        <listitem id="ch0008s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  Why is infection with this organism of special concern in pregnant women? Would therapy be any different if this woman were pregnant?</para>
+        </listitem>
+        <listitem id="ch0008s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  What else should be done to prevent this patient from becoming reinfected with the organism identified on the wet preparation?</para>
+        </listitem>
+      </itemizedlist>
+      <para>This patient was prescribed a 7-day regimen of metronidazole, and her partner was prescribed 2 g of metronidazole. She was advised to follow up with her primary health care provider within 3 months.</para>
+      </sect1><sect1 id="ch0008s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  The wet preparation demonstrated the trophozoites of the protozoan <emphasis>T. vaginalis</emphasis>. Examining freshly prepared wet mounts of vaginal fluid, prostatic secretions, or urine from infected patients will reveal the organism in 40 to 80% of infected individuals. <emphasis>T. vaginalis</emphasis> is an extracellular parasite that infects the epithelium of the genital tract and is spread through sexual contact. It is 7 to 23 μm in size, with a typical jerky motility. Microscopic examination for <emphasis>T. vaginalis</emphasis> is highly specific because its unique morphology makes it unlikely to be confused with any other organism that might typically be seen in genital tract secretions. However, this is not true for urine samples, which may be contaminated with the commensal gastrointestinal trichomonad <emphasis>Pentatrichomonas hominis</emphasis>. For this reason, microscopic examination of urine for <emphasis>T. vaginalis</emphasis> is not recommended due to the risk of a false positive result. Laboratories widely use wet-mount examination because it is inexpensive, rapid, easily performed, and requires relatively simple equipment (light microscope). However, because detection is based on motile live organisms, the test is best done in the clinic unless a rapid transit time to the laboratory is possible. Trichomonads die quickly, and test sensitivity decreases to 20% within 1 hour after collection <link linkend="ch0008s0002bib01">(1)</link>. To ensure greater odds of detecting the parasite, the CDC recommends that wet-mount slides be read within 10 minutes of collection <link linkend="ch0008s0002bib01">(1)</link>. Wet mounts can also be used to diagnose <emphasis>Candida</emphasis> vaginitis. In this form of vaginitis, yeast and pseudohyphae will be seen on wet mount. <emphasis>Candida</emphasis> vaginitis is frequently seen during or following antimicrobial therapy that alters the vaginal microbiota.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  There are various diagnostic testing options available for <emphasis><emphasis><emphasis><emphasis>Trichomonas</emphasis></emphasis></emphasis></emphasis> <link linkend="ch0008s0002bib01">(1)</link>. Rapid enzyme immunoassay (EIA), DNA hybridization, culture, and NAAT techniques have been developed to detect this organism in the hospital and point-of-care settings. In recent years, NAATs have replaced most other testing methods in clinical laboratories. Culture techniques are more sensitive than wet mount but are expensive and time-consuming, and their performance is impacted by antimicrobial use <link linkend="ch0008s0002bib01">(1)</link>. Due to these limitations and the need for more sensitive testing, NAAT techniques have become exceedingly useful. There are multiple moderate- to high-complexity NAATs FDA cleared for diagnosis of <emphasis>Trichomonas</emphasis>infection. Acceptable specimen types include genital swabs (e. g., vaginal, endocervical, urethral) and urine, depending on the assay. Overall, the performance of these tests is excellent, with sensitivity ranging from 88 to 100% in women and 77 to 100% in men<link linkend="ch0008s0002bib01">(1)</link>.</para>
+        <para>Multiple assays have been cleared for use at the point of care and include nucleic acid hybridization, immunochromatographic capillary-flow EIA, isothermal helicase-dependent amplification, and NAAT<link linkend="ch0008s0002bib02">(2)</link>. Some, but not all, of these tests are Clinical Laboratory Improvement Amendments (CLIA) waived <link linkend="ch0008s0002bib03">(3)</link>. CLIA-waived tests include assays that were cleared by the FDA for use outside of the hospital laboratory because they are simple to use and are associated with a low risk of error.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  <emphasis>T. vaginalis</emphasis> is typically transmitted via sexual contact. Since <emphasis>Trichomonas</emphasis> infection is not a reportable disease, the number of cases that occur annually is unknown. However, it is estimated that <emphasis><emphasis><emphasis><emphasis>T. vaginalis</emphasis></emphasis></emphasis></emphasis> is the most common nonviral sexually transmitted infection in the world, with 156 million new cases diagnosed in women each year <link linkend="ch0008s0002bib01">(1)</link>. In the United States, it is estimated that 3.1 million new infections occur. Most women and men who present with <emphasis>T. vaginalis</emphasis> infection are asymptomatic, but a malodorous vaginal discharge is often present in women with symptoms. Symptoms of itching or burning are frequently associated with this discharge. The infection can also involve the urethra, resulting in symptoms of dysuria. In men, most cases are asymptomatic, though some men have symptoms of urethral involvement, including a urethral discharge. Involvement of the prostate or seminal vesicles may occur as well. Confirming the diagnosis of <emphasis>T. vaginalis</emphasis> infection in men is difficult. Direct microscopic examination is insensitive and the EIA tests are not approved for use in specimens collected from males. The sensitivity of culture for men is low compared to that for infected women. Even NAATs may be falsely negative unless multiple specimens are tested, and only some of these tests are cleared for use in men.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  Given that the diagnosis of <emphasis>Trichomonas</emphasis> was confirmed in this patient, it was appropriate to treat her. Historically, a single dose of metronidazole (Flagyl) was recommended by the CDC and World Health Organization as primary treatment, with 400 to 500 mg twice daily of oral metronidazole or 2 g oral tinidazole as alternative treatments, but treatment guidelines have been updated in recent years based on new evidence suggesting that a 7-day oral metronidazole regimen reduces the rate of repeat infection in women by half <link linkend="ch0008s0002bib01">(1)</link>. This 7-day regimen is the preferred treatment for all women, with 2 g tinidazole as an alternative. Given that there is a paucity of clinical trial data in men, the treatment recommendation remains a single 2-g dose of metronidazole for this population. Recently, a 5-nitroimidazole drug called secnidazole <link linkend="ch0008s0002bib04">(4)</link> was FDA cleared for treating infections caused by <emphasis>T. vaginalis</emphasis>.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  Even though this patient was asymptomatic, she was at a very high risk for a coinfection with <emphasis>N. gonorrhoeae</emphasis> because that organism had been detected in her male sexual partner. This finding prompted her visit to the clinic. Her presumptive gonococcal infection was treated with an intramuscular injection of ceftriaxone. In addition, since gonococcal infections are often associated with infection by <emphasis>C. trachomatis</emphasis>, she was given oral doxycycline. In cases like this, treatment for both pathogens is often appropriate due to the risk of infection and because patients that present to a sexual health clinic may not return or may be difficult to contact for follow-up testing or treatment. Her cervical swab NAAT was subsequently positive for both <emphasis>N. gonorrhoeae</emphasis> and <emphasis>C. trachomatis</emphasis>. It is important to remember that patients can be simultaneously infected with multiple sexually transmitted infectious agents and that both <emphasis>C. trachomatis</emphasis> and <emphasis>N. gonorrhoeae</emphasis> more frequently cause asymptomatic infections in women than in men.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  Trichomoniasis is strongly associated with other sexually transmitted infections, and comprehensive evaluation and testing should be performed when a patient presents with signs and symptoms of <emphasis>T. vaginalis</emphasis> infection to ensure that appropriate treatment, contact tracing, and patient follow-up are performed.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  <emphasis>T. vaginalis</emphasis> has been associated with preterm labor, premature rupture of membranes, and low-birthweight babies <link linkend="ch0008s0002bib05">(5)</link>. The use of metronidazole during pregnancy has been controversial because this drug has been shown to be mutagenic in bacteria and carcinogenic in laboratory animals. However, recent CDC guidelines state that several meta-analyses have demonstrated that metronidazole is safe in pregnant women across all stages of pregnancy. The use of tinidazole has not been studied in pregnant women, and it should not be used.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  Determination of whether a patient has a repeat or persistent infection is key to determining next steps. Commonly, the cause of reinfection is failure to treat the existing sexual partner <link linkend="ch0008s0002bib01">(1)</link>. In cases where the cause of reinfection is likely an infected existing or new sexual partner, treatment of the partner should be prioritized. While most recurrent infections result from reinfection, <emphasis>in vitro</emphasis> resistance is possible. However, it is important to note that susceptibility testing on <emphasis><emphasis><emphasis><emphasis>T. vaginalis</emphasis></emphasis></emphasis></emphasis> isolates in the United States demonstrates low rates of resistance <link linkend="ch0008s0002bib01">(1)</link>. CDC recommends that all people who test positive for <emphasis>T. vaginalis</emphasis> be retested 3 months after treatment.</para>
+      </sect1>
+      <sect1 id="ch0008s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0008s0003l01" role="decimal">
+          <listitem id="ch0008s0003x14">
+            <para>It is estimated that <emphasis>T. vaginalis</emphasis> is the most common nonviral sexually transmitted infection in the world, with 156 million new cases diagnosed in women each year globally and 3.1 million new infections in the United States.</para>
+          </listitem>
+          <listitem id="ch0008s0003x15">
+            <para><emphasis>T. vaginalis</emphasis> is an extracellular parasite that infects the epithelium of the genital tract and is spread through sexual contact. It is 7 to 23 μm in size, with a typical jerky motility.</para>
+          </listitem>
+          <listitem id="ch0008s0003x16">
+            <para>Microscopic examination for <emphasis>T. vaginalis</emphasis> from genital tract secretions is highly specific and commonly used by laboratories because it is inexpensive, rapid, easily performed, and requires relatively simple equipment (light microscope).</para>
+          </listitem>
+          <listitem id="ch0008s0003x17">
+            <para>Trichomonads die quickly, and test sensitivity decreases to 20% within 1 hour after collection. Wet-mount slides should be read within 10 minutes of collection.</para>
+          </listitem>
+          <listitem id="ch0008s0003x18">
+            <para>Wet mounts can also be used to diagnose <emphasis>Candida</emphasis> vaginitis, which is frequently seen during or following antimicrobial therapy that alters the vaginal microbiota.</para>
+          </listitem>
+          <listitem id="ch0008s0003x19">
+            <para>Rapid EIA, DNA hybridization, culture, and NAAT techniques have been developed to detect this organism in the hospital and point-of-care settings.</para>
+          </listitem>
+          <listitem id="ch0008s0003x20">
+            <para>Most women and men who present with <emphasis>T. vaginalis</emphasis> infection are asymptomatic, but in women who have symptoms, a malodorous vaginal discharge is often present.</para>
+          </listitem>
+          <listitem id="ch0008s0003x21">
+            <para>The preferred treatment of <emphasis>T. vaginalis</emphasis> infection in women is a 7-day regimen of metronidazole, with 2 g tinidazole as an alternative. For men, the treatment recommendation remains a single 2-g dose of metronidazole. A 5-nitroimidazole drug called secnidazole was recently FDA cleared for the treatment of infections caused by <emphasis>T. vaginalis</emphasis>.</para>
+          </listitem>
+          <listitem id="ch0008s0003x22">
+            <para>Infection with <emphasis>T. vaginalis</emphasis> increases the risk of HIV acquisition.</para>
+          </listitem>
+          <listitem id="ch0008s0003x23">
+            <para><emphasis>T. vaginalis</emphasis> has been associated with preterm labor, premature rupture of membranes, and low-birthweight babies.</para>
+          </listitem>
+          <listitem id="ch0008s0003x24">
+            <para>In cases where the cause of reinfection is likely an infected existing or new sexual partner, treatment of the partner should be prioritized.</para>
+          </listitem>
+          <listitem id="ch0008s0003x25">
+            <para>Rates of metronidazole resistance among <emphasis>T. vaginalis</emphasis> isolates in the United States are low.</para>
+          </listitem>
+          <listitem id="ch0008s0003x26">
+            <para>CDC recommends that all people who test positive for <emphasis>T. vaginalis</emphasis> be retested 3 months after treatment. The earliest possible retest period using NAATs is 3 weeks after the treatment is completed.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0008s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0008s0002bib01">Kissinger PJ, Gaydos CA, Seña AC, Scott Mc Clelland R, Soper D, Secor WE, Legendre D, Workowski KA, Muzny CA. 2022. Diagnosis and management of Trichomonas vaginalis: summary of evidence reviewed for the 2021 Centers for Disease Control and Prevention Sexually Transmitted Infections Treatment Guidelines.<citetitle>Clin Infect Dis</citetitle> 74: S152–S161.</bibliomixed>
+        <bibliomixed id="ch0008s0002bib02">Gaydos CA, Klausner JD, Pai NP, Kelly H, Coltart C, Peeling RW. 2017. Rapid and point-of-care tests for the diagnosis of Trichomonas vaginalis in women and men. <citetitle>Sex Transm Infect</citetitle>93: S31–S35.</bibliomixed>
+        <bibliomixed id="ch0008s0002bib03">Centers for Disease Control and Prevention. 2021. Laboratory quality: tools and resources: waived tests. https://www. cdc. gov/lab-quality/php/waived-tests. Accessed 13 September 2023.</bibliomixed>
+        <bibliomixed id="ch0008s0002bib04">Muzny CA, Van Gerwen OT. 2022. Secnidazole for trichomoniasis in women and men. <citetitle>Sex Med Rev</citetitle> 10:255–262.</bibliomixed>
+        <bibliomixed id="ch0008s0002bib05">Van Gerwen OT, Craig-Kuhn MC, Jones AT, Schroeder JA, Deaver J, Buekens P, Kissinger PJ, Muzny CA. 2021. Trichomoniasis and adverse birth outcomes: a systematic review and meta-analysis. <citetitle>BJOG</citetitle> 128:1907–1915.</bibliomixed>
+      </bibliography>
+    </chapter>

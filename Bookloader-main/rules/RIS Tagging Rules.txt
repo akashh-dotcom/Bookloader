@@ -1,0 +1,30 @@
+Rule 1:
+    IF term appears in title or subtitle tags AND IF topic appears in granular content THEN tag
+ 
+Rule 2:
+    IF term appears in granular content >= 3 occurences AND  IF topic appears in granular content THEN tag
+
+Rule 3:
+    IF term exists in 3 consecutive paragraphs THEN IF topic appears in granular content THEN tag
+ 
+Rule 4:
+    IF >= 3 topics exist in a piece of granular content AND
+    IF term exists in granular content < 3 and >= 1 THEN tag
+ 
+Rule 5: 
+    IF >= 1 term occurences <= 3 AND
+    IF >= 3 related terms at the same MESH level are in the granular content THEN tag
+ 
+Rule 6:
+    IF term exists in a table title THEN tag the table (Same as #1 above)
+ 
+Rule 7:        
+    IF term exists in image / figure / multi-media legend THEN tag image / figure / multi-media
+ 
+Rule 8:
+    IF title = preface OR
+    IF title = acknowledgement OR 
+    IF title = dedication THEN do not tag (Same as #1 above)
+
+Rule 9:
+	IF the term and topic appear in the same sentence, but no other term or topic appears in that sentence, THEN TAG

@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0011" label="11">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor2">CASE 8</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0011s0004"><title>CASE 8</title><para>A 70-year-old male presented to the emergency department (ED) with complaint of a cough that had been worsening progressively over the prior week and a sharp, persistent, right-sided chest pain that he described as moderate to severe. He had a complex medical history that included multiple myeloma with amyloidosis, diabetes, hypertension, chronic heart failure (CHF), and hypothyroidism. His amyloidosis was being treated with daratumumab plus CyBorD (cyclophosphamide, bortezomib, and dexamethasone) and he was receiving lenalidomide chemotherapy for his multiple myeloma. He was taking torsemide at home for CHF. He denied any fevers, nausea, vomiting, abdominal pain, diarrhea, or dizziness. The patient reported that prior to the chest pain, he noticed weight gain and lower-extremity edema. On arrival to the ED, he was tachycardic to 105 beats/minute and hypoxic to 88% O<subscript>2</subscript> on room air. He had notable leg swelling and rhinorrhea. A chest radiograph was performed, and the results were less suggestive of pneumonia (unable to rule out superimposed pneumonia) but consistent with a moderate, right-sided pleural effusion and interstitial edema. Influenza and severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) nucleic acid amplification tests (NAATs) and blood cultures were ordered and sent to the lab for testing.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0011s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  Based on the patient’s medical history and presentation, what should be included in the differential?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Given the concern for a CHF exacerbation, the patient was admitted to the cardiac unit for further management. During his time there, he was diuresed with no improvement in his right-sided pleural effusion. His chest pain and shortness of breath continued to worsen. A repeat chest radiograph demonstrated a large, right-sided pleural effusion. He was admitted to the medical intensive care unit (MICU), where he was intubated and a chest tube was placed to drain fluid from the pleural effusion. Shortly after admission, the patient went into shock and required maximum doses of vasopressors. A tracheal aspirate and pleural fluid were collected and sent to the lab for evaluation. The patient’s influenza and SARS-CoV-2 NAATs and blood cultures were negative. Since the patient continued to deteriorate and infection had not fully been ruled out, empiric ceftriaxone was started.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0011s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  Other than CHF, what are some common causes of pleural effusions? What tests should be considered?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient’s pleural fluid and tracheal aspirate culture results are seen in <link linkend="ch0011s0004ta01">Table 8.1</link>. </para>
+      <table id="ch0011s0004ta01"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 8.1</emphasis></emphasis> PLEURAL FLUID AND TRACHEAL ASPIRATE CULTURE RESULTS</emphasis> </title>
+        
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <colspec colname="c3" colnum="3"/>
+          <tbody>
+            <row>
+              <entry>SPECIMEN</entry>
+              <entry>GRAM STAIN RESULT</entry>
+              <entry>CULTURE RESULT</entry>
+            </row>
+            <row>
+              <entry>Pleural fluid</entry>
+              <entry>Moderate white blood cells, many Gram-positive cocci</entry>
+              <entry>Many <emphasis>Streptococcus pneumoniae</emphasis></entry>
+            </row>
+            <row>
+              <entry>Tracheal aspirate</entry>
+              <entry>Moderate white blood cells, rare Gram-positive rods, many Gram-positive cocci</entry>
+              <entry>Many <emphasis>Streptococcus pneumoniae</emphasis>, few yeast</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0011s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  Based on the culture results, what disease did the patient have and which organism was causing his disease? What is the epidemiology of this disease?</para>
+        </listitem>
+        <listitem id="ch0011s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  Because the patient developed symptoms at home, which type of pneumonia did he have? What clinical prediction methods are used to determine whether or not to hospitalize patients who present with this type of pneumonia?</para>
+        </listitem>
+        <listitem id="ch0011s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What laboratory methods are commonly used to identify this organism in cases of pneumococcal pneumonia?</para>
+        </listitem>
+        <listitem id="ch0011s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  What about this patient made him more at risk for this infection? What other patient populations are at increased risk of acquiring this infection?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The antimicrobial susceptibility testing results from the patient’s isolate are seen in <link linkend="ch0011s0004ta02">Table 8.2</link>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0011s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  Why are penicillin and ceftriaxone reported multiple times? How should these susceptibility test results be interpreted?</para>
+        </listitem>
+      </itemizedlist>
+      <table id="ch0011s0004ta02"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 8.2</emphasis></emphasis> THE PATIENT’S S. <emphasis>PNEUMONIAE</emphasis> ANTIMICROBIAL SUSCEPTIBILITY TESTING RESULTS</emphasis> </title>
+        
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <colspec colname="c3" colnum="3"/>
+          <tbody>
+            <row>
+              <entry>ANTIBIOTIC</entry>
+              <entry>MIC</entry>
+              <entry>INTERPRETATION</entry>
+            </row>
+            <row>
+              <entry>Ceftriaxone (meningitis breakpoint)</entry>
+              <entry>1</entry>
+              <entry>Intermediate</entry>
+            </row>
+            <row>
+              <entry>Ceftriaxone (non-meningitis breakpoint)</entry>
+              <entry>1</entry>
+              <entry>Susceptible</entry>
+            </row>
+            <row>
+              <entry>Clindamycin</entry>
+              <entry/>
+              <entry>Resistant</entry>
+            </row>
+            <row>
+              <entry>Erythromycin</entry>
+              <entry/>
+              <entry>Resistant</entry>
+            </row>
+            <row>
+              <entry>Penicillin (oral breakpoint)</entry>
+              <entry>0.094</entry>
+              <entry>Intermediate</entry>
+            </row>
+            <row>
+              <entry>Penicillin (intravenous meningitis breakpoint)</entry>
+              <entry>0.094</entry>
+              <entry>Resistant</entry>
+            </row>
+            <row>
+              <entry>Penicillin (intravenous non-meningitis breakpoint)</entry>
+              <entry>0.094</entry>
+              <entry>Susceptible</entry>
+            </row>
+            <row>
+              <entry>Trimethoprim-sulfamethoxazole</entry>
+              <entry/>
+              <entry>Susceptible</entry>
+            </row>
+            <row>
+              <entry>Vancomycin</entry>
+              <entry/>
+              <entry>Susceptible</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para>Despite various interventions and antibiotic treatment, the patient’s shock progressed, and he was transferred to comfort care. He passed away shortly after comfort care was initiated.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0011s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  According to the antimicrobial susceptibility testing results, the organism was susceptible to ceftriaxone, which was the antibiotic the patient was being treated with. Why do you think his disease progressed despite this treatment?</para>
+        </listitem>
+      </itemizedlist>
+      </sect1><sect1 id="ch0011s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  The patient’s presentation is most consistent with a CHF exacerbation <link linkend="ch0011s0002bib01">(1)</link>. Acute exacerbations of CHF may present with shortness of breath, cough, lower-extremity edema, and tachycardia. Given the patient’s complex medical history, complications of cardiac amyloidosis are also possible. Pulmonary embolism should be considered, since many of the patient’s symptoms are concerning for this, particularly shortness of breath, chest pain, and coughing. Finally, pneumonia should be considered in the differential given the patient’s immunocompromised state and respiratory symptoms.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  A pleural effusion occurs when fluid builds up in the spaces between the pleural layers surrounding the lungs. There are various causes of pleural effusions, including malignancy, infection, CHF, and chronic inflammatory diseases <link linkend="ch0011s0002bib02">(2)</link>. Importantly, lobar pneumonia may appear diffuse in chest radiographs and may be difficult to differentiate from a pleural effusion. In cases where infection is the cause, pleural cavity infection is typically secondary to pulmonary infection, and pleural effusion occurs in 15 to 44% of patients admitted to the hospital with pneumonia <link linkend="ch0011s0002bib03">(3)</link>. Common bacterial causes of pleural effusions include <emphasis>Staphylococcus aureus</emphasis>, viridans group streptococci, and <emphasis>Streptococcus pneumoniae</emphasis> <link linkend="ch0011s0002bib04">(4)</link>. Notably, recent data suggest that many pleural space infections are polymicrobial rather than monomicrobial. In immunocompromised patients, fungal and mycobacterial infections should also be considered <link linkend="ch0011s0002bib05">(5)</link>. Diagnosing the cause of a pleural effusion in immunocompromised patients, particularly those with cancer, can be exceptionally difficult since pulmonary complications of their disease may mimic pleural cavity infection <link linkend="ch0011s0002bib06">(6)</link>.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  The predominance of <emphasis>S. pneumoniae</emphasis> in two respiratory cultures, as well as the presence of white blood cells with the organism in the Gram stain in conjunction with clinical signs and symptoms, suggests that this patient had pneumonia caused by <emphasis>S. pneumoniae</emphasis> (pneumococcal pneumonia). It is likely that the pleural effusion was secondary to this patient’s bacterial pneumonia. Pneumococcal pneumonia is the most common presentation of invasive pneumococcal disease in adults, and results in more than 150,000 hospitalizations in the United States annually <link linkend="ch0011s0002bib07">(7)</link>. Of the patients who are hospitalized with pneumococcal pneumonia, 5 to 7% will die.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  Because this patient was at home at the time of disease onset, he would be considered to have community-acquired pneumonia (CAP). Current Infectious Diseases Society of America (IDSA) and American Thoracic Society (ATS) guidelines provide clinical criteria that can be used to determine if a patient has severe CAP. The validated definition includes either one major criterion or three or more minor criteria. The minor criteria include respiratory rate ≥30 breaths/minute, PaO<subscript>2</subscript>/FiO<subscript>2</subscript> ratio ≤250, multilobar infiltrates, confusion/disorientation, uremia (blood urea nitrogen level ≥20 mg/dl), leukopenia (white blood cell count &lt;4,000 cells/μl), thrombocytopenia (platelet count &lt;100,000/μl), hypothermia (core temperature &lt;36°C), or hypotension requiring aggressive fluid resuscitation. The major criteria include septic shock with need for vasopressors and respiratory failure requiring mechanical ventilation. This patient’s rapid progression to septic shock and ventilation classifies his disease as severe CAP.</para>
+        <para>Two clinical prediction models are widely used to determine if patients with CAP should be admitted to the hospital. There are several reasons for using metrics to determine if hospitalization of patients with CAP is necessary: they get better faster at home; they are not exposed to nosocomial risks, including infections; and it is more cost-efficient. These two models allow for a rational approach to this process. The pneumonia severity index (PSI) is a rigorously studied prediction rule developed in 1999 that stratifies patients into risk groups for short-term mortality based on 20 demographic and clinical variables routinely available at presentation<link linkend="ch0011s0002bib12">(12)</link>. The second system is CRB-65, a modification of CURB-65 <link linkend="ch0011s0002bib13">(13)</link>. CRB-65 is simple to use, as it has four criteria that can be easily determined: C, the presence or absence of confusion; R, respiratory rate of &gt;30 per minute; B, low systolic (≤90 mm Hg) or diastolic (≤60 mm Hg) blood pressure; and age &gt;65 years. Patients are ranked on a scale of 0 to 4; those with a score of 3 or 4 are judged to have severe disease, with frequent admission to the intensive care unit and 30-day mortality of &gt;40%. Current IDSA/ATS CAP guidelines recommend the use of PSI over CURB-65, given its ability to identify larger proportions of patients as low risk and its higher discriminative power in predicting mortality.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  Four approaches are widely used to determine if a patient is infected with this organism: respiratory specimen examination, blood culture, multiplex molecular testing for pneumonia, and pneumococcal urinary antigen detection (see <ulink url="ch0045.xml#ch0045">case 42</ulink>). Sputum is the most common specimen type in adults who are not mechanically ventilated. In this case, pleural fluid was collected to assess for various etiologies, including infectious, and was convenient since the patient had a chest tube in place and pleural fluid was actively draining. Tracheal aspirate or mini-bronchoalveolar lavage (BAL) specimens may be the only feasible specimen in patients who are intubated or cannot produce sputum (e. g., children), but their clinical utility is controversial and special care should be taken when interpreting results<link linkend="ch0011s0002bib08">(8)</link>. Bacteria rapidly colonize the tracheal tube after it is placed, and the presence of a colonizing organism with pathogenic potential (e. g.,<emphasis>S. pneumoniae</emphasis>) does not necessarily imply it is the causative agent of infection <link linkend="ch0011s0002bib09">(9)</link>. Culture results from all respiratory specimens, but particularly tracheal aspirates, should be considered in the context of the patient’s clinical presentation, Gram stain results, organism predominance in culture, and molecular testing results.</para>
+        <para>The organism isolated from this patient’s pleural fluid and tracheal aspirate was a catalase-negative, Gram-positive diplococcus (<link linkend="ch0011s0001fg01">Fig. 8.1</link>). It was alpha-hemolytic on sheep blood agar (<link linkend="ch0011s0001fg01">Fig. 8.2</link>) and was susceptible to the copper-containing compound optochin (ethylhydrocupreine hydrochloride). These phenotypic characteristics are consistent with <emphasis>S. pneumoniae</emphasis>. Matrix-assisted laser desorption ionization–time of flight mass spectrometry (MALDI-TOF MS) is also frequently used to identify <emphasis>S. pneumoniae</emphasis> from culture <link linkend="ch0011s0002bib10">(10)</link>. Pneumococcal pneumonia can often be diagnosed by its characteristic Gram stain, in which a stained respiratory sample demonstrates many polymorphonuclear cells and the presence of many lancet-shaped, Gram-positive diplococci. However, it requires a high-quality specimen, which is defined as one where there are ≥25 neutrophils and &lt;10 squamous epithelial cells per low-power field. In patients with high-quality specimens who have not received antimicrobials prior to specimen collection and have characteristic Gram-positive diplococci, Gram stain has a sensitivity of 80%. However, in the clinical setting, it is common to receive poor-quality specimens that are unable to be analyzed. Poor-quality specimens typically have high numbers of squamous epithelial cells because of contamination of the specimen with oropharyngeal secretions. Oropharyngeal secretions contain high numbers of squamous epithelial cells. Because the pneumococcus can be part of the resident microbiota of the oropharynx, the finding of this organism in a poor-quality sputum specimen cannot be reliably associated with the diagnosis of pneumococcal pneumonia. Such a finding may be a false positive.</para>
+        <figure id="ch0011s0001fg01"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 8.1</emphasis></emphasis> Gram stain showing Gram-positive diplococci (magnification, ×1,000). </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0011f03.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>A microscopic view of cells with pink-stained nuclei and black deformities, likely a cytological or infectious smear.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <figure id="ch0011s0001fg02"><title><emphasis role="figureLabel color1"><emphasis role="strong">Figure 8.2</emphasis></emphasis> Organism growth on a blood agar plate. </title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0011f02.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+            <textobject>
+              <para>An illustration showing colonies of bacteria on a yellowish-brown medium, with two labeled sample areas marked d and XO.</para>
+            </textobject>
+          </mediaobject>
+        </figure>
+        <para>Approximately one-third of patients with pneumococcal pneumonia will have a positive blood culture. However, recent IDSA/ATS guidelines do not recommend collecting blood cultures in patients with CAP unless they are hospitalized, classified as a severe case of CAP, or being empirically treated for drug-resistant organisms<link linkend="ch0011s0002bib11">(11)</link>. In this case, the patient’s blood culture bottles never became positive. Urinary antigen testing has been used for years to diagnose invasive pneumococcal disease, but randomized trials have failed to demonstrate the benefit in patients with CAP, and there are concerns that using a positive urinary antigen test result to narrow therapy may lead to treatment failure or relapse. Given this, current guidelines do not recommend the use of <emphasis>S. pneumoniae</emphasis> urinary antigen testing in patients with pneumonia.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  Many different patient populations are at increased risk for invasive pneumococcal disease—pneumonia, bacteremia, and meningitis <link linkend="ch0011s0002bib14">(14)</link>. Patient populations in whom rates of pneumococcal invasive disease are increased include people living with advanced HIV; patients who are anatomically or functionally asplenic (including patients with sickle cell disease); patients with cardiovascular, liver, or kidney diseases; individuals with diabetes or malignancies; and individuals who are receiving immunosuppressive agents because of connective tissue disease or organ transplantation. This patient was at an increased risk of invasive pneumococcal disease due to his age, CHF, and ongoing chemotherapy to treat his multiple myeloma.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  In the 1970s, breakpoints for <emphasis>S. pneumoniae</emphasis> and penicillin were based on the need to ensure that pneumococcal meningitis would be adequately treated. Over time, penicillin MICs began to increase and were interpreted as intermediate or resistant using these breakpoints. This led to clinicians opting for broader and more expensive therapies than penicillin for the treatment of <emphasis>S. pneumoniae</emphasis> infections. Studies of patients with pneumococcal pneumonia demonstrated that treatment with penicillin often worked, despite organisms often having MICs that were considered resistant using the meningitis breakpoints. These findings supported the notion that meningitis and non-meningitis breakpoints were needed for penicillin (and the cephalosporins) <link linkend="ch0011s0002bib15">(15)</link>. The difference in breakpoints is largely due to dosing and concentration differences; penicillin penetrates poorly into the cerebrospinal fluid but reaches much higher concentrations in body fluids outside the central nervous system (CNS). As is seen in the example of this patient’s susceptibility test results, the penicillin MIC for an isolate may be susceptible outside of the CNS but resistant using meningitis breakpoints. In this case, it would be appropriate to use intravenous penicillin or ceftriaxone since this patient’s <emphasis>S. pneumoniae</emphasis> MICs are susceptible using non-meningitis breakpoints for those drugs.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  Shortly after this patient was admitted to the MICU, he developed shock and was treated with maximum levels of vasopressors. Shock is a life-threatening condition that results in failure of the circulatory system and often multiorgan failure <link linkend="ch0011s0002bib16">(16)</link>. Sepsis is a common complication of severe CAP, and sepsis is the most significant risk factor associated with mortality in CAP caused by <emphasis>S. pneumoniae</emphasis> <link linkend="ch0011s0002bib17">(17)</link>. Given that this patient ended up having pneumonia, this was likely septic shock. Regardless of antibiotic therapy, once a patient develops shock, there may be little that can be done to reverse or stop damage. It is possible that this patient had pneumonia for several days before he presented to the ED, and even then, his symptoms and radiographs in the context of this complex medical history complicated and delayed his diagnosis and antibiotic therapy.</para>
+      </sect1>
+      <sect1 id="ch0011s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0011s0003l01" role="decimal">
+          <listitem id="ch0011s0003x26">
+            <para>There are various causative etiologies of pleural effusions, including infection, malignancy, and chronic heart failure. In cases where a pleural effusion is due to infection, it is often a secondary complication of pneumonia and associated with more severe disease.</para>
+          </listitem>
+          <listitem id="ch0011s0003x27">
+            <para>Pneumococcal pneumonia is caused by infection with <emphasis>S. pneumoniae</emphasis>. It is the most common presentation of invasive pneumococcal disease in adults and results in more than 150,000 hospitalizations in the United States annually. The mortality rate among hospitalized patients with pneumococcal pneumonia is 5 to 7%.</para>
+          </listitem>
+          <listitem id="ch0011s0003x28">
+            <para>Culture is the most common method used to diagnose pneumococcal pneumonia. Respiratory specimen Gram stain results from a patient with signs and symptoms of pneumonia may be diagnostic if they contain Gram-positive diplococci with white blood cells.</para>
+          </listitem>
+          <listitem id="ch0011s0003x29">
+            <para>Diagnosing pneumococcal pneumonia from a Gram stain requires a high-quality specimen, which is defined as one where there are ≥25 neutrophils and &lt;10 squamous epithelial cells per low-power field.</para>
+          </listitem>
+          <listitem id="ch0011s0003x30">
+            <para>CAP is defined as a respiratory infection that developed while a patient was at home. The severity of CAP varies and can be determined using clinical diagnostic guideline criteria.</para>
+          </listitem>
+          <listitem id="ch0011s0003x31">
+            <para>Current CAP guidelines recommend blood culture testing only in patients with severe CAP who are hospitalized or who are being empirically treated for drug-resistant organisms.<emphasis>S. pneumoniae</emphasis> antigen testing is not recommended in patients with CAP.</para>
+          </listitem>
+          <listitem id="ch0011s0003x32">
+            <para>Two clinical prediction models are widely used to determine if patients with CAP should be admitted to the hospital: the CURB/CRB-65 score and PSI prediction tool. These tools use demographic and clinical information to assess mortality risk. Current guidelines recommend the use of PSI over CURB-65.</para>
+          </listitem>
+          <listitem id="ch0011s0003x33">
+            <para>Patient populations at the highest risk of pneumococcal pneumonia include people living with advanced HIV; patients who are anatomically or functionally asplenic; patients with cardiovascular, liver, or kidney diseases; individuals with diabetes or malignancies; and individuals who are receiving immunosuppressive agents.</para>
+          </listitem>
+          <listitem id="ch0011s0003x34">
+            <para>Antimicrobial susceptibility testing for <emphasis>S. pneumoniae</emphasis> includes meningitis and non-meningitis breakpoints for penicillin and cephalosporins. The difference in breakpoints is largely due to dosing and concentration differences; penicillin penetrates poorly into the cerebrospinal fluid but reaches much higher concentrations in body fluids outside the central nervous system.</para>
+          </listitem>
+          <listitem id="ch0011s0003x35">
+            <para>Sepsis is a common complication of severe CAP, and sepsis is the most significant risk factor associated with mortality in CAP caused by <emphasis>S. pneumoniae</emphasis>.</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0011s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0011s0002bib01">Malik A, Brito D, Vaqar S, Chhabra L. 2023. Congestive heart failure. In <citetitle>Stat Pearls [Internet]</citetitle>. Stat Pearls Publishing, Treasure Island, FL. https://www. ncbi. nlm. nih. gov/books/NBK430873/</bibliomixed>
+        <bibliomixed id="ch0011s0002bib02">Krishna R, Antoine MH, Rudrappa M. 2024. Pleural effusion. <citetitle>In Stat Pearls [Internet]</citetitle>. Stat Pearls Publishing, Treasure Island, FL. https://www. ncbi. nlm. nih. gov/books/NBK448189/</bibliomixed>
+        <bibliomixed id="ch0011s0002bib03">Yang W, Zhang B, Zhang ZM. 2017. Infectious pleural effusion status and treatment progress. <citetitle>J Thorac Dis</citetitle> 9:4690–4699.</bibliomixed>
+        <bibliomixed id="ch0011s0002bib04">Elsheikh A, Bhatnagar M, Rahman NM. 2023. Diagnosis and management of pleural infection. <citetitle>Breathe (Sheff)</citetitle> 19:230146.</bibliomixed>
+        <bibliomixed id="ch0011s0002bib05">Fortuzi K, Khanal S, Schmidt P, Bhatt T, Khaja M. 2023. Unusual Aspergillus pleural effusion in a patient with immunodeficiency. <citetitle>Cureus</citetitle>15: e 46308.</bibliomixed>
+        <bibliomixed id="ch0011s0002bib06">Naidu Y, Alqsous N, Mehta N, Lyons J. 2016. Recurrent pleural effusions in an immunocompromised patient: looks infectious, acts infectious, but not really an infection. <citetitle>Chest</citetitle> 150:583A.</bibliomixed>
+        <bibliomixed id="ch0011s0002bib07">National Foundation for Infectious Diseases. October 2023. Pneumococcal disease. https://www. nfid. org/infectious-disease/pneumococcal/. Accessed 6 July 2024.</bibliomixed>
+        <bibliomixed id="ch0011s0002bib08">Prinzi AM, Wattier RL, Curtis DJ, Ziniel SI, Fitzgerald A, Pearce K, Parker SK. 2022. Impact of organism reporting from endotracheal aspirate cultures on antimicrobial prescribing practices in mechanically ventilated pediatric patients. <citetitle>J Clin Microbiol</citetitle>60: e 0093022.</bibliomixed>
+        <bibliomixed id="ch0011s0002bib09">Albin OR, Pogue JM, Petty LA, Kaye KS. 2021. Asymptomatic bacterisputia: rethinking diagnostic stewardship in pneumonia. <citetitle>Infect Control Hosp Epidemiol</citetitle> 42:737–739.</bibliomixed>
+        <bibliomixed id="ch0011s0002bib10">Marín M, Cercenado E, Sánchez-Carrillo C, Ruiz A, Gómez González Á, Rodríguez-Sánchez B, Bouza E. 2017. Accurate differentiation of Streptococcus pneumoniae from other species within the Streptococcus mitis group by peak analysis using MALDI-TOF MS. <citetitle>Front Microbiol</citetitle> 8:698.</bibliomixed>
+        <bibliomixed id="ch0011s0002bib11">Metlay JP, Waterer GW, Long AC, Anzueto A, Brozek J, Crothers K, Cooley LA, Dean NC, Fine MJ, Flanders SA, Griffin MR, Metersky ML, Musher DM, Restrepo MI, Whitney CG. 2019. Diagnosis and treatment of adults with community-acquired pneumonia. An official clinical practice guideline of the American Thoracic Society and Infectious Diseases Society of America. <citetitle>Am J Respir Crit Care Med</citetitle>200: e 45–e 67.</bibliomixed>
+        <bibliomixed id="ch0011s0002bib12">Aujesky D, Fine MJ. 2008. The pneumonia severity index: a decade after the initial derivation and validation. <citetitle>Clin Infect Dis</citetitle>47(Suppl 3): S133–S139.</bibliomixed>
+        <bibliomixed id="ch0011s0002bib13">Dwyer R, Hedlund J, Henriques-Normark B, Kalin M. 2014. <citetitle>Improvement of CRB-65 as a prognostic tool in adult patients with community-acquired pneumonia</citetitle>. BMJ Open Respir Res 1: e 000038.</bibliomixed>
+        <bibliomixed id="ch0011s0002bib14">Torres A, Blasi F, Dartois N, Akova M. 2015. Which individuals are at increased risk of pneumococcal disease and why? Impact of COPD, asthma, smoking, diabetes, and/or chronic heart disease on community-acquired pneumonia and invasive pneumococcal disease. <citetitle>Thorax</citetitle> 70:984–989.</bibliomixed>
+        <bibliomixed id="ch0011s0002bib15">Weinstein MP, Klugman KP, Jones RN. 2009. Rationale for revised penicillin susceptibility breakpoints versus Streptococcus pneumoniae: coping with antimicrobial susceptibility in an era of resistance. <citetitle>Clin Infect Dis</citetitle> 48:1596–1600.</bibliomixed>
+        <bibliomixed id="ch0011s0002bib16">Haseer Koya H, Paul M. 2023. Shock. [Updated 2023 Jul 24]. <citetitle>In Stat Pearls [Internet]</citetitle>. Stat Pearls Publishing, Treasure Island, FL. https://www. ncbi. nlm. nih. gov/books/NBK531492/</bibliomixed>
+        <bibliomixed id="ch0011s0002bib17">Darkwah S, Kotey FCN, Ahenkorah J, Adutwum-Ofosu KK, Donkor ES. 2024. Sepsis-related lung injury and the complication of extrapulmonary pneumococcal pneumonia. <citetitle>Diseases</citetitle> 12:72.</bibliomixed>
+      </bibliography>
+    </chapter>

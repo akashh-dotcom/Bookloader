@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="RISBackend" default="all" basedir=".">
+<target name="init">
+	<property name="RISBackend.version" value="1.0"/>
+	<property name="RISBackend.classpath" value="./lib/jdom.jar:./lib/jdbc/Opta2000.jar:./lib/jakarta/commons-lang-2.0.jar:./lib/jakarta/commons-collections-3.1.jar:./lib/jakarta/commons-pool-1.2.jar:./lib/jakarta/commons-dbcp-1.2.1.jar:./lib/jakarta/commons-httpclient-2.0.2.jar:./lib/saxon/saxon.jar:./lib/log4j.jar:./lib/xalan/xalan.jar:./lib/xerces/xercesImpl.jar:./lib/xerces/xml-apis.jar:./lib/textml/textmlserver.jar:./lib/textml/textmlserverrmi.jar:./lib/textml/textmlserverrmiInterfaces.jar:./lib/textml/textmlserverrmiStub.jar:./lib/DoctypeChanger.jar:./lib/concurrent.jar:./lib/junit.jar"/>
+</target>
+
+<target name="compile" depends="init">    
+    <mkdir dir="./build/classes"/>
+	<javac srcdir="./src"
+           release="8"
+           excludes="com/rittenhouse/RIS/test/**"
+           destdir="./build/classes"
+           classpath="${RISBackend.classpath}"
+           fork="yes"
+	    />
+  </target>
+  
+  <target name="jar" depends="init,compile">
+    <mkdir dir="./build/jar"/>
+    <mkdir dir="./build/jar/META-INF"/>
+    <copy todir="./build/jar">
+    	<fileset dir="./build/classes"/>
+    </copy>
+    <zip zipfile="./build/RISBackend.zip" basedir="./build/jar" />
+    <copy file="./build/RISBackend.zip" tofile="./build/RISBackend.jar" />
+  	<delete file="./build/RISBackend.zip" />
+  	<delete dir="./build/classes" />
+  	<delete dir="./build/jar" />
+  </target>
+
+<target name="doc" depends="init">
+    <mkdir dir="./build/doc"/>
+    <javadoc packagenames="com.rittenhouse.*"
+             sourcepath="./src"
+             classpath="${RISBackend.classpath}"
+             destdir="./build/doc/"
+             author="true"
+             version="true"
+             use="true"
+             windowtitle="RIS Backend API Reference"
+             doctitle="RIS Backend API Reference"
+             bottom="(c) Copyright Arcstream Solutions 2004"
+    />
+  </target>
+
+  <target name="Preparedist" depends="init" description="Creates the distribution">
+  	<mkdir dir="./build/dist"/>
+     	<mkdir dir="./build/dist/bin"/>
+     	<mkdir dir="./build/dist/lib"/>
+     	<mkdir dir="./build/dist/doc"/>     	
+     	
+     	<copy file="./build/RISBackend.jar" tofile="./build/dist/bin/RISBackend.jar"/>
+     	<copy todir="./build/dist/lib">
+          <fileset dir="./lib"/>
+     	</copy>     	
+     	<copy todir="./build/dist/doc">
+          <fileset dir="./build/doc"/>
+     	</copy>     	
+     	
+  </target>
+
+ <target name="dist" depends="init,Preparedist">
+    <zip zipfile="./build/RISBackend.zip" basedir="./build/dist" includes="**"/>
+  </target>
+
+  <target name="clean">
+    <delete dir="./build"/>
+  </target>
+  
+  <target name="all" depends="compile,jar" />
+</project>

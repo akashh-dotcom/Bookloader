@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0054" label="54">
+      <title><emphasis role="chapterTitle">
+          <emphasis role="seccolor6">CASE 51</emphasis>
+        </emphasis>
+      </title>
+      <sect1 id="ch0054s0004"><title>CASE 51</title><para>The patient was a male in his mid-50s presenting to the emergency department (ED) following a syncopal event, including rapid heart rate, light-headedness, and “blacking out” for a few seconds, when standing up from sitting. In the ED, his physical exam was as follows: blood pressure, 128/94 mm Hg; heart rate, 117 beats/minute; temperature, 99.1°F; respiratory rate, 16 breaths per minute; and SpO<subscript>2</subscript>, 99%. His review of symptoms was notable for shortness of breath and some light-headedness. He was otherwise well-appearing, ambulating, and showed no apparent neurologic deficits. The patient endorsed significant daily alcohol use, including the day leading up to the syncopal event, and regular cocaine use.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0054s0004x01" role="qus1">
+          <para><phrase><emphasis role="strong">1</emphasis></phrase>.  How should this syncopal event be categorized, and what testing should be performed?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient's symptoms were thought to most likely represent orthostatic syncope related to poor oral intake and alcohol consumption, followed by cardiac syncope. Neurogenic syncope was thought to be low likelihood after evaluation in the ED. A chest radiograph was performed with no abnormalities noted, but a chest computed tomography (CT) scan commented on a thick-appearing mitral valve (MV) anterior leaflet with irregular margins. No murmur was noted, a transthoracic echocardiogram (TTE) was obtained, and two sets of blood cultures were drawn.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0054s0004x02" role="qus1">
+          <para><phrase><emphasis role="strong">2</emphasis></phrase>.  Why were blood cultures drawn, what is a blood culture set, and what is the optimal volume for drawing blood cultures?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Further history was obtained from the patient. He recalled being short of breath over the prior couple of weeks, having a similar syncopal episode about 1 week prior, and having intermittent subjective fevers. The TTE showed a mobile component on the MV, with a differential including papillary fibroelastoma, organized or calcified vegetation, or thrombus. Subsequently transesophageal echocardiography (TEE) was performed that showed a 1.5- by 0.75-cm mobile vegetation on the anterior leaflet of the MV and MV regurgitation. He was classified as having probable infective endocarditis by the Duke criteria and started on vancomycin and ceftriaxone.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0054s0004x03" role="qus1">
+          <para><phrase><emphasis role="strong">3</emphasis></phrase>.  What are the Duke criteria for infective endocarditis, and what criteria are met in this patient?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The original blood cultures were finalized as negative on day 4, and subsequent blood cultures were negative to date.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0054s0004x04" role="qus1">
+          <para><phrase><emphasis role="strong">4</emphasis></phrase>.  How long should routine blood cultures be held? Under what circumstances should blood culture incubation be extended?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient was considered to have blood culture-negative endocarditis (BCNE).</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0054s0004x05" role="qus1">
+          <para><phrase><emphasis role="strong">5</emphasis></phrase>.  What are the most common causes of BCNE, and what noninvasive testing options are available for BCNE workup?</para>
+        </listitem>
+      </itemizedlist>
+      <para>The patient's microbiologic workup for BCNE included the tests and results shown in <link linkend="ch0054s0004ta01">Table 51.1</link>.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0054s0004x06" role="qus1">
+          <para><phrase><emphasis role="strong">6</emphasis></phrase>.  How should these results be interpreted?</para>
+        </listitem>
+        <listitem id="ch0054s0004x07" role="qus1">
+          <para><phrase><emphasis role="strong">7</emphasis></phrase>.  Which <emphasis>Bartonella</emphasis> species are associated with human infection, and what are the risk factors for each?</para>
+        </listitem>
+      </itemizedlist>
+      <table id="ch0054s0004ta01"><title><emphasis role="strong"><emphasis role="figureLabel color1"><emphasis role="strong">TABLE 51.1</emphasis></emphasis> RESULTS OF MICROBIOLOGIC WORKUP</emphasis> </title>
+        
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1"/>
+          <colspec colname="c2" colnum="2"/>
+          <tbody>
+            <row>
+              <entry>TEST</entry>
+              <entry>RESULT</entry>
+            </row>
+            <row>
+              <entry><emphasis>Bartonella henselae</emphasis>, IgG</entry>
+              <entry>Positive, titer 1:1,024</entry>
+            </row>
+            <row>
+              <entry><emphasis>Bartonella henselae</emphasis>, IgM</entry>
+              <entry>Negative, titer &lt;1:16</entry>
+            </row>
+            <row>
+              <entry><emphasis>Bartonella quintana</emphasis>, IgG</entry>
+              <entry>Negative, titer &lt;1:64</entry>
+            </row>
+            <row>
+              <entry><emphasis>Bartonella quintana</emphasis>, IgM</entry>
+              <entry>Negative, titer &lt;1:16</entry>
+            </row>
+            <row>
+              <entry><emphasis>Bartonella</emphasis> species NAAT, blood</entry>
+              <entry>Detected</entry>
+            </row>
+            <row>
+              <entry><emphasis>Brucella</emphasis> species, IgG</entry>
+              <entry>Positive, 1.66<phrase>*</phrase></entry>
+            </row>
+            <row>
+              <entry><emphasis>Brucella</emphasis> species, IgM</entry>
+              <entry>Positive, 1.29<phrase><superscript>*</superscript></phrase></entry>
+            </row>
+            <row>
+              <entry><emphasis>Brucella</emphasis> species, agglutination</entry>
+              <entry>Negative, titer &lt;1:80</entry>
+            </row>
+            <row>
+              <entry><emphasis>Chlamydia pneumoniae</emphasis>, IgG</entry>
+              <entry>Negative, titer &lt;1:64</entry>
+            </row>
+            <row>
+              <entry><emphasis>Chlamydia pneumoniae</emphasis>, IgM</entry>
+              <entry>Negative, titer &lt;1:20</entry>
+            </row>
+            <row>
+              <entry><emphasis>Chlamydia psittaci</emphasis>, IgG</entry>
+              <entry>Positive, titer 1:64</entry>
+            </row>
+            <row>
+              <entry><emphasis>Chlamydia psittaci</emphasis>, IgM</entry>
+              <entry>Negative, titer &lt;1:20</entry>
+            </row>
+            <row>
+              <entry><emphasis>Chlamydia trachomatis</emphasis>, IgG</entry>
+              <entry>Positive, titer 1:64</entry>
+            </row>
+            <row>
+              <entry><emphasis>Chlamydia trachomatis</emphasis>, IgM</entry>
+              <entry>Negative, titer &lt;1:20</entry>
+            </row>
+            <row>
+              <entry><emphasis>Coxiella burnetii</emphasis> phase I, IgG</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry><emphasis>Coxiella burnetii</emphasis> phase II, IgG</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry><emphasis>Legionella pneumophila</emphasis>, IgG/IgM/IgA</entry>
+              <entry>Negative</entry>
+            </row>
+            <row>
+              <entry><emphasis>Tropheryma whipplei</emphasis> NAAT, blood</entry>
+              <entry>Negative</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para role="table-footnote"><superscript>*</superscript>Reference range for index values: &lt;0.8 antibody not detected, 0.8–1.09 equivocal, ≥1.10 antibody detected</para>
+      <para>The home where the patient was currently living has many cats, and he recalled being regularly scratched or bitten. His antimicrobial management was switched to doxycycline and gentamicin. One week later, the patient had surgery to replace his MV with a bioprosthetic valve.</para>
+      <itemizedlist mark="none" role="notesList">
+        <listitem id="ch0054s0004x08" role="qus1">
+          <para><phrase><emphasis role="strong">8</emphasis></phrase>.  What are the additional diagnostic options for BCNE when the suspected infected valve is removed?</para>
+        </listitem>
+      </itemizedlist>
+      <para>Even with a well-established diagnosis of <emphasis>Bartonella henselae</emphasis> infective endocarditis (IE) prior to surgery, a portion of the explanted MV was sent for a <emphasis>Bartonella</emphasis> nucleic acid amplification test (NAAT), which expectedly resulted positive for <emphasis>Bartonella</emphasis> species. The patient completed 2 weeks of gentamicin and 6 weeks of doxycycline.</para>
+      </sect1><sect1 id="ch0054s0001">
+        <title><emphasis role="color1">CASE DISCUSSION</emphasis>
+        </title>
+        <para role="ans1"><emphasis role="strong">1.</emphasis>  Syncope is a transient loss of consciousness due to limited blood flow to the brain and can be classified as cardiac, neurally mediated, or orthostatic hypotension. A number of scoring systems or clinical decision pathways have been studied <link linkend="ch0054s0002bib01">(1)</link>. Important to the classification and risk stratification is a detailed history of the events leading up to the loss of consciousness and routine testing that can include basic labs, electrocardiogram and echocardiography, carotid sinus massage, and head-up tilt test. Notably, multiple professional societies recommend against brain imaging in patients with simple syncope without neurologic symptoms.</para>
+        <para role="ans1"><emphasis role="strong">2.</emphasis>  The abnormal-appearing MV introduced the possibility of IE. Blood cultures are the most important component of the diagnostic workup for IE for recovery of the pathogen and providing an organism for antimicrobial susceptibility testing <link linkend="ch0054s0002bib02">(2)</link>. An adult blood culture set consists of one aerobic and one anaerobic blood culture bottle. It is recommended that at least two sets of blood cultures, four total bottles, be drawn simultaneously from two distinct sites <link linkend="ch0054s0002bib03">(3)</link>. This increases the yield of culture, but also provides a comparator set of cultures to help rule out contamination. There are data to support that three sets of two bottles, or two sets of three bottles (two aerobic and one anaerobic bottle per set), are optimal for pathogen detection <link linkend="ch0054s0002bib04">(4)</link>. For optimal pathogen recovery, blood cultures should be drawn prior to the initiation of antibiotics and properly filled. Administration of antibiotics prior to drawing can rapidly reduce pathogen detection as much as 50%. Each bottle should also be filled with 8 to 10 ml of blood <link linkend="ch0054s0002bib05">(5)</link>. Underfilling bottles reduces the sensitivity of blood cultures by 3% per milliliter <link linkend="ch0054s0002bib06">(6)</link>.</para>
+        <para role="ans1"><emphasis role="strong">3.</emphasis>  In 1994, the Duke criteria for the diagnosis of IE were established, with modifications introduced in 2000. The most recent update occurred in 2023 with the release of the International Society for Cardiovascular Infectious Diseases (ISCVID) Working Group publication of the 2023 Duke-ISCVID IE Criteria <link linkend="ch0054s0002bib07">(7)</link>. Using a combination of major and minor pathologic and clinical criteria, patients can be classified as having definite, possible, or rejected IE. This patient met one major criterion, echocardiography showing vegetation, and two minor criteria, fever and vascular phenomena by physical examination, qualifying as possible IE.</para>
+        <para role="ans1"><emphasis role="strong">4.</emphasis>  Routine blood cultures are incubated for 5 days before finalizing. However, recent data show that 4 days of incubation is sufficient for modern blood culture systems, with 99% of clinically relevant organisms growing within this time period and only presumed blood culture contaminants being detected in the remaining 24 hours <link linkend="ch0054s0002bib08">(8)</link>. This includes the HACEK group of organisms (<emphasis>Haemophilus, Aggregatibacter</emphasis>, <emphasis>Cardiobacterium</emphasis>, <emphasis>Eikenella</emphasis>, and <emphasis>Kingella</emphasis>), which were previously considered to need extended incubation but shown to also be recovered in the 4-day period. The only bacterium able to be grown in routine blood cultures that needs extended incubation is <emphasis>Cutibacterium acnes</emphasis>, requiring 10 to 14 days of incubation <link linkend="ch0054s0002bib09">(9)</link>. <emphasis>C. acnes</emphasis> as a cause of IE is primarily a risk in patients with prosthetic valves.</para>
+        <para role="ans1"><emphasis role="strong">5.</emphasis>  The most common cause of BCNE is administration of antimicrobials prior to drawing of the blood cultures. This antecedent therapy can rapidly kill the bacteria present in the blood, rendering them nonviable and the cultures negative. <emphasis>Coxiella burnetii</emphasis> and <emphasis>Bartonella</emphasis> species account for the majority of cases of “true” BCNE, pathogens that do not grow in routine blood cultures, estimated to account for over half of the cases <link linkend="ch0054s0002bib10">(10)</link>. Additional rare causes of BCNE include <emphasis>Tropheryma whipplei</emphasis>, <emphasis>Brucella</emphasis> species, <emphasis>Legionella</emphasis> species, <emphasis>Mycoplasma hominis</emphasis>, <emphasis>Chlamydia</emphasis> species, fungi, and mycobacteria. Serology is a major component of the noninvasive workup for BCNE, available for <emphasis>Coxiella</emphasis>, <emphasis>Bartonella</emphasis>, <emphasis>Brucella</emphasis>, <emphasis>Legionella</emphasis>, <emphasis>Mycoplasma</emphasis>, and <emphasis>Chlamydia</emphasis> <link linkend="ch0054s0002bib11">(11)</link>. The utility of serologic diagnosis for <emphasis>Coxiella</emphasis> and <emphasis>Bartonella</emphasis> is well established, with <emphasis>C. burnetii</emphasis> phase I and <emphasis>Bartonella</emphasis> species immunoglobulin G (IgG) titer ≥1:800 constituting a major Duke criterion. Serology is useful in evaluating for <emphasis>Brucella</emphasis>in patients with known risk factors (e. g., consuming unpasteurized dairy products, eating undercooked game meats, hunting and slaughtering animals, and vocations such as abattoir, veterinarian, animal breeder, and laboratory worker)<link linkend="ch0054s0002bib12">(12)</link>. Use of serology for rare causes of BCNE, such as <emphasis>Legionella</emphasis>, <emphasis>Mycoplasma</emphasis>, and <emphasis>Chlamydia</emphasis>, is controversial. The serology assays can be cross-reactive (e. g.,<emphasis>Chlamydia</emphasis> serology with <emphasis>Bartonella</emphasis>) or have high rates of false positivity, leading to low positive predictive values <link linkend="ch0054s0002bib13">(13)</link>. Molecular detection from whole blood and/or plasma is also possible for <emphasis>Coxiella</emphasis>, <emphasis>Bartonella</emphasis>, and <emphasis>T. whipplei</emphasis>. While helpful and fulfilling major Duke criteria when positive, the sensitivity of these assays from blood is low and they should not be used as rule-out tests when clinical suspicion is high. For IE caused by fungi and mycobacteria, specialized blood cultures are available that can improve recovery for these organisms as compared to routine blood cultures.</para>
+        <para role="ans1"><emphasis role="strong">6.</emphasis>  The <emphasis>B. henselae</emphasis> IgG is significantly elevated and would be diagnostic on its own. With the addition of molecular detection of <emphasis>Bartonella</emphasis> from blood, this is a clear diagnosis of <emphasis>B. henselae</emphasis> IE. The <emphasis>Brucella</emphasis> enzyme immunoassays used for automated screening for IgG and IgM are known to produce false positives <link linkend="ch0054s0002bib14">(14)</link>. The CDC recommends confirmation by a <emphasis>Brucella</emphasis>-specific agglutination method, particularly in patients with low risk of <emphasis>Brucella</emphasis> exposure <link linkend="ch0054s0002bib15">(15)</link>. The observed combination of results was interpreted as a false positive. Cross-reactivity has been described for <emphasis>Chlamydia</emphasis> serology for patients with <emphasis>Bartonella</emphasis> infections <link linkend="ch0054s0002bib13">(13)</link>. The low-titer <emphasis>Chlamydia trachomatis</emphasis> IgG was interpreted as insignificant.</para>
+        <para role="ans1"><emphasis role="strong">7.</emphasis>  Among the many <emphasis>Bartonella</emphasis> species, three are associated with human infection: B. henselae, <emphasis>B. quintana</emphasis>, and <emphasis>B. bacilliformis</emphasis>. <emphasis>B. henselae</emphasis> causes cat scratch disease, and infection is associated with contact with cats. <emphasis>B. quintana</emphasis> causes trench fever and is transmitted to humans by the human body louse. Modern outbreaks are most often found in the unstably housed. <emphasis>B. bacilliformis</emphasis> is the cause of Carrion's disease, transmitted by sand flies in South America.</para>
+        <para role="ans1"><emphasis role="strong">8.</emphasis>  With the availability of valvular tissue, additional diagnostics include histopathology, culture, and molecular methods <link linkend="ch0054s0002bib11">(11)</link>. The benefits of histopathology include evaluation for vegetation; description of the inflammatory response, which can be characteristic depending on the infecting organism; and visualization of organisms, for which special stains can be ordered to refine the identification. In the case of BCNE, culture of the valve rarely provides additional diagnostic information, unless an organism can be obtained for antimicrobial susceptibility testing. Culturing valvular tissue in cases of BCNE can introduce a contaminating organism during the collection or culture process that may confound the diagnostic picture. In cases of BCNE where antecedent workup has not provided a diagnosis, molecular methods are also useful. The organism-specific NAATs discussed previously in testing from blood can also be applied to tissue. The sensitivity for these organisms is significantly better from tissue than from blood. Broad-range sequencing can be useful in detecting bacteria, fungi, and mycobacteria from valve tissue, where universal primers amplify a targeted conserved region in the genome (e. g., 16S rRNA gene for bacteria), followed by sequencing of the fragment to determine the identity<link linkend="ch0054s0002bib16">(16)</link>.</para>
+      </sect1>
+      <sect1 id="ch0054s0003">
+        <title><emphasis role="color1">KEY LEARNING POINTS</emphasis>
+        </title>
+        <orderedlist id="ch0054s0003l01" role="decimal">
+          <listitem id="ch0054s0003x25">
+            <para>The 2023 Duke-ISCVID IE criteria consist of major and minor criteria used to establish the diagnosis of IE.</para>
+          </listitem>
+          <listitem id="ch0054s0003x26">
+            <para><emphasis>Bartonella</emphasis> and <emphasis>Coxiella</emphasis> are the leading causes of BCNE.</para>
+          </listitem>
+          <listitem id="ch0054s0003x27">
+            <para><emphasis>B. henselae</emphasis> is transmitted to humans by the scratch or bite of a cat/kitten.</para>
+          </listitem>
+          <listitem id="ch0054s0003x28">
+            <para>Properly collected blood cultures should consist at least of two sets, each consisting of one aerobic and one anaerobic bottle, drawn prior to antibiotic administration and filled with 8 to 10 ml of blood each.</para>
+          </listitem>
+          <listitem id="ch0054s0003x29">
+            <para>Four-day incubation of blood cultures is adequate for detection of most pathogens. Extended incubation, 10 to 14 days, improves the recovery of <emphasis>C. acnes</emphasis>.</para>
+          </listitem>
+          <listitem id="ch0054s0003x30">
+            <para>Microbiologic workup for BCNE can consist of noninvasive testing (serology and targeted molecular testing from blood) and testing on invasively collected samples (histopathology, culture, targeted molecular testing, and broad-range PCR).</para>
+          </listitem>
+        </orderedlist>
+      </sect1>
+      <bibliography id="ch0054s0002bib">
+        <title><emphasis role="color1">REFERENCES</emphasis>
+        </title>
+        <bibliomixed id="ch0054s0002bib01">American Academy of Family Physicians. 2017. e Table A. Major clinical decision rules for syncope. https://www. aafp. org/pubs/afp/issues/2017/0301/p 303/jcr: content/root/aafp-article-primary-content-container/aafp_article_main_par/aafp_tables_content 2. enlarge. html. Accessed 10 April 2024.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib02">Liesman RM, Pritt BS, Maleszewski JJ, Patel R. 2017. Laboratory diagnosis of infective endocarditis. <citetitle>J Clin Microbiol</citetitle> 55:2599–2608.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib03">Tibbetts RJ, Harrington AT. 2023. Preanalytical considerations and laboratory processing of samples for blood culture, p 5.2.1–5.2.11. In Leber AL, Burnham CAD (ed), <citetitle>Clinical Microbiology Procedures Handbook</citetitle>, 5th ed. ASM Press, Washington, DC.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib04">Patel R, Vetter EA, Harmsen WS, Schleck CD, Fadel HJ, Cockerill FR III. 2011. Optimized pathogen detection with 30- compared to 20-milliliter blood culture draws. <citetitle>J Clin Microbiol</citetitle> 49:4047–4051.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib05">Rand KH, Beal SG, Rivera K, Allen B, Payton T, Lipori GP. 2019. Hourly effect of pretreatment with IV antibiotics on blood culture positivity rate in emergency department patients. <citetitle>Open Forum Infect Dis</citetitle>6: ofz 179.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib06">Mermel LA, Maki DG. 1993. Detection of bacteremia in adults: consequences of culturing an inadequate volume of blood. <citetitle>Ann Intern Med</citetitle> 119:270–272.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib07">Fowler VG, Durack DT, Selton-Suty C, Athan E, Bayer AS, Chamis AL, Dahl A, Di Bernardo L, Durante-Mangoni E, Duval X, Fortes CQ, Fosbøl E, Hannan MM, Hasse B, Hoen B, Karchmer AW, Mestres CA, Petti CA, Pizzi MN, Preston SD, Roque A, Vandenesch F, van der Meer JTM, van der Vaart TW, Miro JM. 2023. The 2023 Duke–International Society for Cardiovascular Infectious Diseases Criteria for Infective Endocarditis: updating the modified Duke Criteria.<citetitle>Clin Infect Dis</citetitle> 77:518–526.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib08"> Ransom EM, Alipour Z, Wallace MA, Burnham CA. 2021. Evaluation of optimal blood culture incubation time to maximize clinically relevant results from a contemporary blood culture instrument and media system. <citetitle>J Clin Microbiol</citetitle>59: e 02459-20.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib09">Fida M, Dylla BL, Sohail MR, Pritt BS, Schuetz AN, Patel R. 2019. Role of prolonged blood culture incubation in infective endocarditis diagnosis. <citetitle>Eur J Clin Microbiol Infect Dis</citetitle> 38:197–198.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib10">Mc Hugh J, Saleh OA. 2023. Updates in culture-negative endocarditis.<citetitle>Pathogens</citetitle> 12:1027.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib11">Liesman RM, Pritt BS, Maleszewski JJ, Patel R. 2017. Laboratory diagnosis of infective endocarditis. <citetitle>J Clin Microbiol</citetitle> 55:2599–2608.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib12">Centers for Disease Control and Prevention. 2024. About brucellosis. https://www. cdc. gov/brucellosis/about/. Accessed 17 September 2024.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib13">Maurin M, Eb F, Etienne J, Raoult D. 1997. Serological cross-reactions between Bartonella and Chlamydia species: implications for diagnosis. <citetitle>J Clin Microbiol</citetitle> 35:2283–2287.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib14">Binnicker MJ, Theel ES, Larsen SM, Patel R. 2012. A high percentage of serum samples that test reactive by enzyme immunoassay for anti-Brucella antibodies are not confirmed by the standard tube agglutination test. <citetitle>Clin Vaccine Immunol</citetitle> 19:1332–1334.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib15">Centers for Disease Control and Prevention. 2008. Public health consequences of a false-positive laboratory test result for Brucella—Florida, Georgia, and Michigan, 2005. <citetitle>MMWR Morb Mortal Wkly Rep</citetitle> 57:603–605.</bibliomixed>
+        <bibliomixed id="ch0054s0002bib16">Harris KA, Yam T, Jalili S, Williams OM, Alshafi K, Gouliouris T, Munthali P, Ni Riain U, Hartley JC. 2014. Service evaluation to establish the sensitivity, specificity and additional value of broad-range 16S rDNA PCR for the diagnosis of infective endocarditis from resected endocardial material in patients from eight UK and Ireland hospitals.<citetitle>Eur J Clin Microbiol Infect Dis</citetitle> 33:2061–2066.</bibliomixed>
+      </bibliography>
+    </chapter>
